@@ -17,7 +17,9 @@ import urllib.request, urllib.error, urllib.parse
 #import urllib2
 from bs4 import BeautifulSoup
 import requests
-
+import numpy as np
+from sklearn.cluster import KMeans
+from sklearn.cluster import MiniBatchKMeans
 # import cv2 as cv
 
 
@@ -374,19 +376,48 @@ def getTitles(collected_links):
     return dft
 
 
-def bag_of_word(df_text):
+def cluster(df_text):
     text = df_text['title']
+    # Build dictionary
     diction = []
     for t in text:
+        t = str(t)
         words = t.split()
         for w in words:
-            w = w.replace('\"', "").replace(",", "")
+            w = w.replace('\"', "").replace(",", "").replace("Log", "").replace('Log', "").replace("Django", "").replace("site", "")
+            if w is 'Log':
+                continue
             if len(w) > 2:
-                diction.append(w)
-
-
-
-    return diction
+                if w not in diction:
+                    diction.append(w)
+    n_dict = len(diction)
+    n_entries = len(text)
+    # count presence of dictionary words:
+    #where i is the ith link entry in df
+    histograms = []
+    for t in text:
+        t = str(t)
+        h = np.zeros(len(diction))
+        words = t.split()
+        print("----------------")
+        for w in words:
+            w = w.replace('\"', "").replace(",", "").replace("Log", "").replace('Log', "").replace("Django", "").replace("site", "")
+            if len(w) > 2:
+                i = diction.index(w)
+                print(i)
+                h[i] += 1 
+        # normalize histogram for this entry:
+        h_sum = np.sum(h)
+        print(h_sum)
+        h = np.true_divide(h, h_sum)
+        histograms.append(h)
+    # kmeans clustering, K is # of groups
+    K = 50
+    #print("HISTS:")
+    #print(histograms)
+    kmeans = MiniBatchKMeans(n_clusters = K).fit(histograms)
+    centroids = kmeans.cluster_centers_
+    return centroids, diction
     
     
 
@@ -440,8 +471,26 @@ if __name__ == "__main__":
     '''
     #####Phase 3, Bag of words ML model:
     df_text = pd.read_csv("ethio_covid_text.csv") 
-    print(len(df_text['title']))
-    #bag_of_word(df_text)
+    # print(len(df_text['title']))
+    centers, diction = cluster(df_text)
+    # print(centers)
+    top_num = 150
+    #ith element of centroid_descrip describes that centroid in 7 strings
+    centroid_descrip = []
+    # print("dictionary size")
+    # print(len(diction))
+    for c in centers:
+        descrip = []
+        # print("hist")
+        # print(c)
+        for num in range(top_num):
+            n_best = np.argmax(c, axis=0)
+            descrip.append(diction[n_best])
+            c[n_best] = c[n_best] * -1
+        centroid_descrip.append(descrip)
+    
+    print(centroid_descrip)
+
     #print(df_text.head(100))
     #m = df['']
     # bag of words
