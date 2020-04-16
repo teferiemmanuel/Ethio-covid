@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "d0657568-334d-4e94-93ed-c307962950f2",
+        "type": "message",
+        "text": "*<!here>*\u00a0Demo-day for Sprint #2 NOW!!!!!\u00a0:sunglasses:\u00a0--&gt; meeting link:\u00a0<https://mit.zoom.us/j/9235867808>",
+        "user": "UV6JHDP0S",
+        "ts": "1586307550.099400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1tM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0Demo-day for Sprint #2 NOW!!!!!\u00a0"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0--> meeting link:\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://mit.zoom.us/j/9235867808"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL",
+                    "U0109ELFV4Y",
+                    "U0107JEKN0N"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585543900.076700",
+        "user": "U0110FZV9LP",
+        "text": "<@U0110FZV9LP> has joined the channel",
+        "inviter": "U010MHWSRPH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585580058.076900",
+        "user": "U010N2S4RUJ",
+        "text": "<@U010N2S4RUJ> has joined the channel",
+        "inviter": "U010MHWSRPH"
+    },
+    {
+        "client_msg_id": "5a1638a5-0078-4e41-8404-acc67ff35521",
+        "type": "message",
+        "text": "<@UV8B0679P> can you rethink a little bit about this problem. The challenge is we wouldnt want someone creating unverified quarantine centers. And I propose the `telegram-bot`  will be used the general public. And respective quarantine centers can update their current capacity on the dashboard.",
+        "user": "U010X5LSV53",
+        "ts": "1585595055.079300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010X5LSV53",
+            "ts": "1585595200.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you rethink a little bit about this problem. The challenge is we wouldnt want someone creating unverified quarantine centers. And I propose the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "telegram-bot",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  will be used the general public. And respective quarantine centers can update their current capacity on the dashboard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

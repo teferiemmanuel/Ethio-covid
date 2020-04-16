@@ -1,0 +1,828 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1584849241.076100",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has renamed the channel from \"language-assistance\" to \"language-translate\"",
+        "old_name": "language-assistance",
+        "name": "language-translate"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584849255.076200",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> set the channel purpose: Translation requests and progress tracking.",
+        "purpose": "Translation requests and progress tracking."
+    },
+    {
+        "client_msg_id": "a1ab3fc0-51dd-4758-b338-8ff6def5ce3b",
+        "type": "message",
+        "text": "<@U010HDMR4H3> <@U0105UGHFUK> Welcome",
+        "user": "U010B22ESES",
+        "ts": "1584872146.077500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MwiQt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010HDMR4H3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105UGHFUK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Welcome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584872146.077500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584898399.083000",
+        "reply_users": [
+            "U0105UGHFUK"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584872179.077700",
+        "user": "U0105UGHFUK",
+        "text": "<@U0105UGHFUK> has joined the channel",
+        "inviter": "U010B22ESES"
+    },
+    {
+        "client_msg_id": "f2869f73-bc36-45d8-8681-3a1148120803",
+        "type": "message",
+        "text": "Here are the links for translations",
+        "user": "U010B22ESES",
+        "ts": "1584872246.078400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hY/ps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are the links for translations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f4e95cb-d232-4dfc-b88c-a30538d79af4",
+        "type": "message",
+        "text": "<https://bit.ly/ethio-covid-translations>",
+        "user": "U010B22ESES",
+        "ts": "1584872250.078600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "Ethiopia COVID-19 Response | Language Team",
+                "title_link": "https://bit.ly/ethio-covid-translations",
+                "text": "Translating Team [Add your name here!] 10 Most Common Languages in Ethiopia Oromo,Amharic,Somali,Tigrigna,Sidamo,Gurage,Wulayta,Afar,Hadiya,Gamotho,Haderigna Translator 1,@Mahader Mahader Tamene,[Volunteer Needed, Add your full name and slack @ here]@,[Volunteer Needed, Add your full name and sl...",
+                "fallback": "Google Docs: Ethiopia COVID-19 Response | Language Team",
+                "image_url": "https://lh6.googleusercontent.com/JzV929hgOmdDNmwPnWI-vJ8TL2wvkCKJKZFGOiNucrsiXgTsy5L3ot8ZI7SzURP4JjJ4TWW4pA",
+                "image_width": 177,
+                "image_height": 250,
+                "from_url": "https://bit.ly/ethio-covid-translations",
+                "image_bytes": 202792,
+                "service_icon": "http://ssl.gstatic.com/docs/spreadsheets/favicon3.ico",
+                "id": 1,
+                "original_url": "https://bit.ly/ethio-covid-translations"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FporZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://bit.ly/ethio-covid-translations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584872250.078600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584900427.084000",
+        "reply_users": [
+            "U0106M26108"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "unicorn_face",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dancer::skin-tone-4",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b957034d-8c4a-4f9a-b514-a93f9e9513f1",
+        "type": "message",
+        "text": "<https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=408112147>",
+        "user": "U010B22ESES",
+        "ts": "1584872259.078900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EVA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=408112147"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c640108-6894-4205-8c24-a8a87bb66f48",
+        "type": "message",
+        "text": "<@U010HDMR4H3> <@U0105UGHFUK> <@U010HE2B43X> <@U010HCY46N4>",
+        "user": "U010B22ESES",
+        "ts": "1584897191.080100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ms=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010HDMR4H3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105UGHFUK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010HE2B43X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010HCY46N4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584897201.080400",
+        "user": "U010HCY46N4",
+        "text": "<@U010HCY46N4> has joined the channel",
+        "inviter": "U010B22ESES"
+    },
+    {
+        "client_msg_id": "17933c2d-98fa-4f46-8929-7d87fed504c1",
+        "type": "message",
+        "text": "Please put your names on the task in the meeting agenda document\n<https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit>",
+        "user": "U010B22ESES",
+        "ts": "1584897238.081100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SZjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please put your names on the task in the meeting agenda document\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584897268.081400",
+        "user": "U0104SNE0LS",
+        "text": "<@U0104SNE0LS> has joined the channel",
+        "inviter": "U01076XHPC0"
+    },
+    {
+        "client_msg_id": "bcf48092-5d12-4af2-8429-b3c70d88e356",
+        "type": "message",
+        "text": "<!here> is there a person who can help coordinate translations for the surveillance forms? Don't need to do the translate make sure all the text is input into spreadsheet and translated today",
+        "user": "U0107A7161E",
+        "ts": "1584898138.082600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2tEF4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is there a person who can help coordinate translations for the surveillance forms? Don't need to do the translate make sure all the text is input into spreadsheet and translated today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584898138.082600",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1584906235.087800",
+        "reply_users": [
+            "U0105UGHFUK",
+            "U010HDMR4H3",
+            "U0107A7161E",
+            "U010A0MAT9V",
+            "U0107AYF16H"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cd9132b-9523-489b-9a6d-57b605146dea",
+        "type": "message",
+        "text": "Thank you",
+        "user": "U0105UGHFUK",
+        "ts": "1584898399.083000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qqtej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584872146.077500",
+        "parent_user_id": "U010B22ESES"
+    },
+    {
+        "client_msg_id": "3e5c421d-2070-43e1-9986-363582145eeb",
+        "type": "message",
+        "text": "Hey, I could help",
+        "user": "U0105UGHFUK",
+        "ts": "1584899306.083200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, I could help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584898138.082600",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "4d176e97-afc7-4088-9dd5-61e9f05c5f90",
+        "type": "message",
+        "text": "I can help too",
+        "user": "U010HDMR4H3",
+        "ts": "1584899461.083400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D9R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can help too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584898138.082600",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "6c384d7a-3f9a-4117-8c5e-b8b8bc3d0221",
+        "type": "message",
+        "text": "thank you both! I am going to loop you in the surveillance chat",
+        "user": "U0107A7161E",
+        "ts": "1584899518.083600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=vq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you both! I am going to loop you in the surveillance chat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584898138.082600",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "412dd11b-728a-4d98-8218-56d6cbdfec17",
+        "type": "message",
+        "text": "<https://slack-imgs.com/?c=1&amp;o1=ro&amp;url=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2F3o8doT9BL7dgtolp7O%2Fgiphy.gif%3Fcid%3D6104955e4c80c12f4305f1ac792b01dc60f6f1323f9d00de%26rid%3Dgiphy.gif|YOOO! THIS DOC\u2026>",
+        "user": "U0106M26108",
+        "ts": "1584900427.084000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "500x330px image",
+                "image_url": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2F3o8doT9BL7dgtolp7O%2Fgiphy.gif%3Fcid%3D6104955e4c80c12f4305f1ac792b01dc60f6f1323f9d00de%26rid%3Dgiphy.gif",
+                "image_width": 500,
+                "image_height": 330,
+                "image_bytes": 412371,
+                "is_animated": true,
+                "from_url": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2F3o8doT9BL7dgtolp7O%2Fgiphy.gif%3Fcid%3D6104955e4c80c12f4305f1ac792b01dc60f6f1323f9d00de%26rid%3Dgiphy.gif",
+                "id": 1,
+                "original_url": "https://slack-imgs.com/?c=1&amp;o1=ro&amp;url=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2F3o8doT9BL7dgtolp7O%2Fgiphy.gif%3Fcid%3D6104955e4c80c12f4305f1ac792b01dc60f6f1323f9d00de%26rid%3Dgiphy.gif"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AWiZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2F3o8doT9BL7dgtolp7O%2Fgiphy.gif%3Fcid%3D6104955e4c80c12f4305f1ac792b01dc60f6f1323f9d00de%26rid%3Dgiphy.gif",
+                                "text": "YOOO! THIS DOC\u2026"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584872250.078600",
+        "parent_user_id": "U010B22ESES"
+    },
+    {
+        "client_msg_id": "bf3b9a94-58be-43a6-bd55-a6940092b92f",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C0109GD5BGW/p1584899825256300>",
+        "user": "U0107A7161E",
+        "ts": "1584900900.084700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0109GD5BGW/p1584899825256300",
+                "fallback": "[March 22nd, 2020 10:57 AM] samralakew: <@U0105UGHFUK> <@U010HDMR4H3> This file has the questions from the CommCare surveillance forms in different rows can you add them to the translation spreadsheet and make sure we get them at leas in amharic oromiffa and tigrinya. Tagging <@U01022PTXA7> in case you want to make language adjustments",
+                "ts": "1584899825.256300",
+                "author_id": "U0107A7161E",
+                "author_subname": "Samra Lakew",
+                "channel_id": "C0109GD5BGW",
+                "channel_name": "surveillance-response",
+                "is_msg_unfurl": true,
+                "text": "<@U0105UGHFUK> <@U010HDMR4H3> This file has the questions from the CommCare surveillance forms in different rows can you add them to the translation spreadsheet and make sure we get them at leas in amharic oromiffa and tigrinya. Tagging <@U01022PTXA7> in case you want to make language adjustments",
+                "author_name": "Samra Lakew",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107A7161E",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-18/1010401783760_4b935ef07924db0d489d_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F010HN30EVB",
+                        "created": 1584899820,
+                        "timestamp": 1584899820,
+                        "name": "Ethiopia First Few X (FFX) Cases_v1 v.134 - CommCare Translations.xlsx",
+                        "title": "Ethiopia First Few X (FFX) Cases_v1 v.134 - CommCare Translations.xlsx",
+                        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "filetype": "xlsx",
+                        "pretty_type": "Excel Spreadsheet",
+                        "user": "U0107A7161E",
+                        "editable": false,
+                        "size": 45192,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010HN30EVB/ethiopia_first_few_x__ffx__cases_v1_v.134_-_commcare_translations.xlsx",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010HN30EVB/download/ethiopia_first_few_x__ffx__cases_v1_v.134_-_commcare_translations.xlsx",
+                        "converted_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F010HN30EVB-85ba1af902/ethiopia_first_few_x__ffx__cases_v1_v.134_-_commcare_translations_converted.pdf",
+                        "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F010HN30EVB-85ba1af902/ethiopia_first_few_x__ffx__cases_v1_v.134_-_commcare_translations_thumb_pdf.png",
+                        "thumb_pdf_w": 909,
+                        "thumb_pdf_h": 1286,
+                        "permalink": "https://ethiopia-covid19.slack.com/files/U0107A7161E/F010HN30EVB/ethiopia_first_few_x__ffx__cases_v1_v.134_-_commcare_translations.xlsx",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F010HN30EVB-550274640e",
+                        "has_rich_preview": false
+                    }
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0109GD5BGW/p1584899825256300",
+                "footer": "Posted in #surveillance-response"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "75KJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0109GD5BGW/p1584899825256300"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584898138.082600",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "DA9A97E4-2908-4FCA-A5E9-FD9401963AC6",
+        "type": "message",
+        "text": "Also from Harar, can help <@U010A0MAT9V>! ",
+        "user": "U010K2Q0D8F",
+        "ts": "1584901712.086500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1cMV2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also from Harar, can help "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010A0MAT9V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815801.074600",
+        "parent_user_id": "U010A0MAT9V"
+    },
+    {
+        "client_msg_id": "c99148e8-8eca-4a45-bf2f-7f7904407951",
+        "type": "message",
+        "text": "I think <@U010747H997> said she wanted PM translations",
+        "user": "U010A0MAT9V",
+        "ts": "1584901781.086700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010747H997"
+                            },
+                            {
+                                "type": "text",
+                                "text": " said she wanted PM translations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584898138.082600",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584901783.087000",
+        "user": "U010747H997",
+        "text": "<@U010747H997> has joined the channel",
+        "inviter": "U010A0MAT9V"
+    },
+    {
+        "type": "message",
+        "text": "<https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0>",
+        "files": [
+            {
+                "id": "F010L0AGJPQ",
+                "created": 1584906231,
+                "timestamp": 1584906231,
+                "name": "Ethiopia COVID-19 Response Task Force | Language Team",
+                "title": "Ethiopia COVID-19 Response Task Force | Language Team",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0107AYF16H",
+                "editable": false,
+                "size": 791736,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0",
+                "thumb_64": "https://a.slack-edge.com/80588/img/files/gsheet_64.png",
+                "thumb_360": "https://a.slack-edge.com/80588/img/files/gsheet_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107AYF16H/F010L0AGJPQ/ethiopia_covid-19_response_task_force___language_team",
+                "is_starred": false,
+                "external_id": "16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI",
+                "external_url": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yEA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107AYF16H",
+        "display_as_bot": false,
+        "x_files": [
+            "F010L0AGJPQ"
+        ],
+        "ts": "1584906228.087200",
+        "client_msg_id": "d207d6d6-183f-4a12-8afc-c4d63ce30ba1",
+        "thread_ts": "1584898138.082600",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "7835e6cb-9f8a-4655-a20c-f5aaf3b1aa1c",
+        "type": "message",
+        "text": "added to the translations spreadsheet",
+        "user": "U0107AYF16H",
+        "ts": "1584906235.087800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "shHlV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "added to the translations spreadsheet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584898138.082600",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "text": "<!here> Can we have translators look at \"Translation Needed: Surveillance\" sheet ing the translation document? There are a lot of row and we need a quick turnaround for the demo with the MoH tomorrow.\n<https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0>",
+        "files": [
+            {
+                "id": "F010L0AGJPQ",
+                "created": 1584906231,
+                "timestamp": 1584906231,
+                "name": "Ethiopia COVID-19 Response Task Force | Language Team",
+                "title": "Ethiopia COVID-19 Response Task Force | Language Team",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0107AYF16H",
+                "editable": false,
+                "size": 791736,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0",
+                "thumb_64": "https://a.slack-edge.com/80588/img/files/gsheet_64.png",
+                "thumb_360": "https://a.slack-edge.com/80588/img/files/gsheet_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107AYF16H/F010L0AGJPQ/ethiopia_covid-19_response_task_force___language_team",
+                "is_starred": false,
+                "external_id": "16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI",
+                "external_url": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g+n5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can we have translators look at \"Translation Needed: Surveillance\" sheet ing the translation document? There are a lot of row and we need a quick turnaround for the demo with the MoH tomorrow.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "x_files": [
+            "F010L0AGJPQ"
+        ],
+        "ts": "1584916399.090100",
+        "client_msg_id": "58f3ea66-0d97-49bf-a05a-5e8bd1678043",
+        "thread_ts": "1584916399.090100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584984994.094700",
+        "reply_users": [
+            "U0100NR1PDY",
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    }
+]

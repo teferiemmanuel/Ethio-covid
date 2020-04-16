@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "44fa09bb-b3e4-41ec-9500-aa0cceca9eb1",
+        "type": "message",
+        "text": "Hello <!channel>\nThere is a new project being launched to support Health Care Workers. We want to provide a bot service where we can address the immediate needs that the HCW are experiencing on a daily basis due to discrimination around the virus. We would like to have a kick-off meeting to brainstorm how to organize the service and the best way to address the more severe problems.\n\nIf you know about the problems or have recommendations about how to implement the solutions using our bot, please join the kick-off meeting at 3PM EST 10pm EAT today.\nZoom link - <https://zoom.us/s/73434185171>\n\nMeeting ID: 734 3418 5171\nPassword: 10\nOne tap mobile\n<tel:+19292056099,,73434185171#|+19292056099,,73434185171#>\u00a0US (New York)\n<tel:+13126266799,,73434185171#|+13126266799,,73434185171#>\u00a0US (Chicago)\n\nDial by your location\n\u00a0\u00a0\u00a0\u00a0+1 929 205 6099 US (New York)\n\u00a0\u00a0\u00a0\u00a0+1 312 626 6799 US (Chicago)\n\u00a0\u00a0\u00a0\u00a0+1 301 715 8592 US\n\u00a0\u00a0\u00a0\u00a0+1 346 248 7799 US (Houston)\n\u00a0\u00a0\u00a0\u00a0+1 669 900 6833 US (San Jose)\n\u00a0\u00a0\u00a0\u00a0+1 253 215 8782 US\nMeeting ID: 734 3418 5171",
+        "user": "U0107JERE9L",
+        "ts": "1586715520.328900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107JERE9L",
+            "ts": "1586718091.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "12q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThere is a new project being launched to support Health Care Workers. We want to provide a bot service where we can address the immediate needs that the HCW are experiencing on a daily basis due to discrimination around the virus. We would like to have a kick-off meeting to brainstorm how to organize the service and the best way to address the more severe problems.\n\nIf you know about the problems or have recommendations about how to implement the solutions using our bot, please join the kick-off meeting at 3PM EST 10pm EAT today.\nZoom link - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://zoom.us/s/73434185171"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMeeting ID: 734 3418 5171\nPassword: 10\nOne tap mobile\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+19292056099,,73434185171#",
+                                "text": "+19292056099,,73434185171#"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0US (New York)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13126266799,,73434185171#",
+                                "text": "+13126266799,,73434185171#"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0US (Chicago)\n\nDial by your location\n\u00a0\u00a0\u00a0\u00a0+1 929 205 6099 US (New York)\n\u00a0\u00a0\u00a0\u00a0+1 312 626 6799 US (Chicago)\n\u00a0\u00a0\u00a0\u00a0+1 301 715 8592 US\n\u00a0\u00a0\u00a0\u00a0+1 346 248 7799 US (Houston)\n\u00a0\u00a0\u00a0\u00a0+1 669 900 6833 US (San Jose)\n\u00a0\u00a0\u00a0\u00a0+1 253 215 8782 US\nMeeting ID: 734 3418 5171"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107A7161E",
+                    "U010986778X",
+                    "UVB9ZSPCH",
+                    "U011JG53BV1",
+                    "UV8B0679P",
+                    "U0116DL92E9",
+                    "U011BGST4BG",
+                    "U010ARHF5BK",
+                    "U010LGW2A5A"
+                ],
+                "count": 9
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E",
+                    "UVB9ZSPCH",
+                    "U011JG53BV1",
+                    "U0108SD3DA4",
+                    "UV8B0679P"
+                ],
+                "count": 5
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UVALWD1MG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U011J82BTTP",
+                    "UV6JJDDKL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

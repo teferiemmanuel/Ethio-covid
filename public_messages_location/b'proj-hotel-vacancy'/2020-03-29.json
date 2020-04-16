@@ -1,0 +1,1977 @@
+[
+    {
+        "client_msg_id": "85827aca-6d0e-47cf-870e-af1aecefb37b",
+        "type": "message",
+        "text": "<https://github.com/AmanuelChorito/>",
+        "user": "U010MHWSRPH",
+        "ts": "1585446052.022600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u20",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.com/AmanuelChorito/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bcf41eaa-57aa-40a3-8b38-ce46b83601da",
+        "type": "message",
+        "text": "<!here> Hey Everyone how are things going in this group ??",
+        "user": "UV6JHDP0S",
+        "ts": "1585446620.022900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JvcB2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey Everyone how are things going in this group ??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1585448907.023300",
+        "thread_ts": "1585448907.023300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585459478.024300",
+        "reply_users": [
+            "UVC2L182V"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585450837.023900",
+        "user": "UVC2L182V",
+        "text": "<@UVC2L182V> has joined the channel",
+        "inviter": "U010MHWSRPH"
+    },
+    {
+        "client_msg_id": "B0076FEA-506F-476D-B571-A8E5B2FB94F8",
+        "type": "message",
+        "text": "We will file a big for it. ",
+        "user": "UVC2L182V",
+        "ts": "1585459478.024300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LvQc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We will file a big for it. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585448907.023300",
+        "parent_user_id": "U010MHWSRPH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585470778.024800",
+        "user": "U0107898C9M",
+        "text": "<@U0107898C9M> has joined the channel",
+        "inviter": "U010MHWSRPH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585470778.025000",
+        "user": "UVAJ6MQ8J",
+        "text": "<@UVAJ6MQ8J> has joined the channel",
+        "inviter": "U010MHWSRPH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585472148.029800",
+        "user": "U010NURE9T2",
+        "text": "<@U010NURE9T2> has joined the channel",
+        "inviter": "U010MHWSRPH"
+    },
+    {
+        "client_msg_id": "f640e691-1d4d-49e5-b738-a77b1cc6fd23",
+        "type": "message",
+        "text": "<@U010X5LSV53> shall we work on telegram bot?",
+        "user": "U010MHWSRPH",
+        "ts": "1585472178.030000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "frj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " shall we work on telegram bot?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ea3201b-807e-4185-afb0-d18754fc8b79",
+        "type": "message",
+        "text": "Hey guys, can anyone please update me the progress. I am new member to join this channel",
+        "user": "U010NURE9T2",
+        "ts": "1585476655.032400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b22",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys, can anyone please update me the progress. I am new member to join this channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f7f30c0-e953-4f13-b4d2-d746412d864b",
+        "type": "message",
+        "text": "<!here> Does any one has access to a deployment server? So that we can deploy the the API and work further on the bot.",
+        "user": "U010X5LSV53",
+        "ts": "1585476697.033100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+zSUA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Does any one has access to a deployment server? So that we can deploy the the API and work further on the bot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CE79C20E-BE83-4A5C-ACCA-89B092509806",
+        "type": "message",
+        "text": "<@U010X5LSV53> I can help with that",
+        "user": "U0107898C9M",
+        "ts": "1585481515.034100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can help with that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2AB00F8B-C9A9-49C8-90C3-41BB1DFBD477",
+        "type": "message",
+        "text": "Tell me more ",
+        "user": "U0107898C9M",
+        "ts": "1585481518.034400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vdk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tell me more "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a28e42b7-0230-4827-af70-bb03a71adaf9",
+        "type": "message",
+        "text": "Nice. I wanted to deploy a Django App with Postgres DB",
+        "user": "U010X5LSV53",
+        "ts": "1585481578.035300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HVb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice. I wanted to deploy a Django App with Postgres DB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "573415e1-852b-4d2f-9922-85b09c00112d",
+        "type": "message",
+        "text": "I can dockerize everything. And let you know, if docker is better.",
+        "user": "U010X5LSV53",
+        "ts": "1585481623.036000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mCx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can dockerize everything. And let you know, if docker is better."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "71EEC13C-17B6-459A-8E66-6EB84FEDBF68",
+        "type": "message",
+        "text": "<@U010X5LSV53> okay I\u2019m not sure about the Postgres but you can use heroku for Django, and for postgres, let me look around ",
+        "user": "U0107898C9M",
+        "ts": "1585481692.037500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Op0+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " okay I\u2019m not sure about the Postgres but you can use heroku for Django, and for postgres, let me look around "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d20fa7c4-5e22-4981-b33c-03b879b7e00d",
+        "type": "message",
+        "text": "I guess they have free option for that too.",
+        "user": "U010X5LSV53",
+        "ts": "1585481742.039200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QNu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess they have free option for that too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "991389B2-5754-4E15-AE0A-358D983F7816",
+        "type": "message",
+        "text": "If you like docker, you can deploy your containers using heroku",
+        "user": "U0107898C9M",
+        "ts": "1585481747.039400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ejh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you like docker, you can deploy your containers using heroku"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AF659CF7-2E35-46D7-9B01-441015B8998C",
+        "type": "message",
+        "text": "<@U010X5LSV53> yup they have a free version ",
+        "user": "U0107898C9M",
+        "ts": "1585481772.040400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rSh4Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yup they have a free version "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8d36ac7-562a-4fb9-af9a-1156c87366b5",
+        "type": "message",
+        "text": "I was thinking, you already have a server setup.",
+        "user": "U010X5LSV53",
+        "ts": "1585481778.040600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOr9/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was thinking, you already have a server setup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55c1c93d-1c8a-4a4f-a045-5ff04cb1df06",
+        "type": "message",
+        "text": "Cool. Heroku, it is. :thumbsup:",
+        "user": "U010X5LSV53",
+        "ts": "1585481796.041000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MTe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool. Heroku, it is. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2C3790E8-E5EE-4D5E-9A1A-FD948CFFFDBA",
+        "type": "message",
+        "text": "<@U010X5LSV53> I\u2019ve already setup heroku/Django before, so we can work with it",
+        "user": "U0107898C9M",
+        "ts": "1585481932.042200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xm/s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I\u2019ve already setup heroku/Django before, so we can work with it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B6857093-4544-4C5C-9D6E-23433EAB9957",
+        "type": "message",
+        "text": "Github account?",
+        "user": "U0107898C9M",
+        "ts": "1585481946.042600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+xF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Github account?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec2301f7-fc52-41cf-9880-108ed77bb891",
+        "type": "message",
+        "text": "<https://github.com/Yididya/quarantines.covid19.et>",
+        "user": "U010X5LSV53",
+        "ts": "1585481991.042800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Yididya/quarantines.covid19.et",
+                "text": "Quarantine management dashboard",
+                "title": "Yididya/quarantines.covid19.et",
+                "footer": "<https://github.com/Yididya/quarantines.covid19.et|Yididya/quarantines.covid19.et>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585395873,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "a day ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Yididya/quarantines.covid19.et",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eJ0V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Yididya/quarantines.covid19.et"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35B00038-4AFE-4C75-BF19-37497DC960F8",
+        "type": "message",
+        "text": "Cool",
+        "user": "U0107898C9M",
+        "ts": "1585482052.043100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3bh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "158BB5DA-31BA-4B05-848A-9050E292ECD8",
+        "type": "message",
+        "text": "What about the bot are you guys working on that?",
+        "user": "U0107898C9M",
+        "ts": "1585482066.043700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j/D/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What about the bot are you guys working on that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc10b68e-3d88-4995-b295-c4dca8e387c7",
+        "type": "message",
+        "text": "Thoughts are welcome.\n<https://docs.google.com/document/d/1tqAwlDRcC3EqQIo6uMhwDwVAX9IfDtNl6By2wdtSZjo/edit?usp=sharing>",
+        "user": "U010X5LSV53",
+        "ts": "1585482104.044100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fftzI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thoughts are welcome.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1tqAwlDRcC3EqQIo6uMhwDwVAX9IfDtNl6By2wdtSZjo/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585482104.044100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585764077.125100",
+        "reply_users": [
+            "U010UM8QBQA"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3784A9D5-C8EB-4D3B-8C85-FF5B03529848",
+        "type": "message",
+        "text": "One thought here, guys, we should try to add all repos for this hackathon on the main org",
+        "user": "UV8B0679P",
+        "ts": "1585486982.045200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ydb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One thought here, guys, we should try to add all repos for this hackathon on the main org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6867FE44-29C7-423C-8513-CBD6C7D2B60B",
+        "type": "message",
+        "text": "This way things are organized",
+        "user": "UV8B0679P",
+        "ts": "1585486992.045600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dNSj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This way things are organized"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C8B43D01-B8E1-4D00-B180-14ACB373E360",
+        "type": "message",
+        "text": "Let me know if I can be helpful",
+        "user": "UV8B0679P",
+        "ts": "1585487000.045900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mSvB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me know if I can be helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8A3C19B6-DE97-4795-8887-16AFA8ECD301",
+        "type": "message",
+        "text": "Btw, for those of you who don\u2019t know, <@U0107898C9M> is a bot god!",
+        "user": "UV8B0679P",
+        "ts": "1585487024.046700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+a+N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Btw, for those of you who don\u2019t know, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a bot god!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "366AF19E-5D48-4923-9F06-FC261BE91930",
+        "type": "message",
+        "text": "Talk to him",
+        "user": "UV8B0679P",
+        "ts": "1585487031.047000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wYee8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Talk to him"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e659343-3cbd-4123-9a55-3037be8991e4",
+        "type": "message",
+        "text": "Cool. <@U0107898C9M> Let me know if you need anything setting up the REST API.\n@mike could you add as to the main organization",
+        "user": "U010X5LSV53",
+        "ts": "1585489486.048200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uI7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Let me know if you need anything setting up the REST API.\n@mike could you add as to the main organization"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "420d6dea-b7a2-44da-930a-907763c93b3b",
+        "type": "message",
+        "text": "@Yididya is my Github handle\nAnd <https://github.com/Yididya/quarantines.covid19.et> is the repo.",
+        "user": "U010X5LSV53",
+        "ts": "1585489685.048800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Yididya/quarantines.covid19.et",
+                "text": "Quarantine management dashboard",
+                "title": "Yididya/quarantines.covid19.et",
+                "footer": "<https://github.com/Yididya/quarantines.covid19.et|Yididya/quarantines.covid19.et>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585395873,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "2 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Yididya/quarantines.covid19.et",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4uWI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@Yididya is my Github handle\nAnd "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Yididya/quarantines.covid19.et"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is the repo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5E8CEFAB-B2A5-4233-8E48-E391CAD75C54",
+        "type": "message",
+        "text": "Cool",
+        "user": "U0107898C9M",
+        "ts": "1585493595.049000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=Mq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28274E65-0938-495E-9D0D-7CD47385EBA6",
+        "type": "message",
+        "text": "<@U010X5LSV53> is the code done?",
+        "user": "U0107898C9M",
+        "ts": "1585493653.050400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V4ngM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is the code done?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4C8FF21A-30F9-4D43-AB31-4D0C64CEADEA",
+        "type": "message",
+        "text": "Adding you",
+        "user": "UV8B0679P",
+        "ts": "1585493929.050900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZzXA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adding you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85CDC3E5-8CAE-4F89-9FB6-A4CB1540D984",
+        "type": "message",
+        "text": "<@U0107898C9M>, you are already admin, right?",
+        "user": "UV8B0679P",
+        "ts": "1585493946.051500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cpk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you are already admin, right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5C8E0FFF-FAB0-46A3-8305-CBCDF8B6B3DF",
+        "type": "message",
+        "text": "Of what?",
+        "user": "U0107898C9M",
+        "ts": "1585493992.051700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1C/K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Of what?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5864F49C-E25B-4A45-8F8E-1BF172A39C7E",
+        "type": "message",
+        "text": "The GitHub org",
+        "user": "UV8B0679P",
+        "ts": "1585494001.051900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jnxU6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The GitHub org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81EC0B7E-FFBD-4120-945C-B9CB3B436A54",
+        "type": "message",
+        "text": "I think I added you as Admin",
+        "user": "UV8B0679P",
+        "ts": "1585494011.052200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Cd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think I added you as Admin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "002D1502-1D80-4D6C-BF41-625F725FB11A",
+        "type": "message",
+        "text": "Can you add <@U010X5LSV53> ",
+        "user": "UV8B0679P",
+        "ts": "1585494023.052500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P/7A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you add "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FE534C53-F5C1-458C-973D-A86A192951CF",
+        "type": "message",
+        "text": "So that he can commit his code",
+        "user": "UV8B0679P",
+        "ts": "1585494030.052800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8+nSi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So that he can commit his code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DEA82268-681D-40D2-AA4F-4100EAF6A249",
+        "type": "message",
+        "text": "<@UV8B0679P> I\u2019m an admin ",
+        "user": "U0107898C9M",
+        "ts": "1585494066.053300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Ehk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I\u2019m an admin "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad4c464e-e0ad-4c2d-a8df-19db27097084",
+        "type": "message",
+        "text": "yeah - cool add Yididdiya",
+        "user": "UV8B0679P",
+        "ts": "1585494513.053600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e5RH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah - cool add Yididdiya"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41517aab-5e19-410e-8479-441cb15da112",
+        "type": "message",
+        "text": "And add him to the `bot` repo",
+        "user": "UV8B0679P",
+        "ts": "1585494541.054200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i1Zbx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And add him to the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "bot",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " repo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e529e756-19ab-4f08-abfd-81d16777c009",
+        "type": "message",
+        "text": "Or better yet, create a new repo: `covid-19-hotel-vacany` repo and add him as admin",
+        "user": "UV8B0679P",
+        "ts": "1585494568.054800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or better yet, create a new repo: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "covid-19-hotel-vacany",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " repo and add him as admin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585494568.054800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585495479.058300",
+        "reply_users": [
+            "U0107898C9M"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2935de3a-9f5b-4e25-9cdd-ca07714ab6df",
+        "type": "message",
+        "text": "of that repo",
+        "user": "UV8B0679P",
+        "ts": "1585494571.055000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dgm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "of that repo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dbb95cb0-56e7-4079-8a61-e3780597e67d",
+        "type": "message",
+        "text": "<@U0110RQQGT0> - hop on here and help out",
+        "user": "UV8B0679P",
+        "ts": "1585494624.055400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GAPg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0110RQQGT0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - hop on here and help out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585494624.055400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585494752.056900",
+        "reply_users": [
+            "U0110RQQGT0"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585494628.055600",
+        "user": "U0110RQQGT0",
+        "text": "<@U0110RQQGT0> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "6C745C1E-88E3-49B9-81D1-59C47F198CCA",
+        "type": "message",
+        "text": "<@UV8B0679P> hey mike I meant to say \u201cIM NOT AN ADMIN\u201d",
+        "user": "U0107898C9M",
+        "ts": "1585494707.056800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S=w8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hey mike I meant to say \u201cIM NOT AN ADMIN\u201d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a37f09d-3c39-4d49-9d71-504d0e05da97",
+        "type": "message",
+        "text": "thanks man",
+        "user": "U0110RQQGT0",
+        "ts": "1585494752.056900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cpQs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks man"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585494624.055400",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "0f45e88f-1969-434d-836c-099cee36537b",
+        "type": "message",
+        "text": "oh",
+        "user": "UV8B0679P",
+        "ts": "1585495325.057200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ocq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34e90391-2e81-455e-856f-55d292ae9e66",
+        "type": "message",
+        "text": "What was your handle, <@U0107898C9M>?",
+        "user": "UV8B0679P",
+        "ts": "1585495363.057500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uE5qh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What was your handle, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "189010A3-3EC8-4327-B907-32463BD52BE6",
+        "type": "message",
+        "text": "masterSal ",
+        "user": "U0107898C9M",
+        "ts": "1585495445.057800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3P9cr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "masterSal "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1394F957-22B5-47D8-AA92-B7CA995616C7",
+        "type": "message",
+        "text": "The repo is already created ",
+        "user": "U0107898C9M",
+        "ts": "1585495479.058300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mup",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The repo is already created "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585494568.054800",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "971e46e6-5c2a-4bb2-a868-a3fe3398bde0",
+        "type": "message",
+        "text": "Okay - added you as maintainer",
+        "user": "UV8B0679P",
+        "ts": "1585495941.058700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hxFd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay - added you as maintainer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c64f968-cf41-40f4-9b89-a4ece20d7f25",
+        "type": "message",
+        "text": "<@U010X5LSV53> you\u2019re also invited",
+        "user": "UV8B0679P",
+        "ts": "1585495947.059000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C5f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you\u2019re also invited"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585503707.059200",
+        "user": "U010Z4D482H",
+        "text": "<@U010Z4D482H> has joined the channel",
+        "inviter": "U010MHWSRPH"
+    },
+    {
+        "client_msg_id": "4c939265-5edd-4e3a-830d-5250b814768c",
+        "type": "message",
+        "text": "<@U0107898C9M> we are going to develop the telegram bot",
+        "user": "U010MHWSRPH",
+        "ts": "1585506499.059900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SCxt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are going to develop the telegram bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585506499.059900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585509348.062400",
+        "reply_users": [
+            "U0107898C9M"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9987f176-2a23-4d7f-b0dc-3a22fe8ba59d",
+        "type": "message",
+        "text": "I put initial documentation here: <@UVAJ6MQ8J> <@U010X5LSV53> <@U010Z4D482H> <https://docs.google.com/document/d/1tqAwlDRcC3EqQIo6uMhwDwVAX9IfDtNl6By2wdtSZjo/edit?usp=sharing>",
+        "user": "U010MHWSRPH",
+        "ts": "1585506592.061400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UGXAr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I put initial documentation here: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVAJ6MQ8J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010Z4D482H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1tqAwlDRcC3EqQIo6uMhwDwVAX9IfDtNl6By2wdtSZjo/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0a0ef9e-5181-4026-a8ed-4fe822d7c43b",
+        "type": "message",
+        "text": "Update\nREST Api can be found in\n<http://172.104.253.181:8000/api>",
+        "user": "U010X5LSV53",
+        "ts": "1585506598.061700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=WS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update\nREST Api can be found in\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://172.104.253.181:8000/api"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3c5a98b-7499-4dcc-a791-96b66f2aab99",
+        "type": "message",
+        "text": "To add Users and quarantine centers\n<http://172.104.253.181:8000/>",
+        "user": "U010X5LSV53",
+        "ts": "1585506621.062000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y5y7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To add Users and quarantine centers\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://172.104.253.181:8000/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B2B16A07-1AB8-4CD5-AAA0-D46888CDC2C0",
+        "type": "message",
+        "text": "Sure let me take a look at it ",
+        "user": "U0107898C9M",
+        "ts": "1585509348.062400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QuE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure let me take a look at it "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585506499.059900",
+        "parent_user_id": "U010MHWSRPH"
+    },
+    {
+        "client_msg_id": "EC9EEE0E-4661-413A-B8F4-D663E7B2B037",
+        "type": "message",
+        "text": "<@U010MHWSRPH> could talk about the documentation and get to work ?",
+        "user": "U0107898C9M",
+        "ts": "1585509920.063400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TNm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010MHWSRPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could talk about the documentation and get to work ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9fa5539f-8167-4991-9a7f-1e5ddd4839ad",
+        "type": "message",
+        "text": "<@U0107898C9M> yes , that would be nice",
+        "user": "U010MHWSRPH",
+        "ts": "1585510542.064000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SCIe=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes , that would be nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2490a943-0538-4789-a9e0-4a0821ae5e16",
+        "type": "message",
+        "text": "<https://github.com/Ethiopia-COVID19|Ethiopia-COVID19>/<https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot|Hotel-Vacancy-Telegram-Bot>",
+        "user": "U010MHWSRPH",
+        "ts": "1585516617.064200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot",
+                "title": "Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot",
+                "footer": "<https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot|Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585516336,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Last updated",
+                        "value": "a minute ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x/g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19",
+                                "text": "Ethiopia-COVID19"
+                            },
+                            {
+                                "type": "text",
+                                "text": "/"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot",
+                                "text": "Hotel-Vacancy-Telegram-Bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b80c5fe-a6b8-435f-9cfc-b9e1ea9f4ad9",
+        "type": "message",
+        "text": "From my point of understanding, the `telegram bot` is for the public to look for nearly available quarantine centers instead of hotels updating their stats with the bot.\nAnd I believe this feature has to be integrated with the main `telegram bot` .\nThe dashboard will be centrally managed by the MoH(as its the one to approve hotels as quarantine centers). Hotels owners/managers will receive an invite to the dashboard where they can manage their respective status.\nPlease consider my suggestion before working on the bot. <@U0107898C9M> <@U010MHWSRPH>",
+        "user": "U010X5LSV53",
+        "ts": "1585522476.070800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ebKqa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From my point of understanding, the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "telegram bot",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is for the public to look for nearly available quarantine centers instead of hotels updating their stats with the bot.\nAnd I believe this feature has to be integrated with the main "
+                            },
+                            {
+                                "type": "text",
+                                "text": "telegram bot",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " .\nThe dashboard will be centrally managed by the MoH(as its the one to approve hotels as quarantine centers). Hotels owners/managers will receive an invite to the dashboard where they can manage their respective status.\nPlease consider my suggestion before working on the bot. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010MHWSRPH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26e8c9cf-358f-42c4-9654-880d5f82ac80",
+        "type": "message",
+        "text": "<@U010X5LSV53> based on <@UV8B0679P> comment, our plan is to make telegram bot as interface for verified hotels to update the occupancy directly hoping will save time , they can do the registration&amp; verification from the center using yours <http://172.104.253.181:8000/>,",
+        "user": "U010MHWSRPH",
+        "ts": "1585523576.074800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r5M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " based on "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " comment, our plan is to make telegram bot as interface for verified hotels to update the occupancy directly hoping will save time , they can do the registration& verification from the center using yours "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://172.104.253.181:8000/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

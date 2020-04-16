@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "d929fbd8-e237-4b25-9b2b-7f55aa9a914e",
+        "type": "message",
+        "text": "<!channel> - Sprint #2 Demo is starting now \u2014 hop on <https://mit.zoom.us/j/9235867808> to see what the amazing team has been working on over the weekend. :rocket:",
+        "user": "UV8B0679P",
+        "ts": "1586307660.275100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/lHpb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Sprint #2 Demo is starting now \u2014 hop on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://mit.zoom.us/j/9235867808"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to see what the amazing team has been working on over the weekend. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fist::skin-tone-4",
+                "users": [
+                    "U0106M26108",
+                    "U011X9W4RLY",
+                    "U01023RPHPU",
+                    "UVA8BCCBV",
+                    "UVB9ZSPCH"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA",
+                    "UVB9ZSPCH"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

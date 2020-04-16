@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586795618.023800",
+        "user": "U012ABDAHS4",
+        "text": "<@U012ABDAHS4> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586796502.024100",
+        "user": "U010729GXR7",
+        "text": "<@U010729GXR7> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1586814316.024300",
+        "user": "U0107A7161E",
+        "text": "<@U0107A7161E> set the channel topic: dedicated to building and deploying the website for Ethiopia COVID-19 Response Team. working draft: <https://unibound.wixsite.com/ecrt>",
+        "topic": "dedicated to building and deploying the website for Ethiopia COVID-19 Response Team. working draft: <https://unibound.wixsite.com/ecrt>",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U010GUEQVPF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

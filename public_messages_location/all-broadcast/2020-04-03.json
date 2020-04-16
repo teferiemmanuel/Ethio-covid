@@ -1,0 +1,337 @@
+[
+    {
+        "client_msg_id": "0d983223-7596-4720-9182-8eafcea855b5",
+        "type": "message",
+        "text": "<!channel> The next All Hands is *tomorrow (Apr 3rd)* at 6:00pm PDT / 9:00pm EDT / 4:00am EAT (this meeting was rescheduled from today)",
+        "user": "U0107AYF16H",
+        "ts": "1585875842.150100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IXy+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The next All Hands is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tomorrow (Apr 3rd)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " at 6:00pm PDT / 9:00pm EDT / 4:00am EAT (this meeting was rescheduled from today)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0106M27EKS",
+                    "U0106M26108",
+                    "U0107A7161E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bdaa7fd2-d0c5-4697-9ae1-b0e402d0984f",
+        "type": "message",
+        "text": "<!channel> We need .NET developers to help migrate some .NET APIs to a RESTful API gateway.  The APIs are pretty basic so I don\u2019t anticipate this to be more than a couple of hours of work.   Please DM me and thanks a ton for your help!  :pray::skin-tone-4:",
+        "user": "U01084NU2NL",
+        "ts": "1585880273.153500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1585892274.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We need .NET developers to help migrate some .NET APIs to a RESTful API gateway.  The APIs are pretty basic so I don\u2019t anticipate this to be more than a couple of hours of work.   Please DM me and thanks a ton for your help!  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flag-et",
+                "users": [
+                    "UV8B0679P",
+                    "U0106M27EKS",
+                    "U0105C870AC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U0106M27EKS",
+                    "U0106M26108",
+                    "U01023RPHPU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "UV8B0679P",
+                    "U0106M27EKS",
+                    "U0106M26108"
+                ],
+                "count": 3
+            },
+            {
+                "name": "github",
+                "users": [
+                    "U0106M27EKS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010JPDRGNL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ef468ec-0f33-44a6-9b28-cf7d8a90d8db",
+        "type": "message",
+        "text": "Selam, <!channel>! Just a heads up we have an all-hands call at 6:00pm PDT / 9:00pm EDT / 4:00am EAT today, April 3rd.\n\nWe will be covering:\n\u2022 The two proposed weekly standing calls _(one for just ops, project leads &amp; teams)_\n\u2022 Progress across all workstreams _(4 projects have moved up &amp; out of Moonshots!_ \ud83e\udd73 :tada:_)_\n\u2022 Project needs, along with their action items &amp; task owners\nGcal invites have been sent out (if you haven\u2019t received it, or our emails, it\u2019s because you haven\u2019t filled out the volunteer form, <https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform|so please do so here> :point_left::skin-tone-4:). Zoom link &amp; Agenda + Minutes will be provided at least 30mins prior. So look over the minutes if you aren\u2019t able to make it.\n\n*Finally, I\u2019d like to note; weekends are when most of our community is able to hop in &amp; really get involved. This is also a way to get plugged in if you\u2019re still finding your footing, so definitely take advantage of this time.*\n\nWe\u2019re now officially on DAY 18, folks! From the first day we came together as a community! Ethiopia is on it\u2019s 35th confirmed case, AND growing. Time to act is NOW! So let\u2019s keep building towards smart solutions together! :fist::skin-tone-4:\n\n_P.S. We are quite aware that it\u2019s a little crazy in here, and we\u2019re working on it. Expect some major revamps operationally come Monday, more details to follow on a separate post._",
+        "user": "U0106M26108",
+        "ts": "1585929496.193400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1585929514.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TJWKs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Selam, "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Just a heads up we have an all-hands call at 6:00pm PDT / 9:00pm EDT / 4:00am EAT today, April 3rd.\n\nWe will be covering:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The two proposed weekly standing calls "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(one for just ops, project leads & teams)",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Progress across all workstreams "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(4 projects have moved up & out of Moonshots!",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " \ud83e\udd73 "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "tada"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Project needs, along with their action items & task owners"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nGcal invites have been sent out (if you haven\u2019t received it, or our emails, it\u2019s because you haven\u2019t filled out the volunteer form, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform",
+                                "text": "so please do so here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_left",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Zoom link & Agenda + Minutes will be provided at least 30mins prior. So look over the minutes if you aren\u2019t able to make it.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Finally, I\u2019d like to note; weekends are when most of our community is able to hop in & really get involved. This is also a way to get plugged in if you\u2019re still finding your footing, so definitely take advantage of this time.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe\u2019re now officially on DAY 18, folks! From the first day we came together as a community! Ethiopia is on it\u2019s 35th confirmed case, AND growing. Time to act is NOW! So let\u2019s keep building towards smart solutions together! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fist",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "P.S. We are quite aware that it\u2019s a little crazy in here, and we\u2019re working on it. Expect some major revamps operationally come Monday, more details to follow on a separate post.",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVA8BCCBV",
+                    "U010SKPP7CJ",
+                    "U010U8HF7PY",
+                    "UV8B0679P",
+                    "U010WRS6UTB",
+                    "U01084NU2NL",
+                    "U0107A7161E",
+                    "U0106M27EKS",
+                    "U010AAT0414",
+                    "U0107MQG4SV",
+                    "U010B7Q6XE0",
+                    "U0107JM0AC8",
+                    "U010K2675CP",
+                    "U010DGZP3AR",
+                    "U011779PLJY"
+                ],
+                "count": 15
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U010SKPP7CJ",
+                    "UV8B0679P",
+                    "U01084NU2NL",
+                    "U0107A7161E",
+                    "U0106M27EKS",
+                    "U0107AYF16H"
+                ],
+                "count": 6
+            },
+            {
+                "name": "facepunch::skin-tone-5",
+                "users": [
+                    "U010L1RJMUN",
+                    "UV8B0679P",
+                    "U01084NU2NL",
+                    "U0107A7161E",
+                    "U0106M27EKS",
+                    "U01087PJBNG",
+                    "U0107AYF16H"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

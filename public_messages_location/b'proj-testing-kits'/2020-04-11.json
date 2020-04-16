@@ -1,0 +1,173 @@
+[
+    {
+        "client_msg_id": "6bbed7fc-d40d-4712-a3fd-8ec6f0233b9c",
+        "type": "message",
+        "text": "AI could be an alternative to test kits... <https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/>",
+        "user": "U0101KKMPFC",
+        "ts": "1586615351.012900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "ZDNet",
+                "title": "Open-source AI tool aims to help identify coronavirus infections | ZDNet",
+                "title_link": "https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
+                "text": "One Canadian startup has created a tool to detect coronavirus infections on X-rays.",
+                "fallback": "ZDNet: Open-source AI tool aims to help identify coronavirus infections | ZDNet",
+                "image_url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/04/09/e938416b-69a6-42b4-906b-9798c700794f/thumbnail/770x578/5ce2a2c016f9ec9299780eb5bc321b26/istock-1016125084.jpg",
+                "from_url": "https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 43779,
+                "service_icon": "https://zdnet2.cbsistatic.com/fly/bundles/zdnetcss/images/logos/logo-192x192.png",
+                "id": 1,
+                "original_url": "https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZGeC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI could be an alternative to test kits... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0102QX78GH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94fd54b0-f3db-40d6-bd4f-f10b3fa8f8b4",
+        "type": "message",
+        "text": "<!here> <@U0107JERE9L> <@U0102QX78GH> <@U010986778X> some info about the post on the Kenyan news paper about testing 65k per day,, We do have both the machines mentioned in the paper GeneXpert and Cobas in Ethiopia, specially the GeneXpert, which is found on all Regional labs, hospitals and private clinics with trained engineers, So the main hurdle is getting the cephied covid test kits which are in short supply worldwide but if we get those we can run as much if not more tests per day.",
+        "user": "U0101KKMPFC",
+        "ts": "1586633737.017400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0102QX78GH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " some info about the post on the Kenyan news paper about testing 65k per day,, We do have both the machines mentioned in the paper GeneXpert and Cobas in Ethiopia, specially the GeneXpert, which is found on all Regional labs, hospitals and private clinics with trained engineers, So the main hurdle is getting the cephied covid test kits which are in short supply worldwide but if we get those we can run as much if not more tests per day."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586633737.017400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586710911.021000",
+        "reply_users": [
+            "U010986778X",
+            "U0107JERE9L"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U010986778X",
+                    "U0102QX78GH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9F5B8806-E7C2-4AEC-88D6-E6E8B67F3904",
+        "type": "message",
+        "text": "I may have people in my network who work at Cepheid. What would you like me to ask? <@U0101KKMPFC> ",
+        "user": "U010986778X",
+        "ts": "1586634257.018900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZrR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I may have people in my network who work at Cepheid. What would you like me to ask? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0101KKMPFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586633737.017400",
+        "parent_user_id": "U0101KKMPFC",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0101KKMPFC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

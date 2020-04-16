@@ -1,0 +1,136 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584486719.000200",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584486719.000300",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> set the channel purpose: Contact Tracing tool",
+        "purpose": "Contact Tracing tool"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584486972.000500",
+        "user": "U0106M27EKS",
+        "text": "<@U0106M27EKS> has joined the channel"
+    },
+    {
+        "client_msg_id": "20a17355-aa6d-47ff-8c55-cd115226d6fa",
+        "type": "message",
+        "text": "<https://www.ushahidi.com/features>",
+        "user": "U0106M27EKS",
+        "ts": "1584486975.000700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Ushahidi",
+                "title": "Features",
+                "title_link": "https://www.ushahidi.com/features",
+                "text": "Collect, Manage, Analyze",
+                "fallback": "Ushahidi: Features",
+                "from_url": "https://www.ushahidi.com/features",
+                "service_icon": "https://www.ushahidi.com/uploads/about-images/ushahidi-stamp.png",
+                "id": 1,
+                "original_url": "https://www.ushahidi.com/features"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5vG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.ushahidi.com/features"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584488068.001000",
+        "user": "U01076XHPC0",
+        "text": "<@U01076XHPC0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584488380.001200",
+        "user": "UVADRT9K3",
+        "text": "<@UVADRT9K3> has joined the channel"
+    },
+    {
+        "client_msg_id": "9d2c2c4e-e62e-433c-899a-8f9da8321fc5",
+        "type": "message",
+        "text": "Also worth considering:  <https://www.dhis2.org/covid-19> I believe the ministry of health already uses DHIS2 for different use cases. This is a recently developed extension to DHIS2. Their familiarity to the platform might be an advantage.",
+        "user": "UVADRT9K3",
+        "ts": "1584488520.003200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "COVID-19 Surveillance Tracker Package | DHIS2",
+                "title_link": "https://www.dhis2.org/covid-19",
+                "text": "DHIS 2 is the flexible, web-based open-source information system with awesome visualization features including GIS, charts and pivot tables.",
+                "fallback": "COVID-19 Surveillance Tracker Package | DHIS2",
+                "from_url": "https://www.dhis2.org/covid-19",
+                "service_icon": "https://www.dhis2.org/sites/default/files/favicon.ico",
+                "service_name": "dhis2.org",
+                "id": 1,
+                "original_url": "https://www.dhis2.org/covid-19"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also worth considering:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.dhis2.org/covid-19"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I believe the ministry of health already uses DHIS2 for different use cases. This is a recently developed extension to DHIS2. Their familiarity to the platform might be an advantage."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584489132.003500",
+        "user": "U0106SC3L0L",
+        "text": "<@U0106SC3L0L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584489540.003700",
+        "user": "UV6JHD1GS",
+        "text": "<@UV6JHD1GS> has joined the channel"
+    }
+]

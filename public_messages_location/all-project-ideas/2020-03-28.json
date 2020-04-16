@@ -1,0 +1,851 @@
+[
+    {
+        "client_msg_id": "5fb9ad54-98a1-477f-9d80-515fbff84417",
+        "type": "message",
+        "text": "hi <@U0108MNRFSL> we are currently working on pooling resources from existing delivery services to scale their ability to serve the population. more details in <#C010W2ZJN6L|proj-delivery>",
+        "user": "U010B7Q6XE0",
+        "ts": "1585362725.096300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mM2JQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0108MNRFSL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are currently working on pooling resources from existing delivery services to scale their ability to serve the population. more details in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010W2ZJN6L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585334405.090500",
+        "parent_user_id": "U0108MNRFSL"
+    },
+    {
+        "client_msg_id": "de4efe45-224c-455d-b087-082812a9ada0",
+        "type": "message",
+        "text": "Great. Will follow up there. Thanks.",
+        "user": "U0108MNRFSL",
+        "ts": "1585363672.096500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r9Eo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great. Will follow up there. Thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585334405.090500",
+        "parent_user_id": "U0108MNRFSL"
+    },
+    {
+        "client_msg_id": "625774d9-fbfa-4f53-9362-cdb625cd51c4",
+        "type": "message",
+        "text": "Dont think it exists now as far as know",
+        "user": "UV81AMFSP",
+        "ts": "1585373123.097900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Yu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dont think it exists now as far as know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585321590.083500",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "619f3043-d3ff-4e1d-80c9-b07da4bdb528",
+        "type": "message",
+        "text": "<https://amp.theguardian.com/artanddesign/2020/mar/27/architect-in-italy-turns-shipping-containers-into-hospitals-for-treating-covid-19?__twitter_impression=true|https://amp.theguardian.com/artanddesign/2020/mar/27/architect-in-italy-turns-shipping-containers-into-hospitals-for-treating-covid-19?__twitter_impression=true>",
+        "user": "UV81AMFSP",
+        "ts": "1585373214.098200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Architect in Italy turns shipping containers into hospitals for treating Covid-19 | Design | The Guardian",
+                "title_link": "https://amp.theguardian.com/artanddesign/2020/mar/27/architect-in-italy-turns-shipping-containers-into-hospitals-for-treating-covid-19?__twitter_impression=true",
+                "text": "Pop-up shop, student accommodation \u2026 ICU. Prototype of intensive care unit built at a fraction of the cost of other options is taking shape in coronavirus-hit Italy",
+                "fallback": "Architect in Italy turns shipping containers into hospitals for treating Covid-19 | Design | The Guardian",
+                "from_url": "https://amp.theguardian.com/artanddesign/2020/mar/27/architect-in-italy-turns-shipping-containers-into-hospitals-for-treating-covid-19?__twitter_impression=true",
+                "service_icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
+                "service_name": "amp.theguardian.com",
+                "id": 1,
+                "original_url": "https://amp.theguardian.com/artanddesign/2020/mar/27/architect-in-italy-turns-shipping-containers-into-hospitals-for-treating-covid-19?__twitter_impression=true"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t/z2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://amp.theguardian.com/artanddesign/2020/mar/27/architect-in-italy-turns-shipping-containers-into-hospitals-for-treating-covid-19?__twitter_impression=true",
+                                "text": "https://amp.theguardian.com/artanddesign/2020/mar/27/architect-in-italy-turns-shipping-containers-into-hospitals-for-treating-covid-19?__twitter_impression=true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6eb0114-1f8c-44f4-b4b9-99f862e96458",
+        "type": "message",
+        "text": "<https://c19check.com/start> this an online platform to help people evaluate their risk of COVID-19 before heading to a hospital. i am thinking what if we build simillar platform with multi languages. there is also a covid 19 hotline in place, the platform can be adapted to fit this hotline.",
+        "user": "U010P2VU7ND",
+        "ts": "1585398867.102300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Coronavirus Checker",
+                "title_link": "https://c19check.com/start",
+                "text": "Check your risk for COVID-19 based on best clinical practices, CDC guidelines, illness severity and risk factors like age and pre-existing conditions.",
+                "fallback": "Coronavirus Checker",
+                "image_url": "https://c19check.com/images/og-image.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https://c19check.com/start",
+                "image_bytes": 155743,
+                "service_icon": "https://c19check.com/apple-touch-icon.png",
+                "service_name": "c19check.com",
+                "id": 1,
+                "original_url": "https://c19check.com/start"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wfX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://c19check.com/start"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this an online platform to help people evaluate their risk of COVID-19 before heading to a hospital. i am thinking what if we build simillar platform with multi languages. there is also a covid 19 hotline in place, the platform can be adapted to fit this hotline."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585398867.102300",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1585559198.148800",
+        "reply_users": [
+            "U010N3BFN4F",
+            "U010P2VU7ND",
+            "U010DGZG9DK",
+            "U010JAMHQUC"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U010N3BFN4F",
+                    "U0107JE2S94"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01069Z58V8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc80106d-3d04-4dc6-a27f-3c8e234baef0",
+        "type": "message",
+        "text": "<@U010P2VU7ND> similar thing proposed by <@U010DGZG9DK> here: <https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1585085584122400>\nNot sure what the latest is",
+        "user": "U010N3BFN4F",
+        "ts": "1585399150.102500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 24th, 2020 10:31 PM] arayal: How about a simple mobile app which will can be used to assess symptoms on oneself or others around the app users to generate community based data collection. Is someone on mobile app? This can be part of it.\nFeatures can be:\n\u2022 Latest stats pulled from PMO API\n\u2022 Cloud messaging alerts\n\u2022 Data collection of suspected cases by the masses\nThe idea can something like this.",
+                "ts": "1585085476.188400",
+                "author_id": "U010DGZG9DK",
+                "author_subname": "Araya Lakew",
+                "channel_id": "C01064YG0KD",
+                "channel_name": "surveillance-api",
+                "is_msg_unfurl": true,
+                "text": "How about a simple mobile app which will can be used to assess symptoms on oneself or others around the app users to generate community based data collection. Is someone on mobile app? This can be part of it.\nFeatures can be:\n\u2022 Latest stats pulled from PMO API\n\u2022 Cloud messaging alerts\n\u2022 Data collection of suspected cases by the masses\nThe idea can something like this.",
+                "author_name": "Araya Lakew",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010DGZG9DK",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-20/1014599541712_2fe678a428b73d0f46c6_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F010DQEJFK3",
+                        "created": 1585085470,
+                        "timestamp": 1585085470,
+                        "name": "Covid19et-App-Wireframe.jpg",
+                        "title": "Covid19et-App-Wireframe.jpg",
+                        "mimetype": "image/jpeg",
+                        "filetype": "jpg",
+                        "pretty_type": "JPEG",
+                        "user": "U010DGZG9DK",
+                        "editable": false,
+                        "size": 69022,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010DQEJFK3/covid19et-app-wireframe.jpg",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010DQEJFK3/download/covid19et-app-wireframe.jpg",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010DQEJFK3-bb244cf3ad/covid19et-app-wireframe_64.jpg",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010DQEJFK3-bb244cf3ad/covid19et-app-wireframe_80.jpg",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010DQEJFK3-bb244cf3ad/covid19et-app-wireframe_360.jpg",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 360,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010DQEJFK3-bb244cf3ad/covid19et-app-wireframe_480.jpg",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 480,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010DQEJFK3-bb244cf3ad/covid19et-app-wireframe_160.jpg",
+                        "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010DQEJFK3-bb244cf3ad/covid19et-app-wireframe_720.jpg",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 720,
+                        "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010DQEJFK3-bb244cf3ad/covid19et-app-wireframe_800.jpg",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 800,
+                        "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010DQEJFK3-bb244cf3ad/covid19et-app-wireframe_960.jpg",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 960,
+                        "image_exif_rotation": 1,
+                        "original_w": 1000,
+                        "original_h": 1000,
+                        "thumb_tiny": "AwAwADDTozSN904qPbN/eX8qQ0iXNFRASjBZlI74FRlrnccAYzx0ouOxZoqruuc9Bj8KtUJ3E1YRvumo3LLMCd2zbjgd6kb7ppjSMGI8tjjuKGCHDJTnrQM0iuWByhXGOtAzTQMU9KdTDnHan0CEbpSZYdqdSYFACHJHSmFZcnDgD6VLgUUDuRbJc8uMf7tS0UUBc//Z",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/U010DGZG9DK/F010DQEJFK3/covid19et-app-wireframe.jpg",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F010DQEJFK3-e424c1e7c7",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C01064YG0KD/p1585085476188400",
+                "is_share": true,
+                "footer": "Posted in #surveillance-api",
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1585085584122400"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PHCG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010P2VU7ND"
+                            },
+                            {
+                                "type": "text",
+                                "text": " similar thing proposed by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010DGZG9DK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1585085584122400"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNot sure what the latest is"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585398867.102300",
+        "parent_user_id": "U010P2VU7ND"
+    },
+    {
+        "client_msg_id": "35d78615-af61-477d-a30d-759ad0af35ed",
+        "type": "message",
+        "text": "i think an online platform is better. A mobile app will seem like a hustle for the public. The Ministry of Health is currently coordinating the effort and it is best if they inform the public of COVID19 platform. let them do the \"marketing\" for it",
+        "user": "U010P2VU7ND",
+        "ts": "1585399576.103000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9gt6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think an online platform is better. A mobile app will seem like a hustle for the public. The Ministry of Health is currently coordinating the effort and it is best if they inform the public of COVID19 platform. let them do the \"marketing\" for it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585398867.102300",
+        "parent_user_id": "U010P2VU7ND"
+    },
+    {
+        "client_msg_id": "f9d1196e-55f9-48f9-9c1d-b04a970139d3",
+        "type": "message",
+        "text": "Here is an online platform someone else is working on I think: <https://tena.et/>",
+        "user": "U010N3BFN4F",
+        "ts": "1585399678.103200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "TENA.ET \u2013 \u12a8\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u122b\u1235\u1295 \u1218\u1218\u122d\u1218\u122a\u12eb",
+                "title_link": "https://tena.et/",
+                "text": "\u1260\u1240\u120b\u1209 \u122b\u1233\u127d\u1295\u1295 \u1260\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1218\u1320\u1243\u1273\u127d\u1295\u1295 \u12a5\u1295\u1218\u122d\u121d\u122d",
+                "fallback": "TENA.ET \u2013 \u12a8\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u122b\u1235\u1295 \u1218\u1218\u122d\u1218\u122a\u12eb",
+                "image_url": "https://tena.et/asset/img/tena-et-twitter.jpg",
+                "from_url": "https://tena.et/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 705870,
+                "service_icon": "https://tena.et/asset/img/icons/favicon.png",
+                "service_name": "tena.et",
+                "id": 1,
+                "original_url": "https://tena.et/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHc9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is an online platform someone else is working on I think: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://tena.et/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585398867.102300",
+        "parent_user_id": "U010P2VU7ND"
+    },
+    {
+        "client_msg_id": "05c511be-2328-4596-87f1-87a9b0a305ae",
+        "type": "message",
+        "text": "i will check it out, thanks",
+        "user": "U010P2VU7ND",
+        "ts": "1585400001.103500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TuCOA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i will check it out, thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585398867.102300",
+        "parent_user_id": "U010P2VU7ND"
+    },
+    {
+        "client_msg_id": "a8840561-5840-41fe-91eb-dafd25a189f1",
+        "type": "message",
+        "text": "<@U010P2VU7ND> an app could be easier for tracing and retention to comunicate back to users wth cloud messaging based on their status but as you said it is a hustle indeed. To begin with google will not accept it unless if it submited by the ministry. So web platform like <http://tena.et|tena.et> is easier. In either ways MoH should take the lead in marketing it, otherwise it will not be successful. Similar app project in the UK had 750,000 installs in 24hours.",
+        "user": "U010DGZG9DK",
+        "ts": "1585400025.103700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UGg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010P2VU7ND"
+                            },
+                            {
+                                "type": "text",
+                                "text": " an app could be easier for tracing and retention to comunicate back to users wth cloud messaging based on their status but as you said it is a hustle indeed. To begin with google will not accept it unless if it submited by the ministry. So web platform like "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://tena.et",
+                                "text": "tena.et"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is easier. In either ways MoH should take the lead in marketing it, otherwise it will not be successful. Similar app project in the UK had 750,000 installs in 24hours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585398867.102300",
+        "parent_user_id": "U010P2VU7ND"
+    },
+    {
+        "client_msg_id": "14eab7a4-7df8-4f22-931b-c90d7dc516e4",
+        "type": "message",
+        "text": "<https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/>",
+        "user": "U010P2VU7ND",
+        "ts": "1585400086.104000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Smart Air Filters",
+                "title": "What Are The Best Materials for Making DIY Masks? - Smart Air Filters",
+                "title_link": "https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/",
+                "text": "As a last resort, DIY masks provide more protection than nothing. Researchers tested household materials. Here's which captured the most particles.",
+                "fallback": "Smart Air Filters: What Are The Best Materials for Making DIY Masks? - Smart Air Filters",
+                "thumb_url": "https://smartairfilters.com/wordpress/wp-content/uploads/2020/03/Best-material-fabric-for-making-DIY-masks-to-capture-viruses.png",
+                "ts": 1583639069,
+                "from_url": "https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/",
+                "thumb_width": 900,
+                "thumb_height": 500,
+                "service_icon": "https://smartairfilters.com/favicon.ico",
+                "id": 1,
+                "original_url": "https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+2fXD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585400086.104000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585414193.109500",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01069Z58V8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2436be99-2791-4a05-9757-6a6df43b296a",
+        "type": "message",
+        "text": "<https://github.com/arayalakew/covid19ethio|https://github.com/arayalakew/covid19ethio> is the git if interested to contribute",
+        "user": "U010DGZG9DK",
+        "ts": "1585400105.104200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "arayalakew/covid19ethio",
+                "title": "arayalakew/covid19ethio",
+                "footer": "<https://github.com/arayalakew/covid19ethio|arayalakew/covid19ethio>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585172748,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "1",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Dart",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/arayalakew/covid19ethio",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WI0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.com/arayalakew/covid19ethio",
+                                "text": "https://github.com/arayalakew/covid19ethio"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is the git if interested to contribute"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585398867.102300",
+        "parent_user_id": "U010P2VU7ND"
+    },
+    {
+        "client_msg_id": "367af7fc-d8f2-4abf-b4b8-7096a340d2ea",
+        "type": "message",
+        "text": "who is working on <http://tena.et?|tena.et?>?",
+        "user": "U010P2VU7ND",
+        "ts": "1585400312.104500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iN=sC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "who is working on tena.et??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585398867.102300",
+        "parent_user_id": "U010P2VU7ND"
+    },
+    {
+        "client_msg_id": "6974a2c1-101b-408a-a951-62973d7a1fae",
+        "type": "message",
+        "text": "<@U010JAMHQUC> <@U010K3X390E> are working on it",
+        "user": "U010DGZG9DK",
+        "ts": "1585400359.104700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EdRL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010JAMHQUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010K3X390E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are working on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585398867.102300",
+        "parent_user_id": "U010P2VU7ND"
+    },
+    {
+        "client_msg_id": "5ee68750-ef4b-474a-9387-f1740a2af087",
+        "type": "message",
+        "text": "Hello <@U010P2VU7ND>\nThank you for sharing this. There is a channel dedicated to making DIY gears <#C010GQUEBSQ|proj-diy-gear>\n\nWe looked into HEPA materials but it is not manufactured in Ethiopia. It is imported for abroad so we may not have enough quantities available for this  project.",
+        "user": "U0107JERE9L",
+        "ts": "1585414193.109500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/W6zh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010P2VU7ND"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThank you for sharing this. There is a channel dedicated to making DIY gears "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010GQUEBSQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe looked into HEPA materials but it is not manufactured in Ethiopia. It is imported for abroad so we may not have enough quantities available for this  project."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585400086.104000",
+        "parent_user_id": "U010P2VU7ND"
+    },
+    {
+        "client_msg_id": "8c2ccd17-12c7-440f-86f6-a646ae05a11e",
+        "type": "message",
+        "text": "<!here> <@UV8B0679P> Hi all I am not sure if this idea is already mentioned here but I want to say this , I had Teladoc experience this week and I am thinking to have similar app In Ethiopia to minimize doctor visit for basic stuff and make a couple of doctors available for video conference support. I was researching how quickly we can achieve this the fastest way I can see is to purchase ready made apps like (<http://cubedoctor.bbcsproducts.com/> from <http://V3Cube.com|V3Cube.com> I got a qoute $17K or we can develop the app similar to this very quickly ).",
+        "user": "U010Z9NDLHW",
+        "ts": "1585417833.115900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010Z9NDLHW",
+            "ts": "1585419150.000000"
+        },
+        "attachments": [
+            {
+                "title": "Home",
+                "title_link": "http://cubedoctor.bbcsproducts.com/",
+                "text": "Home",
+                "fallback": "Home",
+                "from_url": "http://cubedoctor.bbcsproducts.com/",
+                "service_icon": "http://cubedoctor.bbcsproducts.com/favicon.ico",
+                "service_name": "cubedoctor.bbcsproducts.com",
+                "id": 1,
+                "original_url": "http://cubedoctor.bbcsproducts.com/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Otr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi all I am not sure if this idea is already mentioned here but I want to say this , I had Teladoc experience this week and I am thinking to have similar app In Ethiopia to minimize doctor visit for basic stuff and make a couple of doctors available for video conference support. I was researching how quickly we can achieve this the fastest way I can see is to purchase ready made apps like ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://cubedoctor.bbcsproducts.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://V3Cube.com",
+                                "text": "V3Cube.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I got a qoute $17K or we can develop the app similar to this very quickly )."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "520ded04-4cdc-4490-99fe-467777f70efd",
+        "type": "message",
+        "text": "Don't know if it's been mentioned , but would love to see a chatbot integrated to messenger or Whatsapp where you can ask all your questions about corona and get advice ...",
+        "user": "U0109D9RQTV",
+        "ts": "1585429060.119500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w6bfi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't know if it's been mentioned , but would love to see a chatbot integrated to messenger or Whatsapp where you can ask all your questions about corona and get advice ..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df01a527-3d0c-454d-9cbd-e8402992127f",
+        "type": "message",
+        "text": "<https://www.oxygen.protofy.xyz/> OxyGEN is an automated manual AMBU type ventilator.",
+        "user": "U010EQU5E6N",
+        "ts": "1585429080.119700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f5H8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.oxygen.protofy.xyz/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " OxyGEN is an automated manual AMBU type ventilator."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01069Z58V8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

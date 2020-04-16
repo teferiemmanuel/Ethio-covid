@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "5E0CDBA3-735A-462B-BF75-E1165F983C19",
+        "type": "message",
+        "text": "<@U011DKAR6SZ> thank you :pray: ",
+        "user": "UVB9ZSPCH",
+        "ts": "1586140179.092800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9L27",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011DKAR6SZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "client_msg_id": "ae61aff5-eb9f-4508-bf7c-6ba7b83ad0f0",
+        "type": "message",
+        "text": "Hi All, I'm a country rep for IT company that has a cloub based IVR solution here in Addis. <@UVB595TCJ> I am free to talk with you guys and see how we can collaborate.",
+        "user": "U010VSAKD1S",
+        "ts": "1585401179.003100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c0t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All, I'm a country rep for IT company that has a cloub based IVR solution here in Addis. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB595TCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am free to talk with you guys and see how we can collaborate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "353c9638-b11f-491d-b8f3-461d943db956",
+        "type": "message",
+        "text": "<http://Viamo.io|Viamo.io>",
+        "user": "U010VSAKD1S",
+        "ts": "1585401244.003300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SRCWi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http://Viamo.io",
+                                "text": "Viamo.io"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b377f45-a5e3-48d4-bd63-c7e9f4a7feb4",
+        "type": "message",
+        "text": "<!here> My number is <tel:+251912648082|+251912 648082>. You can call me directly, whatsapp of viber.",
+        "user": "U010VSAKD1S",
+        "ts": "1585401385.004300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1u+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " My number is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+251912648082",
+                                "text": "+251912 648082"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". You can call me directly, whatsapp of viber."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4281e57-f480-4db0-b417-3ab19c8cf89d",
+        "type": "message",
+        "text": "hi <@U010VSAKD1S> currently IVR effort is on hold as there are local solutions being entertained. Is your cloud solutions running inside or outside Ethiopia?",
+        "user": "UVB595TCJ",
+        "ts": "1585422073.005300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cXLk3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010VSAKD1S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " currently IVR effort is on hold as there are local solutions being entertained. Is your cloud solutions running inside or outside Ethiopia?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03e46580-5c75-4dd9-97d9-b77059382712",
+        "type": "message",
+        "text": "Inside Ethiopia",
+        "user": "U010VSAKD1S",
+        "ts": "1585423059.005600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sP=A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Inside Ethiopia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a04c525-088b-482d-b5f4-0bdcf45fb949",
+        "type": "message",
+        "text": "I know there are several local implementations, some directly being maintained by ETC and FMOH so I was thinking this group would fill whatever gap exists in those implementations.",
+        "user": "U010VSAKD1S",
+        "ts": "1585423175.007200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GpADo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know there are several local implementations, some directly being maintained by ETC and FMOH so I was thinking this group would fill whatever gap exists in those implementations."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

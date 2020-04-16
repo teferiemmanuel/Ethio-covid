@@ -1,0 +1,512 @@
+[
+    {
+        "client_msg_id": "A9CB4E65-6891-4ECB-AA5B-3839470D880D",
+        "type": "message",
+        "text": "FYI <@UV8B0679P> is going to connect Google Analytics to the site. Sossina also suggested connecting the socials.  ",
+        "user": "U010CLFURT8",
+        "ts": "1586487591.177200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010CLFURT8",
+            "ts": "1586488013.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iAtXl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is going to connect Google Analytics to the site. Sossina also suggested connecting the socials.  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586487591.177200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586488173.178800",
+        "reply_users": [
+            "U01085512G5",
+            "U010CLFURT8"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01085512G5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e68657b9-afe4-4866-aeac-567fa94a655a",
+        "type": "message",
+        "text": "GA?",
+        "user": "U01085512G5",
+        "ts": "1586487816.177400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k3hc9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GA?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586487591.177200",
+        "parent_user_id": "U010CLFURT8"
+    },
+    {
+        "client_msg_id": "CCFFCD83-5514-4E0B-BAB4-97759BA01821",
+        "type": "message",
+        "text": "Google Analytics :) updated my note!  ",
+        "user": "U010CLFURT8",
+        "ts": "1586487991.178500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D=b4I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Google Analytics :) updated my note!  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586487591.177200",
+        "parent_user_id": "U010CLFURT8"
+    },
+    {
+        "client_msg_id": "04d7acad-b603-43a5-b21c-3c2181b6efef",
+        "type": "message",
+        "text": "Oh ok...cool",
+        "user": "U01085512G5",
+        "ts": "1586488173.178800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WBk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh ok...cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586487591.177200",
+        "parent_user_id": "U010CLFURT8"
+    },
+    {
+        "client_msg_id": "66c4f1bc-66a7-4e18-bafa-bd7a71545233",
+        "type": "message",
+        "text": "<!channel> I have just pushed a bunch of changes to the site. All content, English and Amharic, has now been plugged in. Also changed the localization/routing approach to make content entry easier and simplify maintainance.\n\nYou may check out current state of the site here: <http://ethiopia-covid19.com>\ncc: QA, <@UVAL943JP> <@UVC2L182V>\n\n*What is left* \n1. Host downloadable material (<https://drive.google.com/drive/folders/10QZ8IA1gIOOr0sLFbELoi0_eydmh2VJI?usp=sharing>) somewhere and link them for download on the Resources page  `-- work started`\n2. Content misses some phone numbers. cc: <@U0106M26108> <@UVALWD1MG> \n3. We need the Amharic versions of the Header images of each page. cc: <@U0115055LQP> <@U011870MD54> \n4. (Also <@U0115055LQP> and <@U011870MD54>) - we changed _Back_ to _Home._ If you can make us SVGs with _Home_ Button, that would be much appreciated. ",
+        "user": "U01085512G5",
+        "ts": "1586538357.186800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01085512G5",
+            "ts": "1586552066.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uTWLx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have just pushed a bunch of changes to the site. All content, English and Amharic, has now been plugged in. Also changed the localization/routing approach to make content entry easier and simplify maintainance.\n\nYou may check out current state of the site here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://ethiopia-covid19.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ncc: QA, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVAL943JP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVC2L182V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "What is left ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Host downloadable material ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://drive.google.com/drive/folders/10QZ8IA1gIOOr0sLFbELoi0_eydmh2VJI?usp=sharing"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") somewhere and link them for download on the Resources page  "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "-- work started",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Content misses some phone numbers. cc: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0106M26108"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "UVALWD1MG"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We need the Amharic versions of the Header images of each page. cc: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0115055LQP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U011870MD54"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(Also "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0115055LQP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U011870MD54"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") - we changed "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Back",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Home. ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "If you can make us SVGs with "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Home",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Button, that would be much appreciated. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586538357.186800",
+        "reply_count": 13,
+        "reply_users_count": 5,
+        "latest_reply": "1586742692.216500",
+        "reply_users": [
+            "UV6JHDP0S",
+            "UVALWD1MG",
+            "U01085512G5",
+            "UVC2L182V",
+            "U011870MD54"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U010K3X390E",
+                    "UVAL943JP",
+                    "UV6JHDP0S",
+                    "UVC2L182V",
+                    "U0115055LQP",
+                    "UVALWD1MG"
+                ],
+                "count": 6
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U0106M26108",
+                    "UV6JHDP0S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c9abeb1-2bd5-43bb-8335-0f975972d3e9",
+        "type": "message",
+        "text": "<@U01085512G5> This is GREAT!!!",
+        "user": "UV6JHDP0S",
+        "ts": "1586553734.188400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Cxc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This is GREAT!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586538357.186800",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "A6D99E13-5144-4657-B790-5AC51DEEFC60",
+        "type": "message",
+        "text": "<@U01085512G5> which content? Lmk what tab it\u2019s on and I can try to help",
+        "user": "UVALWD1MG",
+        "ts": "1586561489.189900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eVLZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which content? Lmk what tab it\u2019s on and I can try to help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586538357.186800",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "46C0A5BD-6A1E-454C-A63E-09D5D49CE135",
+        "type": "message",
+        "text": "Btw it looks amazing!",
+        "user": "UVALWD1MG",
+        "ts": "1586561505.190500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9bxPE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Btw it looks amazing!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586538357.186800",
+        "parent_user_id": "U01085512G5",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb8b96be-1423-4501-8cda-743be52e63c2",
+        "type": "message",
+        "text": "Thank you both.\n<@UVALWD1MG> it is mostly contact phone number at the MOH. I believe on the what to do if you are sick and/or care for others.",
+        "user": "U01085512G5",
+        "ts": "1586562811.191000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CAN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you both.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVALWD1MG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it is mostly contact phone number at the MOH. I believe on the what to do if you are sick and/or care for others."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586538357.186800",
+        "parent_user_id": "U01085512G5"
+    }
+]

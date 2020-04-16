@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585448517.003300",
+        "user": "UV6JHDP0S",
+        "text": "<@UV6JHDP0S> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585512110.000200",
+        "user": "U0107B1TT26",
+        "text": "<@U0107B1TT26> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0107B1TT26",
+        "ts": "1585512111.000300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 29th, 2020 11:00 PM] shiferaw.tilahun: I wonder Khat (\u132b\u1275) marketing will high risk for the COVID-19 transmission at East Hararge. Immediate action is required from concerned body!!!!!!",
+                "ts": "1585512033.116800",
+                "author_id": "U0107B1TT26",
+                "author_subname": "Tilahun",
+                "channel_id": "CVBQ5H16D",
+                "channel_name": "awareness-content",
+                "is_msg_unfurl": true,
+                "text": "I wonder Khat (\u132b\u1275) marketing will high risk for the COVID-19 transmission at East Hararge. Immediate action is required from concerned body!!!!!!",
+                "author_name": "Tilahun",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107B1TT26",
+                "author_icon": "https://secure.gravatar.com/avatar/f32e128fc0a195d27a33f855daab6461.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CVBQ5H16D/p1585512033116800",
+                "is_share": true,
+                "footer": "Posted in #awareness-content"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585513728.000500",
+        "user": "U010ZQR2QRE",
+        "text": "<@U010ZQR2QRE> has joined the channel"
+    },
+    {
+        "client_msg_id": "b828f9c2-7777-439f-8ccd-1bf473641ad2",
+        "type": "message",
+        "text": "<@U010NURE9T2> @ermiarch I see that you guys are working on the *Static Site for COVID-19 Ethiopia ; Please feel free to reach out to me if there is anything I can help out with?*",
+        "user": "U010ZQR2QRE",
+        "ts": "1585513942.002100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oGe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010NURE9T2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " @ermiarch I see that you guys are working on the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Static Site for COVID-19 Ethiopia ; Please feel free to reach out to me if there is anything I can help out with?",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585513950.002300",
+        "user": "U010NURE9T2",
+        "text": "<@U010NURE9T2> has joined the channel",
+        "inviter": "U010ZQR2QRE"
+    }
+]

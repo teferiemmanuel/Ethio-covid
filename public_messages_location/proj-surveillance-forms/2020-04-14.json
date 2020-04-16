@@ -1,0 +1,177 @@
+[
+    {
+        "client_msg_id": "673bf26c-9808-49bb-8fbf-1cd93e5f2b76",
+        "type": "message",
+        "text": "<!here> Do you guys want to do a quick sync today at 10:30 PST?   That\u2019s in 40 minutes.",
+        "user": "U01084NU2NL",
+        "ts": "1586829138.143200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1586829173.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qObw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do you guys want to do a quick sync today at 10:30 PST?   That\u2019s in 40 minutes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586829138.143200",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1586848353.145600",
+        "reply_users": [
+            "U0109ELFV4Y",
+            "U01084NU2NL",
+            "U0107EMK8UD"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "32f25a52-9eeb-47d5-824c-7a3128a09691",
+        "type": "message",
+        "text": "Can\u2019t today",
+        "user": "U0109ELFV4Y",
+        "ts": "1586829619.143600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xmjn9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can\u2019t today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586829138.143200",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "e2b3d898-1ce3-4664-a470-a48cf8d76d9e",
+        "type": "message",
+        "text": "It sounds like nobody could.  When do we want to do a sync before the all hands tomorrow?",
+        "user": "U01084NU2NL",
+        "ts": "1586834014.143800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzYU1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It sounds like nobody could.  When do we want to do a sync before the all hands tomorrow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586829138.143200",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "b5f80bed-95c9-459c-aadb-132b8c954946",
+        "type": "message",
+        "text": "<@U01084NU2NL> would it be helpful for <@U0107DX4VNU> and I to be on this call to talk through the suggested edits? If so, tomorrow morning (before 10am PST) would work for me. I totally understand if this is more of an internal call.",
+        "user": "U0107EMK8UD",
+        "ts": "1586842956.144000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jYO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would it be helpful for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I to be on this call to talk through the suggested edits? If so, tomorrow morning (before 10am PST) would work for me. I totally understand if this is more of an internal call."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586829138.143200",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "836B6311-0FDB-4E82-AC83-A11D9C6E10B4",
+        "type": "message",
+        "text": "Hi <@U0107EMK8UD>.  We generally don\u2019t get into the weeds much on these calls but you are welcome to join!",
+        "user": "U01084NU2NL",
+        "ts": "1586848353.145600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1586877446.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Hd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".  We generally don\u2019t get into the weeds much on these calls but you are welcome to join!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586829138.143200",
+        "parent_user_id": "U01084NU2NL"
+    }
+]

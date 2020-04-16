@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "3c003fc5-4fa2-4ec9-ab74-da8fbaa9c20a",
+        "type": "message",
+        "text": "@mike we made some progress, <@U0107898C9M> face Internet connection problem this weekend to push final version.",
+        "user": "U010MHWSRPH",
+        "ts": "1586716666.007900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rqn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@mike we made some progress, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " face Internet connection problem this weekend to push final version."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586716666.007900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586717897.009300",
+        "reply_users": [
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "A39B4434-05C1-40C7-BA44-25500B4A200B",
+        "type": "message",
+        "text": "Fantastic. Can we help him get online?",
+        "user": "UV8B0679P",
+        "ts": "1586717897.009300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g6+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fantastic. Can we help him get online?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586716666.007900",
+        "parent_user_id": "U010MHWSRPH"
+    }
+]

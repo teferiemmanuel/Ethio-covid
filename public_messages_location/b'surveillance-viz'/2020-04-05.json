@@ -1,0 +1,1980 @@
+[
+    {
+        "client_msg_id": "07e19c0f-8953-49d5-a5b3-0028c63a3ee5",
+        "type": "message",
+        "text": "<@U01119ZG719>\u00a0has shared some excellent forecasting tools/resources here:\u00a0<https://jemsethio.shinyapps.io/forecast_covid19/>\nThink it will be useful to include some of these projections in the charts too,\n\nSomething like this would be great to have :\n<https://covid19.healthdata.org/projections>",
+        "user": "U010UJ2C1FS",
+        "ts": "1586101721.211900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Institute for Health Metrics and Evaluation",
+                "title": "IHME | COVID-19 Projections",
+                "title_link": "https://covid19.healthdata.org/projections",
+                "text": "Explore hospital bed use, need for intensive care beds, and ventilator use due to COVID-19 based on projected deaths for all 50 US states and District of Columbia",
+                "fallback": "Institute for Health Metrics and Evaluation: IHME | COVID-19 Projections",
+                "image_url": "https://www.healthdata.org/sites/default/files/files/Data_viz/COVID-19%20Projections%20OG.png",
+                "from_url": "https://covid19.healthdata.org/projections",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 57528,
+                "service_icon": "https://covid19.healthdata.org/dist/images/favicon-32x32.png",
+                "id": 1,
+                "original_url": "https://covid19.healthdata.org/projections"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TAI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01119ZG719"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0has shared some excellent forecasting tools/resources here:\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://jemsethio.shinyapps.io/forecast_covid19/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThink it will be useful to include some of these projections in the charts too,\n\nSomething like this would be great to have :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://covid19.healthdata.org/projections"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "reply_count": 13,
+        "reply_users_count": 6,
+        "latest_reply": "1586199685.249000",
+        "reply_users": [
+            "U01051X26HJ",
+            "U010UJ2C1FS",
+            "U01119ZG719",
+            "U010T8D05UM",
+            "UV8B0679P",
+            "U01078QCG2C"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "febfb089-cc89-4110-81e0-31fc756708cd",
+        "type": "message",
+        "text": "That is excellent work <@U01119ZG719>",
+        "user": "U01051X26HJ",
+        "ts": "1586102734.212100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nv2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is excellent work "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01119ZG719"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "5c7d543c-0a22-45fc-8a7d-b6377d157d85",
+        "type": "message",
+        "text": "Is anyone is familiar with integrating these kind of models in a way that is usable by the dashboard?",
+        "user": "U010UJ2C1FS",
+        "ts": "1586102863.212400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I59OU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is anyone is familiar with integrating these kind of models in a way that is usable by the dashboard?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "fcd98ed2-588c-4698-bb2c-551101c0a425",
+        "type": "message",
+        "text": "<@U0107DX4VNU> can you send them to me?  Unless there is a group tasked with finalizing the requirements for those APIs, <@UV8B0679P> <@U0107JEKN0N>?",
+        "user": "U01084NU2NL",
+        "ts": "1586110833.213500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bkxf/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you send them to me?  Unless there is a group tasked with finalizing the requirements for those APIs, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026039.197500",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "0ecfeb73-ea9c-4861-be74-4de8763e6e1f",
+        "type": "message",
+        "text": "<@U01084NU2NL> there isn't please feel free to create feature stories on GitHub once you review them.",
+        "user": "U0107JEKN0N",
+        "ts": "1586111094.213700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107JEKN0N",
+            "ts": "1586111112.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XHO0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " there isn't please feel free to create feature stories on GitHub once you review them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026039.197500",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "112b1a95-1d51-4a71-ae1b-b9e3f38bbbe9",
+        "type": "message",
+        "text": "<@U01078QCG2C> - checking in on how things are moving on this side",
+        "user": "UV8B0679P",
+        "ts": "1586117561.215300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zl0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - checking in on how things are moving on this side"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586117561.215300",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1586120441.218000",
+        "reply_users": [
+            "U01078QCG2C",
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "82217105-a8eb-4ae1-a7c2-05b59ab3d913",
+        "type": "message",
+        "text": "Hey",
+        "user": "U01078QCG2C",
+        "ts": "1586119075.215500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UPm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586117561.215300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "342a6132-52a5-4a6b-b1c1-7f058dc4f7cd",
+        "type": "message",
+        "text": "Met with some epidemiology folks yesterday and they gave some feature/requirement requests that we collected here:\n<https://docs.google.com/document/d/1mwgA4qZ1sunzPUHc3Y1rfeailJUkkxByyLyg4tqpqj8/edit?usp=sharing>",
+        "user": "U01078QCG2C",
+        "ts": "1586119121.215700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W=lPp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Met with some epidemiology folks yesterday and they gave some feature/requirement requests that we collected here:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1mwgA4qZ1sunzPUHc3Y1rfeailJUkkxByyLyg4tqpqj8/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586117561.215300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "31500005-cb97-4fcf-a9ab-4acb8d9eb651",
+        "type": "message",
+        "text": "Turned that into some actionable tickets for the dashboard in the github project board. Working through those now",
+        "user": "U01078QCG2C",
+        "ts": "1586119156.215900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1586119169.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bGS8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Turned that into some actionable tickets for the dashboard in the github project board. Working through those now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586117561.215300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "c8091fbf-2bab-4643-9006-6e41ed2038a4",
+        "type": "message",
+        "text": "Okay - do you need help or you\u2019re on track delivering those today?",
+        "user": "UV8B0679P",
+        "ts": "1586119279.216200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6=yX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay - do you need help or you\u2019re on track delivering those today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586117561.215300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "243002a2-f17a-4af0-9480-bfb9e0f43da6",
+        "type": "message",
+        "text": "Were prioritizing the first three listed in that doc for this weekend. I would say on track for at least the first two by tonight. May be able to include the third",
+        "user": "U01078QCG2C",
+        "ts": "1586119402.216400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xN6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Were prioritizing the first three listed in that doc for this weekend. I would say on track for at least the first two by tonight. May be able to include the third"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586117561.215300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "01b83710-3875-4805-b624-508206cf09ad",
+        "type": "message",
+        "text": "If I could get help finding someone to take on the third item, the pie charts, that would be helpful and I can brief them on what exactly we need.",
+        "user": "U01078QCG2C",
+        "ts": "1586119655.216600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1586119681.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NE=N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If I could get help finding someone to take on the third item, the pie charts, that would be helpful and I can brief them on what exactly we need."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586117561.215300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "2c777ad6-eef7-4a77-9db8-975324bd128a",
+        "type": "message",
+        "text": "If they know chart.js or Vue that background would be ideal.",
+        "user": "U01078QCG2C",
+        "ts": "1586119760.216900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If they know chart.js or Vue that background would be ideal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586117561.215300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "d4075a99-ad0d-4165-b00d-ed87628980f6",
+        "type": "message",
+        "text": "Okay - can you write out a quick message that I can put on the <#C010695DKMM|all-broadcast> asking for help",
+        "user": "UV8B0679P",
+        "ts": "1586120432.217800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wIMe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay - can you write out a quick message that I can put on the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010695DKMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " asking for help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586117561.215300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "f0ef7a55-cd3b-488e-8d12-f5378f7a9024",
+        "type": "message",
+        "text": "List out the asks you want",
+        "user": "UV8B0679P",
+        "ts": "1586120441.218000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F5hC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "List out the asks you want"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586117561.215300",
+        "parent_user_id": "UV8B0679P",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d514050c-2a49-4ff5-b85e-a9d5eb9f45d2",
+        "type": "message",
+        "text": "<@U010UJ2C1FS> Tnx , if you got some epidemiologist we can improve the performance of the prediction. we need different covid-19 clinical parametrization.",
+        "user": "U01119ZG719",
+        "ts": "1586122126.218200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ERf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010UJ2C1FS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tnx , if you got some epidemiologist we can improve the performance of the prediction. we need different covid-19 clinical parametrization."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "8a53ab65-22ef-4373-97f2-bd259cd1bace",
+        "type": "message",
+        "text": "<!here> a quick update on the surveillance forms.   A rock star team led by <@U0109ELFV4Y> (huge shoutouts to <@U010A8YEUP9> <@U0104F8P8US> <@UV9A3J397> <@UV6JHDP0S> <@U0107JEKN0N>) have made incredible progress on the surveillance forms in a short time!  <http://forms.ethiopia-covid19.com/>   If there are any React engineers out there that can help get these to the finish line, please come join in on the fun!",
+        "user": "U01084NU2NL",
+        "ts": "1586123018.221100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O2xnd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a quick update on the surveillance forms.   A rock star team led by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (huge shoutouts to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010A8YEUP9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0104F8P8US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9A3J397"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") have made incredible progress on the surveillance forms in a short time!  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://forms.ethiopia-covid19.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   If there are any React engineers out there that can help get these to the finish line, please come join in on the fun!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "reply_count": 45,
+        "reply_users_count": 9,
+        "latest_reply": "1586638738.273100",
+        "reply_users": [
+            "U0107EMK8UD",
+            "U01084NU2NL",
+            "U0107JEKN0N",
+            "U0107DX4VNU",
+            "U0109ELFV4Y",
+            "UV6JHDP0S",
+            "UV8B0679P",
+            "U0107A7161E",
+            "U010DH00BCM"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107A7161E",
+                    "UV8B0679P",
+                    "U0111A9R6JK"
+                ],
+                "count": 3
+            },
+            {
+                "name": "crown",
+                "users": [
+                    "U0107A7161E",
+                    "UV8B0679P",
+                    "U0111A9R6JK"
+                ],
+                "count": 3
+            },
+            {
+                "name": "clap::skin-tone-5",
+                "users": [
+                    "U0107A7161E",
+                    "UV8B0679P",
+                    "U0111A9R6JK"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0107JEKN0N",
+                    "UV8B0679P",
+                    "U0111A9R6JK"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA",
+                    "U01023RPHPU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77792a8a-c5d5-4fae-89d1-2b4577ee4e26",
+        "type": "message",
+        "text": "Hi <@U01084NU2NL> -- in tandem with <@U0107EMK8UD>, attached are suggested updates/changes. Tagging <@U01022PTXA7>, <@U011680TZL5> in case they have additional suggestions\n<https://docs.google.com/document/d/1sDul-G0_yOVh86xuGUxSlXxPzbrv05IGh_cBy0yqoJw/edit?usp=sharing|Suggested changes to Passenger and Community-based Registration forms>",
+        "user": "U0107DX4VNU",
+        "ts": "1586123443.221600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107DX4VNU",
+            "ts": "1586123747.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C4u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -- in tandem with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", attached are suggested updates/changes. Tagging "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01022PTXA7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011680TZL5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in case they have additional suggestions\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1sDul-G0_yOVh86xuGUxSlXxPzbrv05IGh_cBy0yqoJw/edit?usp=sharing",
+                                "text": "Suggested changes to Passenger and Community-based Registration forms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026039.197500",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010JHVF19U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "634bcf86-4d30-491e-97c1-de89ecd887fd",
+        "type": "message",
+        "text": "<@U010T8D05UM> , is this something you can help with?",
+        "user": "U010UJ2C1FS",
+        "ts": "1586123566.221800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JWS2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010T8D05UM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , is this something you can help with?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "b49d8e70-2e4a-44e1-a769-8b4bae979ad0",
+        "type": "message",
+        "text": "<@U01119ZG719> <@U010UJ2C1FS> what clinical parameters are you trying to identify?",
+        "user": "U010T8D05UM",
+        "ts": "1586123771.222100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=IsY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01119ZG719"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010UJ2C1FS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what clinical parameters are you trying to identify?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "bd2ab119-3209-4eee-9df5-c84bd78c91d9",
+        "type": "message",
+        "text": "Hi <@U01084NU2NL> Thank you for all your work. Just wanted to make sure you saw suggestions for the survey from <@U0107DX4VNU> and I <https://ethiopia-covid19.slack.com/archives/C0106BWK8AX/p1586123443221600?thread_ts=1586026039.197500&amp;cid=C0106BWK8AX|here>. These suggestions are based on prior discussions with the Comcare team that the two of us and <@U01022PTXA7>  have had, to give public health-informed suggestions and to make sure that survey tools are collecting relevant/useful information.",
+        "user": "U0107EMK8UD",
+        "ts": "1586124739.222300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0106BWK8AX/p1586123443221600?thread_ts=1586026039.197500&amp;cid=C0106BWK8AX",
+                "fallback": "[April 5th, 2020 2:50 PM] mahadertamene: Hi <@U01084NU2NL> -- in tandem with <@U0107EMK8UD>, attached are suggested updates/changes. Tagging <@U01022PTXA7>, <@U011680TZL5> in case they have additional suggestions\n<https://docs.google.com/document/d/1sDul-G0_yOVh86xuGUxSlXxPzbrv05IGh_cBy0yqoJw/edit?usp=sharing|Suggested changes to Passenger and Community-based Registration forms>",
+                "ts": "1586123443.221600",
+                "author_id": "U0107DX4VNU",
+                "author_subname": "Mahader",
+                "channel_id": "C0106BWK8AX",
+                "channel_name": "surveillance-viz",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "Hi <@U01084NU2NL> -- in tandem with <@U0107EMK8UD>, attached are suggested updates/changes. Tagging <@U01022PTXA7>, <@U011680TZL5> in case they have additional suggestions\n<https://docs.google.com/document/d/1sDul-G0_yOVh86xuGUxSlXxPzbrv05IGh_cBy0yqoJw/edit?usp=sharing|Suggested changes to Passenger and Community-based Registration forms>",
+                "author_name": "Mahader",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107DX4VNU",
+                "author_icon": "https://secure.gravatar.com/avatar/78dcb23d350ed2acf3a9a42381d3bdd8.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0106BWK8AX/p1586123443221600?thread_ts=1586026039.197500&amp;cid=C0106BWK8AX",
+                "footer": "From a thread in #surveillance-viz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wwn/I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you for all your work. Just wanted to make sure you saw suggestions for the survey from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0106BWK8AX/p1586123443221600?thread_ts=1586026039.197500&cid=C0106BWK8AX",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". These suggestions are based on prior discussions with the Comcare team that the two of us and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01022PTXA7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  have had, to give public health-informed suggestions and to make sure that survey tools are collecting relevant/useful information."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "B791D208-9849-4F9C-8331-BD3346E4793C",
+        "type": "message",
+        "text": "Thanks <@U0107EMK8UD>    There are actually 3 forms.   There is one for medical facilities too.  Can you please indicate which suggestions apply to that as well?   <@U0107JEKN0N> when do you guys thing we can make these available on the gateway?   We can lead with writes. ",
+        "user": "U01084NU2NL",
+        "ts": "1586125179.225000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNNpS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    There are actually 3 forms.   There is one for medical facilities too.  Can you please indicate which suggestions apply to that as well?   "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " when do you guys thing we can make these available on the gateway?   We can lead with writes. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "cd01fc0c-85ce-4b4c-949a-1739d8c97772",
+        "type": "message",
+        "text": "<@U01084NU2NL> these forms are direct copies of what's approved by MOH, do you think it's okay to modify them without getting their ok? cc: <@UV8B0679P>",
+        "user": "U0107JEKN0N",
+        "ts": "1586125307.225200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107JEKN0N",
+            "ts": "1586125327.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/25N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " these forms are direct copies of what's approved by MOH, do you think it's okay to modify them without getting their ok? cc: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "43446713-f739-40f4-b4c1-a61e9d229b6c",
+        "type": "message",
+        "text": "Thanks for looping me in <@U0107DX4VNU>. <@U01084NU2NL> and team, thanks for putting this together! I agree with Elleni's and Mahader's suggestions in the google doc. The only thing I would suggest is reword \"chronic respiratory disease\" to \"Lung disease\".",
+        "user": "U011680TZL5",
+        "ts": "1586125391.227300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HmQT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for looping me in "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and team, thanks for putting this together! I agree with Elleni's and Mahader's suggestions in the google doc. The only thing I would suggest is reword \"chronic respiratory disease\" to \"Lung disease\"."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026039.197500",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010JHVF19U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9175FB5D-12E1-49CD-8592-257242514FF1",
+        "type": "message",
+        "text": "Good point. <@U0107EMK8UD> <@U0107DX4VNU>  can we get aligned on this.  <@U0107JEKN0N> from a quick glance, the changes appear to be incremental (more fields) so not sure MoH would have major concerns.  ",
+        "user": "U01084NU2NL",
+        "ts": "1586125413.228000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pi2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good point. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  can we get aligned on this.  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from a quick glance, the changes appear to be incremental (more fields) so not sure MoH would have major concerns.  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "bafcd15b-42da-4ceb-9962-11af03b5271c",
+        "type": "message",
+        "text": "In that case I can add them quickly.",
+        "user": "U0107JEKN0N",
+        "ts": "1586125502.228200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mw+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In that case I can add them quickly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "f34790f7-31c2-4a3b-b4fc-80ad3f19ed03",
+        "type": "message",
+        "text": "Our suggestions are on the *Community-based registration form* (<https://community.covid19.et/>) and the *for the Passenger registration form* (<https://passengers.covid19.et/>). For example one issue included a mistranslation of a phrase from Amharic to English--which has direct implications to the information the would be collected",
+        "user": "U0107EMK8UD",
+        "ts": "1586125516.228400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dZRgb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our suggestions are on the"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Community-based registration form ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://community.covid19.et/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") and the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "for the Passenger registration form",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://passengers.covid19.et/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). For example one issue included a mistranslation of a phrase from Amharic to English--which has direct implications to the information the would be collected"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "2b9ff3f6-867e-44fa-a461-2b83d152f60f",
+        "type": "message",
+        "text": "Thank you all for working through this! I would say changes are minimal and also there are at minimum errors that should be corrected/pointed out so think its worth getting MOH approval again if that's necessary.",
+        "user": "U0107DX4VNU",
+        "ts": "1586125583.228600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DocEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you all for working through this! I would say changes are minimal and also there are at minimum errors that should be corrected/pointed out so think its worth getting MOH approval again if that's necessary."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JEKN0N",
+                    "U0107A7161E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45AB14C4-A0DE-4C92-A2AF-54DF7C97C83B",
+        "type": "message",
+        "text": "Are you guys aware of the medical facilities form we are working on as well?",
+        "user": "U01084NU2NL",
+        "ts": "1586125729.229500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ct5m3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you guys aware of the medical facilities form we are working on as well?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "c7251d76-89d2-4620-b334-1f61521c2ac5",
+        "type": "message",
+        "text": "No we haven\u2019t seen that yet",
+        "user": "U0107EMK8UD",
+        "ts": "1586125743.229700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mcy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No we haven\u2019t seen that yet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "96E89690-AE45-40CD-AA72-B344E2CDA430",
+        "type": "message",
+        "text": "It\u2019s on the same link I provided.  <http://forms.ethiopia-covid19.com/medical-form|http://forms.ethiopia-covid19.com/medical-form>",
+        "user": "U01084NU2NL",
+        "ts": "1586125834.230400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+v+bf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It\u2019s on the same link I provided.  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://forms.ethiopia-covid19.com/medical-form",
+                                "text": "http://forms.ethiopia-covid19.com/medical-form"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "4e79b77c-5a6e-4a86-8546-98a06cb066b6",
+        "type": "message",
+        "text": "<http://forms.ethiopia-covid19.com/|I> think there may be an issue with routing",
+        "user": "U0109ELFV4Y",
+        "ts": "1586125919.230600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1s5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http://forms.ethiopia-covid19.com/",
+                                "text": "I"
+                            },
+                            {
+                                "type": "text",
+                                "text": " think there may be an issue with routing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "81a8bc23-7592-40c4-aa01-740060358e7c",
+        "type": "message",
+        "text": "its cache",
+        "user": "UV6JHDP0S",
+        "ts": "1586125929.230800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Ss",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its cache"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "5197cd7c-363b-4978-835e-47fb031d03f4",
+        "type": "message",
+        "text": "refresh things",
+        "user": "UV6JHDP0S",
+        "ts": "1586125936.231000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wVtcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "refresh things"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "ec8f7a91-3bdb-4c65-8c7d-3df6f5dadb6f",
+        "type": "message",
+        "text": "<http://forms.ethiopia-covid19.com/|G>o to <http://forms.ethiopia-covid19.com/> and click on the medical centers link at the top",
+        "user": "U0109ELFV4Y",
+        "ts": "1586125938.231200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Il9E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http://forms.ethiopia-covid19.com/",
+                                "text": "G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "o to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://forms.ethiopia-covid19.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and click on the medical centers link at the top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d93260c7-258a-487b-a221-5fb3c49acbc3",
+        "type": "message",
+        "text": "It\u2019s most likely, `App.js` not having a router configured",
+        "user": "UV8B0679P",
+        "ts": "1586125958.231400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It\u2019s most likely, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "App.js",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " not having a router configured"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011657AQDR",
+                "created": 1586126003,
+                "timestamp": 1586126003,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UV8B0679P",
+                "editable": false,
+                "size": 672389,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011657AQDR/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011657AQDR/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011657AQDR-0b65ce0e17/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011657AQDR-0b65ce0e17/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011657AQDR-0b65ce0e17/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 245,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011657AQDR-0b65ce0e17/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 326,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011657AQDR-0b65ce0e17/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011657AQDR-0b65ce0e17/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 489,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011657AQDR-0b65ce0e17/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 543,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011657AQDR-0b65ce0e17/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 652,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011657AQDR-0b65ce0e17/image_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 695,
+                "image_exif_rotation": 1,
+                "original_w": 3354,
+                "original_h": 2278,
+                "thumb_tiny": "AwAgADCOCxEkKPuA3DuKm/ssH/loP++asWS5s4j7VY2igDP/ALKH/PQf980f2UP+eg/75rQwPSloAzv7KH/PQf8AfNR3GniKBn3g7R6Vq1Xvv+POX6UAFh/x5RfSrFZ9pe28dtGjvhgORg1N/aNr/wA9P/HTQBaoqr/aNr/z0/8AHTR/aNr/AM9P/HTQBaqvf/8AHlL9Kb/aNr/z0/8AHTUN3e28ltIiPliOBg0Af//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/UV8B0679P/F011657AQDR/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011657AQDR-f7ecd05aba",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UV8B0679P",
+        "display_as_bot": false,
+        "ts": "1586126009.232000",
+        "client_msg_id": "cf112597-adaa-466b-8188-b0a29932e88c",
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "1120480b-cf9f-4a24-837b-24a4b198a26c",
+        "type": "message",
+        "text": "<http://forms.ethiopia-covid19.com/|G>o to <http://forms.ethiopia-covid19.com/> and click on the medical centers link at the top",
+        "user": "UV6JHDP0S",
+        "ts": "1586126110.232900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f0MB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http://forms.ethiopia-covid19.com/",
+                                "text": "G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "o to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://forms.ethiopia-covid19.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and click on the medical centers link at the top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "1b5427a5-003f-4533-ad08-587a6ffe6e6e",
+        "type": "message",
+        "text": ":point_up:, will fix the direct link issue a lil later",
+        "user": "U0109ELFV4Y",
+        "ts": "1586126160.233100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9zec",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", will fix the direct link issue a lil later"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22ca69f1-4d60-4fb8-b38a-dcc286c2882e",
+        "type": "message",
+        "text": "I would say align the \"Symptoms\" and \"General Information\" section to match the suggestions provided above",
+        "user": "U0107DX4VNU",
+        "ts": "1586126643.233800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7OK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would say align the \"Symptoms\" and \"General Information\" section to match the suggestions provided above"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "bbecafe8-98bf-4e64-9df7-06c179d8b43d",
+        "type": "message",
+        "text": "I agree with <@U0107DX4VNU>. Also wondering, are y\u2019all also working on the Amharic versions of the surveys?",
+        "user": "U0107EMK8UD",
+        "ts": "1586127130.234400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Also wondering, are y\u2019all also working on the Amharic versions of the surveys?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "1a798903-b192-4ebf-ae86-f821d2742ee4",
+        "type": "message",
+        "text": "<@U010T8D05UM> <@U010UJ2C1FS> Actually we are using the classic SEIR model. So the parameters that we are looking for are listed below. If it's not possible to find, we just give an option for Epistemologist to generate a scenario that will help the planning of th public health workers.",
+        "user": "U01119ZG719",
+        "ts": "1586127530.234600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y35",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010T8D05UM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010UJ2C1FS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Actually we are using the classic SEIR model. So the parameters that we are looking for are listed below. If it's not possible to find, we just give an option for Epistemologist to generate a scenario that will help the planning of th public health workers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UJ2C1FS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20195e8b-3b2b-4586-8ae2-f5471e7ef5bd",
+        "type": "message",
+        "text": "<@U010T8D05UM> <@U010UJ2C1FS> Clinical parameters\nDuration of incubation period\nDuration of mild infection\n% of infections that are severe\n% of infections that are critical\nDeath rate for critical infections\nDuration of severe infection (hospital stay)\nDuration of critical infection (ICU stay)",
+        "user": "U01119ZG719",
+        "ts": "1586127563.234800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GexJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010T8D05UM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010UJ2C1FS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Clinical parameters\nDuration of incubation period\nDuration of mild infection\n% of infections that are severe\n% of infections that are critical\nDeath rate for critical infections\nDuration of severe infection (hospital stay)\nDuration of critical infection (ICU stay)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "A2EF233E-1DB7-413C-B222-C11D6E0FE122",
+        "type": "message",
+        "text": "Yes.  Would love any help with the translations <@U0107EMK8UD> ",
+        "user": "U01084NU2NL",
+        "ts": "1586128745.235500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Bui+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes.  Would love any help with the translations "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "ab670c57-fc8d-42ca-9646-9d4024465e47",
+        "type": "message",
+        "text": "<@U01119ZG719> are you putting together a stochastic or deterministic SEIR model? I ask because I can give you shape and scale parameters for several of these. Alternatively, I can just give you mean values",
+        "user": "U010T8D05UM",
+        "ts": "1586129231.235900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010T8D05UM",
+            "ts": "1586129349.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tnNq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01119ZG719"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are you putting together a stochastic or deterministic SEIR model? I ask because I can give you shape and scale parameters for several of these. Alternatively, I can just give you mean values"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "CC0EFB72-D0A2-4629-BCAB-F07D81EED4FC",
+        "type": "message",
+        "text": "BTW you can switch to the Amharic version from the drop down on the top right corner.  ",
+        "user": "U01084NU2NL",
+        "ts": "1586129608.237100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VLMe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BTW you can switch to the Amharic version from the drop down on the top right corner.  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "ed9b8038-3ae8-44f7-b179-d45945735dab",
+        "type": "message",
+        "text": "Great suggestions Mahader and Mahlet.  Two suggestions I have is (1) to add hypertension (High Blood Pressure)  and High Cholestrol for underlying condition. For symptoms - add loss of sense of smell. and \"\"other\" option.\n\nPerhaps take out the medication option (i) and create a seperate question and make it a free form so that users can enter the medication they are taking.",
+        "user": "U010JHVF19U",
+        "ts": "1586129871.237300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QRrQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great suggestions Mahader and Mahlet.  Two suggestions I have is (1) to add hypertension (High Blood Pressure)  and High Cholestrol for underlying condition. For symptoms - add loss of sense of smell. and \"\"other\" option.\n\nPerhaps take out the medication option (i) and create a seperate question and make it a free form so that users can enter the medication they are taking."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026039.197500",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "c3335fe8-436c-4067-a575-5bd4be2af5b8",
+        "type": "message",
+        "text": "<@U01084NU2NL> Sure, will be able to help if there are specific things that need to be looked through. Currently, <@U0107DX4VNU> and I are adding Amharic translations to the suggestions google doc",
+        "user": "U0107EMK8UD",
+        "ts": "1586131066.237700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ieC/Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sure, will be able to help if there are specific things that need to be looked through. Currently, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I are adding Amharic translations to the suggestions google doc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010JHVF19U",
+                    "U0107DX4VNU",
+                    "U01084NU2NL"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

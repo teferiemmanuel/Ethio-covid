@@ -1,0 +1,151 @@
+[
+    {
+        "client_msg_id": "93c18d26-07be-4a3c-b067-a629d67497a5",
+        "type": "message",
+        "text": "How to get started with AWS Cognito:\n<https://docs.google.com/document/d/15r70yYU6c4u7eUMezqOM3T9LcFXhqUGOsn-ri0D_cPs/edit?usp=sharing>",
+        "user": "U01078QCG2C",
+        "ts": "1585011267.050800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GkqAx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How to get started with AWS Cognito:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/15r70yYU6c4u7eUMezqOM3T9LcFXhqUGOsn-ri0D_cPs/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e525b605-61aa-4a13-b032-b41a37778aea",
+        "type": "message",
+        "text": "Looks a bit long but actually only a couple minutes to set up",
+        "user": "U01078QCG2C",
+        "ts": "1585011287.051300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OgN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks a bit long but actually only a couple minutes to set up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8101cfed-cd36-42d9-9f7d-5c253fc670aa",
+        "type": "message",
+        "text": "Just joined <@U0107A7161E> but I might have missed a few things",
+        "user": "U0105C870AC",
+        "ts": "1585012669.051500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gjt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just joined "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but I might have missed a few things"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "8bdf0251-e0f9-4ea8-8789-c1efffabba1d",
+        "type": "message",
+        "text": "<@U01022PTXA7> <@U01076XHPC0> made changes suggested here and made some comments.\n<https://docs.google.com/document/d/1meISLxJ8__wzfiZ9ca9dwiuqY07JZgu3kVzm6N3gqXI/edit#>",
+        "user": "U0105C870AC",
+        "ts": "1585032800.053000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J3Eg4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01022PTXA7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " made changes suggested here and made some comments.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1meISLxJ8__wzfiZ9ca9dwiuqY07JZgu3kVzm6N3gqXI/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U01022PTXA7",
+                    "U01076XHPC0"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

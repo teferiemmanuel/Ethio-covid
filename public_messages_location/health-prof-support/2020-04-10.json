@@ -1,0 +1,313 @@
+[
+    {
+        "client_msg_id": "83580bd2-9e31-4e8b-b08b-394e38a1815a",
+        "type": "message",
+        "text": "<@U010H9HHT4M> Thank you for sharing. I'll review it and get back to you",
+        "user": "UV8F3SRGA",
+        "ts": "1586477468.092000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u/V2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010H9HHT4M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you for sharing. I'll review it and get back to you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586277512.080700",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "FE446D5D-AEF8-46CB-84EC-09EFBCC8FD16",
+        "type": "message",
+        "text": "<@U010SPW4HJB> can you also review &amp; give feedback?:pray:",
+        "user": "UVB9ZSPCH",
+        "ts": "1586478615.093300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "if5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010SPW4HJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you also review & give feedback?"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586277512.080700",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "91339E70-0266-416E-B1C2-C0FE3A4CD52F",
+        "type": "message",
+        "text": "<@UVB9ZSPCH> Will do! ",
+        "user": "U010SPW4HJB",
+        "ts": "1586478762.093700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3V2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Will do! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586277512.080700",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "text": "Attached are my edits to the slides.",
+        "files": [
+            {
+                "id": "F011WKGH6QZ",
+                "created": 1586532456,
+                "timestamp": 1586532456,
+                "name": "OP Dunkirk Module IV Management Nursing and Discharge COVID-19_Hiwoteedits.pptx",
+                "title": "OP Dunkirk Module IV Management Nursing and Discharge COVID-19_Hiwoteedits.pptx",
+                "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "U010SPW4HJB",
+                "editable": false,
+                "size": 736279,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011WKGH6QZ/op_dunkirk_module_iv_management_nursing_and_discharge_covid-19_hiwoteedits.pptx",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011WKGH6QZ/download/op_dunkirk_module_iv_management_nursing_and_discharge_covid-19_hiwoteedits.pptx",
+                "converted_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011WKGH6QZ-bbc54c47e8/op_dunkirk_module_iv_management_nursing_and_discharge_covid-19_hiwoteedits_converted.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011WKGH6QZ-bbc54c47e8/op_dunkirk_module_iv_management_nursing_and_discharge_covid-19_hiwoteedits_thumb_pdf.png",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010SPW4HJB/F011WKGH6QZ/op_dunkirk_module_iv_management_nursing_and_discharge_covid-19_hiwoteedits.pptx",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011WKGH6QZ-f1e07b158d",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F011U7P2YP6",
+                "created": 1586532456,
+                "timestamp": 1586532456,
+                "name": "OP Dunkirk Module I Introduction_Hiwoteedits.pptx",
+                "title": "OP Dunkirk Module I Introduction_Hiwoteedits.pptx",
+                "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "U010SPW4HJB",
+                "editable": false,
+                "size": 488856,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011U7P2YP6/op_dunkirk_module_i_introduction_hiwoteedits.pptx",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011U7P2YP6/download/op_dunkirk_module_i_introduction_hiwoteedits.pptx",
+                "converted_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011U7P2YP6-42e519d0f7/op_dunkirk_module_i_introduction_hiwoteedits_converted.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011U7P2YP6-42e519d0f7/op_dunkirk_module_i_introduction_hiwoteedits_thumb_pdf.png",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010SPW4HJB/F011U7P2YP6/op_dunkirk_module_i_introduction_hiwoteedits.pptx",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011U7P2YP6-d198fd452e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iw/o5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Attached are my edits to the slides."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010SPW4HJB",
+        "ts": "1586532461.094100",
+        "client_msg_id": "dbcedf5a-2631-4913-92dd-fa98e6d7d22d",
+        "thread_ts": "1586277512.080700",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "48723AA5-59B8-4A68-B0D3-E90C8A77A1C8",
+        "type": "message",
+        "text": "<@U010SPW4HJB> :clap::skin-tone-4::clap::skin-tone-4:",
+        "user": "UVB9ZSPCH",
+        "ts": "1586537223.094900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7eZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010SPW4HJB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586277512.080700",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "7e5732b2-da9d-44c9-9250-62e51214bedf",
+        "type": "message",
+        "text": "Great work! I will share it with health professionals who work mostly in ICU",
+        "user": "U010FNN079C",
+        "ts": "1586555042.095300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Dzw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great work! I will share it with health professionals who work mostly in ICU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586384918.088400",
+        "parent_user_id": "U010986778X"
+    },
+    {
+        "client_msg_id": "e971babf-defa-4c73-969b-610097d03e17",
+        "type": "message",
+        "text": "hi <!here> I am Kaleb, I was introduced to you guys through <@U0107JERE9L> so blame her :slightly_smiling_face:",
+        "user": "U011UCGUSE8",
+        "ts": "1586563190.096200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U011UCGUSE8",
+            "ts": "1586563271.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4MKu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am Kaleb, I was introduced to you guys through "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so blame her "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586563190.096200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586563314.098000",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    }
+]

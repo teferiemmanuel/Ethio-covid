@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "aa7ebf00-93d1-4af4-b9d0-268cf96206b9",
+        "type": "message",
+        "text": "I think it's ready to be merged\n<https://github.com/bengeos/CovidCallReporterApi/pull/2>",
+        "user": "UV9AYBY3C",
+        "ts": "1585615885.080700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV9AYBY3C",
+            "ts": "1585615900.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kuAYv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it's ready to be merged\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/bengeos/CovidCallReporterApi/pull/2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

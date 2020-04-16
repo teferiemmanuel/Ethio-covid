@@ -1,0 +1,3106 @@
+[
+    {
+        "client_msg_id": "ece48427-1042-40ff-90b1-5004f7854150",
+        "type": "message",
+        "text": "<!here> can we have some volunteers to look into how different countries are approaching self-reporting and communication with those isolation? We need information on these three questions to help guide our eventual product:\n1. What information are they collecting?\n2. How are people self reporting? (i.e. bots, survey, web app, hotline)\n3. How are officials communicating with confirmed cases in insolation\n4. If they are different methods, how are they different?\nPlease report your findings to <@UV9A4J5TK>!",
+        "user": "U0107A7161E",
+        "ts": "1585009056.329500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1585009108.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+cr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can we have some volunteers to look into how different countries are approaching self-reporting and communication with those isolation? We need information on these three questions to help guide our eventual product:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What information are they collecting?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How are people self reporting? (i.e. bots, survey, web app, hotline)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How are officials communicating with confirmed cases in insolation"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If they are different methods, how are they different?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPlease report your findings to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9A4J5TK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009056.329500",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1585236780.071300",
+        "reply_users": [
+            "U0107A7161E",
+            "U010A0N4N0P",
+            "UV9A4J5TK"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b694b467-8502-43f6-96eb-c67b44b881be",
+        "type": "message",
+        "text": "<@U010A0N4N0P>",
+        "user": "U0107A7161E",
+        "ts": "1585009258.329700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7P4+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010A0N4N0P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009056.329500",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "d33a28b4-1797-48a4-9726-3193ca13178f",
+        "type": "message",
+        "text": "Yeah. I can do that.",
+        "user": "U010A0N4N0P",
+        "ts": "1585009572.330500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oTt/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah. I can do that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009056.329500",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89274361-9e1c-4d86-baf2-e9d3368a06f2",
+        "type": "message",
+        "text": "Hi all,\n\nI'm a late joiner. I tried to read the conversations. Most of the discussions seem to be targeting people with smartphones.\n\u2022 Do we have solutions to enable contact tracing for non-smartphone holders? \nCrazy idea, can we track cellphone signals?  (I realize it's too big and it's too sensitive)",
+        "user": "U010APHG8Q1",
+        "ts": "1585009983.333600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010APHG8Q1",
+            "ts": "1585010107.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dIKV=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all,\n\nI'm a late joiner. I tried to read the conversations. Most of the discussions seem to be targeting people with smartphones.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do we have solutions to enable contact tracing for non-smartphone holders? "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nCrazy idea, can we track cellphone signals?  (I realize it's too big and it's too sensitive)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "reply_count": 16,
+        "reply_users_count": 6,
+        "latest_reply": "1585144845.034100",
+        "reply_users": [
+            "U0107A7161E",
+            "UVADRT9K3",
+            "U010APHG8Q1",
+            "U010KKYAGA3",
+            "U0106H0H5AQ",
+            "U010EKSHT2S"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7785bb47-77ca-41a5-b9c3-2d3f4c23aea8",
+        "type": "message",
+        "text": "I think South Africa and North Korea are doing that",
+        "user": "U0107A7161E",
+        "ts": "1585010050.333800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ifk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think South Africa and North Korea are doing that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "c66abd27-51e2-45ba-a2a6-85ccd1a0fa64",
+        "type": "message",
+        "text": "<@U010APHG8Q1> Technically, this is doable \u2018to some degree\u2019, if one can get the cell tower logs from all cell phone towers.\nPractically, I don\u2019t know if and how much time and effort it will take to get your hands on cell tower data from Tele. The bureaucracy might be up high. In Other countries like the US, cell tower data is regularly shared between telecom companies and law enforcement making it possible to do something like this out right.\n\nThere is some explanation about cell tower logs here: <https://hackernoon.com/i-used-to-track-cell-phone-location-information-for-prosecutors-b0dbd4325997>",
+        "user": "UVADRT9K3",
+        "ts": "1585010601.334100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ab4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Technically, this is doable \u2018to some degree\u2019, if one can get the cell tower logs from all cell phone towers.\nPractically, I don\u2019t know if and how much time and effort it will take to get your hands on cell tower data from Tele. The bureaucracy might be up high. In Other countries like the US, cell tower data is regularly shared between telecom companies and law enforcement making it possible to do something like this out right.\n\nThere is some explanation about cell tower logs here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://hackernoon.com/i-used-to-track-cell-phone-location-information-for-prosecutors-b0dbd4325997"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "545c9d68-2ee5-489e-8994-7d100fc157b2",
+        "type": "message",
+        "text": "I understand. Perhaps we could look into that",
+        "user": "U010APHG8Q1",
+        "ts": "1585010885.334300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7uUjH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I understand. Perhaps we could look into that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "06414f9e-579c-44ed-a5f9-f9143877ec17",
+        "type": "message",
+        "text": "Hi all, late joiner but happy to take on this exciting work",
+        "user": "U010KKYAGA3",
+        "ts": "1585014578.335500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F8c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, late joiner but happy to take on this exciting work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585014578.335500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585017388.337600",
+        "reply_users": [
+            "U0107A7161E",
+            "U010KKYAGA3"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bec0dd41-8edb-4c22-839d-567d29fe64bd",
+        "type": "message",
+        "text": "I think GSMA has that information...it might not free of charge though",
+        "user": "U010KKYAGA3",
+        "ts": "1585014629.336500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WB88",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think GSMA has that information...it might not free of charge though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "56f1dd4e-f3c0-43e7-8ee6-142d97a27764",
+        "type": "message",
+        "text": "Could someone check out this (Canada gov't has a nice tooling) -- <https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html?utm_campaign=not-applicable&amp;utm_medium=vanity-url&amp;utm_source=canada-ca_coronavirus&amp;fbclid=IwAR3a6uYaujfcMBfvF5gPj6KCs9I7V8ar6hQUgbRMw3CnF77SN3SSGzpSfQQ>",
+        "user": "U01084M48U8",
+        "ts": "1585014637.336800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084M48U8",
+            "ts": "1585014736.000000"
+        },
+        "attachments": [
+            {
+                "title": "Coronavirus disease (COVID-19) outbreak updates, symptoms, prevention, travel, preparation - Canada.ca",
+                "title_link": "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_coronavirus&fbclid=IwAR3a6uYaujfcMBfvF5gPj6KCs9I7V8ar6hQUgbRMw3CnF77SN3SSGzpSfQQ",
+                "text": "Coronavirus disease (COVID-19) information for Canadians including links to disease updates, travel advice, how to be prepared, symptoms, prevention, risk, Canada\u2019s response, current case numbers, answers to questions and links to printable resources.",
+                "fallback": "Coronavirus disease (COVID-19) outbreak updates, symptoms, prevention, travel, preparation - Canada.ca",
+                "from_url": "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_coronavirus&fbclid=IwAR3a6uYaujfcMBfvF5gPj6KCs9I7V8ar6hQUgbRMw3CnF77SN3SSGzpSfQQ",
+                "service_icon": "https://www.canada.ca/favicon.ico",
+                "service_name": "canada.ca",
+                "id": 1,
+                "original_url": "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html?utm_campaign=not-applicable&amp;utm_medium=vanity-url&amp;utm_source=canada-ca_coronavirus&amp;fbclid=IwAR3a6uYaujfcMBfvF5gPj6KCs9I7V8ar6hQUgbRMw3CnF77SN3SSGzpSfQQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vbX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could someone check out this (Canada gov't has a nice tooling) -- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_coronavirus&fbclid=IwAR3a6uYaujfcMBfvF5gPj6KCs9I7V8ar6hQUgbRMw3CnF77SN3SSGzpSfQQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010A0N4N0P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d620e09-9521-46dd-8a79-1bc5460e8e3d",
+        "type": "message",
+        "text": "Hi Boris! Can you let us know a little more about your background so that we can loop you into the right effort?",
+        "user": "U0107A7161E",
+        "ts": "1585014659.337100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fR5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Boris! Can you let us know a little more about your background so that we can loop you into the right effort?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585014578.335500",
+        "parent_user_id": "U010KKYAGA3"
+    },
+    {
+        "client_msg_id": "90cd22a8-1876-44d8-a5b5-b57b12c1aea1",
+        "type": "message",
+        "text": "Hi <@U0107A7161E>. I am data Scientist: Data Analytics/Predictive Modeling, Data Visualization, NLP and deep learning, working currently in the space of telecoms and satellite com. I am a health economist by training and previously worked on Ebola implications on the economy.",
+        "user": "U010KKYAGA3",
+        "ts": "1585017388.337600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010KKYAGA3",
+            "ts": "1585017502.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3UflN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I am data Scientist: Data Analytics/Predictive Modeling, Data Visualization, NLP and deep learning, working currently in the space of telecoms and satellite com. I am a health economist by training and previously worked on Ebola implications on the economy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585014578.335500",
+        "parent_user_id": "U010KKYAGA3"
+    },
+    {
+        "client_msg_id": "0ae27f19-baaa-4d77-b05d-f1b2d3c8df90",
+        "type": "message",
+        "text": "<https://www.gsma.com/coverage/|gsma> at this link",
+        "user": "U010KKYAGA3",
+        "ts": "1585017462.337800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010KKYAGA3",
+            "ts": "1585017516.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MhC1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.gsma.com/coverage/",
+                                "text": "gsma"
+                            },
+                            {
+                                "type": "text",
+                                "text": " at this link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "4663eec1-3670-4bef-8390-86a0f0a445ba",
+        "type": "message",
+        "text": "<@U010KKYAGA3> Does GSMA have cell tower logs?",
+        "user": "UVADRT9K3",
+        "ts": "1585017586.338200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FCO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010KKYAGA3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Does GSMA have cell tower logs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "cdbacffd-0aa4-4ce1-be5f-cf1f53b5537d",
+        "type": "message",
+        "text": "I could not find any indication on their website.",
+        "user": "UVADRT9K3",
+        "ts": "1585017603.338400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OnK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I could not find any indication on their website."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "86938efc-0b6e-4f3c-9d97-94a225353257",
+        "type": "message",
+        "text": "<@UVADRT9K3>. I think they do but charge for it. you can check opencell ID... that is somehow free... <https://opencellid.org/#zoom=16&amp;lat=37.77889&amp;lon=-122.41942>",
+        "user": "U010KKYAGA3",
+        "ts": "1585017815.338600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "OpenCelliD - Largest Open Database of Cell Towers &amp; Geolocation - by Unwired Labs",
+                "title_link": "https://opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942",
+                "text": "OpenCelliD is the largest Open Database of Cell Towers &amp; their locations. You can geolocate IoT &amp; Mobile devices without GPS, explore Mobile Operator coverage and more!",
+                "fallback": "OpenCelliD - Largest Open Database of Cell Towers &amp; Geolocation - by Unwired Labs",
+                "from_url": "https://opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942",
+                "service_icon": "https://opencellid.org/images/favicon.ico",
+                "service_name": "opencellid.org",
+                "id": 1,
+                "original_url": "https://opencellid.org/#zoom=16&amp;lat=37.77889&amp;lon=-122.41942"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0eFz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVADRT9K3"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I think they do but charge for it. you can check opencell ID... that is somehow free... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "8ed0ce14-b149-48ca-9f6e-662e00e7ceb8",
+        "type": "message",
+        "text": "<@U010KKYAGA3> This is so cool. I did not know about it. They definitely have the cell tower - geographic location. It appears the logs as I was thinking about them, they don\u2019t have (or i could not find). But even having the cell tower-location info  unlocks some potential in app use cases.",
+        "user": "UVADRT9K3",
+        "ts": "1585019464.338900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Eqr6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010KKYAGA3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This is so cool. I did not know about it. They definitely have the cell tower - geographic location. It appears the logs as I was thinking about them, they don\u2019t have (or i could not find). But even having the cell tower-location info  unlocks some potential in app use cases."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "dc510301-19d7-46fc-868f-6a78585c1cf1",
+        "type": "message",
+        "text": "<@UVADRT9K3> this the best free available option that I know of. It's definitely better than nothing.",
+        "user": "U010KKYAGA3",
+        "ts": "1585019617.339100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4lllr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVADRT9K3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this the best free available option that I know of. It's definitely better than nothing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UVADRT9K3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b8eb1fb-ffd4-441a-b16f-9e86ef82a06c",
+        "type": "message",
+        "text": "Thanks <@U010KKYAGA3>. It is definitely better. Yes.",
+        "user": "UVADRT9K3",
+        "ts": "1585019716.339400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010KKYAGA3"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". It is definitely better. Yes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "25dc1b51-0cf6-430d-8433-1fe4fe2010b6",
+        "type": "message",
+        "text": "<@UVADRT9K3> they do decently in the US... Need to check how accurate they are in other parts of the world including Ethiopia.",
+        "user": "U010KKYAGA3",
+        "ts": "1585019871.339600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "az2r3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVADRT9K3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " they do decently in the US... Need to check how accurate they are in other parts of the world including Ethiopia."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "306D4C32-D95F-46CC-BCA9-0E1F2F942DDC",
+        "type": "message",
+        "text": "<@U010KKYAGA3> I roughly looked at their data  for Addis Ababa and it looks decent to me.",
+        "user": "UVADRT9K3",
+        "ts": "1585020034.341000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A4j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010KKYAGA3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I roughly looked at their data  for Addis Ababa and it looks decent to me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "db6aac56-330e-450e-a4ae-59ab91e49e3b",
+        "type": "message",
+        "text": "<@UVADRT9K3> interesting!",
+        "user": "U010KKYAGA3",
+        "ts": "1585020071.341200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aoNv/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVADRT9K3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " interesting!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "4272689f-84c2-45d0-aff7-be6a6e9b4874",
+        "type": "message",
+        "text": "<@UVADRT9K3> <@U010KKYAGA3>, is it possible to find the exact cell tower (serving cell tower) from Open CellID?",
+        "user": "U0106H0H5AQ",
+        "ts": "1585038599.343200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iaJbM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVADRT9K3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010KKYAGA3"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", is it possible to find the exact cell tower (serving cell tower) from Open CellID?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009983.333600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "BF9E7585-4B80-44CB-B627-7BA21EA3334F",
+        "type": "message",
+        "text": "<https://www.standardmedia.co.ke/article/2001365512/israel-launches-app-alerting-users-of-exposure-to-coronavirus|https://www.standardmedia.co.ke/article/2001365512/israel-launches-app-alerting-users-of-exposure-to-coronavirus>\n\nIt reports: \u201cThis app, available for both Android and iOS, works by collecting the GPS and SSID (WiFi network) information of a user's mobile device throughout the day. This data is saved only on the mobile device and is not transmitted to the Ministry of Health, other government agencies, or any organization.\u201d\n\nLoading data\nThe app acquires its data at patients\u2019 examination desks. The Israeli health ministry says that after questioning the patient about his or her movements, all the details are captured and loaded onto JavaScript Object Notation (JSON)-which stores simple data structures and objects and is basically used in transmitting data between a web application and a server.\nThe ministry says that such data will be captured every hour to ensure that the app is updated.\n\nGetting notified\nThe app will read and match the details and locations before relaying the findings on whether the user has been exposed or not.\n\u201cWhen using the app, it will compare your data to the data in the downloaded JSON file and if the app detects that you were exposed to a known Coronavirus patient, it will alert you with a message stating that a match was found,\u201d Bleeping Computer notes.",
+        "user": "U010K9GP5LN",
+        "ts": "1585060748.345000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "The Standard",
+                "title": "Israel launches app alerting users of exposure to coronavirus : The Standard",
+                "title_link": "https://www.standardmedia.co.ke/article/2001365512/israel-launches-app-alerting-users-of-exposure-to-coronavirus",
+                "text": "Israel Health Ministry has developed a mobile application that will be used by people to detect if they have been in contact with coronavirus carriers",
+                "fallback": "The Standard: Israel launches app alerting users of exposure to coronavirus : The Standard",
+                "image_url": "https://www.standardmedia.co.ke/images/tuesday/israel_launches_app_5e79f5f747465.jpg",
+                "from_url": "https://www.standardmedia.co.ke/article/2001365512/israel-launches-app-alerting-users-of-exposure-to-coronavirus",
+                "image_width": 399,
+                "image_height": 250,
+                "image_bytes": 32700,
+                "service_icon": "https://www.standardmedia.co.ke/assets/apple-touch-icon-192x192",
+                "id": 1,
+                "original_url": "https://www.standardmedia.co.ke/article/2001365512/israel-launches-app-alerting-users-of-exposure-to-coronavirus"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uJg4s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.standardmedia.co.ke/article/2001365512/israel-launches-app-alerting-users-of-exposure-to-coronavirus",
+                                "text": "https://www.standardmedia.co.ke/article/2001365512/israel-launches-app-alerting-users-of-exposure-to-coronavirus"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "It reports: \u201cThis app, available for both Android and iOS, works by collecting the GPS and SSID (WiFi network) information of a user's mobile device throughout the day. This data is saved only on the mobile device and is not transmitted to the Ministry of Health, other government agencies, or any organization.\u201d\n\nLoading data\nThe app acquires its data at patients\u2019 examination desks. The Israeli health ministry says that after questioning the patient about his or her movements, all the details are captured and loaded onto JavaScript Object Notation (JSON)-which stores simple data structures and objects and is basically used in transmitting data between a web application and a server.\nThe ministry says that such data will be captured every hour to ensure that the app is updated.\n\nGetting notified\nThe app will read and match the details and locations before relaying the findings on whether the user has been exposed or not.\n\u201cWhen using the app, it will compare your data to the data in the downloaded JSON file and if the app detects that you were exposed to a known Coronavirus patient, it will alert you with a message stating that a match was found,\u201d Bleeping Computer notes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hey! I created a simple app the other day for people that have the covid-19 to declare themselves here: <http://ethiohelp.org>\nIt's up and running, ready to use. There is also a rest api that could be used to pull the data from it and integrate in any other system you guys are already woking on.\nThe backend provides the capability to show a report, analyse cases, and put additional information about the status of the case etc.",
+        "files": [
+            {
+                "id": "F010B4J65MH",
+                "created": 1585061606,
+                "timestamp": 1585061606,
+                "name": "Screenshot 2020-03-24 at 14.45.20.png",
+                "title": "Screenshot 2020-03-24 at 14.45.20.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L0MFQSZ",
+                "editable": false,
+                "size": 324535,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010B4J65MH/screenshot_2020-03-24_at_14.45.20.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010B4J65MH/download/screenshot_2020-03-24_at_14.45.20.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010B4J65MH-313c09d5bc/screenshot_2020-03-24_at_14.45.20_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010B4J65MH-313c09d5bc/screenshot_2020-03-24_at_14.45.20_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010B4J65MH-313c09d5bc/screenshot_2020-03-24_at_14.45.20_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 274,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010B4J65MH-313c09d5bc/screenshot_2020-03-24_at_14.45.20_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 365,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010B4J65MH-313c09d5bc/screenshot_2020-03-24_at_14.45.20_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010B4J65MH-313c09d5bc/screenshot_2020-03-24_at_14.45.20_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 548,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010B4J65MH-313c09d5bc/screenshot_2020-03-24_at_14.45.20_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 609,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010B4J65MH-313c09d5bc/screenshot_2020-03-24_at_14.45.20_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 731,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010B4J65MH-313c09d5bc/screenshot_2020-03-24_at_14.45.20_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 780,
+                "image_exif_rotation": 1,
+                "original_w": 2002,
+                "original_h": 1524,
+                "thumb_tiny": "AwAkADC5bgGIfKKkAU5+Vcio7Y/uuman/DrSWw3uM2jP3RRtBAIA/Sn0UxDCo/ujFGwA/dFPpCe1AENr/qqnqC0/1NT0o7DluFFFFMQUdqKDQBUtnIiHSpvMPoKr2/8AqhUtJbDe4/zG9qPMPtTO1FMQ/wAxvamsdxViBlelJR2oA//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L0MFQSZ/F010B4J65MH/screenshot_2020-03-24_at_14.45.20.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010B4J65MH-d257ca85b7",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F010CGM3ZEV",
+                "created": 1585061606,
+                "timestamp": 1585061606,
+                "name": "Screenshot 2020-03-24 at 14.45.45.png",
+                "title": "Screenshot 2020-03-24 at 14.45.45.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L0MFQSZ",
+                "editable": false,
+                "size": 269159,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010CGM3ZEV/screenshot_2020-03-24_at_14.45.45.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010CGM3ZEV/download/screenshot_2020-03-24_at_14.45.45.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010CGM3ZEV-143b58c10f/screenshot_2020-03-24_at_14.45.45_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010CGM3ZEV-143b58c10f/screenshot_2020-03-24_at_14.45.45_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010CGM3ZEV-143b58c10f/screenshot_2020-03-24_at_14.45.45_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 243,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010CGM3ZEV-143b58c10f/screenshot_2020-03-24_at_14.45.45_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 324,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010CGM3ZEV-143b58c10f/screenshot_2020-03-24_at_14.45.45_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010CGM3ZEV-143b58c10f/screenshot_2020-03-24_at_14.45.45_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 486,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010CGM3ZEV-143b58c10f/screenshot_2020-03-24_at_14.45.45_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 540,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010CGM3ZEV-143b58c10f/screenshot_2020-03-24_at_14.45.45_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 648,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010CGM3ZEV-143b58c10f/screenshot_2020-03-24_at_14.45.45_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 691,
+                "image_exif_rotation": 1,
+                "original_w": 2214,
+                "original_h": 1494,
+                "thumb_tiny": "AwAgADC9DygJ61JgVFCcRrU3akthvcTFHfFB60HrTEFJinUUAQw/6tf8am7VXTcI12pu698VIrOTho9o9d1StinuPPWjvRRVEhmiims2CMAnJxx2oA//2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L0MFQSZ/F010CGM3ZEV/screenshot_2020-03-24_at_14.45.45.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010CGM3ZEV-20c0257ad4",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F010NJ57UJU",
+                "created": 1585061606,
+                "timestamp": 1585061606,
+                "name": "Screenshot 2020-03-24 at 14.46.12.png",
+                "title": "Screenshot 2020-03-24 at 14.46.12.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L0MFQSZ",
+                "editable": false,
+                "size": 214551,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010NJ57UJU/screenshot_2020-03-24_at_14.46.12.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010NJ57UJU/download/screenshot_2020-03-24_at_14.46.12.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010NJ57UJU-c56bfd2335/screenshot_2020-03-24_at_14.46.12_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010NJ57UJU-c56bfd2335/screenshot_2020-03-24_at_14.46.12_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010NJ57UJU-c56bfd2335/screenshot_2020-03-24_at_14.46.12_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 242,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010NJ57UJU-c56bfd2335/screenshot_2020-03-24_at_14.46.12_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 323,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010NJ57UJU-c56bfd2335/screenshot_2020-03-24_at_14.46.12_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010NJ57UJU-c56bfd2335/screenshot_2020-03-24_at_14.46.12_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 485,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010NJ57UJU-c56bfd2335/screenshot_2020-03-24_at_14.46.12_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 539,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010NJ57UJU-c56bfd2335/screenshot_2020-03-24_at_14.46.12_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 646,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010NJ57UJU-c56bfd2335/screenshot_2020-03-24_at_14.46.12_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 689,
+                "image_exif_rotation": 1,
+                "original_w": 2228,
+                "original_h": 1500,
+                "thumb_tiny": "AwAgADC9D80YJ61Lioof9UtS9qS2G9xAMdqX8KbjLf8A1qXA9KYhfwpMd8UtB6UARwf6oVJUcH+qFSUo7DluJjJpaTNGaYhaD0pM01mIIABOep9KAP/Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L0MFQSZ/F010NJ57UJU/screenshot_2020-03-24_at_14.46.12.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010NJ57UJU-94019ba09a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! I created a simple app the other day for people that have the covid-19 to declare themselves here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://ethiohelp.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIt's up and running, ready to use. There is also a rest api that could be used to pull the data from it and integrate in any other system you guys are already woking on.\nThe backend provides the capability to show a report, analyse cases, and put additional information about the status of the case etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010L0MFQSZ",
+        "ts": "1585061625.345500",
+        "client_msg_id": "d60f994e-81ce-4a66-b3b0-6d0ff4fb00fc",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01023RPHPU",
+                    "U010L1RJMUN",
+                    "U01084M48U8",
+                    "U010KF5DW4W"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15764415-b875-4792-a5fb-d3c917c600b4",
+        "type": "message",
+        "text": "any updates on this?",
+        "user": "U0107A7161E",
+        "ts": "1585065789.346800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lL76",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any updates on this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009056.329500",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "ffce9a03-9db3-4ac9-bce0-f1561c7fa78f",
+        "type": "message",
+        "text": "also tagging <@U010L0MFQSZ>  who is interested on self-reporting and <@UV81AMFSP> who is asking the  MoH for more guidance on this",
+        "user": "U0107A7161E",
+        "ts": "1585065949.347300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1585066580.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJmA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also tagging "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L0MFQSZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  who is interested on self-reporting and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV81AMFSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " who is asking the  MoH for more guidance on this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009056.329500",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "a395fd0f-11c7-48e0-9c38-9cba55859487",
+        "type": "message",
+        "text": "<@U0107A7161E> - <@U010A0N4N0P> has found a form from an Ethiopian Public Health Institute that we can base it around",
+        "user": "UV9A4J5TK",
+        "ts": "1585066235.347500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2BR2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010A0N4N0P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has found a form from an Ethiopian Public Health Institute that we can base it around"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009056.329500",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "423fca9d-a3f5-4099-97f0-01e4f435508b",
+        "type": "message",
+        "text": "<https://docs.google.com/forms/d/e/1FAIpQLScrZgQtb-JcqlRG59TwssT8QqgRchF0n1UScnIv5rEUV8tgqw/viewform>",
+        "user": "UV9A4J5TK",
+        "ts": "1585066241.347700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xf8t=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/forms/d/e/1FAIpQLScrZgQtb-JcqlRG59TwssT8QqgRchF0n1UScnIv5rEUV8tgqw/viewform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009056.329500",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "b881fbd7-4adc-4431-8ac2-707c7bb5ca9e",
+        "type": "message",
+        "text": "its not a self reporting form but more of I guess questionaire to see how the public is informed",
+        "user": "UV9A4J5TK",
+        "ts": "1585066532.348200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eAug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its not a self reporting form but more of I guess questionaire to see how the public is informed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009056.329500",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585070921.351000",
+        "user": "U01076CDQ8J",
+        "text": "<@U01076CDQ8J> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "faeadca5-df25-4140-b1c3-f475f4d3d4d4",
+        "type": "message",
+        "text": "Hi everyone, joining very late. i work on speringboot+openapi spec, idk how i can be of importance here. ping me if you have anything pending please",
+        "user": "U01076CDQ8J",
+        "ts": "1585071373.353900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bXg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, joining very late. i work on speringboot+openapi spec, idk how i can be of importance here. ping me if you have anything pending please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3f10076-d3e6-465c-b6b2-1005f70b9cf3",
+        "type": "message",
+        "text": "Hi, I think this is a great idea. A similar effort is underway in Switzerland",
+        "user": "U010GU4EJDT",
+        "ts": "1585078059.357100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TLiNx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I think this is a great idea. A similar effort is underway in Switzerland"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584888164.234000",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "bc3512e1-fe68-473c-9f11-695658116e8b",
+        "type": "message",
+        "text": "All data on hospital capacity is trying to be collected here <https://db.schoolofdata.ch/project/68>",
+        "user": "U010GU4EJDT",
+        "ts": "1585078078.357300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Data on hospital infrastructure",
+                "title_link": "https://db.schoolofdata.ch/project/68",
+                "text": "Generation of a dataset on available infrastructure and bed capacity for each hospital in CH",
+                "fallback": "Data on hospital infrastructure",
+                "thumb_url": "https://db.schoolofdata.ch/static/img/badge-black.png",
+                "from_url": "https://db.schoolofdata.ch/project/68",
+                "thumb_width": 123,
+                "thumb_height": 142,
+                "service_name": "db.schoolofdata.ch",
+                "id": 1,
+                "original_url": "https://db.schoolofdata.ch/project/68"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ds7T9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All data on hospital capacity is trying to be collected here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://db.schoolofdata.ch/project/68"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584888164.234000",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "6aa2e477-6fa3-4491-9cbd-eb79ac92e92d",
+        "type": "message",
+        "text": "By assuming people go to the closest hospital, someone has tried to predict when hospitals  will be reaching capacity <https://twitter.com/thvanboeckel/status/1241748845253595137?s=20>",
+        "user": "U010GU4EJDT",
+        "ts": "1585078163.357600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/thvanboeckel|@thvanboeckel>: Estimation of ICU Beds, and ventilators in Switzerland for COVID19. Ticino saturated, West likely soon, beds may be available in North and East. National saturation this week? <https://bit.ly/2wtgRpg>\n\n<https://twitter.com/C_Althaus|@C_Althaus>,<https://twitter.com/FLAHAULT|@FLAHAULT>, <https://twitter.com/eggersnsf|@eggersnsf>, <https://twitter.com/sbonhoeffer|@sbonhoeffer>, <https://twitter.com/ETH_en|@ETH_en>. <https://twitter.com/marcelsalathe|@marcelsalathe> <https://pbs.twimg.com/media/ETuT-fWXsAAB2II.jpg>",
+                "ts": 1584890969,
+                "author_name": "Thomas Van Boeckel",
+                "author_link": "https://twitter.com/thvanboeckel/status/1241748845253595137",
+                "author_icon": "https://pbs.twimg.com/profile_images/882572440160915457/n3LqZYfW_normal.jpg",
+                "author_subname": "@thvanboeckel",
+                "text": "Estimation of ICU Beds, and ventilators in Switzerland for COVID19. Ticino saturated, West likely soon, beds may be available in North and East. National saturation this week? <https://bit.ly/2wtgRpg>\n\n<https://twitter.com/C_Althaus|@C_Althaus>,<https://twitter.com/FLAHAULT|@FLAHAULT>, <https://twitter.com/eggersnsf|@eggersnsf>, <https://twitter.com/sbonhoeffer|@sbonhoeffer>, <https://twitter.com/ETH_en|@ETH_en>. <https://twitter.com/marcelsalathe|@marcelsalathe> <https://pbs.twimg.com/media/ETuT-fWXsAAB2II.jpg>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/thvanboeckel/status/1241748845253595137?s=20",
+                "image_url": "https://pbs.twimg.com/media/ETuT-fWXsAAB2II.jpg",
+                "image_width": 900,
+                "image_height": 675,
+                "image_bytes": 138657,
+                "id": 1,
+                "original_url": "https://twitter.com/thvanboeckel/status/1241748845253595137?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fq36I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "By assuming people go to the closest hospital, someone has tried to predict when hospitals  will be reaching capacity "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/thvanboeckel/status/1241748845253595137?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584888164.234000",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "0304c941-0c3b-4e0b-bc50-3c2085d2f047",
+        "type": "message",
+        "text": "<!here> MOH issued a self-reporting form <https://docs.google.com/forms/d/e/1FAIpQLScrZgQtb-JcqlRG59TwssT8QqgRchF0n1UScnIv5rEUV8tgqw/viewform>",
+        "user": "U010JHVF19U",
+        "ts": "1585078308.358300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lKT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " MOH issued a self-reporting form "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/forms/d/e/1FAIpQLScrZgQtb-JcqlRG59TwssT8QqgRchF0n1UScnIv5rEUV8tgqw/viewform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078308.358300",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1585167814.036600",
+        "reply_users": [
+            "U010APHG8Q1",
+            "U010JHVF19U",
+            "U010J5KP6S3",
+            "U010LHDGYNS"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UVALWD1MG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5bb50d3-f226-4639-b712-26fe7403cabc",
+        "type": "message",
+        "text": "This form is too long. I was looking into Google forms too. But we need to make it really simplified to reach a wider population",
+        "user": "U010APHG8Q1",
+        "ts": "1585078585.358500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6HRK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This form is too long. I was looking into Google forms too. But we need to make it really simplified to reach a wider population"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078308.358300",
+        "parent_user_id": "U010JHVF19U"
+    },
+    {
+        "client_msg_id": "89d4de12-3de2-4e2d-9fb3-654089b6849a",
+        "type": "message",
+        "text": "Hey All,",
+        "user": "U010A0N4N0P",
+        "ts": "1585080613.359100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QXuH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey All,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b284b8a-24b9-4ba3-8fcf-dee10940efba",
+        "type": "message",
+        "text": "I tried to look up on how other countries do self reporting. I couldn't find a good comprehensive resource any where.\nMost country may not doing or I can't on my research.\nI tried to briefly state what US-CDC and Canada are doing regarding self reporting in <https://docs.google.com/forms/d/e/1FAIpQLScrZgQtb-JcqlRG59TwssT8QqgRchF0n1UScnIv5rEUV8tgqw/viewform|this doc>.\nI looked up Germany and South Korea specific but couldn't find any resource.",
+        "user": "U010A0N4N0P",
+        "ts": "1585080962.363800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010A0N4N0P",
+            "ts": "1585081756.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xc/on",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I tried to look up on how other countries do self reporting. I couldn't find a good comprehensive resource any where.\nMost country may not doing or I can't on my research.\nI tried to briefly state what US-CDC and Canada are doing regarding self reporting in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/forms/d/e/1FAIpQLScrZgQtb-JcqlRG59TwssT8QqgRchF0n1UScnIv5rEUV8tgqw/viewform",
+                                "text": "this doc"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nI looked up Germany and South Korea specific but couldn't find any resource."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585080962.363800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585081288.368500",
+        "reply_users": [
+            "U0107A7161E",
+            "U010A0N4N0P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "090fcd9e-6a51-4a5f-95ad-e4839856cc55",
+        "type": "message",
+        "text": "thank you Dawit! Going to DM you a couple questions. Are you and <@UV9A4J5TK> working together on this?",
+        "user": "U0107A7161E",
+        "ts": "1585081093.366000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1585081179.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xrka",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you Dawit! Going to DM you a couple questions. Are you and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9A4J5TK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " working together on this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585080962.363800",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "aaa3c1a5-be58-4c63-b7ec-5bc1f201f052",
+        "type": "message",
+        "text": "<@UV9A4J5TK> <@U010APHG8Q1> and I are going to have a call at 5 EST to discuss about it.\nAnyone is very welcomed to join and chip in ideas please\n<https://us04web.zoom.us/j/847540738?pwd=SkIzdzhmU3poSGNvbVdOZXBpK0ozUT09>",
+        "user": "U010A0N4N0P",
+        "ts": "1585081194.368400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010A0N4N0P",
+            "ts": "1585081789.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "REUcl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9A4J5TK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I are going to have a call at 5 EST to discuss about it.\nAnyone is very welcomed to join and chip in ideas please\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/847540738?pwd=SkIzdzhmU3poSGNvbVdOZXBpK0ozUT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "reply_count": 24,
+        "reply_users_count": 5,
+        "latest_reply": "1585095105.395500",
+        "reply_users": [
+            "U0107A7161E",
+            "U010A0N4N0P",
+            "UV9A4J5TK",
+            "U010JULMT7Z",
+            "U010APHG8Q1"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abe41e0f-ba20-4178-b5b3-01d57d231d72",
+        "type": "message",
+        "text": "<@U0107A7161E> yeah we gonna have a call to talk about it like in 40 mins",
+        "user": "U010A0N4N0P",
+        "ts": "1585081288.368500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IRdM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yeah we gonna have a call to talk about it like in 40 mins"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585080962.363800",
+        "parent_user_id": "U010A0N4N0P",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6E603082-84B2-4827-9C11-B30CC3F581FD",
+        "type": "message",
+        "text": "The Zoom ended for me",
+        "user": "U010JULMT7Z",
+        "ts": "1585086110.369800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wpn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Zoom ended for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df914f8a-9d97-486c-a4fd-c2c0ba9a52ab",
+        "type": "message",
+        "text": "how did the call go?",
+        "user": "U0107A7161E",
+        "ts": "1585086765.370100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ux=3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how did the call go?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "c7329ec6-5cd8-4c09-90fc-b2bfa98e1ce8",
+        "type": "message",
+        "text": "still going..I'll write up a summary",
+        "user": "U010A0N4N0P",
+        "ts": "1585086947.370300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TvdxN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "still going..I'll write up a summary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80940e89-f649-4d02-8224-8cd529920c05",
+        "type": "message",
+        "text": "Okay",
+        "user": "UV9A4J5TK",
+        "ts": "1585086956.370500",
+        "team": "TV5KELEUS",
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "a4652762-72d2-4c6e-8899-e178d7f69cf7",
+        "type": "message",
+        "text": "<@U01076XHPC0> <@U0105C870AC> - we had a few questions about the self-reporting form. Are there any fields that you need us to include that will make it easier for you to make the associations from a self-reported case to raise a commcare questionnaire so that we can have the relationship for contact tracking/tracing (phone number maybe?) ? Are there any other fields that you can think of that would be important to have in our forms?",
+        "user": "UV9A4J5TK",
+        "ts": "1585088188.374000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YxEk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105C870AC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - we had a few questions about the self-reporting form. Are there any fields that you need us to include that will make it easier for you to make the associations from a self-reported case to raise a commcare questionnaire so that we can have the relationship for contact tracking/tracing (phone number maybe?) ? Are there any other fields that you can think of that would be important to have in our forms?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "519d6f14-f932-41bb-ad43-209dba45aa6c",
+        "type": "message",
+        "text": "<@UV9A4J5TK> before I answer, to be sure I understand this correctly.. what are you trying to achieve and where are you intending to add the fields?",
+        "user": "U01076XHPC0",
+        "ts": "1585089073.376000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NyKxk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9A4J5TK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " before I answer, to be sure I understand this correctly.. what are you trying to achieve and where are you intending to add the fields?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585089073.376000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1585089626.376800",
+        "reply_users": [
+            "UV9A4J5TK",
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6b037d47-d9fa-436f-af43-e84f2b50465f",
+        "type": "message",
+        "text": "So the fields are going to be added on the Ushahidi instance",
+        "user": "UV9A4J5TK",
+        "ts": "1585089137.376100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S3h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So the fields are going to be added on the Ushahidi instance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585089073.376000",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "client_msg_id": "4e00d4bd-f826-4983-925c-72224c0d182f",
+        "type": "message",
+        "text": "we are adding a form there for self reporting, which the end goal is so that it is picked up by commcare surveyors to do case tracking I believe",
+        "user": "UV9A4J5TK",
+        "ts": "1585089192.376300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bD=9y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we are adding a form there for self reporting, which the end goal is so that it is picked up by commcare surveyors to do case tracking I believe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585089073.376000",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "client_msg_id": "e2f79cff-6387-4257-8f99-cb2111e8cea3",
+        "type": "message",
+        "text": "<https://docs.google.com/document/d/1ga8RI9X57-fMkJYPZokNREzi2BpEXXaXjwRKDss6xEc/edit#>",
+        "user": "U010A0N4N0P",
+        "ts": "1585089396.376500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SJf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1ga8RI9X57-fMkJYPZokNREzi2BpEXXaXjwRKDss6xEc/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "672d4058-be80-4cda-a558-890c80da9337",
+        "type": "message",
+        "text": "to clarify we havent decided if self reporting is in commcare. originally it was going to be in ushahidi",
+        "user": "U0107A7161E",
+        "ts": "1585089626.376800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/Jw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to clarify we havent decided if self reporting is in commcare. originally it was going to be in ushahidi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585089073.376000",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "client_msg_id": "094279bf-4fe4-4506-9cca-27b187b2dc1c",
+        "type": "message",
+        "text": "I tried to summarize the task sharing and respective owners on a table in :point_up_2: doc.",
+        "user": "U010A0N4N0P",
+        "ts": "1585089648.377000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sUw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I tried to summarize the task sharing and respective owners on a table in "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " doc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "492b41f8-f7a7-4fdd-9d82-0b3089b995a6",
+        "type": "message",
+        "text": "<@U010JULMT7Z> <@U010APHG8Q1> <@UV9A4J5TK>",
+        "user": "U010A0N4N0P",
+        "ts": "1585089726.377300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KF6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010JULMT7Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9A4J5TK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "a0093cf0-8e10-45a2-b3b7-8a381c4aad7d",
+        "type": "message",
+        "text": "<@U01022PTXA7> do we have further feedback from your troops of testers yet :smile:",
+        "user": "U01076XHPC0",
+        "ts": "1585089744.377900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "em4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01022PTXA7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do we have further feedback from your troops of testers yet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585089744.377900",
+        "reply_count": 13,
+        "reply_users_count": 5,
+        "latest_reply": "1585117849.022700",
+        "reply_users": [
+            "U01022PTXA7",
+            "U01076XHPC0",
+            "U0107DX4VNU",
+            "U0107EMK8UD",
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5cda4b93-b4db-4366-a017-8a6c16b6d75e",
+        "type": "message",
+        "text": "<@U010A0N4N0P> - can you create it here <https://drive.google.com/drive/folders/1NxMQWpUJjhtT55qtLxCkCzVu7Je1ahsh>",
+        "user": "UV9A4J5TK",
+        "ts": "1585089792.378700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Re+BK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010A0N4N0P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - can you create it here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1NxMQWpUJjhtT55qtLxCkCzVu7Je1ahsh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "cf5bb985-1717-4d18-9065-e3e6a3027f9b",
+        "type": "message",
+        "text": "I also I suggest that they do the testing continuously .. every ~6hrs as we are constantly making improvements.",
+        "user": "U01076XHPC0",
+        "ts": "1585089801.379100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d29",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also I suggest that they do the testing continuously .. every ~6hrs as we are constantly making improvements."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U01022PTXA7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06bc0794-75a0-4ac2-bdd4-04bdb0ee634d",
+        "type": "message",
+        "text": "Thanks <@U010A0N4N0P>,need permissions to access",
+        "user": "U010JULMT7Z",
+        "ts": "1585089808.379200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fAcQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010A0N4N0P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",need permissions to access"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "6e67a8fc-2593-4c88-8d17-adf79c0604b5",
+        "type": "message",
+        "text": "<@UV9A4J5TK> adding it. <@U010JULMT7Z> try it now",
+        "user": "U010A0N4N0P",
+        "ts": "1585090105.379400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ipg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9A4J5TK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " adding it. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JULMT7Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " try it now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010JULMT7Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cae55ea2-29fc-4415-aafc-49085fcdde1d",
+        "type": "message",
+        "text": "Can I get the URL and possibly creds for the current Ushahidi instance?",
+        "user": "U010JULMT7Z",
+        "ts": "1585090208.379700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xq9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I get the URL and possibly creds for the current Ushahidi instance?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "25805502-1278-43a3-aca0-65e5f7e390b8",
+        "type": "message",
+        "text": "<https://covid19et.ushahidi.io/>",
+        "user": "U010A0N4N0P",
+        "ts": "1585090264.379900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W0Ez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://covid19et.ushahidi.io/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "3965cfe6-4d34-4a7e-be5b-9e89bb882e3a",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U010JULMT7Z",
+        "ts": "1585090343.380100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TNIG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "0cae2fda-e28b-4855-9942-b9c73f21b839",
+        "type": "message",
+        "text": "<@UV9A4J5TK> can give you the credentials",
+        "user": "U010A0N4N0P",
+        "ts": "1585090347.380300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qZF8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9A4J5TK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can give you the credentials"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "8c89ee60-2984-4673-8594-1c0d747f3737",
+        "type": "message",
+        "text": "<@U010A0N4N0P> <@U010JULMT7Z> so I guess that one was the instance that was set up for the demo. Let me check if I still have those credentials",
+        "user": "UV9A4J5TK",
+        "ts": "1585090457.380500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pII",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010A0N4N0P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JULMT7Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so I guess that one was the instance that was set up for the demo. Let me check if I still have those credentials"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "2aeddcb6-4d1a-46c4-961a-76a2515a4e05",
+        "type": "message",
+        "text": "<@U010A0N4N0P> <@U010JULMT7Z> use this site instead",
+        "user": "UV9A4J5TK",
+        "ts": "1585090591.380700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6jxXb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010A0N4N0P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JULMT7Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " use this site instead"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "29234d8f-9b56-43a9-8cf0-379f666675af",
+        "type": "message",
+        "text": "<https://et-covid19.ushahidi.io/>",
+        "user": "UV9A4J5TK",
+        "ts": "1585090593.380900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NjZ2Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://et-covid19.ushahidi.io/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "8cbfa7de-95bc-4c9e-9e13-397460248ad0",
+        "type": "message",
+        "text": "seems like that is on the free trial",
+        "user": "UV9A4J5TK",
+        "ts": "1585090604.381100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BqE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "seems like that is on the free trial"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "30cf7db9-3960-4110-8e57-7c47f3f24fd2",
+        "type": "message",
+        "text": "PM your email addresses please",
+        "user": "UV9A4J5TK",
+        "ts": "1585090618.381300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N+hVI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PM your email addresses please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    },
+    {
+        "client_msg_id": "aeb23db3-be0d-4fd3-80d7-37335d4f4fbb",
+        "type": "message",
+        "text": "Hey <@U01076XHPC0>, I've been dealing with an escalation at work so I haven't tested since last night. Tagging <@U0107DX4VNU> and <@U0107EMK8UD> if they have today. I'll log in later and test things out",
+        "user": "U01022PTXA7",
+        "ts": "1585091102.381800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01022PTXA7",
+            "ts": "1585091145.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+fn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I've been dealing with an escalation at work so I haven't tested since last night. Tagging "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if they have today. I'll log in later and test things out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585089744.377900",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "client_msg_id": "adb69a1b-9d44-406f-81f5-77c9b1156b18",
+        "type": "message",
+        "text": "No worries Mahi, will check in with you guys. Or we can spin up a shared document of testing results + recommendation.",
+        "user": "U01076XHPC0",
+        "ts": "1585091199.382700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9gQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries Mahi, will check in with you guys. Or we can spin up a shared document of testing results + recommendation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585089744.377900",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "client_msg_id": "04214621-0bb3-4ea6-aaee-ee8a91206a5c",
+        "type": "message",
+        "text": "I think the document works! I'll ping you if anything comes up. Thanks for everything",
+        "user": "U01022PTXA7",
+        "ts": "1585091253.382900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MOj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the document works! I'll ping you if anything comes up. Thanks for everything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585089744.377900",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "client_msg_id": "4A24B814-154E-4CB4-9760-F1ECF599594A",
+        "type": "message",
+        "text": "<@U01076XHPC0> , shared doc would be great. Maybe a spreadsheet where we can provide feedback and recommendations. I can take a look later this evening as well. Would you be willing to share the spreadsheet with us to give feedback? Ditto Mahler in thanking you for everything! ",
+        "user": "U0107DX4VNU",
+        "ts": "1585091544.385300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HUY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , shared doc would be great. Maybe a spreadsheet where we can provide feedback and recommendations. I can take a look later this evening as well. Would you be willing to share the spreadsheet with us to give feedback? Ditto Mahler in thanking you for everything! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585089744.377900",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "type": "message",
+        "text": "<@U01022PTXA7> <@U0107DX4VNU> <https://docs.google.com/document/d/1MXw0okgoXGZJxQaSMERyfdhYVXfDER0gbkfUWhygUcI/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "F010B8JED50",
+                "created": 1585091597,
+                "timestamp": 1585091597,
+                "name": "CommCare Testing + Recommendations",
+                "title": "CommCare Testing + Recommendations",
+                "mimetype": "application/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "GSuite Document",
+                "user": "U01076XHPC0",
+                "editable": false,
+                "size": 241,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/document/d/1MXw0okgoXGZJxQaSMERyfdhYVXfDER0gbkfUWhygUcI/edit?usp=sharing",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010B8JED50-2bbfab21bf/commcare_testing___recommendations_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010B8JED50-2bbfab21bf/commcare_testing___recommendations_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010B8JED50-2bbfab21bf/commcare_testing___recommendations_360.png",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010B8JED50-2bbfab21bf/commcare_testing___recommendations_480.png",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010B8JED50-2bbfab21bf/commcare_testing___recommendations_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010B8JED50-2bbfab21bf/commcare_testing___recommendations_720.png",
+                "thumb_720_w": 557,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010B8JED50-2bbfab21bf/commcare_testing___recommendations_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010B8JED50-2bbfab21bf/commcare_testing___recommendations_960.png",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010B8JED50-2bbfab21bf/commcare_testing___recommendations_1024.png",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 1035,
+                "thumb_tiny": "AwAwACXSJx2zSbj/AHT+dOIyMU0IKAFyf7poyf7pox9aWgAooooAKKKKACiiigAooooAKKKKACiiigAooooA/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01076XHPC0/F010B8JED50/commcare_testing___recommendations",
+                "is_starred": false,
+                "external_id": "1MXw0okgoXGZJxQaSMERyfdhYVXfDER0gbkfUWhygUcI",
+                "external_url": "https://docs.google.com/document/d/1MXw0okgoXGZJxQaSMERyfdhYVXfDER0gbkfUWhygUcI/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XpP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01022PTXA7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1MXw0okgoXGZJxQaSMERyfdhYVXfDER0gbkfUWhygUcI/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01076XHPC0",
+        "display_as_bot": false,
+        "x_files": [
+            "F010B8JED50"
+        ],
+        "ts": "1585091595.385500",
+        "client_msg_id": "d26deb74-bfd2-43bd-84c6-186e0412a163",
+        "thread_ts": "1585089744.377900",
+        "parent_user_id": "U01076XHPC0",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CEC345C8-87AD-48F2-AC7E-9D9E252EEB47",
+        "type": "message",
+        "text": "<@U01076XHPC0> thanks! Tagging <@U0107EMK8UD> in the event she has time to review as well. ",
+        "user": "U0107DX4VNU",
+        "ts": "1585091652.386900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aOR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks! Tagging "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the event she has time to review as well. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585089744.377900",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "type": "message",
+        "text": "<https://docs.google.com/spreadsheets/d/1smZ8Yn4XGmdwnTU03JuPwuK4Necm-Vqh8gE3kCuU7hc/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "F010PJCK9L4",
+                "created": 1585091713,
+                "timestamp": 1585091713,
+                "name": "CommCare Feedback Sheet",
+                "title": "CommCare Feedback Sheet",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U01076XHPC0",
+                "editable": false,
+                "size": 20544,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/1smZ8Yn4XGmdwnTU03JuPwuK4Necm-Vqh8gE3kCuU7hc/edit?usp=sharing",
+                "thumb_64": "https://a.slack-edge.com/80588/img/files/gsheet_64.png",
+                "thumb_360": "https://a.slack-edge.com/80588/img/files/gsheet_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01076XHPC0/F010PJCK9L4/commcare_feedback_sheet",
+                "is_starred": false,
+                "external_id": "1smZ8Yn4XGmdwnTU03JuPwuK4Necm-Vqh8gE3kCuU7hc",
+                "external_url": "https://docs.google.com/spreadsheets/d/1smZ8Yn4XGmdwnTU03JuPwuK4Necm-Vqh8gE3kCuU7hc/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nFeV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1smZ8Yn4XGmdwnTU03JuPwuK4Necm-Vqh8gE3kCuU7hc/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01076XHPC0",
+        "display_as_bot": false,
+        "x_files": [
+            "F010PJCK9L4"
+        ],
+        "ts": "1585091711.387100",
+        "client_msg_id": "54f3a885-f2f1-4fc7-86ed-bc6df8f933a9",
+        "thread_ts": "1585089744.377900",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "client_msg_id": "bdf9d6b3-f844-4099-9440-1ad2def29c72",
+        "type": "message",
+        "text": "If y\u2019all prefer a spreadsheet instead.",
+        "user": "U01076XHPC0",
+        "ts": "1585091727.387700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=qcod",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If y\u2019all prefer a spreadsheet instead."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585089744.377900",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "client_msg_id": "b3618c3c-85fd-41de-8c9a-d328ba617b8d",
+        "type": "message",
+        "text": "I wanted to propose a no-code solution for the self-report data collection. Given that we are collecting potentially sensitive data, going with an established platform seems safer than DIY.\n\nFor form building, I would recommend TypeForm (<https://www.typeform.com/templates/>) and something like AirTable (<https://airtable.com/>) for aggregating/analyzing the data. For API integrations, Zapier has a lot of connectors (<https://zapier.com/apps/integrations>).",
+        "user": "U010JULMT7Z",
+        "ts": "1585093966.391300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Typeform Templates - Get Inspired And Start Making Them Your Own",
+                "title_link": "https://www.typeform.com/templates/",
+                "text": "Say goodbye to boring forms, say hello to typeforms\u2014the new way to interact with people online. Pick a template and get started now\u2014they're fully customizable and ready to impress.",
+                "fallback": "Typeform Templates - Get Inspired And Start Making Them Your Own",
+                "from_url": "https://www.typeform.com/templates/",
+                "service_name": "typeform.com",
+                "id": 1,
+                "original_url": "https://www.typeform.com/templates/"
+            },
+            {
+                "service_name": "Airtable",
+                "title": "Airtable: Organize anything you can imagine",
+                "title_link": "https://airtable.com/",
+                "text": "Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.",
+                "fallback": "Airtable: Airtable: Organize anything you can imagine",
+                "image_url": "https://static.airtable.com/images/oembed/airtable.png",
+                "from_url": "https://airtable.com/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 42745,
+                "service_icon": "https://airtable.com/images/favicon/baymax/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https://airtable.com/"
+            },
+            {
+                "service_name": "Zapier",
+                "title": "Zapier | The easiest way to automate your work",
+                "title_link": "https://zapier.com/apps/integrations",
+                "text": "Connect the apps you use everyday to automate your work and be more productive. 2,000+ apps and easy integrations - get started in minutes.",
+                "fallback": "Zapier: Zapier | The easiest way to automate your work",
+                "image_url": "https://cdn.zapier.com/zapier/images/logos/social.png",
+                "from_url": "https://zapier.com/apps/integrations",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 15999,
+                "service_icon": "https://cdn.zapier.com/zapier/images/favicon.ico",
+                "id": 3,
+                "original_url": "https://zapier.com/apps/integrations"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iYJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wanted to propose a no-code solution for the self-report data collection. Given that we are collecting potentially sensitive data, going with an established platform seems safer than DIY.\n\nFor form building, I would recommend TypeForm ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.typeform.com/templates/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") and something like AirTable ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://airtable.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") for aggregating/analyzing the data. For API integrations, Zapier has a lot of connectors ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://zapier.com/apps/integrations"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585093966.391300",
+        "reply_count": 42,
+        "reply_users_count": 5,
+        "latest_reply": "1585102877.011100",
+        "reply_users": [
+            "U010APHG8Q1",
+            "U010JULMT7Z",
+            "U010A0N4N0P",
+            "U0107A7161E",
+            "UV9A4J5TK"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E",
+                    "U0107JEKN0N",
+                    "U010A0N4N0P"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a09b185-93a6-40a6-8b7d-d09bb5cd4de2",
+        "type": "message",
+        "text": "what came out of your call today?",
+        "user": "U0107A7161E",
+        "ts": "1585094361.392100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "irhJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what came out of your call today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081194.368400",
+        "parent_user_id": "U010A0N4N0P"
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "client_msg_id": "4d1bcbe9-facf-4db4-a352-d5112065a287",
+        "type": "message",
+        "text": "*<!here>*\u00a0Demo-day for Sprint #2 NOW!!!!!\u00a0:sunglasses:\u00a0--&gt; meeting link:\u00a0<https://mit.zoom.us/j/9235867808>",
+        "user": "UV6JHDP0S",
+        "ts": "1586307565.252100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mKY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0Demo-day for Sprint #2 NOW!!!!!\u00a0"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0--> meeting link:\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://mit.zoom.us/j/9235867808"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1e51932-5959-4c3d-a0ec-2c33e171ee34",
+        "type": "message",
+        "text": "Great job Helom and team!",
+        "user": "U010JHVF19U",
+        "ts": "1586310101.252600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/seol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great job Helom and team!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0107A7161E",
+                    "U0107JERE9L",
+                    "UV6JHDP0S",
+                    "U010UJ2C1FS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ed62bc9-aadd-40c6-8bca-cde9ee4ad6ef",
+        "type": "message",
+        "text": "<@U01078QCG2C> was able to see your updates to the dashboard at the call today! Thank you for all your work! I wanted to add one more example of data viz from the Santa Clara County DPH, which I thought was great and covered things we discussed last weekend. <https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx>",
+        "user": "U0107EMK8UD",
+        "ts": "1586310184.252900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "  Coronavirus (COVID-19) Data Dashboard  - Public Health Department - County of Santa Clara ",
+                "title_link": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx",
+                "text": "This data dashboard provides detailed information about cases and deaths from Coronavirus (COVID-19) in Santa Clara County.",
+                "fallback": "  Coronavirus (COVID-19) Data Dashboard  - Public Health Department - County of Santa Clara ",
+                "from_url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx",
+                "service_icon": "https://www.sccgov.org/Style%20Library/SCCGOV/Images/Common/scc-county-seal-mobile_256.png",
+                "service_name": "sccgov.org",
+                "id": 1,
+                "original_url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/WF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " was able to see your updates to the dashboard at the call today! Thank you for all your work! I wanted to add one more example of data viz from the Santa Clara County DPH, which I thought was great and covered things we discussed last weekend. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585968345.159900",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B0105GUT6BS",
+        "type": "message",
+        "text": "",
+        "user": "UV6JHDP0S",
+        "ts": "1586310636.253700",
+        "team": "TV5KELEUS",
+        "bot_profile": {
+            "id": "B0105GUT6BS",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1584449034,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https://a.slack-edge.com/80588/img/plugins/giphy/service_36.png",
+                "image_48": "https://a.slack-edge.com/80588/img/plugins/giphy/service_48.png",
+                "image_72": "https://a.slack-edge.com/80588/img/plugins/giphy/service_72.png"
+            },
+            "team_id": "TV5KELEUS"
+        },
+        "attachments": [
+            {
+                "fallback": "giphy: https://giphy.com/gifs/excited-screaming-jonah-hill-5GoVLqeAOo6PK",
+                "image_url": "https://media0.giphy.com/media/5GoVLqeAOo6PK/giphy.gif?cid=6104955e86dfdb86b6ce45e759a4051be81bdca5ed727afa&rid=giphy.gif",
+                "image_width": 237,
+                "image_height": 185,
+                "image_bytes": 408356,
+                "is_animated": true,
+                "title": "AWESOME",
+                "footer": "Posted using /giphy",
+                "id": 1,
+                "title_link": "https://giphy.com/gifs/excited-screaming-jonah-hill-5GoVLqeAOo6PK"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9cba1686-168e-43e0-bc8e-133bc5e4fb39",
+        "type": "message",
+        "text": "Yall are great!! Love it!",
+        "user": "UV6JHDP0S",
+        "ts": "1586310651.254100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Io0HJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yall are great!! Love it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U010JHVF19U",
+                    "UV8B0679P",
+                    "U01078QCG2C",
+                    "U011870MD54",
+                    "U01023RPHPU",
+                    "U0106M26108",
+                    "U010UJ2C1FS"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C09A6603-9E3D-49F6-8787-F777971E1211",
+        "type": "message",
+        "text": "Amazing job, team!",
+        "user": "UV8B0679P",
+        "ts": "1586310949.254800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gspWn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing job, team!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U01078QCG2C",
+                    "U0107JEKN0N",
+                    "U011870MD54",
+                    "U0107A7161E",
+                    "U010CQ6P9C4",
+                    "U0109ELFV4Y",
+                    "U010UJ2C1FS"
+                ],
+                "count": 7
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U01023RPHPU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fec75921-c67c-400f-b54c-76b81818d2c8",
+        "type": "message",
+        "text": "the dashboard looked amazing :fire:",
+        "user": "UV9A3J397",
+        "ts": "1586314445.256100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2R/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the dashboard looked amazing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap::skin-tone-5",
+                "users": [
+                    "U011870MD54",
+                    "U0107A7161E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U01023RPHPU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "181e2a2a-7fee-4609-ba6b-279ad074bad1",
+        "type": "message",
+        "text": "Hi all, is <http://dashboard.ethiopia-covid19.com/> the updated status of the dashboard or am I using a deprecated url?",
+        "user": "U0111A9R6JK",
+        "ts": "1586372873.260000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "TackleCovid19",
+                "title_link": "http://dashboard.ethiopia-covid19.com/",
+                "text": "Tackle Covid19",
+                "fallback": "TackleCovid19",
+                "from_url": "http://dashboard.ethiopia-covid19.com/",
+                "service_name": "dashboard.ethiopia-covid19.com",
+                "id": 1,
+                "original_url": "http://dashboard.ethiopia-covid19.com/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fBFIR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://dashboard.ethiopia-covid19.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the updated status of the dashboard or am I using a deprecated url?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0bfe0bdb-bea1-49ff-b14f-1c7245eca37d",
+        "type": "message",
+        "text": "<@U0111A9R6JK> There are still multiple PRs waiting to be merged into the master. thats why it isnt updated",
+        "user": "UV6JHDP0S",
+        "ts": "1586375005.261300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xSt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0111A9R6JK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " There are still multiple PRs waiting to be merged into the master. thats why it isnt updated"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586375005.261300",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1586376638.262100",
+        "reply_users": [
+            "U0111A9R6JK",
+            "UV6JHDP0S",
+            "U01078QCG2C"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a1d8b764-9aa4-4142-94e2-c4d87d7dac68",
+        "type": "message",
+        "text": "wonderful! When do you think the PR\u2019s can be merged? Do they need approval by specific people?",
+        "user": "U0111A9R6JK",
+        "ts": "1586375379.261400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ses=x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wonderful! When do you think the PR\u2019s can be merged? Do they need approval by specific people?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586375005.261300",
+        "parent_user_id": "UV6JHDP0S"
+    },
+    {
+        "client_msg_id": "01d75d8f-ce6e-4b97-9263-c98935636ff6",
+        "type": "message",
+        "text": "idk what the process it. But <@U01078QCG2C>  will know :slightly_smiling_face:",
+        "user": "UV6JHDP0S",
+        "ts": "1586375432.261600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2g/51",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "idk what the process it. But "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  will know "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586375005.261300",
+        "parent_user_id": "UV6JHDP0S"
+    },
+    {
+        "client_msg_id": "37d09345-502b-41ce-89a1-d4e93ee89b13",
+        "type": "message",
+        "text": "Hey <@U0111A9R6JK>, I\u2019m planning on cleaning up some work and merging some stuff in today/tonight and releasing an update by tomorrow. If you make a PR just be sure to have someone else review and merge your work in--nobody is specifically approving",
+        "user": "U01078QCG2C",
+        "ts": "1586375901.261900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rTlp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0111A9R6JK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I\u2019m planning on cleaning up some work and merging some stuff in today/tonight and releasing an update by tomorrow. If you make a PR just be sure to have someone else review and merge your work in--nobody is specifically approving"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586375005.261300",
+        "parent_user_id": "UV6JHDP0S"
+    },
+    {
+        "client_msg_id": "4d74235e-c54d-4e99-b8f6-e4360edd4eba",
+        "type": "message",
+        "text": "alright, thank you guys!",
+        "user": "U0111A9R6JK",
+        "ts": "1586376638.262100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LAF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alright, thank you guys!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586375005.261300",
+        "parent_user_id": "UV6JHDP0S"
+    },
+    {
+        "client_msg_id": "a93cb6e6-db5f-4552-9b72-b2d95e8fbf59",
+        "type": "message",
+        "text": "This is an amazing project - quick question, as a user, should I be using it for myself, or using it to report people that I suspect to have these symptoms?",
+        "user": "U010UM8QBQA",
+        "ts": "1586379360.263800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gvo9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is an amazing project - quick question, as a user, should I be using it for myself, or using it to report people that I suspect to have these symptoms?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

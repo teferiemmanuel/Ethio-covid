@@ -1,0 +1,646 @@
+[
+    {
+        "client_msg_id": "5a18fc23-03f3-49c7-a0b8-c036520488e2",
+        "type": "message",
+        "text": "I put this in random, but I think it belongs here: <https://www.goodhousekeeping.com/home/cleaning/a20705805/how-to-make-homemade-soap/> . Maybe it could be useful to translate soap making instructions to Amharic and mass circulate that.",
+        "user": "U010J0B824V",
+        "ts": "1585555910.021600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Good Housekeeping",
+                "title": "How To Make Homemade Soap From Scratch In 6 Easy Steps",
+                "title_link": "https://www.goodhousekeeping.com/home/cleaning/a20705805/how-to-make-homemade-soap/",
+                "text": "You can make your own natural, affordable, and beautifully fragrant soaps at home.",
+                "fallback": "Good Housekeeping: How To Make Homemade Soap From Scratch In 6 Easy Steps",
+                "image_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/981/diysoap-6-cure-885-1515511021.jpg?crop=1xw:0.885xh;center,top&resize=1200:*",
+                "image_width": 501,
+                "image_height": 250,
+                "ts": 1515426660,
+                "from_url": "https://www.goodhousekeeping.com/home/cleaning/a20705805/how-to-make-homemade-soap/",
+                "image_bytes": 44429,
+                "id": 1,
+                "original_url": "https://www.goodhousekeeping.com/home/cleaning/a20705805/how-to-make-homemade-soap/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oloV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I put this in random, but I think it belongs here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.goodhousekeeping.com/home/cleaning/a20705805/how-to-make-homemade-soap/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Maybe it could be useful to translate soap making instructions to Amharic and mass circulate that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U010J0B824V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6acf3a94-a8b7-4c87-8b14-1ecf79be9426",
+        "type": "message",
+        "text": "A number of links to Covid-19 databases, apis and visualisations:\n1. John Hopkins international dataset <https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6>\u00a0\n<https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases>\n<https://github.com/CSSEGISandData/COVID-19>\n<https://coronavirus.jhu.edu/map.html>\n1. WHO data provided through IBM weather: <https://accelerator.weather.com/>\n2. <https://www.cdc.gov/coronavirus/2019-ncov/index.html|CDC >\u00b7<https://www.who.int/emergencies/diseases/novel-coronavirus-2019| WHO >\u00b7<https://www.ecdc.europa.eu/en/novel-coronavirus-china| ECDC >\u00b7<https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic| Wikipedia> \u00b7<https://247wallst.com/| 24/7 Wall St.> data through Microsoft: <https://bing.com/covid>\n3. Covid-19 APIs through postman: <https://covid-19-apis.postman.com/>\n4. Data from other countries (infection rates, etc) <https://covid19info.live/>\n5. Summary dataset: <https://www.worldometers.info/coronavirus/>\n6. Europa dataset: <https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data/resource/55e8f966-d5c8-438e-85bc-c7a5a26f4863>\n7. GIS-Mapping dataset from ERSI: <https://www.esri.com/en-us/covid-19/overview>\n8. Extra-granular geotagged case counts: <https://www.snowflake.com/datasets/starschema/>\n9. US dataset from open-sources: <https://covidtracking.com/>\u00a0\n10. Data.world data source aggregator: <https://data.world/search?context=community&amp;q=tag%3A%22coronavirus%22+OR+tag%3A%22covid+19%22&amp;type=all>\n11. Oxford data visualisatons: <https://ourworldindata.org/coronavirus>\n12. Kaggle datasets: <https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset>\n13. Commcare export instructions: <https://confluence.dimagi.com/display/commcarepublic/Data+Export+Overview>\n14. Google coronavirus trends: <https://www.google.com/covid19/>\n15. OCHA / UN Datasets <https://data.humdata.org/organization/ocha-ethiopia>\n<https://data.humdata.org/search?q=ethiopia&amp;ext_search_source=main-nav&amp;sort=total_res_downloads+desc&amp;page=2>\n1. State of Florida <https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86>\n2. Tableau (Author: Mahlet Konjit-Solomon) <https://public.tableau.com/profile/mahlet.nigatu#!/vizhome/EthiopiaCOVID-19Cases/EthiopiaCOVID-19Cases>\n3. Singapore Covid Dashboard <https://co.vid19.sg/dashboard>\nFace to face datasets from Sociopatterns: <http://www.sociopatterns.org/datasets/>",
+        "user": "U01069Z58V8",
+        "ts": "1585587038.022400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "CSSEGISandData/COVID-19",
+                "text": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+                "title": "CSSEGISandData/COVID-19",
+                "footer": "<https://github.com/CSSEGISandData/COVID-19|CSSEGISandData/COVID-19>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1580853833,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Website",
+                        "value": "<https://systems.jhu.edu/research/public-health/ncov/>",
+                        "short": true
+                    },
+                    {
+                        "title": "Stars",
+                        "value": "17763",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/CSSEGISandData/COVID-19",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p0EbN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A number of links to Covid-19 databases, apis and visualisations:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "John Hopkins international dataset "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\u00a0"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/CSSEGISandData/COVID-19"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://coronavirus.jhu.edu/map.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "WHO data provided through IBM weather: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://accelerator.weather.com/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+                                        "text": "CDC "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\u00b7"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+                                        "text": " WHO "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\u00b7"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.ecdc.europa.eu/en/novel-coronavirus-china",
+                                        "text": " ECDC "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\u00b7"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic",
+                                        "text": " Wikipedia"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " \u00b7"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://247wallst.com/",
+                                        "text": " 24/7 Wall St."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " data through Microsoft: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://bing.com/covid"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Covid-19 APIs through postman: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://covid-19-apis.postman.com/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Data from other countries (infection rates, etc) "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://covid19info.live/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Summary dataset: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.worldometers.info/coronavirus/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Europa dataset: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data/resource/55e8f966-d5c8-438e-85bc-c7a5a26f4863"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GIS-Mapping dataset from ERSI: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.esri.com/en-us/covid-19/overview"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Extra-granular geotagged case counts: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.snowflake.com/datasets/starschema/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "US dataset from open-sources: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://covidtracking.com/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Data.world data source aggregator: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://data.world/search?context=community&q=tag%3A%22coronavirus%22+OR+tag%3A%22covid+19%22&type=all"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Oxford data visualisatons: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://ourworldindata.org/coronavirus"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Kaggle datasets: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Commcare export instructions: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://confluence.dimagi.com/display/commcarepublic/Data+Export+Overview"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Google coronavirus trends: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.google.com/covid19/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OCHA / UN Datasets "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://data.humdata.org/organization/ocha-ethiopia"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://data.humdata.org/search?q=ethiopia&ext_search_source=main-nav&sort=total_res_downloads+desc&page=2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "State of Florida "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tableau (Author: Mahlet Konjit-Solomon) "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://public.tableau.com/profile/mahlet.nigatu#!/vizhome/EthiopiaCOVID-19Cases/EthiopiaCOVID-19Cases"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Singapore Covid Dashboard "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://co.vid19.sg/dashboard"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Face to face datasets from Sociopatterns: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.sociopatterns.org/datasets/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01069Z58V8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap::skin-tone-5",
+                "users": [
+                    "U0100B5MHDG",
+                    "UVB9ZSPCH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U010J0B824V",
+                    "UVB9ZSPCH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "135C9EB6-5C8C-485C-969E-B15B245765E1",
+        "type": "message",
+        "text": "<@U01069Z58V8> this is good,thanks!",
+        "user": "UVB9ZSPCH",
+        "ts": "1585587382.023900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=wl4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01069Z58V8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is good,thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A8D1CFD7-6BC9-4CCC-9000-E98AF47DB346",
+        "type": "message",
+        "text": "WHO considers 'airborne precautions' for medical staff after study shows coronavirus can survive in air!\n\n<https://www.cnbc.com/2020/03/16/who-considers-airborne-precautions-for-medical-staff-after-study-shows-coronavirus-can-survive-in-air.html|https://www.cnbc.com/2020/03/16/who-considers-airborne-precautions-for-medical-staff-after-study-shows-coronavirus-can-survive-in-air.html>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585608796.024400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "CNBC",
+                "title": "WHO considers 'airborne precautions' for medical staff after study shows coronavirus can survive in air",
+                "title_link": "https://www.cnbc.com/2020/03/16/who-considers-airborne-precautions-for-medical-staff-after-study-shows-coronavirus-can-survive-in-air.html",
+                "text": "The coronavirus can go airborne, staying suspended in the air depending on factors such as heat and humidity, WHO officials said.",
+                "fallback": "CNBC: WHO considers 'airborne precautions' for medical staff after study shows coronavirus can survive in air",
+                "image_url": "https://image.cnbcfm.com/api/v1/image/106456848-1584977916032gettyimages-1208026833.jpeg?v=1584977964",
+                "ts": 1584375853,
+                "from_url": "https://www.cnbc.com/2020/03/16/who-considers-airborne-precautions-for-medical-staff-after-study-shows-coronavirus-can-survive-in-air.html",
+                "image_width": 377,
+                "image_height": 250,
+                "image_bytes": 669619,
+                "service_icon": "https://www.cnbc.com/favicon.ico",
+                "id": 1,
+                "original_url": "https://www.cnbc.com/2020/03/16/who-considers-airborne-precautions-for-medical-staff-after-study-shows-coronavirus-can-survive-in-air.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h2ft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WHO considers 'airborne precautions' for medical staff after study shows coronavirus can survive in air!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.cnbc.com/2020/03/16/who-considers-airborne-precautions-for-medical-staff-after-study-shows-coronavirus-can-survive-in-air.html",
+                                "text": "https://www.cnbc.com/2020/03/16/who-considers-airborne-precautions-for-medical-staff-after-study-shows-coronavirus-can-survive-in-air.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585608796.024400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585609209.027000",
+        "reply_users": [
+            "UVB9ZSPCH"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U010J0B824V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52661389-BCA1-4363-A825-B9BD78EB5033",
+        "type": "message",
+        "text": ":rotating_light:New study showing COVID-19 can stay suspended in air depending on factors like heat &amp; humidity. ",
+        "user": "UVB9ZSPCH",
+        "ts": "1585609209.027000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HKSj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": "New study showing COVID-19 can stay suspended in air depending on factors like heat & humidity. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585608796.024400",
+        "parent_user_id": "UVB9ZSPCH"
+    }
+]

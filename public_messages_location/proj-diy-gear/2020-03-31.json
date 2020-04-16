@@ -1,0 +1,382 @@
+[
+    {
+        "client_msg_id": "f4255a48-72c7-4dec-a2d8-2dbd755f8e48",
+        "type": "message",
+        "text": "<@U010P2VU7ND> This is great. Thanks for sharing.",
+        "user": "U010VLD0G2H",
+        "ts": "1585614486.069300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MqRi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010P2VU7ND"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This is great. Thanks for sharing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f22b628f-2c42-44d0-a7de-742bc268ad86",
+        "type": "message",
+        "text": "<@U010VLD0G2H> if we can manage to get our hands on the sterilizing sheet, we have a team of designers and tailors that can make the mask.",
+        "user": "U010P2VU7ND",
+        "ts": "1585648468.073200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rd4HK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010VLD0G2H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if we can manage to get our hands on the sterilizing sheet, we have a team of designers and tailors that can make the mask."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff8224c7-0b4a-4dc3-8d45-802ea77b4f84",
+        "type": "message",
+        "text": "We are a team of voice scientists and engineers who work on voice forensic technologies. The Covid-19 pandemic is spreading rapidly across the world. There is a growing shortage of medical testing facilities. Tens of thousands of potentially infected people who need to be tested do not have easy access to medical tests. Our goal is to develop a voice-based testing system for Covid-19, that could potentially reach every person in the world.\u200b\n\nThis website provides Covid-19 assessment from voice. You may try it out, but please see the disclaimer below. To make this system accurate, we urgently need examples of voices from healthy and infected people. Please use this system to donate your voice. Please ask your friends family to also do so. Together we may help save lives.\n\n<https://cvd.lti.cmu.edu/cvd/login|https://cvd.lti.cmu.edu/cvd/login>",
+        "user": "U010Z23J5CL",
+        "ts": "1585665689.073300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010Z23J5CL",
+            "ts": "1585665747.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VLT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are a team of voice scientists and engineers who work on voice forensic technologies. The Covid-19 pandemic is spreading rapidly across the world. There is a growing shortage of medical testing facilities. Tens of thousands of potentially infected people who need to be tested do not have easy access to medical tests. Our goal is to develop a voice-based testing system for Covid-19, that could potentially reach every person in the world.\u200b\n\nThis website provides Covid-19 assessment from voice. You may try it out, but please see the disclaimer below. To make this system accurate, we urgently need examples of voices from healthy and infected people. Please use this system to donate your voice. Please ask your friends family to also do so. Together we may help save lives.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://cvd.lti.cmu.edu/cvd/login",
+                                "text": "https://cvd.lti.cmu.edu/cvd/login"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585665689.073300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585671005.076100",
+        "reply_users": [
+            "U010PF746SY"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "34D7E925-FE3C-41FB-A6FF-64F60C8FD6A8",
+        "type": "message",
+        "text": "<https://www.washingtonpost.com/health/cdc-considering-recommending-general-public-wear-face-coverings-in-public/2020/03/30/6a3e495c-7280-11ea-87da-77a8136c1a6d_story.html|https://www.washingtonpost.com/health/cdc-considering-recommending-general-public-wear-face-coverings-in-public/2020/03/30/6a3e495c-7280-11ea-87da-77a8136c1a6d_story.html>",
+        "user": "U010PF746SY",
+        "ts": "1585670618.073600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Washington Post",
+                "title": "CDC considering recommending general public wear face coverings in public",
+                "title_link": "https://www.washingtonpost.com/health/cdc-considering-recommending-general-public-wear-face-coverings-in-public/2020/03/30/6a3e495c-7280-11ea-87da-77a8136c1a6d_story.html",
+                "text": "The move would stress that medical masks be left for health-care workers.",
+                "fallback": "Washington Post: CDC considering recommending general public wear face coverings in public",
+                "image_url": "https://www.washingtonpost.com/resizer/ZH5cG2X8Pu3Zgxt8s2TCoVWKXe4=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RNAJLQDS5AI6VAUGBKMUKJKRVE.jpg",
+                "from_url": "https://www.washingtonpost.com/health/cdc-considering-recommending-general-public-wear-face-coverings-in-public/2020/03/30/6a3e495c-7280-11ea-87da-77a8136c1a6d_story.html",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 111779,
+                "service_icon": "https://www.washingtonpost.com/pf/resources/images/touch-icon-iphone.png?d=227",
+                "id": 1,
+                "original_url": "https://www.washingtonpost.com/health/cdc-considering-recommending-general-public-wear-face-coverings-in-public/2020/03/30/6a3e495c-7280-11ea-87da-77a8136c1a6d_story.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qLL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.washingtonpost.com/health/cdc-considering-recommending-general-public-wear-face-coverings-in-public/2020/03/30/6a3e495c-7280-11ea-87da-77a8136c1a6d_story.html",
+                                "text": "https://www.washingtonpost.com/health/cdc-considering-recommending-general-public-wear-face-coverings-in-public/2020/03/30/6a3e495c-7280-11ea-87da-77a8136c1a6d_story.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D21534A3-7DA0-43AF-95DC-840787756C15",
+        "type": "message",
+        "text": "Do you expect the ML detection filter to be language independent ? or language needs to be an input ?",
+        "user": "U010PF746SY",
+        "ts": "1585671005.076100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LFmYb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you expect the ML detection filter to be language independent ? or language needs to be an input ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585665689.073300",
+        "parent_user_id": "U010Z23J5CL"
+    },
+    {
+        "client_msg_id": "f54bab5d-13a9-49f3-8346-22e45cf20627",
+        "type": "message",
+        "text": "Hey Samra,\nThank you for joining.. We are interested in the 100% cotton masks. I need some details to estimate cost and scale. Sending you a DM",
+        "user": "U0107JERE9L",
+        "ts": "1585679425.076300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Samra,\nThank you for joining.. We are interested in the 100% cotton masks. I need some details to estimate cost and scale. Sending you a DM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "type": "message",
+        "text": "The production of DIY masks is pretty much baked in to the local community response template with simulation derived charts showing the difference between no masks and masks",
+        "files": [
+            {
+                "id": "F0117FNEG3Z",
+                "created": 1585684449,
+                "timestamp": 1585684449,
+                "name": "CRP Template V1.pdf",
+                "title": "CRP Template V1.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010PF746SY",
+                "editable": false,
+                "size": 530800,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0117FNEG3Z/crp_template_v1.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0117FNEG3Z/download/crp_template_v1.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F0117FNEG3Z-da71ca174f/crp_template_v1_thumb_pdf.png",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010PF746SY/F0117FNEG3Z/crp_template_v1.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0117FNEG3Z-6687283044",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I41Cr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The production of DIY masks is pretty much baked in to the local community response template with simulation derived charts showing the difference between no masks and masks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010PF746SY",
+        "display_as_bot": false,
+        "ts": "1585684459.076500",
+        "client_msg_id": "51b5a037-43b1-4526-be5c-5982a1cc4229"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0107JERE9L",
+        "ts": "1585686481.076800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 30th, 2020 4:26 AM] amenbelayneh: Or properly folded Natela (\u1290\u1320\u120b) when localized to Ethiopia <https://www.washingtonpost.com/outlook/2020/03/28/masks-all-coronavirus/>",
+                "ts": "1585556771.073700",
+                "author_id": "U0107AG9U8Z",
+                "author_subname": "Amen Belayneh",
+                "channel_id": "C0106S0JS4C",
+                "channel_name": "all-in-the-news",
+                "is_msg_unfurl": true,
+                "text": "Or properly folded Natela (\u1290\u1320\u120b) when localized to Ethiopia <https://www.washingtonpost.com/outlook/2020/03/28/masks-all-coronavirus/>",
+                "author_name": "Amen Belayneh",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107AG9U8Z",
+                "author_icon": "https://secure.gravatar.com/avatar/681763f12948f568f90f10380bd0afa6.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0106S0JS4C/p1585556771073700",
+                "is_share": true,
+                "footer": "Posted in #all-in-the-news"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011BGST4BG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61fcafdd-aec0-4214-8685-fbc1bd18f15e",
+        "type": "message",
+        "text": "Hi everyone,\nI see many options and possibilities for PPE and Masks \nDo we have an approach to review which design fits certain stakeholders like the Helath care professional compared to precautionary use of the mass? \n\nIt is wonderful to see that there are many alternatives and would be great if we share best practices and recommendation from the stakeholders. Potentially come up with few options for production with certain standard.\n\nWe have come across some more information for \nAdditional 3D Protective gear design to be reviewed.\n1.<https://www.prusa3d.com/covid19/|https://www.prusa3d.com/covid19/> \n 2.<https://3dverkstan.se/protective-visor/|https://3dverkstan.se/protective-visor/>\n\nMask :- This is still a working progress and we can add to the design\n\n<https://copper3d.com/hackthepandemic/#About_NanoHack|https://copper3d.com/hackthepandemic/#About_NanoHack>\n\n\nI hope this adds value",
+        "user": "U010SKPP7CJ",
+        "ts": "1585688263.094800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Prusa3D - 3D Printers from Josef Pr\u016f\u0161a",
+                "title": "3D printed face shields for medics and professionals",
+                "title_link": "https://www.prusa3d.com/covid19/",
+                "text": "In reaction to an acute shortage of protective wear for medical personnel in the current pandemic situation, we quickly developed and started to mass-produce protective face shields. And everyone with the 3D printer can help too!",
+                "fallback": "Prusa3D - 3D Printers from Josef Pr\u016f\u0161a: 3D printed face shields for medics and professionals",
+                "image_url": "https://cdn.prusa3d.com/wp-content/uploads/2020/03/Image-from-iOS-15.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https://www.prusa3d.com/covid19/",
+                "image_bytes": 50510,
+                "service_icon": "https://www.prusa3d.com/wp-content/uploads/2014/10/prusa_fav_144x144.jpg",
+                "id": 1,
+                "original_url": "https://www.prusa3d.com/covid19/"
+            },
+            {
+                "service_name": "3DVerkstan",
+                "title": "3D-printed protective visor - 3DVerkstan - Quick to print, easy to assemble",
+                "title_link": "https://3dverkstan.se/protective-visor/",
+                "text": "Protective visor for healthcare. We collaborate with wefightcovid and Sjukv\u00e5rdshj\u00e4lpen to help relieve hospitals in dire need of protective equipment.",
+                "fallback": "3DVerkstan: 3D-printed protective visor - 3DVerkstan - Quick to print, easy to assemble",
+                "from_url": "https://3dverkstan.se/protective-visor/",
+                "service_icon": "https://mk03dverkstanb4pk6hu.kinstacdn.com/wp-content/uploads/2016/07/3DVerkstan-Only-hotend-logo--e1468263528514-180x180.png",
+                "id": 2,
+                "original_url": "https://3dverkstan.se/protective-visor/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D3x1F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone,\nI see many options and possibilities for PPE and Masks \nDo we have an approach to review which design fits certain stakeholders like the Helath care professional compared to precautionary use of the mass? \n\nIt is wonderful to see that there are many alternatives and would be great if we share best practices and recommendation from the stakeholders. Potentially come up with few options for production with certain standard.\n\nWe have come across some more information for \nAdditional 3D Protective gear design to be reviewed.\n1."
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.prusa3d.com/covid19/",
+                                "text": "https://www.prusa3d.com/covid19/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n 2."
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://3dverkstan.se/protective-visor/",
+                                "text": "https://3dverkstan.se/protective-visor/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMask :- This is still a working progress and we can add to the design\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://copper3d.com/hackthepandemic/#About_NanoHack",
+                                "text": "https://copper3d.com/hackthepandemic/#About_NanoHack"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nI hope this adds value"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585694659.095100",
+        "user": "U0117R1LYMD",
+        "text": "<@U0117R1LYMD> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    }
+]

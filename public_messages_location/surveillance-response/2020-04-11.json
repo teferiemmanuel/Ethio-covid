@@ -1,0 +1,834 @@
+[
+    {
+        "client_msg_id": "583e7207-c7b6-43c9-8bf2-16eb879bb054",
+        "type": "message",
+        "text": "Maybe you can use this tool as a start for the modeling. <https://alhill.shinyapps.io/COVID19seir/>",
+        "user": "U0102QX78GH",
+        "ts": "1586565244.198800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0102QX78GH",
+            "ts": "1586565260.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HoOX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe you can use this tool as a start for the modeling. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://alhill.shinyapps.io/COVID19seir/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586553938.195600",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0128LHD400",
+                "created": 1586571593,
+                "timestamp": 1586571593,
+                "name": "ContactTracing-BluetoothSpecification.pdf",
+                "title": "ContactTracing-BluetoothSpecification.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U011F7L4G8L",
+                "editable": false,
+                "size": 1553043,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0128LHD400/contacttracing-bluetoothspecification.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0128LHD400/download/contacttracing-bluetoothspecification.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F0128LHD400-26ca0371f4/contacttracing-bluetoothspecification_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U011F7L4G8L/F0128LHD400/contacttracing-bluetoothspecification.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0128LHD400-408bd1e988",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F011Y4H2VLZ",
+                "created": 1586571593,
+                "timestamp": 1586571593,
+                "name": "ContactTracing-CryptographySpecification.pdf",
+                "title": "ContactTracing-CryptographySpecification.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U011F7L4G8L",
+                "editable": false,
+                "size": 1581966,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011Y4H2VLZ/contacttracing-cryptographyspecification.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011Y4H2VLZ/download/contacttracing-cryptographyspecification.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011Y4H2VLZ-94be90a5d7/contacttracing-cryptographyspecification_thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U011F7L4G8L/F011Y4H2VLZ/contacttracing-cryptographyspecification.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011Y4H2VLZ-b4ac4609e0",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F011N3C6RAP",
+                "created": 1586571593,
+                "timestamp": 1586571593,
+                "name": "ContactTracing-FrameworkDocumentation.pdf",
+                "title": "ContactTracing-FrameworkDocumentation.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U011F7L4G8L",
+                "editable": false,
+                "size": 1159869,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011N3C6RAP/contacttracing-frameworkdocumentation.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011N3C6RAP/download/contacttracing-frameworkdocumentation.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011N3C6RAP-e935ebe6a4/contacttracing-frameworkdocumentation_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U011F7L4G8L/F011N3C6RAP/contacttracing-frameworkdocumentation.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011N3C6RAP-a44383aebb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U011F7L4G8L",
+        "ts": "1586571597.199400",
+        "client_msg_id": "a0b95635-a6f7-4e4d-b266-721a107b5004"
+    },
+    {
+        "client_msg_id": "8b5e48a6-6805-4afb-ac8e-ae3fc85e6b07",
+        "type": "message",
+        "text": "<https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app>",
+        "user": "U011F7L4G8L",
+        "ts": "1586571617.200200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "Apple and Google are building a coronavirus tracking system into iOS and Android",
+                "title_link": "https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app",
+                "text": "It will use Bluetooth connections, not location tracking.",
+                "fallback": "The Verge: Apple and Google are building a coronavirus tracking system into iOS and Android",
+                "image_url": "https://cdn.vox-cdn.com/thumbor/P3VNIo1aw2cZHAZWWEUb0nX92gA=/0x109:2040x1177/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13272933/jbareham_181012_2989_0577.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1586537936,
+                "from_url": "https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app",
+                "image_bytes": 122064,
+                "service_icon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395359/ios-icon.0.png",
+                "id": 1,
+                "original_url": "https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pLiP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa43cb9b-ce51-4858-978d-a4d8c698b6c0",
+        "type": "message",
+        "text": "<@U010L1RJMUN> <@UV8B0679P>  just bringing to your attention that this was one of the suggestions we gave to  <@U01078QCG2C>  for tracking / managing resource gaps when giving feedback on the dashboard last week. Not sure if the survey visualization team has already started working on this but connecting you guys in case they started / can use what you find with this. If I recall correctly I think we had suggested adding PPE and COVID tests in addition to hospital/ICU bed tracking with this modelling if possible.",
+        "user": "U011680TZL5",
+        "ts": "1586573034.200400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U011680TZL5",
+            "ts": "1586575090.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1J+iI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  just bringing to your attention that this was one of the suggestions we gave to  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  for tracking / managing resource gaps when giving feedback on the dashboard last week. Not sure if the survey visualization team has already started working on this but connecting you guys in case they started / can use what you find with this. If I recall correctly I think we had suggested adding PPE and COVID tests in addition to hospital/ICU bed tracking with this modelling if possible."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586553938.195600",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "10619729-400a-4c0e-b65d-0e21b899f6ef",
+        "type": "message",
+        "text": "for anyone with available bandwidth: <https://ethiopia-covid19.slack.com/archives/C010FQ25NES/p1586583223317200>",
+        "user": "U0107A7161E",
+        "ts": "1586586218.201200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1586586248.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010FQ25NES/p1586583223317200",
+                "fallback": "[April 10th, 2020 10:33 PM] edhsu: We (IHSI) are looking for a project leader who can help me scope out the following before US East coast wakes up.\u00a0So ideally someone in Euro Time zone.\u00a0\nTask : Web Registration form for signatures to an Open letter from Medical Professionals to all Goverments in Africa and LDC\u2019s .\u00a0This form will be linked to Ethio Am Med Professionals website which is now under construction\n\n -\u00a0\u00a0\u00a0\u00a0Web page form for page visitor to register Name, home country, Credentials, Email address\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Form data fed into database\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Thank you letter generated and emailed to the visitor\nExpect up to 10,000 to register at a max rate of 500 visitors per hour\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Need hosting plan, who maintains\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Data extraction volunteer and POC for Ethio Med Prof group\nQuestions\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0How many coders needed ?\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Time to completion ?\n\nPlease Whats App me on <tel:+33603311338|+336 03 31 13 38> or Telegram",
+                "ts": "1586583223.317200",
+                "author_id": "U010PF746SY",
+                "author_subname": "Edward Hsu",
+                "channel_id": "C010FQ25NES",
+                "channel_name": "all-ask-for-help",
+                "is_msg_unfurl": true,
+                "text": "We (IHSI) are looking for a project leader who can help me scope out the following before US East coast wakes up.\u00a0So ideally someone in Euro Time zone.\u00a0\nTask : Web Registration form for signatures to an Open letter from Medical Professionals to all Goverments in Africa and LDC\u2019s .\u00a0This form will be linked to Ethio Am Med Professionals website which is now under construction\n\n -\u00a0\u00a0\u00a0\u00a0Web page form for page visitor to register Name, home country, Credentials, Email address\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Form data fed into database\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Thank you letter generated and emailed to the visitor\nExpect up to 10,000 to register at a max rate of 500 visitors per hour\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Need hosting plan, who maintains\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Data extraction volunteer and POC for Ethio Med Prof group\nQuestions\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0How many coders needed ?\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Time to completion ?\n\nPlease Whats App me on <tel:+33603311338|+336 03 31 13 38> or Telegram",
+                "author_name": "Edward Hsu",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010PF746SY",
+                "author_icon": "https://secure.gravatar.com/avatar/8f7a595339348a93f2c33c76f7cf61e9.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C010FQ25NES/p1586583223317200",
+                "footer": "Posted in #all-ask-for-help"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X4t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for anyone with available bandwidth: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010FQ25NES/p1586583223317200"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Most hospitals are not ready in Ethiopia to treat COVID patients ..  <https://static1.squarespace.com/static/55d4de6de4b011a1673a40a6/t/5bfc17ab21c67c558106119e/1543247788342/Ethiopia+NCDI+Commission+Report+Summary+FINAL.pdf|source>",
+        "files": [
+            {
+                "id": "F011MFMRYGJ",
+                "created": 1586602747,
+                "timestamp": 1586602747,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L1RJMUN",
+                "editable": false,
+                "size": 96837,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011MFMRYGJ/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011MFMRYGJ/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011MFMRYGJ-9d14fa5925/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011MFMRYGJ-9d14fa5925/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011MFMRYGJ-9d14fa5925/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 233,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011MFMRYGJ-9d14fa5925/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 311,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011MFMRYGJ-9d14fa5925/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011MFMRYGJ-9d14fa5925/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 467,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011MFMRYGJ-9d14fa5925/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 519,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011MFMRYGJ-9d14fa5925/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 623,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 664,
+                "thumb_tiny": "AwAfADDRxnJ3EfjRt/2j+dB+6aHYLgk0mxht/wBo/nRt/wBo0m8eaF6k8fSldgqknpRcB2eM0Z5pgIKDHY4px+8KVxDZNwAwOp5+lQyBnKkrg7eR+IqwCSOn60nzU7DuRBT9ozjjJP6U6QFomABznP60/BznApfm/wAmiwX1uRp8q4I6sT+tKM+eT2IGKfz6D86Oc8gUWC5//9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L1RJMUN/F011MFMRYGJ/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011MFMRYGJ-78de136b15",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rdgB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Most hospitals are not ready in Ethiopia to treat COVID patients ..  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://static1.squarespace.com/static/55d4de6de4b011a1673a40a6/t/5bfc17ab21c67c558106119e/1543247788342/Ethiopia+NCDI+Commission+Report+Summary+FINAL.pdf",
+                                "text": "source"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010L1RJMUN",
+        "display_as_bot": false,
+        "ts": "1586602753.202600",
+        "edited": {
+            "user": "U010L1RJMUN",
+            "ts": "1586602766.000000"
+        },
+        "client_msg_id": "7e2c069a-b03d-4b73-8646-3f18e3ae27ba"
+    },
+    {
+        "client_msg_id": "3de9559d-4e89-4ba2-b8e1-eba5445db28b",
+        "type": "message",
+        "text": "The summary result of <https://bmcpalliatcare.biomedcentral.com/articles/10.1186/1472-684X-12-14|this paper>, for addis ababa, is sobering. Imagine other regions?\n&gt; Only 28.7% died at health facilities, while the remaining died out of health facilities. There was an increase trend in the proportion of health facility deaths from 25.3% in 2006 to 32.5% in 2010. The risk of health facility death versus out of health facility deaths decreased with age. Compared with those who had no education educated people were more likely to die at health facilities. The chance of in health facility death was a little higher for females than males while religion, occupational status and ethnicity of the deceased had no any significance difference in place of death.\nWhat this could mean is that all estimates of death rates etc. should be adjusted ( a factor of two at least)",
+        "user": "U010L1RJMUN",
+        "ts": "1586603991.205100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "BMC Palliative Care",
+                "title": "Factors associated with place of death in Addis Ababa, Ethiopia",
+                "title_link": "https://bmcpalliatcare.biomedcentral.com/articles/10.1186/1472-684X-12-14",
+                "text": "Dying at home is highly prevalent in Africa partly due to lack of accessibility of modern health services. In turn, limited infrastructure and health care deliveries in Africa complicate access to health services. A weak infrastructure and limited health facilities with lower quality in Ethiopia resulted poor health service utilization and coverage, high morbidity and mortality rates. We examined whether people in Addis Ababa died in health facilities and investigated the basic factors associated with place of death. We used verbal autopsy data of 4,776 adults (age&gt;14 years) for the years 2006\u20132010 from the Addis Ababa Mortality Surveillance Program (AAMSP). The main data source of AAMSP is the burial surveillance from all cemeteries in Addis Ababa. We provide descriptive statistics of place of adult deaths and discussed their covariates using multivariate analyses. Only 28.7% died at health facilities, while the remaining died out of health facilities. There was an increase trend in the proportion of health facility deaths from 25.3% in 2006 to 32.5% in 2010. The risk of health facility death versus out of health facility deaths decreased with age. Compared with those who had no education educated people were more likely to die at health facilities. The chance of in health facility death was a little higher for females than males while religion, occupational status and ethnicity of the deceased had no any significance difference in place of death. Both demographic and social factors determine where adults will die in Addis Ababa, Ethiopia. The majority of people in Addis Ababa died out of health facilities. The health system should also give special attention to the emerging non communicable diseases like cancer for effective treatment of patients.",
+                "fallback": "BMC Palliative Care: Factors associated with place of death in Addis Ababa, Ethiopia",
+                "from_url": "https://bmcpalliatcare.biomedcentral.com/articles/10.1186/1472-684X-12-14",
+                "thumb_url": "https://media.springernature.com/w110/springer-static/cover/journal/12904.jpg",
+                "thumb_width": 110,
+                "thumb_height": 156,
+                "id": 1,
+                "original_url": "https://bmcpalliatcare.biomedcentral.com/articles/10.1186/1472-684X-12-14"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d=QE6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The summary result of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://bmcpalliatcare.biomedcentral.com/articles/10.1186/1472-684X-12-14",
+                                "text": "this paper"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", for addis ababa, is sobering. Imagine other regions?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Only 28.7% died at health facilities, while the remaining died out of health facilities. There was an increase trend in the proportion of health facility deaths from 25.3% in 2006 to 32.5% in 2010. The risk of health facility death versus out of health facility deaths decreased with age. Compared with those who had no education educated people were more likely to die at health facilities. The chance of in health facility death was a little higher for females than males while religion, occupational status and ethnicity of the deceased had no any significance difference in place of death."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What this could mean is that all estimates of death rates etc. should be adjusted ( a factor of two at least)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01362242-c235-4929-92fd-eb95f8302918",
+        "type": "message",
+        "text": "Here is <https://espace.library.uq.edu.au/data/UQ_727168/UQ727168_OA.pdf?Expires=1586606230&amp;Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&amp;Signature=eRwdcuEMIls5u7rpUWW6vfb4-hSjP487xkOp2FXGU2fWmRbuMw9iv6wgCskXJpc1oATVoWShyh3s~xBSkfnwoHgaIi8Xvv3ZnfofUAAcAR2xqFK3-KaDkEYls2kCEI1VIEO50SsrJv1mpGkhWTIjB-l4JnRAM2pvwAG9jS-vX6udzy~uPXu0Ad6wIAPYuw4i2V3YikNN6KoxCucO0I2Ps-SKVf0GdLYdyqkTA3eV7YAq12chm591xr4ebtEjLmR5PVcf5VcPF~gqAqof3YQ-KC1v1F~Im4SpH71UQgDFbxbauBYWXilTUq-lLrRoZgW51aTpG-E3~uPNlaMbA9gPuA__|an important paper> to get data about hospitals capacity to identify, treat NCDs in Ethiopia\n&gt; Overall, among all health facilities offering service for NCDs, the availability of diagnosis and/or management of diabetes, cardiovascular disease, chronic respiratory disease and cervical cancer were 22%, 41%, 45% and 2%, respectively.",
+        "user": "U010L1RJMUN",
+        "ts": "1586606541.206100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/Ms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://espace.library.uq.edu.au/data/UQ_727168/UQ727168_OA.pdf?Expires=1586606230&Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&Signature=eRwdcuEMIls5u7rpUWW6vfb4-hSjP487xkOp2FXGU2fWmRbuMw9iv6wgCskXJpc1oATVoWShyh3s~xBSkfnwoHgaIi8Xvv3ZnfofUAAcAR2xqFK3-KaDkEYls2kCEI1VIEO50SsrJv1mpGkhWTIjB-l4JnRAM2pvwAG9jS-vX6udzy~uPXu0Ad6wIAPYuw4i2V3YikNN6KoxCucO0I2Ps-SKVf0GdLYdyqkTA3eV7YAq12chm591xr4ebtEjLmR5PVcf5VcPF~gqAqof3YQ-KC1v1F~Im4SpH71UQgDFbxbauBYWXilTUq-lLrRoZgW51aTpG-E3~uPNlaMbA9gPuA__",
+                                "text": "an important paper"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to get data about hospitals capacity to identify, treat NCDs in Ethiopia\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Overall, among all health facilities offering service for NCDs, the availability of diagnosis and/or management of diabetes, cardiovascular disease, chronic respiratory disease and cervical cancer were 22%, 41%, 45% and 2%, respectively."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "disappointed",
+                "users": [
+                    "U0107JERE9L",
+                    "U0105C870AC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Another useful number to notice from <https://www.itacaddis.org/docs/2017_11_10_09_48_31_ARM%202017.compressed.pdf|ANNUAL HEALTH SECTOR PERFORMANCE REPORT EFY 2009 (2016/17>):\n> Nine months of hospitalization report were collected from a total of 20 hospitals. The reports show from a total of 4,275 patients admitted to ICU, 2,541 (59.4%) were recovered and 1,249 (29.2%) were died.",
+        "files": [
+            {
+                "id": "F01292Q0UV6",
+                "created": 1586607911,
+                "timestamp": 1586607911,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L1RJMUN",
+                "editable": false,
+                "size": 160298,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F01292Q0UV6/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F01292Q0UV6/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F01292Q0UV6-706a956a4f/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F01292Q0UV6-706a956a4f/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F01292Q0UV6-706a956a4f/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 196,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F01292Q0UV6-706a956a4f/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 262,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F01292Q0UV6-706a956a4f/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F01292Q0UV6-706a956a4f/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 392,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F01292Q0UV6-706a956a4f/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 436,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F01292Q0UV6-706a956a4f/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 523,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F01292Q0UV6-706a956a4f/image_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 558,
+                "image_exif_rotation": 1,
+                "original_w": 1850,
+                "original_h": 1008,
+                "thumb_tiny": "AwAaADC3iY9NtG2f/YqUHrS1VyOXzIcTf7NGJv8AYqYdDQOgouHL5kO2b/ZpR5+RkripfSii4W8xB1NLTehNFIdx1A6U2jtQFx1LTKB1oC5//9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L1RJMUN/F01292Q0UV6/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F01292Q0UV6-c731a60843",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mtJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another useful number to notice from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.itacaddis.org/docs/2017_11_10_09_48_31_ARM%202017.compressed.pdf",
+                                "text": "ANNUAL HEALTH SECTOR PERFORMANCE REPORT EFY 2009 (2016/17"
+                            },
+                            {
+                                "type": "text",
+                                "text": "):\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nine months of hospitalization report were collected from a total of 20 hospitals. The reports show from a total of 4,275 patients admitted to ICU, 2,541 (59.4%) were recovered and 1,249 (29.2%) were died."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010L1RJMUN",
+        "display_as_bot": false,
+        "ts": "1586607916.206800",
+        "client_msg_id": "42579ca0-80a5-45bd-8b92-c2fd69eff3e5"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011CHNU5DM",
+                "created": 1586607920,
+                "timestamp": 1586607920,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L1RJMUN",
+                "editable": false,
+                "size": 155583,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011CHNU5DM/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011CHNU5DM/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHNU5DM-263fffae23/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHNU5DM-263fffae23/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHNU5DM-263fffae23/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 254,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHNU5DM-263fffae23/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 339,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHNU5DM-263fffae23/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHNU5DM-263fffae23/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 509,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHNU5DM-263fffae23/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 565,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHNU5DM-263fffae23/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 678,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHNU5DM-263fffae23/image_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 723,
+                "image_exif_rotation": 1,
+                "original_w": 1622,
+                "original_h": 1146,
+                "thumb_tiny": "AwAhADC2zS7jtUHn/Pek3T/3B+f/ANep+5oqr+RHL5kO6b+4P8/jRum/uf5/OphQOlF/IOXzIczf3KVWm3D5OCealoouFvMT+I0tJn5iAaWkUAoFAIoBBHWgApaQkUUAMPU0lKeppKogKKKKBBQOoooHUUDP/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L1RJMUN/F011CHNU5DM/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011CHNU5DM-8d88e55707",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U010L1RJMUN",
+        "display_as_bot": false,
+        "ts": "1586607924.207100",
+        "client_msg_id": "8ff52136-069a-4c83-b2c9-f2e36f9a9a5f"
+    },
+    {
+        "client_msg_id": "1dfde479-634b-4f96-9033-5f0239b4b48f",
+        "type": "message",
+        "text": "<@U010L1RJMUN> sure, let's connect. The Google sheet is private and I don't have access to it by the way.",
+        "user": "U010YC7MX2Q",
+        "ts": "1586621504.207600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=jp3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sure, let's connect. The Google sheet is private and I don't have access to it by the way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586458107.184700",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "48f079df-a393-4335-8faa-5f0152559d64",
+        "type": "message",
+        "text": "Another caveat from <https://www.researchgate.net/publication/328530576_Non-communicable_Diseases_in_Ethiopia_Disease_burden_gaps_in_health_care_delivery_and_strategic_directions|this paper>  to take note when calculating the covid19 at-risk group:\n&gt; According  to  the  WHO-STEPs  survey,  97%  of  hypertensive  patients  in  Ethiopia do not  receive appropriate preventive care or treatment,  with  only  2.8%  receiving  treatment  and  1.5%  having  their  hypertension  controlled.  Primary  health care is the only level for creating an opportunity  for  mutually  reinforcing  preventive  and  therapeutic  interventions  for  NCDs  due  to  its  proximity  and  affordability to the  communities. ",
+        "user": "U010L1RJMUN",
+        "ts": "1586639340.210300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e69Zj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another caveat from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.researchgate.net/publication/328530576_Non-communicable_Diseases_in_Ethiopia_Disease_burden_gaps_in_health_care_delivery_and_strategic_directions",
+                                "text": "this paper"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  to take note when calculating the covid19 at-risk group:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "According  to  the  WHO-STEPs  survey,  97%  of  hypertensive  patients  in  Ethiopia do not  receive appropriate preventive care or treatment,  with  only  2.8%  receiving  treatment  and  1.5%  having  their  hypertension  controlled.  Primary  health care is the only level for creating an opportunity  for  mutually  reinforcing  preventive  and  therapeutic  interventions  for  NCDs  due  to  its  proximity  and  affordability to the  communities. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586639340.210300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586670040.215600",
+        "reply_users": [
+            "U0107JERE9L",
+            "U010L1RJMUN"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "disappointed_relieved",
+                "users": [
+                    "U0105C870AC",
+                    "U0107JERE9L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2682c9cd-80ea-41ae-a0f3-216b402cdc80",
+        "type": "message",
+        "text": "Look at this <@U010L1RJMUN> - Pneumonia was #1 at killing inpatient deaths before Corona. <@U010P2VU7ND> was the detective that found this material.\n\n<https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=84&amp;section=20.3.1>",
+        "user": "U0107JERE9L",
+        "ts": "1586644462.210900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Look at this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Pneumonia was #1 at killing inpatient deaths before Corona. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010P2VU7ND"
+                            },
+                            {
+                                "type": "text",
+                                "text": " was the detective that found this material.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=84&section=20.3.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586639340.210300",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586644614.211200",
+        "user": "U010P2VU7ND",
+        "text": "<@U010P2VU7ND> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "4bdd2a10-0ef5-48cf-a8d5-a78fb7ecde92",
+        "type": "message",
+        "text": "<@U0107JERE9L> and <@U010P2VU7ND> can\u2019t access the link",
+        "user": "U010L1RJMUN",
+        "ts": "1586645673.211400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BROZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010P2VU7ND"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can\u2019t access the link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586639340.210300",
+        "parent_user_id": "U010L1RJMUN"
+    }
+]

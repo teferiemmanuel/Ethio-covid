@@ -1,0 +1,416 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1584849116.023100",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has renamed the channel from \"hakimethio\" to \"health-prof-support\"",
+        "old_name": "hakimethio",
+        "name": "health-prof-support"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584849131.023200",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> set the channel purpose: Place to gather research material and ideas towards protecting and supporting health care professionals.",
+        "purpose": "Place to gather research material and ideas towards protecting and supporting health care professionals."
+    },
+    {
+        "client_msg_id": "e0d36cd9-6724-435c-bf4d-b01073f58b36",
+        "type": "message",
+        "text": "Thansk <@U0102ENM0CT> will take the suggestion",
+        "user": "UVD6SD63D",
+        "ts": "1584853026.023300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DgNP0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thansk "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0102ENM0CT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will take the suggestion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584788947.025000",
+        "parent_user_id": "UVD6SD63D"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584862644.023600",
+        "user": "U010HB2R9PF",
+        "text": "<@U010HB2R9PF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584868417.023800",
+        "user": "U0101KKMPFC",
+        "text": "<@U0101KKMPFC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584895966.024000",
+        "user": "U010H9HHT4M",
+        "text": "<@U010H9HHT4M> has joined the channel"
+    },
+    {
+        "client_msg_id": "1E3FAFAF-4283-4AD6-AF71-C948BD4C0EF0",
+        "type": "message",
+        "text": "<@U010H9HHT4M> ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584897302.024600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I7jg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010H9HHT4M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hello <!here> - Is there some variation of this that can work in Ethiopia?",
+        "user": "U0107JERE9L",
+        "ts": "1584897889.024700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 21st, 2020 9:52 PM] mike: Check out what South Korea is doing \n\n\n<https://twitter.com/eriksolheim/status/1241259513212211200?s=21|https://twitter.com/eriksolheim/status/1241259513212211200?s=21>",
+                "ts": "1584841955.371000",
+                "author_id": "UV8B0679P",
+                "author_subname": "Mike",
+                "channel_id": "C0106LZBVCY",
+                "channel_name": "all-project-ideas",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Check out what South Korea is doing \n\n\n<https://twitter.com/eriksolheim/status/1241259513212211200?s=21|https://twitter.com/eriksolheim/status/1241259513212211200?s=21>",
+                "author_name": "Mike",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UV8B0679P",
+                "author_icon": "https://secure.gravatar.com/avatar/3283329a4ce35816f96fbe23d5285879.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1584841955371000?thread_ts=1584841955371000&cid=C0106LZBVCY",
+                "is_share": true,
+                "footer": "Thread in #all-project-ideas"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s4l=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Is there some variation of this that can work in Ethiopia?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584897889.024700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584901712.028300",
+        "reply_users": [
+            "U010H9HHT4M",
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d7945340-df56-4877-9112-d26b8efed1cc",
+        "type": "message",
+        "text": "Hello <!here>\nSemegne just whipped up this form.\n\n<https://forms.gle/k9EuFGm73nBBQygt8>\n\nIf you are in the health care system in Ethiopia, please answer these few questions so we could work towards effective progress. Please share this with people outside of this network as well.",
+        "user": "U0107JERE9L",
+        "ts": "1584899145.027100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "COVID19 Task-force Health care Feedback questionnaire",
+                "title_link": "https://forms.gle/k9EuFGm73nBBQygt8",
+                "text": "Hello, We are Ethiopia COVID-19 Response Team, We were working on providing support and would appreciate getting your perspective on a few things around related COVID-19. Thank you in advance.",
+                "fallback": "Google Docs: COVID19 Task-force Health care Feedback questionnaire",
+                "image_url": "https://lh6.googleusercontent.com/ODBBhqEQNz0TDu8N371Mzb8f5sc0kE5_CiOaBYC6FN0HK_xITUdiq_lqjFkMs0dAK4xawSg",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https://forms.gle/k9EuFGm73nBBQygt8",
+                "image_bytes": 84192,
+                "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+                "id": 1,
+                "original_url": "https://forms.gle/k9EuFGm73nBBQygt8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "heoOl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSemegne just whipped up this form.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://forms.gle/k9EuFGm73nBBQygt8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf you are in the health care system in Ethiopia, please answer these few questions so we could work towards effective progress. Please share this with people outside of this network as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6498e596-5053-4fd8-b059-79fa279a0499",
+        "type": "message",
+        "text": "I was looking at this earlier. We are currently doing testing exclusively at the national infuenza labratory in Addis. They did close to 400 tests till now and doing 3-4 per day. Unless we have a lot made available this doesnt look feasible.",
+        "user": "U010H9HHT4M",
+        "ts": "1584899206.027300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was looking at this earlier. We are currently doing testing exclusively at the national infuenza labratory in Addis. They did close to 400 tests till now and doing 3-4 per day. Unless we have a lot made available this doesnt look feasible."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584897889.024700",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "F8050C34-EB94-4F03-8225-F3497E8E42B3",
+        "type": "message",
+        "text": "<@U010HM8HAQY> welcome! ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584899725.027800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QVyQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010HM8HAQY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " welcome! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8754d13-55cd-40b0-9abf-65a900423d62",
+        "type": "message",
+        "text": "Will do",
+        "user": "U010H9HHT4M",
+        "ts": "1584899860.028200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XDp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11116bdc-5fca-4b13-952c-303fee4084f1",
+        "type": "message",
+        "text": "I see - Thank you <@U010H9HHT4M>.. Someone that worked with testing kits in USA joined the channel and is speaking to our POC in the Ministry of health. Hoping to make something happen.",
+        "user": "U0107JERE9L",
+        "ts": "1584901712.028300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vJr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see - Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010H9HHT4M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".. Someone that worked with testing kits in USA joined the channel and is speaking to our POC in the Ministry of health. Hoping to make something happen."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584897889.024700",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584914594.028800",
+        "user": "U0107PQDK33",
+        "text": "<@U0107PQDK33> has joined the channel",
+        "inviter": "U0101KKMPFC"
+    },
+    {
+        "client_msg_id": "b7774174-1d29-4460-bc67-106906fd8282",
+        "type": "message",
+        "text": "<@U0107PQDK33> we are compiling training materials for the doctors in this channels , please share such resources in this channel. We can also arrange for live seminars and other boradcasts.",
+        "user": "U0101KKMPFC",
+        "ts": "1584915056.031200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "euvi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107PQDK33"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are compiling training materials for the doctors in this channels , please share such resources in this channel. We can also arrange for live seminars and other boradcasts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584916463.031400",
+        "user": "U010HRH26HW",
+        "text": "<@U010HRH26HW> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "53488D75-B8F9-4F0C-B51A-39895D93808E",
+        "type": "message",
+        "text": "<@U0107PQDK33> thanks for accepting my invite and joined us! Feel free to reach out for any questions. ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584917355.033100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TwxG0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107PQDK33"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for accepting my invite and joined us! Feel free to reach out for any questions. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

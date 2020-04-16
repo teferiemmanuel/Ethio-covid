@@ -1,0 +1,247 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1584839850.076600",
+        "thread_ts": "1584839850.076600",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1584850840.077900",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "607b784a-36d1-4c64-a8f2-956ddf2bd6ab",
+        "type": "message",
+        "text": "<!here> if there is an influencer list somewhere can you share it?",
+        "user": "U010CLFURT8",
+        "ts": "1584840710.076900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DcCdt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if there is an influencer list somewhere can you share it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584840710.076900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584850781.077500",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "025a9d30-94e1-443a-851c-3e77db8b53fa",
+        "type": "message",
+        "text": ":slightly_smiling_face: We think alike. I have been in awe of the marketing in FYre festival. We currently have a list being built of influencers that are popular in Ethiopia. However, the marketing piece will be handled by another lead. We should have the different channels and the leads available soon.",
+        "user": "U0107JERE9L",
+        "ts": "1584842938.077000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cz/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We think alike. I have been in awe of the marketing in FYre festival. We currently have a list being built of influencers that are popular in Ethiopia. However, the marketing piece will be handled by another lead. We should have the different channels and the leads available soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584825049.074700",
+        "parent_user_id": "U010CLFURT8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1584849686.077300",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has renamed the channel from \"mereja-ads\" to \"awareness-ops\"",
+        "old_name": "mereja-ads",
+        "name": "awareness-ops"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584849787.077400",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> set the channel purpose: Tactical / logistical discussion regarding the execution of all Awareness work streams, including ads, platform safety alerts, etc.",
+        "purpose": "Tactical / logistical discussion regarding the execution of all Awareness work streams, including ads, platform safety alerts, etc."
+    },
+    {
+        "client_msg_id": "2d3daf81-6062-49c2-bc85-4ca602652d73",
+        "type": "message",
+        "text": "Here is the spreadsheet <@U010CLFURT8>\n\n<https://docs.google.com/spreadsheets/d/1f3FmGk1ywa77TEQLFPaBnOUn9RpVV5Zkb_77v34Tul0/edit?usp=sharing>",
+        "user": "U0107JERE9L",
+        "ts": "1584850781.077500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t+v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is the spreadsheet "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010CLFURT8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1f3FmGk1ywa77TEQLFPaBnOUn9RpVV5Zkb_77v34Tul0/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584840710.076900",
+        "parent_user_id": "U010CLFURT8"
+    },
+    {
+        "client_msg_id": "6fc25138-4d68-4922-961d-6757ae3a10cb",
+        "type": "message",
+        "text": "Thank you <@UV6JJDDKL>..\n\nCould you add your telegram and any other influencers that you know of on this spreadsheet?",
+        "user": "U0107JERE9L",
+        "ts": "1584850838.077700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SjZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JJDDKL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "..\n\nCould you add your telegram and any other influencers that you know of on this spreadsheet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584839850.076600",
+        "parent_user_id": "UV6JJDDKL"
+    },
+    {
+        "client_msg_id": "5710a7ef-b599-4349-92c3-89a8c6e6cd88",
+        "type": "message",
+        "text": "<https://docs.google.com/spreadsheets/d/1f3FmGk1ywa77TEQLFPaBnOUn9RpVV5Zkb_77v34Tul0/edit?usp=sharing>",
+        "user": "U0107JERE9L",
+        "ts": "1584850840.077900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MT9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1f3FmGk1ywa77TEQLFPaBnOUn9RpVV5Zkb_77v34Tul0/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584839850.076600",
+        "parent_user_id": "UV6JJDDKL"
+    },
+    {
+        "client_msg_id": "D58D1B07-898A-4F8F-BE61-FE2CE5CD25B5",
+        "type": "message",
+        "text": "Sounds good! Fab is <@U0107JERE9L> ",
+        "user": "U010CLFURT8",
+        "ts": "1584852539.078400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2rC/9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good! Fab is "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584825049.074700",
+        "parent_user_id": "U010CLFURT8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584903496.080000",
+        "user": "U010K2675CP",
+        "text": "<@U010K2675CP> has joined the channel",
+        "inviter": "U0101KKMPFC"
+    }
+]

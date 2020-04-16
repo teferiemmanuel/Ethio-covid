@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "f5792c93-133a-4542-a30e-bb1b0dd5f21a",
+        "type": "message",
+        "text": "<!here> just a reminder that we'll be meeting again tomorrow morning (9am EST). If you can't make it, just be sure to add any updates you have to the Meeting Minutes <https://docs.google.com/document/d/1cedcN4qWAEHB3tOAMv8tYD_jBBe6OVuGCLjH_cxet_Q/edit#|doc>.\nMeeting link: <https://mit.zoom.us/j/830540249>",
+        "user": "U010B7Q6XE0",
+        "ts": "1586915145.295300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just a reminder that we'll be meeting again tomorrow morning (9am EST). If you can't make it, just be sure to add any updates you have to the Meeting Minutes "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1cedcN4qWAEHB3tOAMv8tYD_jBBe6OVuGCLjH_cxet_Q/edit#",
+                                "text": "doc"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nMeeting link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://mit.zoom.us/j/830540249"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E",
+                    "U010VJ6A17W"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

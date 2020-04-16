@@ -1,0 +1,367 @@
+[
+    {
+        "client_msg_id": "43C372E2-A517-4F7D-8C73-B12663B5BBD7",
+        "type": "message",
+        "text": "Okay, given me a few min ",
+        "user": "U0107898C9M",
+        "ts": "1584597323.067300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, given me a few min "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584568188.064300",
+        "parent_user_id": "U0107AYF16H"
+    },
+    {
+        "client_msg_id": "FF6A06FF-0C49-4EC2-BF35-7126A8566246",
+        "type": "message",
+        "text": "Hey guys",
+        "user": "U0107898C9M",
+        "ts": "1584609435.068000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7JW9M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4DEECD64-AFBF-4356-A5E9-2103E585C1F4",
+        "type": "message",
+        "text": "<@UV8B0679P> and <@U01051X26HJ> should I create a firebase project and push it there or do you have an alternative way?",
+        "user": "U0107898C9M",
+        "ts": "1584609583.070000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j/8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " should I create a firebase project and push it there or do you have an alternative way?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4bc075d-99d4-499e-b52c-38b7560d782e",
+        "type": "message",
+        "text": "<@U0107898C9M> Just do firebase for demo purpose, and  <@UV8B0679P> present it moh.",
+        "user": "U01051X26HJ",
+        "ts": "1584614844.073100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01051X26HJ",
+            "ts": "1584614858.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EN1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Just do firebase for demo purpose, and  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " present it moh."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FD1475F0-4D5F-4110-B321-4BD973816AFE",
+        "type": "message",
+        "text": "Cool, on it",
+        "user": "U0107898C9M",
+        "ts": "1584614999.073700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8JxJf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool, on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0F9F1B60-C234-4C14-8AC9-8F8E9084301B",
+        "type": "message",
+        "text": "Hi sal, can you please share the sheet with me?",
+        "user": "U0107AYF16H",
+        "ts": "1584633137.074300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nks",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi sal, can you please share the sheet with me?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584568188.064300",
+        "parent_user_id": "U0107AYF16H"
+    },
+    {
+        "client_msg_id": "CAB39E60-C51E-4143-BBB2-BB4E475178DE",
+        "type": "message",
+        "text": "<https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing|https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing>",
+        "user": "U0107898C9M",
+        "ts": "1584638715.074800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing",
+                                "text": "https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584568188.064300",
+        "parent_user_id": "U0107AYF16H"
+    },
+    {
+        "client_msg_id": "E3842F04-9A65-48C6-8A41-87D18E3A9A3F",
+        "type": "message",
+        "text": "Sorry for the delay, electricity problem :grimacing:",
+        "user": "U0107898C9M",
+        "ts": "1584638749.075900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q8zA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry for the delay, electricity problem "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584568188.064300",
+        "parent_user_id": "U0107AYF16H"
+    },
+    {
+        "client_msg_id": "65BE9566-C32D-45BD-9009-7CB1795A0AA8",
+        "type": "message",
+        "text": "<https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing|https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing>",
+        "user": "U0107898C9M",
+        "ts": "1584638828.076200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1NM9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing",
+                                "text": "https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584561495.059500",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "2de18a9a-dc90-41e1-89c8-b11d21f17af3",
+        "type": "message",
+        "text": "Hi <@U0107898C9M> I'm a little late but if you made the bot in Python, I made one as well before hearing about this group, is there any way I can help contribute to the bot? I think it would be helpful to create a backlog for the MOH to have if users can't access the short code. And being able to collect the location of users wanting to get tested after feeling the symptoms would help build out a heat map for the MOH to keep track of.",
+        "user": "U0100B5MHDG",
+        "ts": "1584652403.080400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XZJV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm a little late but if you made the bot in Python, I made one as well before hearing about this group, is there any way I can help contribute to the bot? I think it would be helpful to create a backlog for the MOH to have if users can't access the short code. And being able to collect the location of users wanting to get tested after feeling the symptoms would help build out a heat map for the MOH to keep track of."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584652403.080400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584654096.084800",
+        "reply_users": [
+            "U0107898C9M",
+            "U0100B5MHDG"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9F5EF44A-FF60-4C61-B7BE-C863737D0476",
+        "type": "message",
+        "text": "I\u2019ve pushed the code to github, it\u2019s node.js base, also I have implemented the GPS location tracking, since we\u2019re going to use it for the map later, if you have ideas or features you wanna add, you contribute.",
+        "user": "U0107898C9M",
+        "ts": "1584654034.084600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zto",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019ve pushed the code to github, it\u2019s node.js base, also I have implemented the GPS location tracking, since we\u2019re going to use it for the map later, if you have ideas or features you wanna add, you contribute."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584652403.080400",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "229a38f9-8dc9-4b98-8524-584046938885",
+        "type": "message",
+        "text": "Sounds good, I see it now.",
+        "user": "U0100B5MHDG",
+        "ts": "1584654096.084800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c7L4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good, I see it now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584652403.080400",
+        "parent_user_id": "U0100B5MHDG"
+    }
+]

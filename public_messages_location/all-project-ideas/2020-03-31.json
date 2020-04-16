@@ -1,0 +1,478 @@
+[
+    {
+        "client_msg_id": "cc0cecc2-505c-4b43-b9a6-278f7d891fa8",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1585136289022500>",
+        "user": "U010ZQR2QRE",
+        "ts": "1585613855.163600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1585136289022500",
+                "fallback": "[March 25th, 2020 4:38 AM] esmaeli: Hi Guys...\nI have been working on this SMS broadcasting application for *COVID-19 self assessment*.\nThe SMS will be sent out to every individual to reply with... 1/0 for the 5 symptoms that anyone ever experience the last two or three weeks.\n1. Do you ever experience a fever  (1/0)\n2. Do you ever experience a cough  (1/0)\n3. Do you ever experience a shortness of breath   (1/0)\n4. Do you ever experience a tiredness  (1/0)\n5. Do you ever experience headache  (1/0)\nAnd then expecting answer is to be a pattern of 0,0,0,0,0 /0,1,0,1,1 Just one line.\nBased on their answers and phone number, analysis will be executed so that an over all overview will be on hand that to be followed;\n1. What should gets priority, like;\n       a. More awareness to be advocated\n       b. More quarantine center to get ready\n       c. More checking center to get ready\n       .... etc\n\nTechnically, I have done the broadcasting module, and if this idea make sense I will be working hard to finalize the remaining part in like 24 hours.\n\nThank,\nEsmael Jemal.\n<tel:+251911886251|+251911886251>.",
+                "ts": "1585136289.022500",
+                "author_id": "U010HL1CB53",
+                "author_subname": "Esmael Jemal",
+                "channel_id": "C0106LZBVCY",
+                "channel_name": "all-project-ideas",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Hi Guys...\nI have been working on this SMS broadcasting application for *COVID-19 self assessment*.\nThe SMS will be sent out to every individual to reply with... 1/0 for the 5 symptoms that anyone ever experience the last two or three weeks.\n1. Do you ever experience a fever  (1/0)\n2. Do you ever experience a cough  (1/0)\n3. Do you ever experience a shortness of breath   (1/0)\n4. Do you ever experience a tiredness  (1/0)\n5. Do you ever experience headache  (1/0)\nAnd then expecting answer is to be a pattern of 0,0,0,0,0 /0,1,0,1,1 Just one line.\nBased on their answers and phone number, analysis will be executed so that an over all overview will be on hand that to be followed;\n1. What should gets priority, like;\n       a. More awareness to be advocated\n       b. More quarantine center to get ready\n       c. More checking center to get ready\n       .... etc\n\nTechnically, I have done the broadcasting module, and if this idea make sense I will be working hard to finalize the remaining part in like 24 hours.\n\nThank,\nEsmael Jemal.\n<tel:+251911886251|+251911886251>.",
+                "author_name": "Esmael Jemal",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010HL1CB53",
+                "author_icon": "https://secure.gravatar.com/avatar/a21455e70c6f70069612e88e3052465a.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1585136289022500",
+                "footer": "Thread in #all-project-ideas"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GYWJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1585136289022500"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3776cc57-09cf-4369-82c9-c472aeebbffb",
+        "type": "message",
+        "text": "rami mohammed maybe you can check this one out also",
+        "user": "U010ZQR2QRE",
+        "ts": "1585613879.164200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gOI/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rami mohammed maybe you can check this one out also"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dffbbb32-961c-4a90-b180-72c64c30ee8d",
+        "type": "message",
+        "text": "Hi Guys,\n\nI don't know if you have launched a Telegram bot yet but I'm here to share a telegram-bot that I been working on. It provides information about the cases in Ethiopia, prevention methods, the symptoms of COVID-19, useful tips, and has a self-screening tool that will try to analyze your status. You can check it out at <https://t.me/covidinforethbot> and give me feedback on what to do or where to contribute, please? It is developed using python and hosted on Digital Ocean.\n\nThanks!",
+        "user": "U01150H1NF8",
+        "ts": "1585617952.169400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Telegram",
+                "title": "Covid19InfoEthiopia",
+                "title_link": "https://t.me/covidinforethbot",
+                "text": "This bot will provide you with the latest information and guidance about covid19 in Ethiopia.",
+                "fallback": "Telegram: Covid19InfoEthiopia",
+                "thumb_url": "https://cdn4.telesco.pe/file/jPloRGp98gpSFq2YJPYC4-aFYUayt__aFfIpltFhzm3PCMvsCT5icmb3HtG41AVUQ-KV_jSJb8mKVAsMCFkE7Z_Pppa4el8EHkLHMl5jmEOQr2TxnJ3p7FEtC0OtS3eJ8_081eWaz8rjAzEvI5f_cktkMQuE2P5DcZQzcir_rxDv0-y9sNxr5Lj8Y0GlwnWoooxUdQqT0FIN8mk3Bx8nBK_Yq7murYOILLH2-5nonuI0FkKrXoLJlr9uK02pX5mMRq4EekOO2ZnkFkoCjP_tGec3eqc6TLpHqnCsZicml05hTxHhWFQFExmf7Kn_ydhir8rLePMAu9MTYtrXwi0liw.jpg",
+                "from_url": "https://t.me/covidinforethbot",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "service_icon": "http://telegram.org/favicon.ico?3",
+                "id": 1,
+                "original_url": "https://t.me/covidinforethbot"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nO1jw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Guys,\n\nI don't know if you have launched a Telegram bot yet but I'm here to share a telegram-bot that I been working on. It provides information about the cases in Ethiopia, prevention methods, the symptoms of COVID-19, useful tips, and has a self-screening tool that will try to analyze your status. You can check it out at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://t.me/covidinforethbot"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and give me feedback on what to do or where to contribute, please? It is developed using python and hosted on Digital Ocean.\n\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585617952.169400",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1585768719.222800",
+        "reply_users": [
+            "U0104U9BMKN",
+            "U01150H1NF8",
+            "U010N7HGNNR"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0104U9BMKN",
+                    "U010X5LSV53"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C2A509BD-0B53-48DD-B71E-BF78404DA341",
+        "type": "message",
+        "text": "Is that not possible to make these clickable instructions in Amharic or possibly choose language and create resource file for it ",
+        "user": "U0104U9BMKN",
+        "ts": "1585618865.171100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CYMg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is that not possible to make these clickable instructions in Amharic or possibly choose language and create resource file for it "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585617952.169400",
+        "parent_user_id": "U01150H1NF8"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0113KDHWAC",
+                "created": 1585642716,
+                "timestamp": 1585642716,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010CLFURT8",
+                "editable": false,
+                "size": 754636,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0113KDHWAC/image_from_ios.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0113KDHWAC/download/image_from_ios.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F0113KDHWAC-812caea3a8/image_from_ios_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F0113KDHWAC-812caea3a8/image_from_ios_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F0113KDHWAC-812caea3a8/image_from_ios_360.png",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F0113KDHWAC-812caea3a8/image_from_ios_480.png",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F0113KDHWAC-812caea3a8/image_from_ios_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F0113KDHWAC-812caea3a8/image_from_ios_720.png",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F0113KDHWAC-812caea3a8/image_from_ios_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F0113KDHWAC-812caea3a8/image_from_ios_960.png",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F0113KDHWAC-812caea3a8/image_from_ios_1024.png",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 2436,
+                "thumb_tiny": "AwAwABakwHYjj3HNJlPQimocDPP4CnmTgYzn6UAJuTbyc/Sk3J70xuTx/LFJQBPB9w/WpMCmQDCHPrT8A9aAIJsbuKjp8v3uKZQBZ3ckmQt0+YCmlh/ebFN80knAAz2AoLyY6Y/CgBkhG7gk02lJyck8mkoA/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010CLFURT8/F0113KDHWAC/image_from_ios.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0113KDHWAC-a41bdeaaa8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e8q8",
+                "elements": []
+            }
+        ],
+        "user": "U010CLFURT8",
+        "display_as_bot": false,
+        "ts": "1585642725.174000",
+        "client_msg_id": "1F7E9637-3717-4D79-914D-92D620E1FD33"
+    },
+    {
+        "client_msg_id": "8e25de69-f585-44be-8052-53b63a4bc31a",
+        "type": "message",
+        "text": "People who get infected with COVID19 develop symptoms of breathing problems or Airway problems. I have four Years Experience as an Anesthetist and one of my major responsibilities was dealing with patients Airways, especially in Emergency Scenarios. Right now the Hospitals are not well equipped to deal with Airway Emergencies. Oxygen is an important part of Emergency Airway management and right now, DIL CHORA GAS is the only place for the Entire Country that you can get Oxygen Cylinders refilled. This can pose a major problem. I suggest we Start to look for other sources of Oxygen, like Oxygen Concentrator . Most hospitals do have Oxygen Concentrators but due to Malfunction and Maintenance related problems 80% of this machines don't work. We need Engineers help in maintaining this machines as there are many that have been forgotten or thrown out in many government hospital inventories. The other issue we face Regarding Airway Emergencies is the lack of Oxygen delivery face masks or nasal oxygen tubes. This are essential in Airway Emergencies and can be built easily by up cycling plastic bottles or other plastic materials. The other issue we might face during this pandemic is the breaking down of machines, like ventilators,  Autoclave machines, Monitors. This needs a team of Engineers and a Workshop.",
+        "user": "U010P2VU7ND",
+        "ts": "1585648245.191200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZVCH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "People who get infected with COVID19 develop symptoms of breathing problems or Airway problems. I have four Years Experience as an Anesthetist and one of my major responsibilities was dealing with patients Airways, especially in Emergency Scenarios. Right now the Hospitals are not well equipped to deal with Airway Emergencies. Oxygen is an important part of Emergency Airway management and right now, DIL CHORA GAS is the only place for the Entire Country that you can get Oxygen Cylinders refilled. This can pose a major problem. I suggest we Start to look for other sources of Oxygen, like Oxygen Concentrator . Most hospitals do have Oxygen Concentrators but due to Malfunction and Maintenance related problems 80% of this machines don't work. We need Engineers help in maintaining this machines as there are many that have been forgotten or thrown out in many government hospital inventories. The other issue we face Regarding Airway Emergencies is the lack of Oxygen delivery face masks or nasal oxygen tubes. This are essential in Airway Emergencies and can be built easily by up cycling plastic bottles or other plastic materials. The other issue we might face during this pandemic is the breaking down of machines, like ventilators,  Autoclave machines, Monitors. This needs a team of Engineers and a Workshop."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585648245.191200",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1585901388.259600",
+        "reply_users": [
+            "U011BC5SY80"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U011BC5SY80"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01169XSS4F",
+                "created": 1585660730,
+                "timestamp": 1585660730,
+                "name": "1_MIT Ventilator.pdf",
+                "title": "Design and Prototyping od low-cost portable Mechanical Ventilator",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01162LH5D4",
+                "editable": false,
+                "size": 700851,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F01169XSS4F/1_mit_ventilator.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F01169XSS4F/download/1_mit_ventilator.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F01169XSS4F-9be6e7f502/1_mit_ventilator_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01162LH5D4/F01169XSS4F/1_mit_ventilator.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F01169XSS4F-4b3f4e854c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U01162LH5D4",
+        "display_as_bot": false,
+        "ts": "1585660737.191900",
+        "client_msg_id": "42ac2917-c140-434e-9710-4b65e6e6f7ce"
+    },
+    {
+        "client_msg_id": "8d89cd41-5392-4b6c-9904-9cfc59941953",
+        "type": "message",
+        "text": "A ventilator takes over the body's breathing process when disease has caused the lungs to fail. This gives the patient time to fight off the infection and recover. According to the World Health Organization (WHO), some 80% of people with Covid-19 - the disease caused by coronavirus - recover without needing hospital treatment.\nBut one person in six becomes seriously ill and can develop breathing difficulties.\nIn these severe cases, the virus causes damage to the lungs. The body's immune system detects this and expands blood vessels so more immune cells enter. But this can cause fluid to enter the lungs, making it harder to breathe, and causing the body's oxygen levels to drop.\nTo alleviate this, a machine ventilator is used to push air, with increased levels of oxygen, into the lungs",
+        "user": "U01162LH5D4",
+        "ts": "1585661048.192600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YWjpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A ventilator takes over the body's breathing process when disease has caused the lungs to fail. This gives the patient time to fight off the infection and recover. According to the World Health Organization (WHO), some 80% of people with Covid-19 - the disease caused by coronavirus - recover without needing hospital treatment.\nBut one person in six becomes seriously ill and can develop breathing difficulties.\nIn these severe cases, the virus causes damage to the lungs. The body's immune system detects this and expands blood vessels so more immune cells enter. But this can cause fluid to enter the lungs, making it harder to breathe, and causing the body's oxygen levels to drop.\nTo alleviate this, a machine ventilator is used to push air, with increased levels of oxygen, into the lungs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "baa906ea-a224-4993-b43e-4f7d2ce86316",
+        "type": "message",
+        "text": "<https://e-vent.mit.edu/|https://e-vent.mit.edu/>",
+        "user": "U01162LH5D4",
+        "ts": "1585661124.192800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "MIT E-Vent | MIT Emergency Ventilator",
+                "title": "MIT E-VENT | Emergency ventilator design toolbox",
+                "title_link": "https://e-vent.mit.edu/",
+                "text": "The MIT Emergency Ventilator (E-Vent) is a toolkit created for rapid response in a crisis. It is offered as open source, and will evolve as we learn more.",
+                "fallback": "MIT E-Vent | MIT Emergency Ventilator: MIT E-VENT | Emergency ventilator design toolbox",
+                "image_url": "https://e-vent.mit.edu/wp-content/uploads/2020/03/002-testing-1024x768.jpg",
+                "from_url": "https://e-vent.mit.edu/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 168942,
+                "service_icon": "https://e-vent.mit.edu/wp-content/uploads/2020/03/cropped-mit-square-180x180.png",
+                "id": 1,
+                "original_url": "https://e-vent.mit.edu/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2k4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://e-vent.mit.edu/",
+                                "text": "https://e-vent.mit.edu/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585661124.192800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1585766683.218600",
+        "reply_users": [
+            "U0105C870AC",
+            "U01162LH5D4"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0cf8d79b-8eff-4e68-b50b-7e466369754f",
+        "type": "message",
+        "text": "Sure, It is possible to translate every text and button. But want to make sure everything works fine then If I find someone who can translate the words then I'll be able to add more languages.",
+        "user": "U01150H1NF8",
+        "ts": "1585664703.193400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h6EEo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, It is possible to translate every text and button. But want to make sure everything works fine then If I find someone who can translate the words then I'll be able to add more languages."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585617952.169400",
+        "parent_user_id": "U01150H1NF8"
+    },
+    {
+        "client_msg_id": "37FAEF57-1D27-477C-AAD1-14F5BB316B2F",
+        "type": "message",
+        "text": "Thanks for sharing <@U01162LH5D4>! <!channel> is this something that can be manufactured at home? ",
+        "user": "U0105C870AC",
+        "ts": "1585692651.200800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N3fz=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for sharing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01162LH5D4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is this something that can be manufactured at home? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585661124.192800",
+        "parent_user_id": "U01162LH5D4"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "client_msg_id": "35834df6-0de8-4381-a922-4f3b93a1954d",
+        "type": "message",
+        "text": "<https://www.nytimes.com/reuters/2020/04/08/world/africa/08reuters-health-coronavirus-ethiopia.html>",
+        "user": "U0105C7GP08",
+        "ts": "1586347241.149900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "The New York Times",
+                "service_url": "https://www.nytimes.com",
+                "title": "Ethiopia Declares State of Emergency to Curb Spread of COVID-19",
+                "title_link": "https://www.nytimes.com/reuters/2020/04/08/world/africa/08reuters-health-coronavirus-ethiopia.html",
+                "author_name": "By Reuters",
+                "thumb_url": "https://static01.nyt.com/images/2014/12/09/us/Tlogo-news-black-on-white/Tlogo-news-black-on-white-mediumThreeByTwo440.png",
+                "thumb_width": 440,
+                "thumb_height": 293,
+                "text": "Ethiopian Prime Minister Abiy Ahmed on Wednesday declared a state of emergency in the country to help curb the spread of the new coronavirus, his office said on Twitter.",
+                "fallback": "The New York Times Ethiopia Declares State of Emergency to Curb Spread of COVID-19",
+                "from_url": "https://www.nytimes.com/reuters/2020/04/08/world/africa/08reuters-health-coronavirus-ethiopia.html",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/nytimes.png",
+                "id": 1,
+                "original_url": "https://www.nytimes.com/reuters/2020/04/08/world/africa/08reuters-health-coronavirus-ethiopia.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ggBpw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.nytimes.com/reuters/2020/04/08/world/africa/08reuters-health-coronavirus-ethiopia.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C0106S0JS4C"
+        ],
+        "pinned_info": {
+            "channel": "C0106S0JS4C",
+            "pinned_by": "U0106M26108",
+            "pinned_ts": 1586360639
+        }
+    },
+    {
+        "client_msg_id": "34c4d123-8c49-4d71-a4f9-eb94894a8d6f",
+        "type": "message",
+        "text": "<https://www.unicef.org/ethiopia/reports/socio-economic-impacts-covid-19>",
+        "user": "UVALAR52P",
+        "ts": "1586353300.150700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Socio-economic impacts of COVID-19",
+                "title_link": "https://www.unicef.org/ethiopia/reports/socio-economic-impacts-covid-19",
+                "text": "Ethiopia",
+                "fallback": "Socio-economic impacts of COVID-19",
+                "image_url": "https://www.unicef.org/ethiopia/sites/unicef.org.ethiopia/files/styles/hero_desktop/public/publication/cover_image/cover%20secondary.jpg?itok=9ycMGXlF",
+                "from_url": "https://www.unicef.org/ethiopia/reports/socio-economic-impacts-covid-19",
+                "image_width": 222,
+                "image_height": 250,
+                "image_bytes": 142280,
+                "service_icon": "https://www.unicef.org/ethiopia/themes/custom/unicef/assets/dist/images/icons/favicon.ico",
+                "service_name": "unicef.org",
+                "id": 1,
+                "original_url": "https://www.unicef.org/ethiopia/reports/socio-economic-impacts-covid-19"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UnBYU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.unicef.org/ethiopia/reports/socio-economic-impacts-covid-19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "293A2B1C-AD7E-4D18-B6B6-C7807DBC777D",
+        "type": "message",
+        "text": "<https://youtu.be/p8fl-u1UMVA|https://youtu.be/p8fl-u1UMVA>",
+        "user": "U010UM8QBQA",
+        "ts": "1586353316.151000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "How Africa could one day rival China | The Economist",
+                "title_link": "https://youtu.be/p8fl-u1UMVA",
+                "author_name": "The Economist",
+                "author_link": "https://www.youtube.com/user/EconomistMagazine",
+                "thumb_url": "https://i.ytimg.com/vi/p8fl-u1UMVA/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How Africa could one day rival China | The Economist",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/p8fl-u1UMVA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/p8fl-u1UMVA",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/p8fl-u1UMVA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/p8fl-u1UMVA",
+                                "text": "https://youtu.be/p8fl-u1UMVA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

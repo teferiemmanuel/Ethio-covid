@@ -1,0 +1,2958 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584806618.000200",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584806618.000300",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> set the channel purpose: IVR Specific Conversation",
+        "purpose": "IVR Specific Conversation"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584806624.000500",
+        "user": "UVB595TCJ",
+        "text": "<@UVB595TCJ> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584806624.000700",
+        "user": "UV6JHDP0S",
+        "text": "<@UV6JHDP0S> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "sh_room_created",
+        "text": "Started a <https://ethiopia-covid19.slack.com/call/R010GSRLBCY|call>.",
+        "user": "UV8B0679P",
+        "channel": "C0106QYHCFK",
+        "room": {
+            "id": "R010GSRLBCY",
+            "name": null,
+            "media_server": "slack-calls-orca-iad-vcys",
+            "created_by": "UV8B0679P",
+            "date_start": 1584806627,
+            "date_end": 1584807711,
+            "participants": [],
+            "participant_history": [
+                "UV8B0679P",
+                "UV6JHDP0S",
+                "U0107JEKN0N"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "channels": [
+                "DV7TWJ16F",
+                "DVAL40N1F",
+                "C0106QYHCFK"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": true,
+            "has_ended": true,
+            "media_backend_type": "orca",
+            "app_id": "A00"
+        },
+        "no_notifications": false,
+        "permalink": "https://ethiopia-covid19.slack.com/call/R010GSRLBCY",
+        "ts": "1584806629.000800"
+    },
+    {
+        "client_msg_id": "b7189472-adec-4db9-a6fb-cf2ef948bc6b",
+        "type": "message",
+        "text": "Give me 2mins for the call",
+        "user": "UV6JHDP0S",
+        "ts": "1584806662.001300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+eB9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Give me 2mins for the call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf065ed3-c513-42af-a186-f8587c8695b8",
+        "type": "message",
+        "text": "Ok",
+        "user": "UV8B0679P",
+        "ts": "1584806667.001600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QQ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29ae11d8-1156-4239-9be3-44ef789644b4",
+        "type": "message",
+        "text": "<@UVB595TCJ> - can you join?",
+        "user": "UV8B0679P",
+        "ts": "1584806671.001800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PTWT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVB595TCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - can you join?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584806695.002000",
+        "user": "U0107JEKN0N",
+        "text": "<@U0107JEKN0N> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "fa3a8d72-311e-4865-8be6-6baba73ff1a1",
+        "type": "message",
+        "text": "<@U0107JEKN0N> can you join the call",
+        "user": "UV8B0679P",
+        "ts": "1584806702.002200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QT9H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you join the call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9154d725-118b-41ea-978b-956033d3fd4f",
+        "type": "message",
+        "text": "I\u2019m unable to join <@UV8B0679P>",
+        "user": "U0107JEKN0N",
+        "ts": "1584807169.002500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iHlFx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019m unable to join "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b0fb7b6-6804-43a5-9bb4-2a468b165dad",
+        "type": "message",
+        "text": "It says you\u2019re busy",
+        "user": "UV8B0679P",
+        "ts": "1584807244.002900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a/e8t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It says you\u2019re busy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a47bd6d-a306-4926-b139-5b2f858f6f30",
+        "type": "message",
+        "text": "cant invite you",
+        "user": "UV8B0679P",
+        "ts": "1584807246.003100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV8B0679P",
+            "ts": "1584807249.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Awec8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cant invite you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2020d80-cb33-481d-840b-6f7f819253aa",
+        "type": "message",
+        "text": "What? LOL",
+        "user": "U0107JEKN0N",
+        "ts": "1584807253.003400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ir8UQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What? LOL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584807253.003400",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1584807344.004400",
+        "reply_users": [
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010JL8TQP9",
+                "created": 1584807327,
+                "timestamp": 1584807327,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UV8B0679P",
+                "editable": false,
+                "size": 649976,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010JL8TQP9/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010JL8TQP9/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010JL8TQP9-0ec8153fce/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010JL8TQP9-0ec8153fce/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010JL8TQP9-0ec8153fce/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010JL8TQP9-0ec8153fce/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010JL8TQP9-0ec8153fce/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010JL8TQP9-0ec8153fce/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010JL8TQP9-0ec8153fce/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010JL8TQP9-0ec8153fce/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 600,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010JL8TQP9-0ec8153fce/image_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 640,
+                "image_exif_rotation": 1,
+                "original_w": 2272,
+                "original_h": 1420,
+                "thumb_tiny": "AwAeADDOXp/D+NJn2FJRQAu7/ZH5Ubv9kflU9pbrOspYkbBkY70lzbiFIyCSXBzQAyFRJIFJVc9yKWaMRhcOrZ9O1RUUAFFFFAEiM8R6EZxSzSvMRuHC9BjpTGldyCzEkDHNIHYZwTzxQAlKVIUEg4PQ0lOLsyhScgdBQB//2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/UV8B0679P/F010JL8TQP9/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010JL8TQP9-54a715accb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UV8B0679P",
+        "display_as_bot": false,
+        "ts": "1584807332.003800",
+        "client_msg_id": "629df9ac-fabb-4a9e-8945-4067724b21dc",
+        "thread_ts": "1584807253.003400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "aa2de6d9-f29d-42cd-b696-7e8190bb465e",
+        "type": "message",
+        "text": "It says, you\u2019re busy",
+        "user": "UV8B0679P",
+        "ts": "1584807338.004200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8VG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It says, you\u2019re busy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584807253.003400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "4e2c5d97-87f7-42ca-85fd-04e7ad1b48b7",
+        "type": "message",
+        "text": "Can you set your status to available?",
+        "user": "UV8B0679P",
+        "ts": "1584807344.004400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you set your status to available?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584807253.003400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "7c8823ae-7810-40a2-9933-4bf84aa6d3c5",
+        "type": "message",
+        "text": "<https://zoom.us/j/766657037>",
+        "user": "UV8B0679P",
+        "ts": "1584807784.005700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tH+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://zoom.us/j/766657037"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584810963.005900",
+        "user": "U0107N1RSUD",
+        "text": "<@U0107N1RSUD> has joined the channel",
+        "inviter": "UV6JHDP0S"
+    },
+    {
+        "client_msg_id": "5dd7f2c8-8e3d-474e-8232-a61d877db473",
+        "type": "message",
+        "text": "<@UV8B0679P> just saw the note - had a long night so crashed - what's up?",
+        "user": "UVB595TCJ",
+        "ts": "1584811975.006400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/kC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just saw the note - had a long night so crashed - what's up?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584812122.006700",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    },
+    {
+        "client_msg_id": "32fb721a-dd5d-4da9-8d73-345320855b07",
+        "type": "message",
+        "text": "Please connect with Naod and Nati",
+        "user": "UV8B0679P",
+        "ts": "1584812296.007100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQAi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please connect with Naod and Nati"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e159454e-ab9c-4ce8-bc71-da288981184d",
+        "type": "message",
+        "text": "I\u2019m on another",
+        "user": "UV8B0679P",
+        "ts": "1584812299.007300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lU0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019m on another"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "sh_room_created",
+        "text": "Started a <https://ethiopia-covid19.slack.com/call/R010GVB2MU5|call>.",
+        "user": "UV6JHDP0S",
+        "channel": "C0106QYHCFK",
+        "room": {
+            "id": "R010GVB2MU5",
+            "name": null,
+            "media_server": "slack-calls-orca-pdx-3ih4",
+            "created_by": "UV6JHDP0S",
+            "date_start": 1584812362,
+            "date_end": 1584812481,
+            "participants": [],
+            "participant_history": [
+                "UV6JHDP0S"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "channels": [
+                "C0106QYHCFK"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": false,
+            "has_ended": true,
+            "media_backend_type": "orca",
+            "app_id": "A00"
+        },
+        "no_notifications": false,
+        "permalink": "https://ethiopia-covid19.slack.com/call/R010GVB2MU5",
+        "ts": "1584812365.007500"
+    },
+    {
+        "client_msg_id": "4cdb68bd-c958-47bf-b999-28a8116f6810",
+        "type": "message",
+        "text": "<@U01017GFFB4>, can you add here <http://mteja.io|mteja.io> as a potential solution",
+        "user": "UV8B0679P",
+        "ts": "1584812390.008400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a=f5s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01017GFFB4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", can you add here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://mteja.io",
+                                "text": "mteja.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as a potential solution"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20d31724-f777-4d48-87d4-f1d961aabcdb",
+        "type": "message",
+        "text": "Starting a call now to discuss",
+        "user": "UV6JHDP0S",
+        "ts": "1584812394.008500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zT0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Starting a call now to discuss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584812395.008700",
+        "user": "U01017GFFB4",
+        "text": "<@U01017GFFB4> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "1780039c-25d4-4776-af6d-9ce656f94fc7",
+        "type": "message",
+        "text": "<!here> can we do a call to do a status update ?",
+        "user": "UV6JHDP0S",
+        "ts": "1584812499.010100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mwdlf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can we do a call to do a status update ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfb1b6b5-6ee7-452f-8045-7a7e571c43e1",
+        "type": "message",
+        "text": "Im around",
+        "user": "UVB595TCJ",
+        "ts": "1584812515.010300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zO2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Im around"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "sh_room_created",
+        "text": "Started a <https://ethiopia-covid19.slack.com/call/R0106SZRZ9P|call>.",
+        "user": "UV6JHDP0S",
+        "channel": "C0106QYHCFK",
+        "room": {
+            "id": "R0106SZRZ9P",
+            "name": null,
+            "media_server": "slack-calls-orca-pdx-9r1h",
+            "created_by": "UV6JHDP0S",
+            "date_start": 1584812525,
+            "date_end": 1584813304,
+            "participants": [],
+            "participant_history": [
+                "UV6JHDP0S",
+                "UVB595TCJ",
+                "U0107JEKN0N"
+            ],
+            "participants_camera_on": [],
+            "participants_camera_off": [],
+            "participants_screenshare_on": [],
+            "participants_screenshare_off": [],
+            "channels": [
+                "D0102HUHTMG",
+                "C0106QYHCFK"
+            ],
+            "is_dm_call": false,
+            "was_rejected": false,
+            "was_missed": false,
+            "was_accepted": true,
+            "has_ended": true,
+            "media_backend_type": "orca",
+            "app_id": "A00"
+        },
+        "no_notifications": false,
+        "permalink": "https://ethiopia-covid19.slack.com/call/R0106SZRZ9P",
+        "ts": "1584812527.010400"
+    },
+    {
+        "client_msg_id": "826e30c3-7487-46f4-869c-1d690deef44f",
+        "type": "message",
+        "text": "<https://docs.google.com/document/d/1kE9HQXOVuqF7WQIYHMt4PPpxMD07VQywwfLps-GSYy8/edit?ts=5e764265>",
+        "user": "UV6JHDP0S",
+        "ts": "1584812797.011100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fq0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1kE9HQXOVuqF7WQIYHMt4PPpxMD07VQywwfLps-GSYy8/edit?ts=5e764265"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8C85E552-7A72-4C14-A22C-6A760C1B99B1",
+        "type": "message",
+        "text": "Finishing up another call",
+        "user": "UV8B0679P",
+        "ts": "1584813106.011400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q6pj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Finishing up another call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01E0EC30-B57A-4E4C-9680-F8E8AD496B32",
+        "type": "message",
+        "text": "Will join",
+        "user": "UV8B0679P",
+        "ts": "1584813109.011600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rE95",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will join"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49941334-72da-4882-8dab-1a0d86a1caf2",
+        "type": "message",
+        "text": "\u2022 <@UVB595TCJ> &amp; <@U0107JEKN0N> working on \u201cHow can we connect ethiotelcom to Twillo?\u201d \n\u2022 <!here> can we get into contact with some technical person at ethiotelcom ?\n\u2022 <@UV6JHDP0S> find a lead to get the work flow document ready \n\u2022 Lets re sync at 6:00 PM ET <!here> ",
+        "user": "UV6JHDP0S",
+        "ts": "1584813479.015100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV6JHDP0S",
+            "ts": "1584813622.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fLvq",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "UVB595TCJ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " & "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0107JEKN0N"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " working on \u201cHow can we connect ethiotelcom to Twillo?\u201d "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "broadcast",
+                                        "range": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " can we get into contact with some technical person at ethiotelcom ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "UV6JHDP0S"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " find a lead to get the work flow document ready "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lets re sync at 6:00 PM ET "
+                                    },
+                                    {
+                                        "type": "broadcast",
+                                        "range": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a50d09d1-2a75-457c-80b0-4ae89738c067",
+        "type": "message",
+        "text": "<@UVB595TCJ>  Here is the doc you can add  to <https://docs.google.com/document/d/1DIB2j9OWOOkdJ2R0hvu20wnTso31cPnl3tnCd90mimI/edit?usp=sharing>",
+        "user": "UV6JHDP0S",
+        "ts": "1584813901.016100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QP=wD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVB595TCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Here is the doc you can add  to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1DIB2j9OWOOkdJ2R0hvu20wnTso31cPnl3tnCd90mimI/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "565bbfa3-8ead-451e-b440-4cd61a964ff1",
+        "type": "message",
+        "text": "<!here> <https://www.youtube.com/watch?v=HIW8WJE0WA8> this is what <@UVB595TCJ> suggested SIP Trunks.",
+        "user": "U0107JEKN0N",
+        "ts": "1584814930.017100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Configure your Twilio Elastic SIP Trunking with FreePBX - Part I: Placing outbound calls",
+                "title_link": "https://www.youtube.com/watch?v=HIW8WJE0WA8",
+                "author_name": "Twilio",
+                "author_link": "https://www.youtube.com/user/TeamTwilio",
+                "thumb_url": "https://i.ytimg.com/vi/HIW8WJE0WA8/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Configure your Twilio Elastic SIP Trunking with FreePBX - Part I: Placing outbound calls",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/HIW8WJE0WA8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=HIW8WJE0WA8",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=HIW8WJE0WA8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vaj=k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=HIW8WJE0WA8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB595TCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suggested SIP Trunks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4237ad3e-e414-4056-a2df-08ea9c275ee7",
+        "type": "message",
+        "text": "<@UV8B0679P> Do we have contact at EthioTelecom ?",
+        "user": "U0107JEKN0N",
+        "ts": "1584814966.017800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JM5Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do we have contact at EthioTelecom ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ab1c929-03be-447e-96e7-88e7cd259fc5",
+        "type": "message",
+        "text": "I\u2019ve created a sample (not complete) IVR tree on Twilio you can test it by dialing <tel:2028366130|202 836 6130>",
+        "user": "U0107JEKN0N",
+        "ts": "1584815054.018800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ccx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019ve created a sample (not complete) IVR tree on Twilio you can test it by dialing "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:2028366130",
+                                "text": "202 836 6130"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815054.018800",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1584817142.031400",
+        "reply_users": [
+            "UV6JHDP0S",
+            "U0107JEKN0N",
+            "UVB595TCJ"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "26ee7d38-374f-41ca-87f5-76cad5bfb1c8",
+        "type": "message",
+        "text": "For testing purposes only. Don\u2019t share it yet.",
+        "user": "U0107JEKN0N",
+        "ts": "1584815078.019300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "87+W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For testing purposes only. Don\u2019t share it yet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6115b2a-8fb8-4785-8b68-a1d37b1e375e",
+        "type": "message",
+        "text": "<@U0107JEKN0N> THIS IS DOPE!!!",
+        "user": "UV6JHDP0S",
+        "ts": "1584815227.019900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " THIS IS DOPE!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815054.018800",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "bot_id": "B0105GUT6BS",
+        "type": "message",
+        "text": "",
+        "user": "UV6JHDP0S",
+        "ts": "1584815238.020200",
+        "team": "TV5KELEUS",
+        "bot_profile": {
+            "id": "B0105GUT6BS",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1584449034,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https://a.slack-edge.com/80588/img/plugins/giphy/service_36.png",
+                "image_48": "https://a.slack-edge.com/80588/img/plugins/giphy/service_48.png",
+                "image_72": "https://a.slack-edge.com/80588/img/plugins/giphy/service_72.png"
+            },
+            "team_id": "TV5KELEUS"
+        },
+        "attachments": [
+            {
+                "fallback": "giphy: https://giphy.com/gifs/GVMhZwYv8U5NK",
+                "image_url": "https://media3.giphy.com/media/GVMhZwYv8U5NK/giphy-downsized.gif?cid=6104955e115f56b67e998b37d114b2c281444ec751750ad5&rid=giphy-downsized.gif",
+                "image_width": 480,
+                "image_height": 270,
+                "image_bytes": 1559696,
+                "is_animated": true,
+                "title": "MVP",
+                "footer": "Posted using /giphy | GIF by <https://giphy.com/nba/|NBA>",
+                "id": 1,
+                "title_link": "https://giphy.com/gifs/GVMhZwYv8U5NK"
+            }
+        ],
+        "thread_ts": "1584815054.018800",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584815249.020500",
+        "user": "UV7D89JGJ",
+        "text": "<@UV7D89JGJ> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "ea9a8cdf-e07f-4c82-b4be-e149a1e8ca3b",
+        "type": "message",
+        "text": "Sorry invited the wrong Anteneh :slightly_smiling_face:",
+        "user": "UV8B0679P",
+        "ts": "1584815262.020800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HCBh8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry invited the wrong Anteneh "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e70a3877-6e7a-4f94-bc4e-9e6ccc01ccf4",
+        "type": "message",
+        "text": "Sorry guys",
+        "user": "UV8B0679P",
+        "ts": "1584815318.021000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JvF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ff43037-ae40-4457-ad03-6f2ee4b21e5c",
+        "type": "message",
+        "text": "got on another call",
+        "user": "UV8B0679P",
+        "ts": "1584815323.021200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eRbe7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "got on another call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d8ea7f9-7479-4c42-a39d-a71ea0605d3d",
+        "type": "message",
+        "text": "What do you need from Telecom?",
+        "user": "UV8B0679P",
+        "ts": "1584815330.021500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vdpxx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you need from Telecom?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815330.021500",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1584815759.023400",
+        "reply_users": [
+            "UV6JHDP0S",
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6d02d9d9-00c9-40b2-aafb-089ad2175047",
+        "type": "message",
+        "text": "\u201cWe need a technical conversation around how to integrate\u201d <@U0107JEKN0N> <@UVB595TCJ>",
+        "user": "UV6JHDP0S",
+        "ts": "1584815712.021900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fRA+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\u201cWe need a technical conversation around how to integrate\u201d "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB595TCJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815330.021500",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "c95da251-23e5-4b0c-a99e-4456b060a1d0",
+        "type": "message",
+        "text": "Hi Team",
+        "user": "UV7D89JGJ",
+        "ts": "1584815732.022300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dWQUJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Team"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "do we need this ?",
+        "user": "UV6JHDP0S",
+        "ts": "1584815747.022600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 21st, 2020 11:29 AM] eyob.beshah: I know a director at EthioTelecom.",
+                "ts": "1584815369.046500",
+                "author_id": "U01077KJKQU",
+                "author_subname": "Eyob BE",
+                "channel_id": "C0104D5J3T2",
+                "channel_name": "covid-19",
+                "is_msg_unfurl": true,
+                "text": "I know a director at EthioTelecom.",
+                "author_name": "Eyob BE",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U01077KJKQU",
+                "author_icon": "https://secure.gravatar.com/avatar/3651fabe35eeb78ff4b0ef98b57c0acf.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584815369046500",
+                "is_share": true,
+                "footer": "Posted in #covid-19"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AJkUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do we need this ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "571be16b-0902-42df-aa46-02a9330bd0c2",
+        "type": "message",
+        "text": "Okay - let me get that going",
+        "user": "UV8B0679P",
+        "ts": "1584815754.022900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wpN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay - let me get that going"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815330.021500",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "73033172-668b-4cf9-9a87-078245a1b6d9",
+        "type": "message",
+        "text": "one second",
+        "user": "UV8B0679P",
+        "ts": "1584815756.023100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "66Ba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "one second"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815330.021500",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "19805744-ed71-4ccc-9266-f781ee3e6e70",
+        "type": "message",
+        "text": "let me add Myriam",
+        "user": "UV8B0679P",
+        "ts": "1584815759.023400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let me add Myriam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815330.021500",
+        "parent_user_id": "UV8B0679P",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584815768.023800",
+        "user": "UV83NPH0T",
+        "text": "<@UV83NPH0T> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "77a7faf8-ca82-4342-9416-4706fb727c18",
+        "type": "message",
+        "text": "Alternative Call Center solutions  from the Africa's Talking here, We just a call with Mike and the team",
+        "user": "UV7D89JGJ",
+        "ts": "1584815773.024000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qdIz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alternative Call Center solutions  from the Africa's Talking here, We just a call with Mike and the team"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0105G51DD1",
+                "created": 1584815783,
+                "timestamp": 1584815783,
+                "name": "Mteja Call Center Deck.pdf",
+                "title": "Mteja Call Center Deck.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UV7D89JGJ",
+                "editable": false,
+                "size": 2083414,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0105G51DD1/mteja_call_center_deck.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0105G51DD1/download/mteja_call_center_deck.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F0105G51DD1-1f8185acf9/mteja_call_center_deck_thumb_pdf.png",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https://ethiopia-covid19.slack.com/files/UV7D89JGJ/F0105G51DD1/mteja_call_center_deck.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0105G51DD1-3a1963a19a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UV7D89JGJ",
+        "display_as_bot": false,
+        "ts": "1584815791.024100",
+        "client_msg_id": "b073a752-1625-410b-a573-8aa3115c50c5",
+        "thread_ts": "1584815791.024100",
+        "reply_count": 21,
+        "reply_users_count": 5,
+        "latest_reply": "1584824571.040500",
+        "reply_users": [
+            "UV8B0679P",
+            "UV7D89JGJ",
+            "UVB595TCJ",
+            "UV6JHDP0S",
+            "U0107JEKN0N"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d028852f-75b2-405d-a7ef-3b51c10af5d2",
+        "type": "message",
+        "text": "LOL, I just used Twilio studio nothing special :slightly_smiling_face:",
+        "user": "U0107JEKN0N",
+        "ts": "1584815801.024600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RWTHu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LOL, I just used Twilio studio nothing special "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815054.018800",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "9eb71bea-1f62-48d1-8b4e-347f3c98847a",
+        "type": "message",
+        "text": "Speed is the key",
+        "user": "UV6JHDP0S",
+        "ts": "1584815833.025800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sy3iE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Speed is the key"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815054.018800",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "ebaf3352-5567-40f5-8046-6bed7b268177",
+        "type": "message",
+        "text": "<@UV83NPH0T>, <@U0107JEKN0N> needs to talk to someone at Ethiopian Telecom about a potential IVR solution. Who should he talk to?",
+        "user": "UV8B0679P",
+        "ts": "1584815834.026000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JVJ5z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV83NPH0T"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " needs to talk to someone at Ethiopian Telecom about a potential IVR solution. Who should he talk to?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815834.026000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584816168.027100",
+        "reply_users": [
+            "UV6JHDP0S"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "98835544-53c0-4d7c-8614-7efbabe845c0",
+        "type": "message",
+        "text": "<@UV7D89JGJ> - can you do a quick call with <@U0107JEKN0N> and <@UV6JHDP0S> to walk them through how it works.",
+        "user": "UV8B0679P",
+        "ts": "1584815866.026200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j/WV=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV7D89JGJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - can you do a quick call with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to walk them through how it works."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "70163cb3-21bc-417b-9de1-c64a7652c0d4",
+        "type": "message",
+        "text": "Guys - had a call with AfricaTalking Co-CEOs along with Anteneh and wanted to see what you guys think about it?",
+        "user": "UV8B0679P",
+        "ts": "1584815900.026400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TOv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guys - had a call with AfricaTalking Co-CEOs along with Anteneh and wanted to see what you guys think about it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "8947e3d5-dd81-4e19-9815-65d7ecbbd039",
+        "type": "message",
+        "text": "cc: <@UVB595TCJ> as well",
+        "user": "UV8B0679P",
+        "ts": "1584815919.026600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "75LH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB595TCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584815975.026900",
+        "user": "U010BSJ55MK",
+        "text": "<@U010BSJ55MK> has joined the channel",
+        "inviter": "UV6JHDP0S"
+    },
+    {
+        "client_msg_id": "e0b1c6a1-5bf6-4ac1-af4b-c3247150cf79",
+        "type": "message",
+        "text": "*Someone in the bigger channel said:*\n*Eyob BE*\nI know a director at EthioTelecom.",
+        "user": "UV6JHDP0S",
+        "ts": "1584816168.027100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6yE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Someone in the bigger channel said:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Eyob BE",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI know a director at EthioTelecom."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815834.026000",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "1C71AA17-6C81-4E3F-B7D6-A94A6F1F56E3",
+        "type": "message",
+        "text": "I just had a phone call with MOH Technology head!\nAnd he saied it involves multiple parties engagement to get the approval to connect using SIP trunk ",
+        "user": "U010BSJ55MK",
+        "ts": "1584816232.027500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8YCV6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just had a phone call with MOH Technology head!\nAnd he saied it involves multiple parties engagement to get the approval to connect using SIP trunk "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70a4aa7b-34e7-436b-ac17-fbbbdc639a0e",
+        "type": "message",
+        "text": "But he\u2019s saying they are capable?",
+        "user": "U0107JEKN0N",
+        "ts": "1584816257.027900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eAw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But he\u2019s saying they are capable?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584816257.027900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584816438.029500",
+        "reply_users": [
+            "U010BSJ55MK",
+            "UV6JHDP0S"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "A828B991-F784-42D2-BE27-E0FACAE3F957",
+        "type": "message",
+        "text": "So what you guys can help is can you get me a diagram of how this works and what we need! So that I will be easier! We will contact tmrw the CEO of telecom ",
+        "user": "U010BSJ55MK",
+        "ts": "1584816262.028100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "np/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So what you guys can help is can you get me a diagram of how this works and what we need! So that I will be easier! We will contact tmrw the CEO of telecom "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2468689-8b83-44c2-827c-6f35b146355c",
+        "type": "message",
+        "text": "If so we can escalate it using the link <@UV8B0679P> has",
+        "user": "U0107JEKN0N",
+        "ts": "1584816286.029000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sF7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If so we can escalate it using the link "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8F425E45-D5F0-4F21-B60B-21797F422041",
+        "type": "message",
+        "text": "Yes! Infact it might be easy b/c we now some companies are running cloud based IVR! ",
+        "user": "U010BSJ55MK",
+        "ts": "1584816296.029300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJ=f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes! Infact it might be easy b/c we now some companies are running cloud based IVR! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584816257.027900",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "35c8f4f2-b66e-4acc-b27e-ddf720d091cb",
+        "type": "message",
+        "text": "Do you happen to know which companies ? Because if we can talk to them, then we can use an existing connection aready to speed up the approval process ? (long shot but worth the ask)",
+        "user": "UV6JHDP0S",
+        "ts": "1584816438.029500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KiBV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you happen to know which companies ? Because if we can talk to them, then we can use an existing connection aready to speed up the approval process ? (long shot but worth the ask)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584816257.027900",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "089a17a6-bd74-4038-a5e0-b8c910f1e11d",
+        "type": "message",
+        "text": "<@U0107JEKN0N> <@UV6JHDP0S> <@UVB595TCJ> hey guys, let me know if you can jump on a call in 20 minutes?",
+        "user": "UV7D89JGJ",
+        "ts": "1584816466.029700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dHt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB595TCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hey guys, let me know if you can jump on a call in 20 minutes?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "405e68ca-5a23-4389-9dd4-2b38961c0747",
+        "type": "message",
+        "text": "Im around so ping me. Cheers.",
+        "user": "UVB595TCJ",
+        "ts": "1584816600.029900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YYGO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Im around so ping me. Cheers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "dca8be18-fcac-44b1-8c92-3d4d9b36202c",
+        "type": "message",
+        "text": "Am ready",
+        "user": "UV6JHDP0S",
+        "ts": "1584816753.030100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T3p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Am ready"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "467e615e-dae9-430e-9279-c1970b571426",
+        "type": "message",
+        "text": "<@U0107JEKN0N> ?",
+        "user": "UV6JHDP0S",
+        "ts": "1584816765.030300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+lu4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "7705b89f-a217-47d8-b774-0b6444b587aa",
+        "type": "message",
+        "text": "Nvm I cant make it but please carry on without me",
+        "user": "UV6JHDP0S",
+        "ts": "1584816813.030500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rq0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nvm I cant make it but please carry on without me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "9a425cb4-d31f-49ad-b13a-2a2ebe9ef590",
+        "type": "message",
+        "text": "I\u2019m here.",
+        "user": "U0107JEKN0N",
+        "ts": "1584816920.030700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=kj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019m here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "c77461fd-c435-45dd-9f9a-b1e8a9510ba6",
+        "type": "message",
+        "text": "Great",
+        "user": "UV7D89JGJ",
+        "ts": "1584817012.030900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X+wuc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "9e0a2f93-971d-4fc0-b7be-57ba44ae768e",
+        "type": "message",
+        "text": "Join here guys - <https://meet.google.com/zmn-ymtv-axt>",
+        "user": "UV7D89JGJ",
+        "ts": "1584817139.031100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Meet",
+                "title_link": "https://meet.google.com/zmn-ymtv-axt",
+                "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+                "fallback": "Meet",
+                "thumb_url": "https://www.gstatic.com/images/branding/product/2x/meet_96dp.png",
+                "from_url": "https://meet.google.com/zmn-ymtv-axt",
+                "thumb_width": 192,
+                "thumb_height": 192,
+                "service_icon": "http://www.gstatic.com/images/branding/product/1x/meet_16dp.png",
+                "service_name": "meet.google.com",
+                "id": 1,
+                "original_url": "https://meet.google.com/zmn-ymtv-axt"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x1l0O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Join here guys - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://meet.google.com/zmn-ymtv-axt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "d3003e52-c309-4428-ad65-bfdb759d9bf2",
+        "type": "message",
+        "text": "Need to integrate with S3 buckets to place audio clips for playback.",
+        "user": "UVB595TCJ",
+        "ts": "1584817142.031400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s6+Ho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Need to integrate with S3 buckets to place audio clips for playback."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815054.018800",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584819122.031700",
+        "user": "U01099UC5F0",
+        "text": "<@U01099UC5F0> has joined the channel",
+        "inviter": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "52510cec-814c-48b1-8c12-51fa38080881",
+        "type": "message",
+        "text": "Update here:\n\u2022 <@U0107JEKN0N> &amp; <@UVB595TCJ> <https://docs.google.com/document/d/1DIB2j9OWOOkdJ2R0hvu20wnTso31cPnl3tnCd90mimI/edit?usp=sharing|have put this doc together about the solution>\n\u2022 [<@UV83NPH0T>] on technical telecom POC for discussion logistics on how to connect it.\n\u2022 [<@U0107JDB23Y>] If the MOH has an AWS account we need the owner (since we need it to host some things for the IVR solution - will use the demo account for now)",
+        "user": "UV6JHDP0S",
+        "ts": "1584823666.035700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV6JHDP0S",
+            "ts": "1584823758.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nnW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update here:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0107JEKN0N"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " & "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "UVB595TCJ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://docs.google.com/document/d/1DIB2j9OWOOkdJ2R0hvu20wnTso31cPnl3tnCd90mimI/edit?usp=sharing",
+                                        "text": "have put this doc together about the solution"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "["
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "UV83NPH0T"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "] on technical telecom POC for discussion logistics on how to connect it."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "["
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0107JDB23Y"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "] If the MOH has an AWS account we need the owner (since we need it to host some things for the IVR solution - will use the demo account for now)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "935c71bc-034e-4f90-a6bf-4acee28f10ec",
+        "type": "message",
+        "text": "Thanks for the update <@UV6JHDP0S>",
+        "user": "U0107JEKN0N",
+        "ts": "1584823720.036000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DXMvJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the update "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f494bf20-e2b5-4b7d-a964-a5b7809a45ee",
+        "type": "message",
+        "text": "<@UVB595TCJ> is also trying to establish contact with someone in EthioTelecom.",
+        "user": "U0107JEKN0N",
+        "ts": "1584823756.036500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m/pF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVB595TCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is also trying to establish contact with someone in EthioTelecom."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd74ae55-7a76-4cca-92a3-a1e8bfd2836e",
+        "type": "message",
+        "text": "<@UV7D89JGJ> <@UVB595TCJ> <@U0107JEKN0N> What happed here ?",
+        "user": "UV6JHDP0S",
+        "ts": "1584823891.036900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/9k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV7D89JGJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB595TCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What happed here ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "b915c7b7-ef6a-49b4-945c-83c5955b411e",
+        "type": "message",
+        "text": "<@UV7D89JGJ>, suggested their product is similar to Twilio and that he\u2019ll be able to setup similar IVR using their system.",
+        "user": "U0107JEKN0N",
+        "ts": "1584823976.037100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p8k6S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV7D89JGJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", suggested their product is similar to Twilio and that he\u2019ll be able to setup similar IVR using their system."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0cf85b5-03fe-4b94-b2ce-e48001ed2530",
+        "type": "message",
+        "text": "He\u2019s the contact person for the Ethiopia link",
+        "user": "U0107JEKN0N",
+        "ts": "1584823983.037300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7SYL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He\u2019s the contact person for the Ethiopia link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "04d87c6a-6771-4805-a8cd-56532d4cd062",
+        "type": "message",
+        "text": "That is right <@U0107JEKN0N>. Perhaps Since Mteja is plug and play platform, It will be available immediately with out no more work.",
+        "user": "UV7D89JGJ",
+        "ts": "1584824308.037500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV7D89JGJ",
+            "ts": "1584824353.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9lx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is right "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Perhaps Since Mteja is plug and play platform, It will be available immediately with out no more work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07084ca8-5aab-4cb8-ad7f-5f001f0d77ce",
+        "type": "message",
+        "text": "<@UV7D89JGJ> is someone else using this in Ethiopia ?",
+        "user": "UV6JHDP0S",
+        "ts": "1584824358.038000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mopm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV7D89JGJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is someone else using this in Ethiopia ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "4c74a5b4-a12a-4480-bd3a-37dbe341666e",
+        "type": "message",
+        "text": "In Kenya, and Nigeria.",
+        "user": "UV7D89JGJ",
+        "ts": "1584824400.038700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u91dh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In Kenya, and Nigeria."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "a4578f8f-b14b-4b45-9414-3de0583f0154",
+        "type": "message",
+        "text": "damn it",
+        "user": "UV6JHDP0S",
+        "ts": "1584824418.039200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i2H5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "damn it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "6d43a747-3eef-4681-b15a-5630a3a9d7f2",
+        "type": "message",
+        "text": "lol",
+        "user": "UV6JHDP0S",
+        "ts": "1584824420.039400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GAo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "e513a744-aae1-4a15-b0f6-a799f09f34b6",
+        "type": "message",
+        "text": "okay cool",
+        "user": "UV6JHDP0S",
+        "ts": "1584824440.040000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TQu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "bd3ca4cc-f136-44bb-97f5-ef2fc69f823e",
+        "type": "message",
+        "text": "Thanks, <@UV6JHDP0S> - who's the contact person re MoH for content for the call-tree as it has to be coordinated with what the call center will provide. Is your strawman in the IVR doc sufficient?",
+        "user": "UVB595TCJ",
+        "ts": "1584824454.040400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x+XEf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - who's the contact person re MoH for content for the call-tree as it has to be coordinated with what the call center will provide. Is your strawman in the IVR doc sufficient?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25486711-f6cd-4adc-851d-8541ecb6b036",
+        "type": "message",
+        "text": "This is easy. Ethio Telecom would just need give Virtual machines and a SIP connection or a just SIP connection that terminated in Kenya, any how both ways latency would better than Twilllo where servers are most likely in Europe.",
+        "user": "UV7D89JGJ",
+        "ts": "1584824571.040500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV7D89JGJ",
+            "ts": "1584886747.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EpC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is easy. Ethio Telecom would just need give Virtual machines and a SIP connection or a just SIP connection that terminated in Kenya, any how both ways latency would better than Twilllo where servers are most likely in Europe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584815791.024100",
+        "parent_user_id": "UV7D89JGJ"
+    },
+    {
+        "client_msg_id": "53fb3ce7-1a53-4998-882a-6ffd67d8b6a0",
+        "type": "message",
+        "text": "<@UVB595TCJ> <@U010BSJ55MK> should help on that. He was that has been engagin with them  as far.",
+        "user": "UV7D89JGJ",
+        "ts": "1584824777.041500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV7D89JGJ",
+            "ts": "1584824811.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ETnG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVB595TCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BSJ55MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " should help on that. He was that has been engagin with them  as far."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a98a6fbf-4e42-4fe6-aaaa-7f3bf5417a32",
+        "type": "message",
+        "text": "and possibly <@UV83NPH0T> too",
+        "user": "UV6JHDP0S",
+        "ts": "1584825430.042100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GEPq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and possibly "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV83NPH0T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23006010-9274-4481-8b82-7e2cff62d5f7",
+        "type": "message",
+        "text": "I am complying a list of questions and ask",
+        "user": "UV6JHDP0S",
+        "ts": "1584825447.042600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kiER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am complying a list of questions and ask"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4539094-39e9-4987-bfd2-abbfb8504d31",
+        "type": "message",
+        "text": "Right, that is good.",
+        "user": "UV7D89JGJ",
+        "ts": "1584825645.043100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right, that is good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

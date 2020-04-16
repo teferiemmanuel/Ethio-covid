@@ -1,0 +1,260 @@
+[
+    {
+        "client_msg_id": "3773f85a-3e3e-4b10-8eaf-bf77760d4c20",
+        "type": "message",
+        "text": "<@UV81AMFSP> Ya, I did see it now and previously I didn't have the full API endpoints and also API documentation. So far nothing major missing and some data can be computed on the client-side too and am exploring the filtering capabilities of the API.",
+        "user": "U010N2S4RUJ",
+        "ts": "1585644032.096600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010N2S4RUJ",
+            "ts": "1585655708.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VaV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV81AMFSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ya, I did see it now and previously I didn't have the full API endpoints and also API documentation. So far nothing major missing and some data can be computed on the client-side too and am exploring the filtering capabilities of the API."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585567644.081300",
+        "parent_user_id": "U010N2S4RUJ"
+    },
+    {
+        "client_msg_id": "53058a2b-ca29-402d-b015-9ca0d6ae499d",
+        "type": "message",
+        "text": "it seems from a test done here that on this tool once more than two people join on video conference, it disconnects for some reason. This may not be a generic issue but I like the features. Do you have experience using it with multiple users video conferencing?",
+        "user": "UV81AMFSP",
+        "ts": "1585646448.096800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HN1i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it seems from a test done here that on this tool once more than two people join on video conference, it disconnects for some reason. This may not be a generic issue but I like the features. Do you have experience using it with multiple users video conferencing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585588875.088500",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "217b4501-9728-410c-b850-8ba806b18aba",
+        "type": "message",
+        "text": "<@U010APHG8Q1>",
+        "user": "UV81AMFSP",
+        "ts": "1585646487.097000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n35",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585588875.088500",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "8589ff53-e2ec-470e-b798-7116bc9cc2c2",
+        "type": "message",
+        "text": "<@U010L1RJMUN>",
+        "user": "U010APHG8Q1",
+        "ts": "1585646686.097300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6yAl=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585588875.088500",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "c72cde3a-fd03-4a16-9cc1-79cbfee8ec0b",
+        "type": "message",
+        "text": "I recommend webRTC, its a good candidate as its fast and open source.+maintained by google:sunglasses: @ <https://webrtc.github.io/>",
+        "user": "U010T4YS7JM",
+        "ts": "1585647662.097500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KoIu5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I recommend webRTC, its a good candidate as its fast and open source.+maintained by google"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": " @ "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://webrtc.github.io/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585588875.088500",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "d19560a1-9c9a-4dc3-86e9-3613634f1f43",
+        "type": "message",
+        "text": "<@UV81AMFSP> we have used Jitsi in large groups while I was working for the European Space Agency. It worked without issue for us for almost a year",
+        "user": "U010L1RJMUN",
+        "ts": "1585668459.099500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YIm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV81AMFSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we have used Jitsi in large groups while I was working for the European Space Agency. It worked without issue for us for almost a year"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585588875.088500",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "d7312d5f-47d6-4a61-8f9c-b3c6c01e7b8c",
+        "type": "message",
+        "text": "Hi Everyone,\n\nIs there a document that has a list of all the active projects? think it would be helpful for people to review and see where they might be able to jump in and help. In my case, I am looking for a list of all projects (non-Engineering/Tech). \u00a0I am part of the COVID task force at my current job and have access to resources we can tap into.",
+        "user": "U01089DVA57",
+        "ts": "1585676952.100700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ssUez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everyone,\n\nIs there a document that has a list of all the active projects? think it would be helpful for people to review and see where they might be able to jump in and help. In my case, I am looking for a list of all projects (non-Engineering/Tech). \u00a0I am part of the COVID task force at my current job and have access to resources we can tap into."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585676952.100700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585677331.100900",
+        "reply_users": [
+            "UVAL943JP"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6561b379-ab3b-433c-a40f-98e8b1f5e0e4",
+        "type": "message",
+        "text": "Hi <@U01089DVA57> Here is the most recent meeting agenda + minutes - <https://docs.google.com/document/d/1c-v_EPgVfxsIJ4XWogIzJPY9fcoBgpzhorHIg3-HDJ8/edit>",
+        "user": "UVAL943JP",
+        "ts": "1585677331.100900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rbz6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01089DVA57"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here is the most recent meeting agenda + minutes - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1c-v_EPgVfxsIJ4XWogIzJPY9fcoBgpzhorHIg3-HDJ8/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585676952.100700",
+        "parent_user_id": "U01089DVA57"
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "12088c93-6c9a-40f7-b5b6-a01adfb8b23e",
+        "type": "message",
+        "text": "For sure I can. I am about to DM you.",
+        "user": "U0104F8P8US",
+        "ts": "1585445933.040700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Whew4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For sure I can. I am about to DM you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585374406.035500",
+        "parent_user_id": "U010AAT0414"
+    },
+    {
+        "type": "message",
+        "text": "<@U0107JEKN0N> ",
+        "user": "UV6JHDP0S",
+        "ts": "1585456238.040900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 28th, 2020 5:23 PM] saminium: <!here>  I am Samuel, JavaBackend web service dev, let me know if u need my support also, AWS infra and dev",
+                "ts": "1585441415.226400",
+                "author_id": "U010Z9NDLHW",
+                "author_subname": "Samuel",
+                "channel_id": "CV6K393C2",
+                "channel_name": "all-introductions",
+                "is_msg_unfurl": true,
+                "text": "<!here>  I am Samuel, JavaBackend web service dev, let me know if u need my support also, AWS infra and dev",
+                "author_name": "Samuel",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010Z9NDLHW",
+                "author_icon": "https://secure.gravatar.com/avatar/f711ea036a64dab11c776490bc1acc93.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1585441415226400",
+                "is_share": true,
+                "footer": "Posted in #all-introductions"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8509f2eb-7f77-4249-ace4-f7395c1dbbbf",
+        "type": "message",
+        "text": "<@U0107A7161E> it is a standalone initiative. here in EU cloud infrustructure is not widely adopted yet, for that reason we were unable to participate in the hackathon. it is a java + angular application. the specification can be founf here <https://raw.githubusercontent.com/amenski/covid19-Rest-api/develop/src/main/resources/images/spec.png|https://raw.githubusercontent.com/amenski/covid19-Rest-api/develop/src/main/resources/images/spec.png>",
+        "user": "U01076CDQ8J",
+        "ts": "1585470851.041200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "643x563px image",
+                "image_url": "https://raw.githubusercontent.com/amenski/covid19-Rest-api/develop/src/main/resources/images/spec.png",
+                "image_width": 643,
+                "image_height": 563,
+                "image_bytes": 19238,
+                "from_url": "https://raw.githubusercontent.com/amenski/covid19-Rest-api/develop/src/main/resources/images/spec.png",
+                "id": 1,
+                "original_url": "https://raw.githubusercontent.com/amenski/covid19-Rest-api/develop/src/main/resources/images/spec.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mj+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it is a standalone initiative. here in EU cloud infrustructure is not widely adopted yet, for that reason we were unable to participate in the hackathon. it is a java + angular application. the specification can be founf here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://raw.githubusercontent.com/amenski/covid19-Rest-api/develop/src/main/resources/images/spec.png",
+                                "text": "https://raw.githubusercontent.com/amenski/covid19-Rest-api/develop/src/main/resources/images/spec.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585224462.031300",
+        "parent_user_id": "U01076CDQ8J"
+    },
+    {
+        "client_msg_id": "ea9dedb9-7cda-4b2b-a5cf-334c6be5f1a9",
+        "type": "message",
+        "text": "Thanks, Amanuel! l think your skills would be very helpful for the ongoing hackathon. If you have time, here is the list of tasks: <https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1585457882091300>",
+        "user": "U0107A7161E",
+        "ts": "1585501360.041900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1585457882091300",
+                "fallback": "[March 28th, 2020 9:58 PM] sefanittades: We\u2019re officially ~23 hours away from the end of the first #ethiohackscovid19 and the beginning of the Weekend Hackathon pitches!\n\nQuick update on the teams and what they need below. If you haven\u2019t gotten involved yet, *it\u2019s not too late*! What better way to spend your Sunday than creating some COVID things?! Head over here to sign up for a team :point_right::skin-tone-5: <http://bit.ly/ethiohackscovid19>. Please DM the team\u2019s lead(s) for more info OR click on the name of the team to join that <!channel>! :sunglasses:\n\n<https://ethiopia-covid19.slack.com/archives/C0106BWK8AX|Dashboard> - unified internal dashboard that shows real-time data on COVID-19 cases\n\u2022 Lead: <@U01078QCG2C>\n<https://ethiopia-covid19.slack.com/archives/C0104AYA6SX|CI/CD> - creating a streamlined process to deploy code using really cool AWS tooling - containers, Code Build, Code Pipeline, CloudFormation\n\u2022 Lead: <@UV6JHDP0S>\n<https://join.slack.com/share/I010YSXSWJU/tN0hka51xaD3TXdH4aFxoPsH/enQtMTAzMjkxNTkxNDY0MC0yNDVmMWI2ZGM5N2E0ZTI1OWZiNzhhMDEzZTI2OGJjMTEzYTI4OTQ0N2VlMTcyODM3MTczM2U5YmU1NGMzN2I5|API> - creating a single beautiful API to rule them all for critical systems to access and push data- forms, dashboards, bots, SMS\n\u2022 Lead: <@U0107JEKN0N> \n\u2022 `*HELP NEEDED:* With creating/tweaking endpoints using Node.js / AWS Lambda / DynamoDB`\n<https://ethiopia-covid19.slack.com/archives/C010GQS9HNY|Testing/QA> - ensuring critical forms for travelers and the general public actually work!\n\u2022 Lead: <@UVC2L182V>\n<https://join.slack.com/share/I010YCJLM44/rpBSupgCBKsT0vvnHzdz6yAF/enQtMTAzMjQyNjcwMTE0MC00ZGE4OWRlNjFkN2FlOTczYmY1ZjA2M2QwZWYxMDgxOTA3NTM5ZjUyM2IzOWVjOWJhODNjNWVjYzU0YWQzMjIw|Hotel Vacancy Project> - creating a bot to show hotel vacancies for travelers that need to be quarantined\n\u2022 Lead: <@U010MHWSRPH>\n\u2022 `*HELP NEEDED:* To help create a Telegram bot`\n<https://ethiopia-covid19.slack.com/archives/CVBQ5H16D|Content> - creating MOH-approved content and assets to raise awareness about COVID-19\n\u2022 Leads: <@UVALWD1MG> + <@U010CLFURT8>\n\u2022 `*HELP NEEDED: S*omeone with video/audio experience that can help us create content about COVID-19`\n<https://ethiopia-covid19.slack.com/archives/CV8GEDED8|Influencer/Media Marketing> - partnering with influencers to spread MOH-approved content for COVID-19 awareness\n\u2022 Lead: <@U0106M26108> \n<https://ethiopia-covid19.slack.com/archives/C010GQUEBSQ|DIY Gear> - creating protective gear for medical professionals and the public\n\u2022 Lead: <@U0107JERE9L>\n<https://ethiopia-covid19.slack.com/archives/C010W2ZJN6L|Medicine/Grocery Delivery> - partnering with established delivery services in Addis and helping with logistics and project management\n\u2022 Lead: <@U010B7Q6XE0>\n<https://ethiopia-covid19.slack.com/archives/C010VNXB4H2|Quarantine Center Development> - retrofitting older existing buildings like schools &amp; hotels to become quarantine centers\n\u2022 Lead: <@UVB9ZSPCH> + Association of Ethiopian Architects\n<https://ethiopia-covid19.slack.com/archives/C010P7122SD|Volunteer Training> - mobilizing and training community volunteers on the ground\n\u2022 Lead: <@U010B22ESES>",
+                "ts": "1585457882.091300",
+                "author_id": "U0106M26108",
+                "author_subname": "sefanit",
+                "channel_id": "C010695DKMM",
+                "channel_name": "all-broadcast",
+                "is_msg_unfurl": true,
+                "text": "We\u2019re officially ~23 hours away from the end of the first #ethiohackscovid19 and the beginning of the Weekend Hackathon pitches!\n\nQuick update on the teams and what they need below. If you haven\u2019t gotten involved yet, *it\u2019s not too late*! What better way to spend your Sunday than creating some COVID things?! Head over here to sign up for a team :point_right::skin-tone-5: <http://bit.ly/ethiohackscovid19>. Please DM the team\u2019s lead(s) for more info OR click on the name of the team to join that <!channel>! :sunglasses:\n\n<https://ethiopia-covid19.slack.com/archives/C0106BWK8AX|Dashboard> - unified internal dashboard that shows real-time data on COVID-19 cases\n\u2022 Lead: <@U01078QCG2C>\n<https://ethiopia-covid19.slack.com/archives/C0104AYA6SX|CI/CD> - creating a streamlined process to deploy code using really cool AWS tooling - containers, Code Build, Code Pipeline, CloudFormation\n\u2022 Lead: <@UV6JHDP0S>\n<https://join.slack.com/share/I010YSXSWJU/tN0hka51xaD3TXdH4aFxoPsH/enQtMTAzMjkxNTkxNDY0MC0yNDVmMWI2ZGM5N2E0ZTI1OWZiNzhhMDEzZTI2OGJjMTEzYTI4OTQ0N2VlMTcyODM3MTczM2U5YmU1NGMzN2I5|API> - creating a single beautiful API to rule them all for critical systems to access and push data- forms, dashboards, bots, SMS\n\u2022 Lead: <@U0107JEKN0N> \n\u2022 `*HELP NEEDED:* With creating/tweaking endpoints using Node.js / AWS Lambda / DynamoDB`\n<https://ethiopia-covid19.slack.com/archives/C010GQS9HNY|Testing/QA> - ensuring critical forms for travelers and the general public actually work!\n\u2022 Lead: <@UVC2L182V>\n<https://join.slack.com/share/I010YCJLM44/rpBSupgCBKsT0vvnHzdz6yAF/enQtMTAzMjQyNjcwMTE0MC00ZGE4OWRlNjFkN2FlOTczYmY1ZjA2M2QwZWYxMDgxOTA3NTM5ZjUyM2IzOWVjOWJhODNjNWVjYzU0YWQzMjIw|Hotel Vacancy Project> - creating a bot to show hotel vacancies for travelers that need to be quarantined\n\u2022 Lead: <@U010MHWSRPH>\n\u2022 `*HELP NEEDED:* To help create a Telegram bot`\n<https://ethiopia-covid19.slack.com/archives/CVBQ5H16D|Content> - creating MOH-approved content and assets to raise awareness about COVID-19\n\u2022 Leads: <@UVALWD1MG> + <@U010CLFURT8>\n\u2022 `*HELP NEEDED: S*omeone with video/audio experience that can help us create content about COVID-19`\n<https://ethiopia-covid19.slack.com/archives/CV8GEDED8|Influencer/Media Marketing> - partnering with influencers to spread MOH-approved content for COVID-19 awareness\n\u2022 Lead: <@U0106M26108> \n<https://ethiopia-covid19.slack.com/archives/C010GQUEBSQ|DIY Gear> - creating protective gear for medical professionals and the public\n\u2022 Lead: <@U0107JERE9L>\n<https://ethiopia-covid19.slack.com/archives/C010W2ZJN6L|Medicine/Grocery Delivery> - partnering with established delivery services in Addis and helping with logistics and project management\n\u2022 Lead: <@U010B7Q6XE0>\n<https://ethiopia-covid19.slack.com/archives/C010VNXB4H2|Quarantine Center Development> - retrofitting older existing buildings like schools &amp; hotels to become quarantine centers\n\u2022 Lead: <@UVB9ZSPCH> + Association of Ethiopian Architects\n<https://ethiopia-covid19.slack.com/archives/C010P7122SD|Volunteer Training> - mobilizing and training community volunteers on the ground\n\u2022 Lead: <@U010B22ESES>",
+                "author_name": "sefanit",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0106M26108",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-17/1007092618928_80ca94a81b7a9c8f66b5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1585457882091300",
+                "footer": "Posted in #all-broadcast"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Amanuel! l think your skills would be very helpful for the ongoing hackathon. If you have time, here is the list of tasks: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1585457882091300"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585224462.031300",
+        "parent_user_id": "U01076CDQ8J"
+    }
+]

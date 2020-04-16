@@ -1,0 +1,1303 @@
+[
+    {
+        "client_msg_id": "40494A83-23E9-43D3-908B-1960074389B3",
+        "type": "message",
+        "text": "<!channel> - good morning. Do you have an everything to be successful during this weekend\u2019s sprint? If not, please ping me so that I can help facilitate. ",
+        "user": "UV8B0679P",
+        "ts": "1586624352.075200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tz6B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - good morning. Do you have an everything to be successful during this weekend\u2019s sprint? If not, please ping me so that I can help facilitate. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "reply_count": 16,
+        "reply_users_count": 3,
+        "latest_reply": "1586632450.085000",
+        "reply_users": [
+            "U0105ALMEKU",
+            "UV8B0679P",
+            "UV6JJDDKL"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aa4f1ae9-14a2-4578-b827-dafb7d426a3d",
+        "type": "message",
+        "text": "Hey <@UV8B0679P>, curious where the weekend Sprint was communicated?\n\nAnd, more broadly, there are a few key things that aren't clear to me:\n\n1. A number of people here are building Bots but there is no universal agreement on what these bots should enable. Is that documented somewhere?\n2. A number of bots have been built but I haven't seen a clear plan on how they're being rolled out. Is that documented anywhere?",
+        "user": "U0105ALMEKU",
+        "ts": "1586624559.075500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0p/k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", curious where the weekend Sprint was communicated?\n\nAnd, more broadly, there are a few key things that aren't clear to me:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A number of people here are building Bots but there is no universal agreement on what these bots should enable. Is that documented somewhere?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A number of bots have been built but I haven't seen a clear plan on how they're being rolled out. Is that documented anywhere?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "07505a63-c0af-481c-b350-0c6fa0576f33",
+        "type": "message",
+        "text": "The above two points are critical to ensuring we're building high-value tools that have the potential of getting high adoption",
+        "user": "U0105ALMEKU",
+        "ts": "1586624817.075700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C/ZX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The above two points are critical to ensuring we're building high-value tools that have the potential of getting high adoption"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "0a84d4aa-86fe-4319-bd59-3d1fe90de347",
+        "type": "message",
+        "text": "Hi <@U0105ALMEKU> - sure\n\nThe Weekend Sprint was kicked off at last night\u2019s <https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586542679295500|all hands on call>. The meeting minutes and this weekend\u2019s work streams are listed <https://docs.google.com/document/d/1JmKvWJRqNxiVK5tNM-vG2q5kIASraq0CCfPHqvEs1GY/edit|here>.\n\nTo answer your two questions;\n\n1. We should do a better job of explaining what these bots are supposed to do and what issues they solve for; but generally, there are 3 types of bots that are built: \n\u2022 *Awareness Bots (WhatsApp, Telegram, Messenger) (Status: 99.99% Done)*\n\u2022 Demo: (Telegram: <https://t.me/Covid_robot>), (WhatsApp: TBD), (Messenger: TBD)\n\u2022 GitHub: <https://github.com/Ethiopia-COVID19/bot>\n\u2022 *Data Collection Bots (WhatsApp, Telegram, Messenger) (Status: 99.99% Done)*\n\u2022 Demo: (Telegram: <https://t.me/Covid_robot>), (WhatsApp: TBD), (Messenger: TBD)\n\u2022 GitHub: <https://github.com/Ethiopia-COVID19/bot>\n\u2022 *Space Vacancy Bot (Telegram) (Status: 60% Done)*\n\u2022 Demo: (Telegram: TBD)\n\u2022 GitHub: <https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot>\n2. The plan right now is to have all the bots rolled out as part of the \u201cAfrica COVID-19 Response Toolkit\u201d, which will most likely be announced mid next week. Here is the first <https://medium.com/africa-covid-19-response-toolkit/5-key-steps-in-mobilizing-covid-19-response-efforts-in-africa-778235ea2d88|blog post> about it.",
+        "user": "UV8B0679P",
+        "ts": "1586625048.075900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV8B0679P",
+            "ts": "1586625370.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586542679295500",
+                "fallback": "[April 10th, 2020 11:17 AM] samralakew: *<!channel>*\u00a0All-hands for Sprint #3 is TONIGHT @ 6:00pm PST / 9pm EST / 4am EAT\u00a0:sunglasses:\u00a0--&gt; meeting link:\u00a0<https://mit.zoom.us/j/921756948>\n\n[For the following all-hands calls, we will rotate meeting times so that our team members on the ground can join us]",
+                "ts": "1586542679.295500",
+                "author_id": "U0107A7161E",
+                "author_subname": "Samra Lakew",
+                "channel_id": "C010695DKMM",
+                "channel_name": "all-broadcast",
+                "is_msg_unfurl": true,
+                "text": "*<!channel>*\u00a0All-hands for Sprint #3 is TONIGHT @ 6:00pm PST / 9pm EST / 4am EAT\u00a0:sunglasses:\u00a0--&gt; meeting link:\u00a0<https://mit.zoom.us/j/921756948>\n\n[For the following all-hands calls, we will rotate meeting times so that our team members on the ground can join us]",
+                "author_name": "Samra Lakew",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107A7161E",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-18/1010401783760_4b935ef07924db0d489d_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586542679295500",
+                "footer": "Posted in #all-broadcast"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Lc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105ALMEKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - sure\n\nThe Weekend Sprint was kicked off at last night\u2019s "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586542679295500",
+                                "text": "all hands on call"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". The meeting minutes and this weekend\u2019s work streams are listed "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1JmKvWJRqNxiVK5tNM-vG2q5kIASraq0CCfPHqvEs1GY/edit",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nTo answer your two questions;\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We should do a better job of explaining what these bots are supposed to do and what issues they solve for; but generally, there are 3 types of bots that are built: "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Awareness Bots (WhatsApp, Telegram, Messenger) (Status: 99.99% Done)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Demo: (Telegram: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://t.me/Covid_robot"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "), (WhatsApp: TBD), (Messenger: TBD)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GitHub: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://github.com/Ethiopia-COVID19/bot"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Data Collection Bots (WhatsApp, Telegram, Messenger) (Status: 99.99% Done)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Demo: (Telegram: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://t.me/Covid_robot"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "), (WhatsApp: TBD), (Messenger: TBD)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GitHub: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://github.com/Ethiopia-COVID19/bot"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Space Vacancy Bot (Telegram) (Status: 60% Done)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Demo: (Telegram: TBD)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GitHub: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n2. The plan right now is to have all the bots rolled out as part of the \u201cAfrica COVID-19 Response Toolkit\u201d, which will most likely be announced mid next week. Here is the first "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://medium.com/africa-covid-19-response-toolkit/5-key-steps-in-mobilizing-covid-19-response-efforts-in-africa-778235ea2d88",
+                                "text": "blog post"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "75eb84e8-bbb9-4b72-88d0-7e3270d083a8",
+        "type": "message",
+        "text": "<@U0105ALMEKU> check :point_up::skin-tone-5: \u2014 sorry had to edit it a few times (sorry, fat fingers pressing the enter button)",
+        "user": "UV8B0679P",
+        "ts": "1586625408.076500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+gEWJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105ALMEKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " check "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": " \u2014 sorry had to edit it a few times (sorry, fat fingers pressing the enter button)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "d183ff31-d212-42d3-89c1-97f6dc8ece86",
+        "type": "message",
+        "text": "Truly appreciate the quick response, <@UV8B0679P>! No worries about the edits :slightly_smiling_face: We all suffer from fat fingers sometimes!\n\nI like what you've listed; however, I'd highly recommend that we put a pause to any \"launch\" of sorts until we properly audit the various bots that exist, their purpose, where they overlap, and what number(s) they're attached to. We need to be able to easily articulate that to others otherwise we risk confusing users.",
+        "user": "U0105ALMEKU",
+        "ts": "1586626153.076700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xLzb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Truly appreciate the quick response, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! No worries about the edits "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We all suffer from fat fingers sometimes!\n\nI like what you've listed; however, I'd highly recommend that we put a pause to any \"launch\" of sorts until we properly audit the various bots that exist, their purpose, where they overlap, and what number(s) they're attached to. We need to be able to easily articulate that to others otherwise we risk confusing users."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "1dd500e1-6726-4af9-94bc-34b4e3269ccb",
+        "type": "message",
+        "text": "What are your thoughts on that? I know our motto is \"Speed over perfection\" but we should still be cautious on this.",
+        "user": "U0105ALMEKU",
+        "ts": "1586626234.076900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZSlB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What are your thoughts on that? I know our motto is \"Speed over perfection\" but we should still be cautious on this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "b140aa1f-1148-486f-9e84-93055be370ee",
+        "type": "message",
+        "text": "Happy to talk through it to better understand your concerns. Would you mind gather a few folks from this team and do a quick call?",
+        "user": "UV8B0679P",
+        "ts": "1586626239.077100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1gchy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to talk through it to better understand your concerns. Would you mind gather a few folks from this team and do a quick call?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "2be31081-4aa5-4379-b001-dfab8b56214f",
+        "type": "message",
+        "text": "Certainly up for that! Anytime today works on my end.",
+        "user": "U0105ALMEKU",
+        "ts": "1586626414.077300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uxv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Certainly up for that! Anytime today works on my end."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "40633253-6880-41cd-9522-198cc809455d",
+        "type": "message",
+        "text": "Great. Can you help gather up a few folks from here and schedule it? We can use my zoom when you guys are ready. I\u2019m available to facilitate anytime",
+        "user": "UV8B0679P",
+        "ts": "1586626835.077500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GDn/j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great. Can you help gather up a few folks from here and schedule it? We can use my zoom when you guys are ready. I\u2019m available to facilitate anytime"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "f8985004-aeeb-4443-bfcd-a5d9c6847d61",
+        "type": "message",
+        "text": "<@UVA2XJDPC> <@UV6JJDDKL> <@U010BSJ55MK> <@U010JAMHQUC> <@U0107JDFH1U>\n\nAre you guys available for a call today to chat with <@UV8B0679P> about putting together a rollout plan for these bots? I recommend 3PM EST/10PM in Addis/12PM in the West Coast.",
+        "user": "U0105ALMEKU",
+        "ts": "1586627093.077800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PSl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVA2XJDPC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JJDDKL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BSJ55MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JAMHQUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JDFH1U"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAre you guys available for a call today to chat with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about putting together a rollout plan for these bots? I recommend 3PM EST/10PM in Addis/12PM in the West Coast."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "ca5275ff-a4e3-4a62-90e6-3e6f91a3f93b",
+        "type": "message",
+        "text": "Okay, given there are no responses. Let's postpone this for now. Instead, I'll share a Spreadsheet here shortly that will allow everyone to record what their apps enable.",
+        "user": "U0105ALMEKU",
+        "ts": "1586631207.078200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W7hE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, given there are no responses. Let's postpone this for now. Instead, I'll share a Spreadsheet here shortly that will allow everyone to record what their apps enable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "9b6380d5-5417-45b1-8a7e-13f502e8b3ec",
+        "type": "message",
+        "text": "<@U0105ALMEKU> sure!!",
+        "user": "UV6JJDDKL",
+        "ts": "1586631334.078400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cc0w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105ALMEKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sure!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "text": "Okay, done! <https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0|Click here>",
+        "files": [
+            {
+                "id": "F011VJYM6G4",
+                "created": 1586631911,
+                "timestamp": 1586631911,
+                "name": "Covid Bots Feature Set",
+                "title": "COVID-19 Bots, Apps, and Sites - Launch Tracker",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0105ALMEKU",
+                "editable": false,
+                "size": 438299,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_360.png",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_480.png",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_720.png",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_960.png",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_1024.png",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1449,
+                "thumb_tiny": "AwAwACHSJOeKOfWg9aWgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0105ALMEKU/F011VJYM6G4/covid_bots_feature_set",
+                "is_starred": false,
+                "external_id": "1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY",
+                "external_url": "https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9N2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, done! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0",
+                                "text": "Click here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0105ALMEKU",
+        "display_as_bot": false,
+        "x_files": [
+            "F011VJYM6G4"
+        ],
+        "ts": "1586631883.078700",
+        "client_msg_id": "9526119f-90cc-4473-b20d-4fa97b40bc78",
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "655760A1-621F-4C78-A392-F4BA5FCF46AA",
+        "type": "message",
+        "text": "Let me know when you\u2019re able to get people",
+        "user": "UV8B0679P",
+        "ts": "1586632377.083800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aUO8+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me know when you\u2019re able to get people"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "text": "<!channel> <@UV8B0679P> We need to understand what each bot does, what each bot plans to do, which features are planned, which features are out of scope, etc... so I've put together <https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0|this spreadsheet> to track all the bots that have been created. If you've created a bot, please update this spreadsheet with info specific to your bot. If you can think of specific feature that is not represented/captured, please add it.",
+        "files": [
+            {
+                "id": "F011VJYM6G4",
+                "created": 1586631911,
+                "timestamp": 1586631911,
+                "name": "Covid Bots Feature Set",
+                "title": "COVID-19 Bots, Apps, and Sites - Launch Tracker",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0105ALMEKU",
+                "editable": false,
+                "size": 438299,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_360.png",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_480.png",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_720.png",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_960.png",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_1024.png",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1449,
+                "thumb_tiny": "AwAwACHSJOeKOfWg9aWgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0105ALMEKU/F011VJYM6G4/covid_bots_feature_set",
+                "is_starred": false,
+                "external_id": "1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY",
+                "external_url": "https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RXl2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We need to understand what each bot does, what each bot plans to do, which features are planned, which features are out of scope, etc... so I've put together "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0",
+                                "text": "this spreadsheet"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to track all the bots that have been created. If you've created a bot, please update this spreadsheet with info specific to your bot. If you can think of specific feature that is not represented/captured, please add it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0105ALMEKU",
+        "display_as_bot": false,
+        "x_files": [
+            "F011VJYM6G4"
+        ],
+        "ts": "1586632383.084200",
+        "client_msg_id": "4c470f44-cb5f-4900-b139-a85787908959",
+        "thread_ts": "1586632383.084200",
+        "reply_count": 26,
+        "reply_users_count": 5,
+        "latest_reply": "1586796121.104000",
+        "reply_users": [
+            "U0105ALMEKU",
+            "UV8B0679P",
+            "U011J82BTTP",
+            "U010L4EAWBZ",
+            "UV6JJDDKL"
+        ],
+        "subscribed": false,
+        "pinned_to": [
+            "C010205PNPL"
+        ],
+        "pinned_info": {
+            "channel": "C010205PNPL",
+            "pinned_by": "U0105ALMEKU",
+            "pinned_ts": 1586634429
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JJDDKL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "UV6JJDDKL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25a0c515-8f44-40ac-93b6-c736f090999e",
+        "type": "message",
+        "text": "Will do, Mike. As step 1 - let's get everyone to fill out this spreadsheet.",
+        "user": "U0105ALMEKU",
+        "ts": "1586632412.084800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0J8T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do, Mike. As step 1 - let's get everyone to fill out this spreadsheet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "a8060a3d-cee1-4e77-ab90-a4c297191254",
+        "type": "message",
+        "text": "But, please roll with the assumption that we will not be able to sync today. Once this sheet is filled out, then we can just have a 1:1 tomorrow as opposed to trying to find a time that works for everyone.",
+        "user": "U0105ALMEKU",
+        "ts": "1586632450.085000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QiN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But, please roll with the assumption that we will not be able to sync today. Once this sheet is filled out, then we can just have a 1:1 tomorrow as opposed to trying to find a time that works for everyone."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624352.075200",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "e0c4dee4-261f-4332-a767-bad07590585e",
+        "type": "message",
+        "text": "<@UV8B0679P>, please kindly share this with any other groups/bot developers that are part of this effort",
+        "user": "U0105ALMEKU",
+        "ts": "1586632794.085200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m33",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", please kindly share this with any other groups/bot developers that are part of this effort"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "6FF27FDE-F702-4C91-9792-E21F6DD53A7D",
+        "type": "message",
+        "text": "This is the only team working on bots",
+        "user": "UV8B0679P",
+        "ts": "1586632918.085700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "19x81",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the only team working on bots"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "1F34BB3A-7AAF-4251-947D-2140209706FE",
+        "type": "message",
+        "text": "We\u2019ve consolidated the channels",
+        "user": "UV8B0679P",
+        "ts": "1586632927.086100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HTlY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We\u2019ve consolidated the channels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "b3277fa5-e176-4ada-96bf-7bd85fba5b72",
+        "type": "message",
+        "text": "Hello, in <https://docs.google.com/spreadsheets/d/1CThjbhYIhm-AmlLvekvcIYsdF9Z4k9-2bkvhy9KGGXA/edit#gid=0|this doc> we are trying to translate the content of the official Whatsapp bot. Unfortunately neither me nor <@UVB9ZSPCH> (the team lead for translation) got the original content. So, I extracted the text by interacting with the bot. (still some parts are missing, specifically the third level options)",
+        "user": "U011J82BTTP",
+        "ts": "1586633065.086300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DTs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1CThjbhYIhm-AmlLvekvcIYsdF9Z4k9-2bkvhy9KGGXA/edit#gid=0",
+                                "text": "this doc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are trying to translate the content of the official Whatsapp bot. Unfortunately neither me nor "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (the team lead for translation) got the original content. So, I extracted the text by interacting with the bot. (still some parts are missing, specifically the third level options)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "3bce8d0b-3729-4f82-998a-a29049f700b3",
+        "type": "message",
+        "text": "<@U011K09D9NJ> is helping on the translation (for Afaan Oromo)",
+        "user": "U011J82BTTP",
+        "ts": "1586633143.086600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xpNf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011K09D9NJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is helping on the translation (for Afaan Oromo)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "90ae9ff8-499d-406b-a951-bd3a079a37b9",
+        "type": "message",
+        "text": "<@UV8B0679P> do we know who is creating the content? I think someone should read and correct the content. I noticed there is some incorrect information regarding face masks (red colored in the document)",
+        "user": "U011J82BTTP",
+        "ts": "1586633433.086800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IHKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do we know who is creating the content? I think someone should read and correct the content. I noticed there is some incorrect information regarding face masks (red colored in the document)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "37CD02A0-307A-4F85-B57D-296C5CEE4238",
+        "type": "message",
+        "text": "Technically speaking, it will be the locality that\u2019s using the bot that will be doing the translation ",
+        "user": "UV8B0679P",
+        "ts": "1586633577.087700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FyC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Technically speaking, it will be the locality that\u2019s using the bot that will be doing the translation "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "D1123675-DA52-4987-A861-331058F79FE7",
+        "type": "message",
+        "text": "Ideally we ship with a basic set of translation as a starting point",
+        "user": "UV8B0679P",
+        "ts": "1586633599.088600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aujGS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ideally we ship with a basic set of translation as a starting point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "4c96e102-463c-4ee7-be5e-e24246dc5921",
+        "type": "message",
+        "text": "<@UV8B0679P> - thanks for the clarification on bot channels.",
+        "user": "U0105ALMEKU",
+        "ts": "1586633723.088800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e3m3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - thanks for the clarification on bot channels."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    }
+]

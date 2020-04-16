@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "ab21f51b-ba25-439e-bddb-d6937b35bd7c",
+        "type": "message",
+        "text": "<!here> let me know if you need any assistance on the java backend, Software Dev at Expedia Group",
+        "user": "U010Z9NDLHW",
+        "ts": "1585610259.044100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E1Uz0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let me know if you need any assistance on the java backend, Software Dev at Expedia Group"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JEKN0N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

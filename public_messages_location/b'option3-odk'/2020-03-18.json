@@ -1,0 +1,449 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584562034.000200",
+        "user": "U0107A7161E",
+        "text": "<@U0107A7161E> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584562044.000400",
+        "user": "UV6JHDP0S",
+        "text": "<@UV6JHDP0S> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584562044.000600",
+        "user": "U0108MYHZ0C",
+        "text": "<@U0108MYHZ0C> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "346e763d-6d1a-4672-aa13-124606ebfa3d",
+        "type": "message",
+        "text": "<@UV6JHDP0S> Yared suggested that \"open port 443 incoming on network setting\"",
+        "user": "U0107A7161E",
+        "ts": "1584562058.001000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XV=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yared suggested that \"open port 443 incoming on network setting\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3bfba2fe-b311-4830-9f73-1cd9675714de",
+        "type": "message",
+        "text": "both are open",
+        "user": "UV6JHDP0S",
+        "ts": "1584562159.001200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k9rcn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "both are open"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9eb24a8-1caf-4f5b-ad63-4aaf800aaa12",
+        "type": "message",
+        "text": "443 and 80",
+        "user": "UV6JHDP0S",
+        "ts": "1584562163.001400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D8UQG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "443 and 80"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1401111e-9994-4d6c-bad3-7f74c5f3c3c8",
+        "type": "message",
+        "text": "is it possible to host on AWS without being a virtual machine?",
+        "user": "U0107A7161E",
+        "ts": "1584562213.001900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HHV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is it possible to host on AWS without being a virtual machine?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8b48f99-2d9d-4a4a-965d-280d4f50e49b",
+        "type": "message",
+        "text": "nope",
+        "user": "UV6JHDP0S",
+        "ts": "1584562285.002100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ov6q6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nope"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64ca7f95-b205-477f-a582-bfbd967ccdb2",
+        "type": "message",
+        "text": "if you wan to login to the ubuntu box i can provide the cred",
+        "user": "UV6JHDP0S",
+        "ts": "1584562312.002600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SfDw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you wan to login to the ubuntu box i can provide the cred"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74B9BA62-1F27-4319-9101-957B2C324A79",
+        "type": "message",
+        "text": "Do u just spin up Doker image or how did you set this up? <@UV6JHDP0S> ",
+        "user": "U0108MYHZ0C",
+        "ts": "1584562372.002700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0108MYHZ0C",
+            "ts": "1584562557.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dvu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do u just spin up Doker image or how did you set this up? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e8f5db2-ba01-41ac-bb34-78d78e8dd01b",
+        "type": "message",
+        "text": "not docker",
+        "user": "UV6JHDP0S",
+        "ts": "1584562410.002900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/rm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not docker"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "859e29fc-a55d-4fee-b4cb-71fef630c39a",
+        "type": "message",
+        "text": "nginx",
+        "user": "UV6JHDP0S",
+        "ts": "1584562418.003200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "otj5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nginx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "329f1428-4c55-441f-a774-05132c455757",
+        "type": "message",
+        "text": "ok it looks like there an different steos for setting up for Aggregate on VM: <https://docs.opendatakit.org/aggregate-vm/>",
+        "user": "U0107A7161E",
+        "ts": "1584562672.004100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l+/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok it looks like there an different steos for setting up for Aggregate on VM: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.opendatakit.org/aggregate-vm/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58013752-eea7-41b7-a4cf-76d2160a82eb",
+        "type": "message",
+        "text": "To be transparent: I am not that familiar with server setup",
+        "user": "U0107A7161E",
+        "ts": "1584562759.005200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JsN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To be transparent: I am not that familiar with server setup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99843a8f-5569-400e-879d-97571ddc947a",
+        "type": "message",
+        "text": "BUT I know that this is fixable! its the only thing keeping ODK from being functional by 5",
+        "user": "U0107A7161E",
+        "ts": "1584562804.006300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tc05",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BUT I know that this is fixable! its the only thing keeping ODK from being functional by 5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "does this apply:",
+        "files": [
+            {
+                "id": "FVCKD8XSP",
+                "created": 1584565045,
+                "timestamp": 1584565045,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0107A7161E",
+                "editable": false,
+                "size": 151229,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-FVCKD8XSP/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-FVCKD8XSP/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-FVCKD8XSP-ca306f8cc3/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-FVCKD8XSP-ca306f8cc3/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-FVCKD8XSP-ca306f8cc3/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 174,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-FVCKD8XSP-ca306f8cc3/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 232,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-FVCKD8XSP-ca306f8cc3/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-FVCKD8XSP-ca306f8cc3/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 348,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-FVCKD8XSP-ca306f8cc3/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 386,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-FVCKD8XSP-ca306f8cc3/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 464,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-FVCKD8XSP-ca306f8cc3/image_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 495,
+                "image_exif_rotation": 1,
+                "original_w": 1540,
+                "original_h": 744,
+                "thumb_tiny": "AwAXADDQwV7lqXc3pQwyRx+tJt/zmgBct6CjLelJs/zml2+w/OgAy3pSjOeRSbfYfnSjjsKABhnGMU3a3tT6KAEwfX9KMH1/SlooATB9f0oAOetLRQB//9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107A7161E/FVCKD8XSP/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-FVCKD8XSP-a4c661745f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Voa2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "does this apply:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "ts": "1584565050.007800",
+        "client_msg_id": "cfa0dcdf-983e-4ac6-811f-91787259bc98"
+    },
+    {
+        "client_msg_id": "a02aa550-29cf-4e3d-89ce-067a0e6e4641",
+        "type": "message",
+        "text": "back to what yared was asking about ports",
+        "user": "U0107A7161E",
+        "ts": "1584565154.008300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c028",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "back to what yared was asking about ports"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

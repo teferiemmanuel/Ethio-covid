@@ -1,0 +1,431 @@
+[
+    {
+        "client_msg_id": "b19f2f6b-3f64-47e1-9b36-ec5d8607bb26",
+        "type": "message",
+        "text": "*<!channel>*, All-Hands #6 begins in 10mins\u00a0:sunglasses:\n\nVideo Conference: <https://us04web.zoom.us/j/2275802257>\n\nAgenda + Minutes: <https://docs.google.com/document/d/1GA6IgMveOJ9RXyweufY1sU33QhVoGAmyG3j7gM-v80s/edit>",
+        "user": "U0106M26108",
+        "ts": "1585961464.199000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1585961477.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yxYN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", All-Hands #6 begins in 10mins\u00a0"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nVideo Conference: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/2275802257"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAgenda + Minutes: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1GA6IgMveOJ9RXyweufY1sU33QhVoGAmyG3j7gM-v80s/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UVA8BCCBV",
+                    "U0106M27EKS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d048347a-908a-4d2b-96aa-03735d80dba6",
+        "type": "message",
+        "text": "<!channel> We need devs who know vue.js, react.js or node.js to help build surveillance forms for capturing rumored cases.  If you have spare cycles please DM me with your skills and how much bandwidth you have this weekend.  Thank you!  :pray::skin-tone-4:",
+        "user": "U01084NU2NL",
+        "ts": "1585971785.202400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1mZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We need devs who know vue.js, react.js or node.js to help build surveillance forms for capturing rumored cases.  If you have spare cycles please DM me with your skills and how much bandwidth you have this weekend.  Thank you!  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585971785.202400",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1586110246.214700",
+        "reply_users": [
+            "U010APHG8Q1",
+            "U01084NU2NL",
+            "U0106M27EKS",
+            "U0103EHQLEM"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010BJRJPJT",
+                    "U010UM8QBQA",
+                    "U0106M27EKS",
+                    "U010A8YEUP9",
+                    "U0104KQCK4J",
+                    "U0107AYF16H",
+                    "U0109ELFV4Y"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c73f0b66-074f-4339-b100-87a521ad505b",
+        "type": "message",
+        "text": "<!channel> [Urgent] :rotating_light: Looking for folks that have experience with installing and configuring open source conferencing tool Jitsi! Ping me or <@U0115DWP9T9>",
+        "user": "UV6JHDP0S",
+        "ts": "1585990658.205300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vvt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " [Urgent] "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Looking for folks that have experience with installing and configuring open source conferencing tool Jitsi! Ping me or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0115DWP9T9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f56d9ae-05cc-4941-95d3-c018b6bc0569",
+        "type": "message",
+        "text": "I'm good at Vue",
+        "user": "U010APHG8Q1",
+        "ts": "1585993592.206200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sgR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm good at Vue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585971785.202400",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL",
+                    "UV6JHDP0S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6978b8db-a0ae-42e0-ad43-ee693023d042",
+        "type": "message",
+        "text": "And nuxt",
+        "user": "U010APHG8Q1",
+        "ts": "1585993596.206400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+9Rxc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And nuxt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585971785.202400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "We still need 2 React ninjas to help out with the Project Surveillance.   Holler even if you have just a couple of hours to spare this weekend!   Project Doc:  <https://rb.gy/fode02>    Trello:  <https://rb.gy/xstrgo>",
+        "user": "U01084NU2NL",
+        "ts": "1586022119.209500",
+        "thread_ts": "1585971785.202400",
+        "root": {
+            "client_msg_id": "d048347a-908a-4d2b-96aa-03735d80dba6",
+            "type": "message",
+            "text": "<!channel> We need devs who know vue.js, react.js or node.js to help build surveillance forms for capturing rumored cases.  If you have spare cycles please DM me with your skills and how much bandwidth you have this weekend.  Thank you!  :pray::skin-tone-4:",
+            "user": "U01084NU2NL",
+            "ts": "1585971785.202400",
+            "team": "TV5KELEUS",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1mZ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " We need devs who know vue.js, react.js or node.js to help build surveillance forms for capturing rumored cases.  If you have spare cycles please DM me with your skills and how much bandwidth you have this weekend.  Thank you!  "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "pray",
+                                    "skin_tone": 4
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1585971785.202400",
+            "reply_count": 6,
+            "reply_users_count": 4,
+            "latest_reply": "1586110246.214700",
+            "reply_users": [
+                "U010APHG8Q1",
+                "U01084NU2NL",
+                "U0106M27EKS",
+                "U0103EHQLEM"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "deoD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We still need 2 React ninjas to help out with the Project Surveillance.   Holler even if you have just a couple of hours to spare this weekend!   Project Doc:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://rb.gy/fode02"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    Trello:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://rb.gy/xstrgo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "dc31c322-81d4-4e4d-9d3d-226653a0c452",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U0106M27EKS",
+                    "U01051X26HJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DE89EB27-6F08-423F-83FC-A9B5F9F5B037",
+        "type": "message",
+        "text": "<@U0107JDFH1U> :eyes:",
+        "user": "U0106M27EKS",
+        "ts": "1586024885.210800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eRPbN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JDFH1U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585971785.202400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "c1ce6f2a-336a-4a7d-89ad-ce29421aaa80",
+        "type": "message",
+        "text": "Repo:  <https://rb.gy/juqbj2>   Come join the fun at <#C011D7EG0UW|proj-surveillance-forms>",
+        "user": "U01084NU2NL",
+        "ts": "1586030295.211600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Ethiopia-COVID19/Project-Surveillance-Forms",
+                "title_link": "https://rb.gy/juqbj2",
+                "text": "Build forms for reporting rumored COVID-19 cases. Contribute to Ethiopia-COVID19/Project-Surveillance-Forms development by creating an account on GitHub.",
+                "fallback": "GitHub: Ethiopia-COVID19/Project-Surveillance-Forms",
+                "thumb_url": "https://avatars2.githubusercontent.com/u/62272683?s=400&v=4",
+                "from_url": "https://rb.gy/juqbj2",
+                "thumb_width": 342,
+                "thumb_height": 342,
+                "service_icon": "https://github.com/favicon.ico",
+                "id": 1,
+                "original_url": "https://rb.gy/juqbj2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uSGe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Repo:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://rb.gy/juqbj2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   Come join the fun at "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C011D7EG0UW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585971785.202400",
+        "parent_user_id": "U01084NU2NL"
+    }
+]

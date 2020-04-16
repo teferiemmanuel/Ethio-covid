@@ -1,0 +1,44 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "Reminder: Civic Engagement Team Meeting is in 15 minutes:\u00a0<https://mit.zoom.us/j/830540249>",
+        "user": "USLACKBOT",
+        "ts": "1586880908.203300",
+        "team": "TV5KELEUS",
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2cc6efb2-9c5a-4353-8878-171bc6399c57",
+        "type": "message",
+        "text": "^no call today",
+        "user": "U0107A7161E",
+        "ts": "1586881299.203500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QyP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^no call today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

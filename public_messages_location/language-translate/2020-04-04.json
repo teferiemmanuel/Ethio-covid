@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "AAEE1C93-2EB3-4D19-A1E6-4D25EAE79DE6",
+        "type": "message",
+        "text": "<@U0107JC5CCD> welcome aboard!!",
+        "user": "UVB9ZSPCH",
+        "ts": "1586027400.046800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oNtKK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JC5CCD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " welcome aboard!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

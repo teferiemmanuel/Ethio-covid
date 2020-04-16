@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "0ab024e6-c6a5-422a-9e07-1fc6d898c8af",
+        "type": "message",
+        "text": "<!channel>, All-Hands #5 begins in 15mins :sunglasses:\n\nVideo Conference: <https://zoom.us/j/921756948>\n\nAgenda + Minutes: <https://docs.google.com/document/d/1c-v_EPgVfxsIJ4XWogIzJPY9fcoBgpzhorHIg3-HDJ8/edit>",
+        "user": "U0106M26108",
+        "ts": "1585325717.055500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1585325758.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "afDJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", All-Hands #5 begins in 15mins "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nVideo Conference: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://zoom.us/j/921756948"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAgenda + Minutes: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1c-v_EPgVfxsIJ4XWogIzJPY9fcoBgpzhorHIg3-HDJ8/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "90b69e19-00c8-48d6-927a-071b11817b51",
+        "type": "message",
+        "text": "Hi, Sorry...my abbreviations...Teen to adult Female, and Teen to Adult male, numbers are weights of specific food per week. Yes.",
+        "user": "U0113SJHVRR",
+        "ts": "1586351839.217600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ijbr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, Sorry...my abbreviations...Teen to adult Female, and Teen to Adult male, numbers are weights of specific food per week. Yes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586095957.184600",
+        "parent_user_id": "U0113SJHVRR"
+    },
+    {
+        "client_msg_id": "a498980d-48c7-4e44-b83f-98810dd8c202",
+        "type": "message",
+        "text": "I don't know why it opens the Name columns and numbers in two pages...it's supposed to be an excel spreadsheet...not getting this slack!!:white_frowning_face:",
+        "user": "U0113SJHVRR",
+        "ts": "1586352076.217800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6y1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know why it opens the Name columns and numbers in two pages...it's supposed to be an excel spreadsheet...not getting this slack!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_frowning_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586095957.184600",
+        "parent_user_id": "U0113SJHVRR"
+    },
+    {
+        "client_msg_id": "9992767b-51fe-4b96-af7d-9594a216e83b",
+        "type": "message",
+        "text": "Thanks for clarification! Its ok I added them all into one spreadsheet <https://docs.google.com/spreadsheets/d/1cTK0YtzmjxXJnv30e9IljgqZim6aKQdVI6PCOBAYkqs/edit#gid=0|here>.",
+        "user": "U010B7Q6XE0",
+        "ts": "1586368354.218200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nOrF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for clarification! Its ok I added them all into one spreadsheet "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1cTK0YtzmjxXJnv30e9IljgqZim6aKQdVI6PCOBAYkqs/edit#gid=0",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586095957.184600",
+        "parent_user_id": "U0113SJHVRR"
+    }
+]

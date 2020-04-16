@@ -1,0 +1,917 @@
+[
+    {
+        "client_msg_id": "13A9EA64-1F79-4810-AA6D-7B895DB715CF",
+        "type": "message",
+        "text": "<!channel> - good morning. Do you have an everything to be successful during this weekend\u2019s sprint? If not, please ping me so that I can help facilitate. ",
+        "user": "UV8B0679P",
+        "ts": "1586624229.264500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X7h+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - good morning. Do you have an everything to be successful during this weekend\u2019s sprint? If not, please ping me so that I can help facilitate. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b608a76a-ac41-4b73-adaa-d01f4edb61fb",
+        "type": "message",
+        "text": "Hey <!channel>, any epidemiologists available for another review of the dashboard today? We showed off some of the work on your suggestions from last weekend during the show-and-tell on Tuesday night for those who were available to make it. I\u2019m thinking we can do a similar demo and gather people\u2019s suggestions and comments on the current state of things and anything else were anticipating.\n\nIs anyone available at 4pm CST for a meeting?\n\nagenda from last week\n<https://docs.google.com/document/d/1mwgA4qZ1sunzPUHc3Y1rfeailJUkkxByyLyg4tqpqj8/edit>",
+        "user": "U01078QCG2C",
+        "ts": "1586626091.268400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1586626172.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X+Is1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", any epidemiologists available for another review of the dashboard today? We showed off some of the work on your suggestions from last weekend during the show-and-tell on Tuesday night for those who were available to make it. I\u2019m thinking we can do a similar demo and gather people\u2019s suggestions and comments on the current state of things and anything else were anticipating.\n\nIs anyone available at 4pm CST for a meeting?\n\nagenda from last week\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1mwgA4qZ1sunzPUHc3Y1rfeailJUkkxByyLyg4tqpqj8/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "reply_count": 45,
+        "reply_users_count": 8,
+        "latest_reply": "1586844207.340200",
+        "reply_users": [
+            "UV8B0679P",
+            "U011680TZL5",
+            "U010U8HF7PY",
+            "U010YC7MX2Q",
+            "U0107DX4VNU",
+            "U0107EMK8UD",
+            "U01078QCG2C",
+            "U010T8D05UM"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01051X26HJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff269899-3515-47e8-99bb-6fb55cba56b7",
+        "type": "message",
+        "text": "<@U011DAPM8P3> can you help here?",
+        "user": "UV8B0679P",
+        "ts": "1586626117.268600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y3z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011DAPM8P3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you help here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "0777e364-1be7-4c93-97a9-157735abc931",
+        "type": "message",
+        "text": "I'm available.",
+        "user": "U011680TZL5",
+        "ts": "1586626152.268800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4dUrr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm available."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F47F0DE8-5AC4-4E38-B467-7112CFC5F09A",
+        "type": "message",
+        "text": "I\u2019m available too ",
+        "user": "U010U8HF7PY",
+        "ts": "1586626206.269500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TfX6D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019m available too "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2BED0585-5C1D-4005-A5EC-091EDD4F45D5",
+        "type": "message",
+        "text": "Also available ",
+        "user": "U010YC7MX2Q",
+        "ts": "1586626682.270000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b7+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also available "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53395274-c6e4-4281-bb7b-3f654e800140",
+        "type": "message",
+        "text": "will try to join!",
+        "user": "U0107DX4VNU",
+        "ts": "1586629624.270400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "will try to join!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "867636e2-79b9-43ba-a029-7bdd5a2d35ee",
+        "type": "message",
+        "text": "I can join in as well",
+        "user": "U0107EMK8UD",
+        "ts": "1586633192.270700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lFl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can join in as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a3d8972-8cfd-4b9f-a3bc-068150e81730",
+        "type": "message",
+        "text": "Ok, I\u2019ll post a link to the meeting here before 4pm CST",
+        "user": "U01078QCG2C",
+        "ts": "1586634899.271000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1586634911.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/uj4I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, I\u2019ll post a link to the meeting here before 4pm CST"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "3129B1E5-4EFF-48BC-AA47-27001FF2E71D",
+        "type": "message",
+        "text": "I\u2019m happy to join as well!",
+        "user": "U010T8D05UM",
+        "ts": "1586637030.271700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R3H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019m happy to join as well!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76d15900-0188-4b7e-9e40-444a42ae014d",
+        "type": "message",
+        "text": "Link to the meeting:\n<https://hangouts.google.com/call/3liMdqRVgbYk2Mw_BtZtAEEE>",
+        "user": "U01078QCG2C",
+        "ts": "1586638374.272100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jr4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Link to the meeting:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://hangouts.google.com/call/3liMdqRVgbYk2Mw_BtZtAEEE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "0e2d8807-2e9d-4a16-9491-026cb6bbb28c",
+        "type": "message",
+        "text": "<!here> Link for epidemiologist meeting at 4pm CST\n<https://hangouts.google.com/call/3liMdqRVgbYk2Mw_BtZtAEEE>",
+        "user": "U01078QCG2C",
+        "ts": "1586638527.272900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vaoE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Link for epidemiologist meeting at 4pm CST\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://hangouts.google.com/call/3liMdqRVgbYk2Mw_BtZtAEEE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "559045cf-5167-401d-a169-97b58271a9b5",
+        "type": "message",
+        "text": "Hi <@U01084NU2NL>, Thanks for the update. I'm Ermias, a front-end experience with experience in ReactJs. I'm available and glad to help on any tasks. Looking for your replies",
+        "user": "U010DH00BCM",
+        "ts": "1586638738.273100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zipum",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Thanks for the update. I'm Ermias, a front-end experience with experience in ReactJs. I'm available and glad to help on any tasks. Looking for your replies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "aace16bb-e082-4418-8c6f-ba34423d4799",
+        "type": "message",
+        "text": "survey examples below",
+        "user": "U01078QCG2C",
+        "ts": "1586640294.273800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1586641858.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=nh5m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "survey examples below"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "3b3a99ea-5b66-4067-a3bc-a6adc6c89223",
+        "type": "message",
+        "text": "Actually, Helom",
+        "user": "UV8B0679P",
+        "ts": "1586640296.274000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BXPU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually, Helom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "167e0ef5-8077-4a1e-9496-ede807d3f90f",
+        "type": "message",
+        "text": "Use these forms instead",
+        "user": "UV8B0679P",
+        "ts": "1586640302.274200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "knV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Use these forms instead"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "d0941630-b70f-4b4d-b664-d8ea8de117d0",
+        "type": "message",
+        "text": "<http://forms.ethiopia-covid19.com/>",
+        "user": "UV8B0679P",
+        "ts": "1586640308.274400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZKjZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http://forms.ethiopia-covid19.com/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "60ac69ec-0c3c-4df3-81d4-a20e6f075327",
+        "type": "message",
+        "text": "<@U01078QCG2C> for resource maps: <https://covid19.healthdata.org/united-states-of-america>",
+        "user": "U011680TZL5",
+        "ts": "1586640792.275100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Institute for Health Metrics and Evaluation",
+                "title": "IHME | COVID-19 Projections",
+                "title_link": "https://covid19.healthdata.org/united-states-of-america",
+                "text": "Explore hospital bed use, need for intensive care beds, and ventilator use due to COVID-19 based on projected deaths",
+                "fallback": "Institute for Health Metrics and Evaluation: IHME | COVID-19 Projections",
+                "image_url": "http://www.healthdata.org/sites/default/files/files/Projects/COVID/COVID-19_projections_thumbnail.png",
+                "from_url": "https://covid19.healthdata.org/united-states-of-america",
+                "image_width": 470,
+                "image_height": 250,
+                "image_bytes": 140158,
+                "service_icon": "https://covid19.healthdata.org/dist/images/favicon-32x32.png",
+                "id": 1,
+                "original_url": "https://covid19.healthdata.org/united-states-of-america"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yzwg+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for resource maps: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://covid19.healthdata.org/united-states-of-america"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "58f8e1f3-18c2-4b22-8593-57eb8d7880dc",
+        "type": "message",
+        "text": "For the underlying conditions of the survey questionnaire, Table 2 of this paper (<https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-017-0145-1>) and the table from the CDC (<https://www.cdc.gov/mmwr/volumes/69/wr/mm6915e3.htm?s_cid=mm6915e3_e>) might be able to better contextualize the risk factors for the disease in ETH. I will look into the literature more and will share my findings. Would love to hear your thoughts as well <@U011680TZL5> <@U010T8D05UM> <@U010U8HF7PY>",
+        "user": "U010YC7MX2Q",
+        "ts": "1586642026.275500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Population Health Metrics",
+                "title": "National mortality burden due to communicable, non-communicable, and other diseases in Ethiopia, 1990\u20132015: findings from the Global Burden of Disease Study 2015",
+                "title_link": "https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-017-0145-1",
+                "text": "Ethiopia lacks a complete vital registration system that would assist in measuring disease burden and risk factors. We used the Global Burden of Diseases, Injuries, and Risk Factors Study 2015 (GBD 2015) estimates to describe the mortality burden from communicable, non-communicable, and other diseases in Ethiopia over the last 25&amp;nbsp;years. GBD 2015 mainly used cause of death ensemble modeling to measure causes of death by age, sex, and year for 195 countries. We report numbers of deaths and rates of years of life lost (YLL) for communicable, maternal, neonatal, and nutritional (CMNN) disorders, non-communicable diseases (NCDs), and injuries with 95% uncertainty intervals (UI) for Ethiopia from 1990 to 2015. CMNN causes of death have declined by 65% in the last two-and-a-half decades. Injury-related causes of death have also decreased by 70%. Deaths due to NCDs declined by 37% during the same period. Ethiopia showed a faster decline in the burden of four out of the five leading causes of age-standardized premature mortality rates when compared to the overall sub-Saharan African region and the Eastern sub-Saharan African region: lower respiratory infections, tuberculosis, HIV/AIDS, and diarrheal diseases; however, the same could not be said for ischemic heart disease and other NCDs. Non-communicable diseases, together, were the leading causes of age-standardized mortality rates, whereas CMNN diseases were leading causes of premature mortality in 2015. Although lower respiratory infections, tuberculosis, and diarrheal disease were the leading causes of age-standardized death rates, they showed major declines from 1990 to 2015. Neonatal encephalopathy, iron-deficiency anemia, protein-energy malnutrition, and preterm birth complications also showed more than a 50% reduction in burden. HIV/AIDS-related deaths have also decreased by 70% since 2005. Ischemic heart disease, hemorrhagic stroke, and ischemic stroke were among the top causes of premature mortality and age-standardized death rates in Ethiopia in 2015. Ethiopia has been successful in reducing deaths related to communicable, maternal, neonatal, and nutritional deficiency diseases and injuries by 65%, despite unacceptably high maternal and neonatal mortality rates. However, the country\u2019s performance regarding non-communicable diseases, including cardiovascular disease, diabetes, cancer, and chronic respiratory disease, was minimal, causing these diseases to join the leading causes of premature mortality and death rates in 2015. While the country is progressing toward universal health coverage, prevention and control strategies in Ethiopia should consider the double burden of common infectious diseases and non-communicable diseases: lower respiratory infections, diarrhea, tuberculosis, HIV/AIDS, cardiovascular disease, cancer, and diabetes. Prevention and control strategies should also pay special attention to the leading causes of premature mortality and death rates caused by non-communicable diseases: cardiovascular disease, cancer, and diabetes. Measuring further progress requires a data revolution in generating, managing, analyzing, and using data for decision-making and the creation of a full vital registration system in the country.",
+                "fallback": "Population Health Metrics: National mortality burden due to communicable, non-communicable, and other diseases in Ethiopia, 1990\u20132015: findings from the Global Burden of Disease Study 2015",
+                "from_url": "https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-017-0145-1",
+                "thumb_url": "https://media.springernature.com/w110/springer-static/cover/journal/12963.jpg",
+                "thumb_width": 110,
+                "thumb_height": 156,
+                "id": 1,
+                "original_url": "https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-017-0145-1"
+            },
+            {
+                "service_name": "Centers for Disease Control and Prevention",
+                "title": "Hospitalization Rates and Characteristics of Patients Hospitalized ...",
+                "title_link": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6915e3.htm?s_cid=mm6915e3_e",
+                "text": "The Coronavirus Disease 2019\u2013Associated Hospitalization Surveillance Network (COVID-NET) was implemented to produce robust, weekly, age-stratified COVID-19\u2013associated hospitalization rates.",
+                "fallback": "Centers for Disease Control and Prevention: Hospitalization Rates and Characteristics of Patients Hospitalized ...",
+                "image_url": "https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6915e3_HospitalizationsCOVID19_IMAGE_08April20_1200x627.jpg",
+                "ts": 1586329200,
+                "from_url": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6915e3.htm?s_cid=mm6915e3_e",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 384527,
+                "service_icon": "https://www.cdc.gov/TemplatePackage/4.0/assets/imgs/favicon.ico",
+                "id": 2,
+                "original_url": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6915e3.htm?s_cid=mm6915e3_e"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a/l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the underlying conditions of the survey questionnaire, Table 2 of this paper ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-017-0145-1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") and the table from the CDC ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6915e3.htm?s_cid=mm6915e3_e"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") might be able to better contextualize the risk factors for the disease in ETH. I will look into the literature more and will share my findings. Would love to hear your thoughts as well "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011680TZL5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010T8D05UM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010U8HF7PY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "805ac36e-34f8-4856-88dc-705678f094d6",
+        "type": "message",
+        "text": "Here is another resource that has a lot of information <https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx>",
+        "user": "U0107EMK8UD",
+        "ts": "1586642538.275800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "  Coronavirus (COVID-19) Data Dashboard  - Public Health Department - County of Santa Clara ",
+                "title_link": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx",
+                "text": "This data dashboard provides detailed information about cases and deaths from Coronavirus (COVID-19) in Santa Clara County.",
+                "fallback": "  Coronavirus (COVID-19) Data Dashboard  - Public Health Department - County of Santa Clara ",
+                "from_url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx",
+                "service_icon": "https://www.sccgov.org/Style%20Library/SCCGOV/Images/Common/scc-county-seal-mobile_256.png",
+                "service_name": "sccgov.org",
+                "id": 1,
+                "original_url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lIKc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is another resource that has a lot of information "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/dashboard.aspx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "50497273-db70-4c36-ae6f-2f6d175bb8ef",
+        "type": "message",
+        "text": "<@UV8B0679P>, me and <@U0107DX4VNU> noticed that not all of the edits to the \u201cGeneral information\u201d section of the community and medical center forms have been transferred from the suggested edits google sheet that we shared <https://docs.google.com/document/d/1sDul-G0_yOVh86xuGUxSlXxPzbrv05IGh_cBy0yqoJw/edit?ts=5e8a6f7e|here>. It also has not been entered into the Passenger Registration form. Who should we pass this information to?",
+        "user": "U0107EMK8UD",
+        "ts": "1586643341.276100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Z/E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", me and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " noticed that not all of the edits to the \u201cGeneral information\u201d section of the community and medical center forms have been transferred from the suggested edits google sheet that we shared "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1sDul-G0_yOVh86xuGUxSlXxPzbrv05IGh_cBy0yqoJw/edit?ts=5e8a6f7e",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". It also has not been entered into the Passenger Registration form. Who should we pass this information to?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "6e4bfce9-cef3-424d-a92d-031485c81971",
+        "type": "message",
+        "text": "<@UV8B0679P> in addition to what Elleni said, the occupation section has also not been edited. We noted that both the medical center and community forms have occupation but the passenger form does not.  might make sense to add across to be consistent. We have added that edit to the google doc Elleni linked to keep track -- this is serving as the master edit doc.",
+        "user": "U0107DX4VNU",
+        "ts": "1586643961.276800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L9EWj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in addition to what Elleni said, the occupation section has also not been edited. We noted that both the medical center and community forms have occupation but the passenger form does not.  might make sense to add across to be consistent. We have added that edit to the google doc Elleni linked to keep track -- this is serving as the master edit doc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "7B58BDC5-F5C3-430C-81BD-E2A4C4650A8A",
+        "type": "message",
+        "text": "<@U0107EMK8UD>, <@U0107DX4VNU> - please ping <@U01084NU2NL> or <@U0109ELFV4Y> from the <#C011D7EG0UW|proj-surveillance-forms> team to give them the feedback",
+        "user": "UV8B0679P",
+        "ts": "1586644987.278400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LR4ZT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - please ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C011D7EG0UW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " team to give them the feedback"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586626091.268400",
+        "parent_user_id": "U01078QCG2C"
+    }
+]

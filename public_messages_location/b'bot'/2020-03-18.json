@@ -1,0 +1,207 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584492127.002200",
+        "user": "U01075FCUE4",
+        "text": "<@U01075FCUE4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584502745.002400",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584509426.002600",
+        "user": "U0109JZL4T1",
+        "text": "<@U0109JZL4T1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584514100.002800",
+        "user": "U010A263TBQ",
+        "text": "<@U010A263TBQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584515516.003000",
+        "user": "U0107S7TRT2",
+        "text": "<@U0107S7TRT2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584518203.003200",
+        "user": "UV81AMFSP",
+        "text": "<@UV81AMFSP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584526991.003400",
+        "user": "UVC59H10R",
+        "text": "<@UVC59H10R> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584534276.003600",
+        "user": "U010AMR28QN",
+        "text": "<@U010AMR28QN> has joined the channel"
+    },
+    {
+        "client_msg_id": "a1db6de1-5a94-4e9e-b772-e0331343f982",
+        "type": "message",
+        "text": "hey guys",
+        "user": "U010AMR28QN",
+        "ts": "1584534284.003800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WOg=D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584536304.004000",
+        "user": "U0108576J77",
+        "text": "<@U0108576J77> has joined the channel"
+    },
+    {
+        "client_msg_id": "d3b48114-9d5c-4b63-b95f-6a016f154c0b",
+        "type": "message",
+        "text": "looking for sal. he asked me a question i see in email but can't find it here",
+        "user": "UV81AMFSP",
+        "ts": "1584549038.004400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hJs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looking for sal. he asked me a question i see in email but can't find it here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584557245.004600",
+        "user": "U01085512G5",
+        "text": "<@U01085512G5> has joined the channel"
+    },
+    {
+        "client_msg_id": "34becf3d-21ea-42f6-87e3-00deb4d57dbe",
+        "type": "message",
+        "text": "BTW, there is already a telegram bot tracking global case information from worldometer.",
+        "user": "U01085512G5",
+        "ts": "1584557295.005700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xwvp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BTW, there is already a telegram bot tracking global case information from worldometer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98a8e967-68fd-43e9-8eda-3ea9e9f1cc48",
+        "type": "message",
+        "text": "<https://t.me/worldometers_coronavirus_bot|https://t.me/worldometers_coronavirus_bot>",
+        "user": "U01085512G5",
+        "ts": "1584557299.005900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01085512G5",
+            "ts": "1584557338.000000"
+        },
+        "attachments": [
+            {
+                "title": "Coronavirus Update (Live): 215,177 Cases and 8,885 Deaths from COVID-19 Virus Outbreak - Worldometer",
+                "title_link": "https://www.worldometers.info/coronavirus/",
+                "text": "Live statistics and coronavirus news tracking the number of confirmed cases, recovered patients, and death toll by country due to the COVID 19 coronavirus from Wuhan, China. Coronavirus counter with new cases, historical data, and info. Daily charts, graphs, news and updates",
+                "fallback": "Coronavirus Update (Live): 215,177 Cases and 8,885 Deaths from COVID-19 Virus Outbreak - Worldometer",
+                "from_url": "https://www.worldometers.info/coronavirus/",
+                "thumb_url": "http://www.worldometers.info/img/worldometers-fb.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https://www.worldometers.info/favicon/apple-icon-57x57.png",
+                "service_name": "worldometers.info",
+                "id": 1,
+                "original_url": "https://www.worldometers.info/coronavirus/"
+            },
+            {
+                "service_name": "Telegram",
+                "title": "worldometers_coronavirus_bot",
+                "title_link": "https://t.me/worldometers_coronavirus_bot",
+                "text": "<https://www.worldometers.info/coronavirus/>",
+                "fallback": "Telegram: worldometers_coronavirus_bot",
+                "thumb_url": "https://cdn4.telesco.pe/file/jEA3M1qqOzoBzEfJ_E39t6havYPIRfOXwhTy8nJBE6hea5koteshvKAPnJMRAgMaEpbUzA0gM3WO78NQbUt_6gnrLwA9Znp1oVj9LhAeDepWIcntP7Q-tAvQ4hE7ij1Dm6u7zCDbT5YFP2nGY6lF3fVXU4bcQiLRElJ8EVN9wDFGbppsL2ulorqvblbI_KdU_JI9SM1ng9VNSbf5J_9hPS-2A6mQqWQvB0j6mEKR_RvQRi_c5gkJepq2hR7Hzk3b4J2SNq_oN8izNMMUUH2cchLXNHTMMup1I2UouQT2ppxTY-jHABYTZ-P1k2TdMkzgDjMzfTmX8hqWW2cDJPdhrw.jpg",
+                "from_url": "https://t.me/worldometers_coronavirus_bot",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "service_icon": "http://telegram.org/favicon.ico?3",
+                "id": 2,
+                "original_url": "https://t.me/worldometers_coronavirus_bot"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+F=G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://t.me/worldometers_coronavirus_bot",
+                                "text": "https://t.me/worldometers_coronavirus_bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

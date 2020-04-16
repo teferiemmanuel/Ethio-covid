@@ -1,0 +1,241 @@
+[
+    {
+        "client_msg_id": "b5b10105-04b7-4dec-9b44-f530c708d12b",
+        "type": "message",
+        "text": "I will reach out soon!",
+        "user": "UVALWD1MG",
+        "ts": "1585526812.043700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will reach out soon!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "parent_user_id": "UVALWD1MG"
+    },
+    {
+        "client_msg_id": "882e283b-d445-4b80-9ebb-41e6dda62c77",
+        "type": "message",
+        "text": "Sharing Medtronic's COVID-19 page that contains information about ventilating multiple patients and a link to the ventilator training curriculum. There are multiple tabs including the latest updates and info for health care providers, perhaps it could be useful for Ethiopia.\nLots of great information so please share with healthcare professionals on the ground! <https://www.medtronic.com/us-en/e/covid19.html>",
+        "user": "U010986778X",
+        "ts": "1585593097.044300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Medtronic is Mobilizing to Address COVID-19",
+                "title_link": "https://www.medtronic.com/us-en/e/covid19.html",
+                "text": "Read how Medtronic is mobilizing to provide COVID-19 support for healthcare professionals, patients, our employees, and global communities.",
+                "fallback": "Medtronic is Mobilizing to Address COVID-19",
+                "image_url": "https://www.medtronic.com/content/dam/medtronic-com/brand-images/open-graph-default.png",
+                "from_url": "https://www.medtronic.com/us-en/e/covid19.html",
+                "image_width": 469,
+                "image_height": 250,
+                "image_bytes": 40758,
+                "service_icon": "https://www.medtronic.com/content/dam/medtronic-com/apple-touch-icon-precomposed.png",
+                "service_name": "medtronic.com",
+                "id": 1,
+                "original_url": "https://www.medtronic.com/us-en/e/covid19.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KYOh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sharing Medtronic's COVID-19 page that contains information about ventilating multiple patients and a link to the ventilator training curriculum. There are multiple tabs including the latest updates and info for health care providers, perhaps it could be useful for Ethiopia.\nLots of great information so please share with healthcare professionals on the ground! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.medtronic.com/us-en/e/covid19.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "We NEED innovating engineers to step up and see if the attached Personal Protection Equipment (PPE) could be assembled in Ethiopia. We will raise the money (we have started:\u00a0<https://slack-redir.net/link?url=http%3A%2F%2Fwww.gf.me%2Fu%2Fxsgra9|Support Ethiopia Health Workers Combat COVID-19>) to buy locally unavailable and ship from here (US to get the PPEs assembled in Ethiopia.\u00a0\n\nThe PPE was originally made by biomedical engineers at Southampton University in the UK for use at their tuberculosis lab. It runs for over 8 hours on 5x AA rechargeable batteries.\u00a0It is reusable if properly cleaned. It is claimed by Southampton that it removes 99.95% of particles because you create a positive air pressure inside the hood. You have a built-in visor to prevent accidental face touching.\n\nThey are not sharing the dimensions (we asked) but I am sure ingenious engineers will figure to assemble the PPE. It needs to be tested and then we can move to mass production. We need to videotape the assembly process.\n\nThe Addis Ababa University Engineering department, working with the Ministry of Science and Technology, will be working on this on the other end. If we can get the private sector in Ethiopia (e.g., garment factory) to assist (the hood, etc.) that would be great.\n\nAttached is the write up on this, a hand sketch and list of components.",
+        "files": [
+            {
+                "id": "F0114TKM0PR",
+                "created": 1585607105,
+                "timestamp": 1585607105,
+                "name": "PeRSo_DW_280320_brief.pdf",
+                "title": "PeRSo_DW_280320_brief.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010VLD0G2H",
+                "editable": false,
+                "size": 265754,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0114TKM0PR/perso_dw_280320_brief.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0114TKM0PR/download/perso_dw_280320_brief.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F0114TKM0PR-8a5a8c01b4/perso_dw_280320_brief_thumb_pdf.png",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010VLD0G2H/F0114TKM0PR/perso_dw_280320_brief.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0114TKM0PR-fe13a74273",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F0112CA8J9J",
+                "created": 1585607105,
+                "timestamp": 1585607105,
+                "name": "Perso DW_280320_c.pdf",
+                "title": "Perso DW_280320_c.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010VLD0G2H",
+                "editable": false,
+                "size": 353040,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0112CA8J9J/perso_dw_280320_c.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0112CA8J9J/download/perso_dw_280320_c.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F0112CA8J9J-ccd196301b/perso_dw_280320_c_thumb_pdf.png",
+                "thumb_pdf_w": 1210,
+                "thumb_pdf_h": 935,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010VLD0G2H/F0112CA8J9J/perso_dw_280320_c.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0112CA8J9J-17e2ceeff8",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F0112CA8JAG",
+                "created": 1585607105,
+                "timestamp": 1585607105,
+                "name": "PeRSo_Components[1].pdf",
+                "title": "PeRSo_Components[1].pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010VLD0G2H",
+                "editable": false,
+                "size": 38643,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0112CA8JAG/perso_components_1_.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0112CA8JAG/download/perso_components_1_.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F0112CA8JAG-1af3e4cb12/perso_components_1__thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010VLD0G2H/F0112CA8JAG/perso_components_1_.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0112CA8JAG-84ad9ed73b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+Fw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We NEED innovating engineers to step up and see if the attached Personal Protection Equipment (PPE) could be assembled in Ethiopia. We will raise the money (we have started:\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://slack-redir.net/link?url=http%3A%2F%2Fwww.gf.me%2Fu%2Fxsgra9",
+                                "text": "Support Ethiopia Health Workers Combat COVID-19"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") to buy locally unavailable and ship from here (US to get the PPEs assembled in Ethiopia.\u00a0\n\nThe PPE was originally made by biomedical engineers at Southampton University in the UK for use at their tuberculosis lab. It runs for over 8 hours on 5x AA rechargeable batteries.\u00a0It is reusable if properly cleaned. It is claimed by Southampton that it removes 99.95% of particles because you create a positive air pressure inside the hood. You have a built-in visor to prevent accidental face touching.\n\nThey are not sharing the dimensions (we asked) but I am sure ingenious engineers will figure to assemble the PPE. It needs to be tested and then we can move to mass production. We need to videotape the assembly process.\n\nThe Addis Ababa University Engineering department, working with the Ministry of Science and Technology, will be working on this on the other end. If we can get the private sector in Ethiopia (e.g., garment factory) to assist (the hood, etc.) that would be great.\n\nAttached is the write up on this, a hand sketch and list of components."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010VLD0G2H",
+        "ts": "1585607108.044600",
+        "client_msg_id": "b7303ac2-4f68-4f82-810e-96af78cc95fe",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0202a21-c669-4f84-abe5-5c0a272e62cf",
+        "type": "message",
+        "text": "Only thing we were asked by Southhampton University is to call it PeRSo. These are the type of items that are used by the engineering group in the university (it is not the exact copy but it will work)\n\n3Pcs Motor Cotton Filter+2Pcs HEPA Filter For Philips Electrolux Vacuum Cleaner\n12cm High Speed Computer DC 12V 2Pin PC Case System Hydraulic Cooling Fan 12025 MIS\nSleep Apnea Air Breathing CPAP Circuits Tube 22mm\nAdjustable Clear Face Visor Mask Face Shield Safety Workwear Eye Protection UK\nDUPONT Tyvek 14 / White Disposable Hood Balaclava Pack Of 10. Elasticated Face",
+        "user": "U010VLD0G2H",
+        "ts": "1585607126.045400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZWHtu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Only thing we were asked by Southhampton University is to call it PeRSo. These are the type of items that are used by the engineering group in the university (it is not the exact copy but it will work)\n\n3Pcs Motor Cotton Filter+2Pcs HEPA Filter For Philips Electrolux Vacuum Cleaner\n12cm High Speed Computer DC 12V 2Pin PC Case System Hydraulic Cooling Fan 12025 MIS\nSleep Apnea Air Breathing CPAP Circuits Tube 22mm\nAdjustable Clear Face Visor Mask Face Shield Safety Workwear Eye Protection UK\nDUPONT Tyvek 14 / White Disposable Hood Balaclava Pack Of 10. Elasticated Face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

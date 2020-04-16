@@ -1,0 +1,395 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586795494.193800",
+        "user": "U012ABDAHS4",
+        "text": "<@U012ABDAHS4> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    },
+    {
+        "client_msg_id": "b534dc1e-2b42-480c-b98e-957e8ff72506",
+        "type": "message",
+        "text": "<!here> instead of Mon, Wed, Fri, can we do our meetings on Tues, Thurs, Sat instead? <@U010SKPP7CJ> <@U010729GXR7> <@U011F7L4G8L> <@U010SBSQC9K> <@U012ABDAHS4> <@U010Z2M1W6Q>",
+        "user": "U0107A7161E",
+        "ts": "1586798387.196100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ri+D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " instead of Mon, Wed, Fri, can we do our meetings on Tues, Thurs, Sat instead? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010SKPP7CJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010729GXR7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011F7L4G8L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010SBSQC9K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012ABDAHS4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010Z2M1W6Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8474ef67-f462-4f2f-af42-7eb3a80353c3",
+        "type": "message",
+        "text": ":slightly_smiling_face:",
+        "user": "U010SKPP7CJ",
+        "ts": "1586798409.196300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8gf3K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06fc678d-aa34-45bc-9f9a-13775565b094",
+        "type": "message",
+        "text": "yes please, I am fully convinced today that Monday's are the devils doing",
+        "user": "U011F7L4G8L",
+        "ts": "1586798460.196900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HV0Ok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes please, I am fully convinced today that Monday's are the devils doing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U010Z2M1W6Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c020d100-202f-4c98-aea2-03d474473347",
+        "type": "message",
+        "text": "Haha. Sure fine with me.",
+        "user": "U010SBSQC9K",
+        "ts": "1586798726.197500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vPk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha. Sure fine with me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "reminder_add",
+        "text": " set up a reminder \u201cCivic Engagement Team Meeting is in 15 minutes:\u00a0https://mit.zoom.us/j/830540249\u201d in this channel at 12:15PM every Tuesday, Thursday, and Saturday, Eastern Daylight Time.",
+        "user": "U0107A7161E",
+        "ts": "1586798862.197700"
+    },
+    {
+        "client_msg_id": "0096c39c-78a4-4ae6-b2f5-abc0b1dc7957",
+        "type": "message",
+        "text": "awesome! thanks guys -- let's skip tomorrow's meeting and start up again on Thursday",
+        "user": "U0107A7161E",
+        "ts": "1586798964.198500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UGasr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awesome! thanks guys -- let's skip tomorrow's meeting and start up again on Thursday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "in the meantime please continue to post your updates to the channel and use the <https://docs.google.com/spreadsheets/d/13t381X-aEFG3RsTqnVZNT1c8KJoYg4FmOqOm2m6tHak/edit#gid=2134806864|content tracker> with the progress of ongoing posts",
+        "files": [
+            {
+                "id": "F010SFT8S02",
+                "created": 1585679886,
+                "timestamp": 1585679886,
+                "name": "Ethiopia COVID19 Response Team_Civic Engagement task list",
+                "title": "3. Civic Engagement content schedule",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0107A7161E",
+                "editable": false,
+                "size": 85921,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/13t381X-aEFG3RsTqnVZNT1c8KJoYg4FmOqOm2m6tHak/edit#gid=0",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010SFT8S02-ad4a4143f8/ethiopia_covid19_response_team_civic_engagement_task_list_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010SFT8S02-ad4a4143f8/ethiopia_covid19_response_team_civic_engagement_task_list_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010SFT8S02-ad4a4143f8/ethiopia_covid19_response_team_civic_engagement_task_list_360.png",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010SFT8S02-ad4a4143f8/ethiopia_covid19_response_team_civic_engagement_task_list_480.png",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010SFT8S02-ad4a4143f8/ethiopia_covid19_response_team_civic_engagement_task_list_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010SFT8S02-ad4a4143f8/ethiopia_covid19_response_team_civic_engagement_task_list_720.png",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010SFT8S02-ad4a4143f8/ethiopia_covid19_response_team_civic_engagement_task_list_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010SFT8S02-ad4a4143f8/ethiopia_covid19_response_team_civic_engagement_task_list_960.png",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010SFT8S02-ad4a4143f8/ethiopia_covid19_response_team_civic_engagement_task_list_1024.png",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1449,
+                "thumb_tiny": "AwAwACG/I7K2Fxj3pBIxHOKWT71IKAJR0pCeRQOgoPUfWgBaKKKACiiigAooooAKKKKACiiigAooooAKKKKAP//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107A7161E/F010SFT8S02/ethiopia_covid19_response_team_civic_engagement_task_list",
+                "is_starred": false,
+                "external_id": "13t381X-aEFG3RsTqnVZNT1c8KJoYg4FmOqOm2m6tHak",
+                "external_url": "https://docs.google.com/spreadsheets/d/13t381X-aEFG3RsTqnVZNT1c8KJoYg4FmOqOm2m6tHak/edit#gid=0",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OyRd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in the meantime please continue to post your updates to the channel and use the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/13t381X-aEFG3RsTqnVZNT1c8KJoYg4FmOqOm2m6tHak/edit#gid=2134806864",
+                                "text": "content tracker"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with the progress of ongoing posts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "x_files": [
+            "F010SFT8S02"
+        ],
+        "ts": "1586799012.199300",
+        "client_msg_id": "8f724f8f-2473-4f58-9faa-aa2667d4c341",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010Z2M1W6Q",
+                    "U010SKPP7CJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U010729GXR7> here is the <https://docs.google.com/spreadsheets/d/1j0dLOjDKEfYcIi_cfMP7ecog_XRL6GGMa6NsZKdRi-s/edit#gid=1192819430|master project list> where new projects will be added. Note that it's read-only",
+        "files": [
+            {
+                "id": "F012296NGJV",
+                "created": 1586800133,
+                "timestamp": 1586800133,
+                "name": "Ethiopia Covid-19rt Taskforce tracking list",
+                "title": "Ethiopia Covid-19rt Taskforce tracking list",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0107A7161E",
+                "editable": false,
+                "size": 162054,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/1j0dLOjDKEfYcIi_cfMP7ecog_XRL6GGMa6NsZKdRi-s/edit#gid=1192819430",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F012296NGJV-be0a0d8ed4/ethiopia_covid-19rt_taskforce_tracking_list_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F012296NGJV-be0a0d8ed4/ethiopia_covid-19rt_taskforce_tracking_list_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F012296NGJV-be0a0d8ed4/ethiopia_covid-19rt_taskforce_tracking_list_360.png",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F012296NGJV-be0a0d8ed4/ethiopia_covid-19rt_taskforce_tracking_list_480.png",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F012296NGJV-be0a0d8ed4/ethiopia_covid-19rt_taskforce_tracking_list_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F012296NGJV-be0a0d8ed4/ethiopia_covid-19rt_taskforce_tracking_list_720.png",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F012296NGJV-be0a0d8ed4/ethiopia_covid-19rt_taskforce_tracking_list_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F012296NGJV-be0a0d8ed4/ethiopia_covid-19rt_taskforce_tracking_list_960.png",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F012296NGJV-be0a0d8ed4/ethiopia_covid-19rt_taskforce_tracking_list_1024.png",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1449,
+                "thumb_tiny": "AwAwACHQdip4xTTKwOOKeykntTTGSc8UAAdj6U4Mc84pNh9qUKQe1ADqKKKACiiigAooooAKKKKACiiigAooooAKKKKAP//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107A7161E/F012296NGJV/ethiopia_covid-19rt_taskforce_tracking_list",
+                "is_starred": false,
+                "external_id": "1j0dLOjDKEfYcIi_cfMP7ecog_XRL6GGMa6NsZKdRi-s",
+                "external_url": "https://docs.google.com/spreadsheets/d/1j0dLOjDKEfYcIi_cfMP7ecog_XRL6GGMa6NsZKdRi-s/edit#gid=1192819430",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3wrn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010729GXR7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here is the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1j0dLOjDKEfYcIi_cfMP7ecog_XRL6GGMa6NsZKdRi-s/edit#gid=1192819430",
+                                "text": "master project list"
+                            },
+                            {
+                                "type": "text",
+                                "text": " where new projects will be added. Note that it's read-only"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "x_files": [
+            "F012296NGJV"
+        ],
+        "ts": "1586800128.200900",
+        "client_msg_id": "6c04fec1-a094-4577-b8c3-f922b592e10c"
+    }
+]

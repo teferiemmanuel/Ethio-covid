@@ -1,0 +1,565 @@
+[
+    {
+        "client_msg_id": "0953866e-f1e3-4728-8a53-66c06520d661",
+        "type": "message",
+        "text": "Thank you for your insightful suggestion and I've updated it accordingly",
+        "user": "U0112B1TNQ7",
+        "ts": "1586141550.436100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vYsr9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for your insightful suggestion and I've updated it accordingly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586017897.385400",
+        "parent_user_id": "U0112B1TNQ7"
+    },
+    {
+        "client_msg_id": "98ebaaf6-df32-43a7-a117-01b2eeeaafe8",
+        "type": "message",
+        "text": "yes it is one form of GIS but i suspect ArchGIS indeed",
+        "user": "U01017GFFB4",
+        "ts": "1586186406.438300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=u=m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes it is one form of GIS but i suspect ArchGIS indeed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585332252.143700",
+        "parent_user_id": "U01017GFFB4"
+    },
+    {
+        "client_msg_id": "2f7ec841-9af0-4176-9ddd-4b73da4c340e",
+        "type": "message",
+        "text": "Face-Masks Disinfection Device \u2014CoV. This portable, Arduino-powered device uses UVGI and dry heat to disinfect face masks from SARS- <https://create.arduino.cc/projecthub/user66015547/face-masks-disinfection-device-needlab-3ed2f5>",
+        "user": "U010RM5TX1R",
+        "ts": "1586193493.440400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Arduino Project Hub",
+                "title": "Face-Masks Disinfection Device \u2014 needlab",
+                "title_link": "https://create.arduino.cc/projecthub/user66015547/face-masks-disinfection-device-needlab-3ed2f5",
+                "text": "UV-C / heat, Arduino-controlled, face-mask disinfecting device for Coronavirus (SARS-CoV-2). By Jean No\u00ebl.",
+                "fallback": "Arduino Project Hub: Face-Masks Disinfection Device \u2014 needlab",
+                "image_url": "https://hackster.imgix.net/uploads/attachments/1096934/_sxP4r8CVPW.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https://create.arduino.cc/projecthub/user66015547/face-masks-disinfection-device-needlab-3ed2f5",
+                "image_bytes": 36870,
+                "service_icon": "https://create.arduino.cc/favicon.ico",
+                "id": 1,
+                "original_url": "https://create.arduino.cc/projecthub/user66015547/face-masks-disinfection-device-needlab-3ed2f5"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BDRt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Face-Masks Disinfection Device \u2014CoV. This portable, Arduino-powered device uses UVGI and dry heat to disinfect face masks from SARS- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://create.arduino.cc/projecthub/user66015547/face-masks-disinfection-device-needlab-3ed2f5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586193493.440400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586202490.441800",
+        "reply_users": [
+            "U010L4E6BK9"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "This is a simple prototype for a mechanical/electrical ventilator using ambu bags.\n\nIt is build with adruino, meaning we can control,\n\n-Breath per minute(12,15,18,20) or any\n\n-Pressure of breath\n\nIt can also run on battery for remote areas.",
+        "files": [
+            {
+                "id": "F0117GRPFD0",
+                "created": 1586196480,
+                "timestamp": 1586196480,
+                "name": "video_2020-04-06_21-06-20.mp4",
+                "title": "video_2020-04-06_21-06-20.mp4",
+                "mimetype": "video/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U010L4E6BK9",
+                "editable": false,
+                "size": 601097,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0117GRPFD0/video_2020-04-06_21-06-20.mp4",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0117GRPFD0/download/video_2020-04-06_21-06-20.mp4",
+                "thumb_video": "https://files.slack.com/files-tmb/TV5KELEUS-F0117GRPFD0-bb92c76e0e/video_2020-04-06_21-06-20_thumb_video.jpeg",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L4E6BK9/F0117GRPFD0/video_2020-04-06_21-06-20.mp4",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0117GRPFD0-4c9c0b1607",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLEq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a simple prototype for a mechanical/electrical ventilator using ambu bags.\n\nIt is build with adruino, meaning we can control,\n\n-Breath per minute(12,15,18,20) or any\n\n-Pressure of breath\n\nIt can also run on battery for remote areas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010L4E6BK9",
+        "display_as_bot": false,
+        "ts": "1586196493.440700",
+        "client_msg_id": "756dead4-7e20-46d2-a23d-0b8eb94d0545",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010EQU5E6N",
+                    "U0107JE2S94",
+                    "U010986778X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "488ea9cc-6f10-4571-ad9c-e724ea0bf634",
+        "type": "message",
+        "text": "How can I help?",
+        "user": "U010L4E6BK9",
+        "ts": "1586202490.441800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lfv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How can I help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586193493.440400",
+        "parent_user_id": "U010RM5TX1R"
+    },
+    {
+        "client_msg_id": "55CDC151-AC9E-4BEE-ADF0-E93CAF7E8118",
+        "type": "message",
+        "text": "<https://youtu.be/MCF3obswYWc|https://youtu.be/MCF3obswYWc>",
+        "user": "U0109V4EW30",
+        "ts": "1586211956.444300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "\u1348\u1323\u1295\u1293 \u1240\u120b\u120d \u12e8\u121b\u1235\u12ad \u12a0\u1230\u122b\u122d \u1260\u1264\u1275 - How to handmake face mask at home fast for COVID-19",
+                "title_link": "https://youtu.be/MCF3obswYWc",
+                "author_name": "Memhr Adiam",
+                "author_link": "https://www.youtube.com/channel/UCLgw-SFo_zpqrzU3nC6w3wA",
+                "thumb_url": "https://i.ytimg.com/vi/MCF3obswYWc/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: \u1348\u1323\u1295\u1293 \u1240\u120b\u120d \u12e8\u121b\u1235\u12ad \u12a0\u1230\u122b\u122d \u1260\u1264\u1275 - How to handmake face mask at home fast for COVID-19",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/MCF3obswYWc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/MCF3obswYWc",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/MCF3obswYWc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t2E4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/MCF3obswYWc",
+                                "text": "https://youtu.be/MCF3obswYWc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586211956.444300",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1586219025.448800",
+        "reply_users": [
+            "U010CLFURT8",
+            "UVB9ZSPCH",
+            "U0107JERE9L"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011BGST4BG",
+                    "UVB9ZSPCH",
+                    "U0107JERE9L",
+                    "U010T6L6LEL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "U011BGST4BG",
+                    "UVB9ZSPCH",
+                    "UVAL9NS9H"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0109D9RQTV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U0113SJHVRR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1CCDC3B1-3DE8-4557-B9DC-0819445070A7",
+        "type": "message",
+        "text": "My mom has new Amharic and Tigrigna videos on how to make masks at home with no machine if anyone's interested",
+        "user": "U0109V4EW30",
+        "ts": "1586211982.444800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5QcfI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My mom has new Amharic and Tigrigna videos on how to make masks at home with no machine if anyone's interested"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586211982.444800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586221564.449500",
+        "reply_users": [
+            "U0107JERE9L",
+            "U0109V4EW30"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA",
+                    "U010WRS6UTB",
+                    "UVAL9NS9H",
+                    "U0105ALMEKU"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57718E77-3EC9-4534-9CCC-C489046E6CB4",
+        "type": "message",
+        "text": "<@UVB9ZSPCH> <@UVALWD1MG> ",
+        "user": "U010CLFURT8",
+        "ts": "1586215349.445500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gvgA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVALWD1MG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586211956.444300",
+        "parent_user_id": "U0109V4EW30",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UVALWD1MG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23FC610A-FB2F-43B2-BA4D-7A096E5ECAB2",
+        "type": "message",
+        "text": ":clap::skin-tone-4::clap::skin-tone-4::clap::skin-tone-4:",
+        "user": "UVB9ZSPCH",
+        "ts": "1586215497.446000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7s0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586211956.444300",
+        "parent_user_id": "U0109V4EW30"
+    },
+    {
+        "client_msg_id": "DFD6F9DC-2C23-46AB-A4C2-F3C1A8336900",
+        "type": "message",
+        "text": "<@U0109V4EW30> yes please:woman-raising-hand::skin-tone-4:",
+        "user": "UVB9ZSPCH",
+        "ts": "1586215531.446500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/Gvfb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0109V4EW30"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes please"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-raising-hand",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4CF97A09-C131-4780-A2E5-99C535939049",
+        "type": "message",
+        "text": "We can use it as asset,please share <#CVBQ5H16D|awareness-content> channel ",
+        "user": "UVB9ZSPCH",
+        "ts": "1586215567.447300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "geS9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We can use it as asset,please share "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CVBQ5H16D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C0DD9552-E457-40EA-B217-C1C815F3A7D6",
+        "type": "message",
+        "text": "Thank you!!!",
+        "user": "UVB9ZSPCH",
+        "ts": "1586215575.447700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nbcd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ECABEB5-3A57-4E0B-9434-69415102F867",
+        "type": "message",
+        "text": "<@U0107JERE9L> more videos on your way <#C010GQUEBSQ|proj-diy-gear> ",
+        "user": "UVB9ZSPCH",
+        "ts": "1586215680.448400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ods",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " more videos on your way "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010GQUEBSQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586211956.444300",
+        "parent_user_id": "U0109V4EW30"
+    }
+]

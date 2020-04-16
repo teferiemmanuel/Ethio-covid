@@ -1,0 +1,1713 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584569423.000200",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584569439.000400",
+        "user": "U0107AYF16H",
+        "text": "<@U0107AYF16H> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584569439.000600",
+        "user": "U0106SC3L0L",
+        "text": "<@U0106SC3L0L> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584569439.000800",
+        "user": "UV6JHD1GS",
+        "text": "<@UV6JHD1GS> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0106M26108",
+        "ts": "1584569589.000900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 18th, 2020 12:36 PM] muleretu: <@UV8B0679P> and All, the attached screenshot is from the test Facebook ad we have run. We have reached 4000+ people just in 2 hours, if we can share messages in our social media accounts and run ad from our own pocket money we can reach a lot of people, hopefully the Minister of Health will provide money for ads in the future <#C010695DKMM|general> <#C0104D5J3T2|covid-19> <#CV8HJ2KSN|social-media-folks>",
+                "ts": "1584560199.167600",
+                "author_id": "UV6JHD1GS",
+                "author_subname": "Muluken TM",
+                "channel_id": "C0104D5J3T2",
+                "channel_name": "covid-19",
+                "is_msg_unfurl": true,
+                "text": "<@UV8B0679P> and All, the attached screenshot is from the test Facebook ad we have run. We have reached 4000+ people just in 2 hours, if we can share messages in our social media accounts and run ad from our own pocket money we can reach a lot of people, hopefully the Minister of Health will provide money for ads in the future <#C010695DKMM|general> <#C0104D5J3T2|covid-19> <#CV8HJ2KSN|social-media-folks>",
+                "author_name": "Muluken TM",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UV6JHD1GS",
+                "author_icon": "https://secure.gravatar.com/avatar/522cef52ae331bca3f880b42c83bc2fd.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "FVDQV9QTT",
+                        "created": 1584560191,
+                        "timestamp": 1584560191,
+                        "name": "FB ad insights Ethio-Covid-19.PNG",
+                        "title": "FB ad insights Ethio-Covid-19.PNG",
+                        "mimetype": "image/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "UV6JHD1GS",
+                        "editable": false,
+                        "size": 84465,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-FVDQV9QTT/fb_ad_insights_ethio-covid-19.png",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-FVDQV9QTT/download/fb_ad_insights_ethio-covid-19.png",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9QTT-56f9112073/fb_ad_insights_ethio-covid-19_64.png",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9QTT-56f9112073/fb_ad_insights_ethio-covid-19_80.png",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9QTT-56f9112073/fb_ad_insights_ethio-covid-19_360.png",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 139,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9QTT-56f9112073/fb_ad_insights_ethio-covid-19_480.png",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 185,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9QTT-56f9112073/fb_ad_insights_ethio-covid-19_160.png",
+                        "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9QTT-56f9112073/fb_ad_insights_ethio-covid-19_720.png",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 277,
+                        "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9QTT-56f9112073/fb_ad_insights_ethio-covid-19_800.png",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 308,
+                        "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9QTT-56f9112073/fb_ad_insights_ethio-covid-19_960.png",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 370,
+                        "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9QTT-56f9112073/fb_ad_insights_ethio-covid-19_1024.png",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 394,
+                        "image_exif_rotation": 1,
+                        "original_w": 1376,
+                        "original_h": 530,
+                        "thumb_tiny": "AwASADDQ6H/69O/Skx83U0pBxxQAv40wv82PSnYPtTS6BtjEZPagADE9MGnDPcUgCr90AfQUoINAERJz1NGT6mkPWigBcn1NIQCwJ6jvRRQAuT60oJyOabSjqKAP/9k=",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/UV6JHD1GS/FVDQV9QTT/fb_ad_insights_ethio-covid-19.png",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-FVDQV9QTT-1a1f539ee3",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    },
+                    {
+                        "id": "FVCD3PA91",
+                        "created": 1584560191,
+                        "timestamp": 1584560191,
+                        "name": "FB ad insights Ethio-Covid-19 2.PNG",
+                        "title": "FB ad insights Ethio-Covid-19 2.PNG",
+                        "mimetype": "image/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "UV6JHD1GS",
+                        "editable": false,
+                        "size": 14692,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-FVCD3PA91/fb_ad_insights_ethio-covid-19_2.png",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-FVCD3PA91/download/fb_ad_insights_ethio-covid-19_2.png",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-FVCD3PA91-c4b0276afa/fb_ad_insights_ethio-covid-19_2_64.png",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-FVCD3PA91-c4b0276afa/fb_ad_insights_ethio-covid-19_2_80.png",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-FVCD3PA91-c4b0276afa/fb_ad_insights_ethio-covid-19_2_360.png",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 257,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-FVCD3PA91-c4b0276afa/fb_ad_insights_ethio-covid-19_2_480.png",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 342,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-FVCD3PA91-c4b0276afa/fb_ad_insights_ethio-covid-19_2_160.png",
+                        "image_exif_rotation": 1,
+                        "original_w": 628,
+                        "original_h": 448,
+                        "thumb_tiny": "AwAiADDRZsY6fiaVTkUHPGCRRg560AHPoPzpaTB/vGloAQZ7j9aWiigBO460tJ6Uj52Hb1xxQA2RiJIwDwTz+lSVEyuzRk9R1p4LbmyOO1MSHUUUUhgOlGKB0ooAMD0owPSiigAwPSiiigD/2Q==",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/UV6JHD1GS/FVCD3PA91/fb_ad_insights_ethio-covid-19_2.png",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-FVCD3PA91-623bc5d3d6",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    },
+                    {
+                        "id": "FVDQV9R33",
+                        "created": 1584560191,
+                        "timestamp": 1584560191,
+                        "name": "FB ad insights Ethio-Covid-19 3.PNG",
+                        "title": "FB ad insights Ethio-Covid-19 3.PNG",
+                        "mimetype": "image/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "UV6JHD1GS",
+                        "editable": false,
+                        "size": 14336,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-FVDQV9R33/fb_ad_insights_ethio-covid-19_3.png",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-FVDQV9R33/download/fb_ad_insights_ethio-covid-19_3.png",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9R33-90b41a23ee/fb_ad_insights_ethio-covid-19_3_64.png",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9R33-90b41a23ee/fb_ad_insights_ethio-covid-19_3_80.png",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9R33-90b41a23ee/fb_ad_insights_ethio-covid-19_3_360.png",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 197,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9R33-90b41a23ee/fb_ad_insights_ethio-covid-19_3_480.png",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 263,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-FVDQV9R33-90b41a23ee/fb_ad_insights_ethio-covid-19_3_160.png",
+                        "image_exif_rotation": 1,
+                        "original_w": 660,
+                        "original_h": 362,
+                        "thumb_tiny": "AwAaADDS59M0vajtSZPpQAZPpSM2P/11W+0z/wDPL9DU0MjupLpg5+lU4tCuSK27/wDXS0UVIw7dcUmD6mkIB6gUoAB6CgAVSAAT0paKbtHoKAHUUmB6CgADtQB//9k=",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/UV6JHD1GS/FVDQV9R33/fb_ad_insights_ethio-covid-19_3.png",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-FVDQV9R33-425125bbe1",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584560199167600",
+                "is_share": true,
+                "footer": "Posted in #covid-19"
+            }
+        ],
+        "thread_ts": "1584569589.000900",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1584569607.001600",
+        "reply_users": [
+            "U0106M26108"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9f0c94c8-2b7c-4043-981b-de5ce22fea21",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584560796168400>",
+        "user": "U0106M26108",
+        "ts": "1584569603.001300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584560796168400",
+                "fallback": "[March 18th, 2020 12:46 PM] mike: This is super",
+                "ts": "1584560796.168400",
+                "author_id": "UV8B0679P",
+                "author_subname": "Mike",
+                "channel_id": "C0104D5J3T2",
+                "channel_name": "covid-19",
+                "is_msg_unfurl": true,
+                "text": "This is super",
+                "author_name": "Mike",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UV8B0679P",
+                "author_icon": "https://secure.gravatar.com/avatar/3283329a4ce35816f96fbe23d5285879.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584560796168400",
+                "footer": "Posted in #covid-19"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nwao",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584560796168400"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584569589.000900",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "a2083985-a091-43b8-968e-1d641941e543",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584560802168700>",
+        "user": "U0106M26108",
+        "ts": "1584569607.001600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584560802168700",
+                "fallback": "[March 18th, 2020 12:46 PM] mike: Let me share it with them",
+                "ts": "1584560802.168700",
+                "author_id": "UV8B0679P",
+                "author_subname": "Mike",
+                "channel_id": "C0104D5J3T2",
+                "channel_name": "covid-19",
+                "is_msg_unfurl": true,
+                "text": "Let me share it with them",
+                "author_name": "Mike",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UV8B0679P",
+                "author_icon": "https://secure.gravatar.com/avatar/3283329a4ce35816f96fbe23d5285879.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584560802168700",
+                "footer": "Posted in #covid-19"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WyV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584560802168700"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584569589.000900",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0106M26108",
+        "ts": "1584569628.002200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 18th, 2020 12:49 PM] muleretu: is there anyone who works for Facebook, twitter or google, we would like to ask them for fee waiver for ads or reduction in price. <@U01076XHPC0>",
+                "ts": "1584560948.169800",
+                "author_id": "UV6JHD1GS",
+                "author_subname": "Muluken TM",
+                "channel_id": "C0104D5J3T2",
+                "channel_name": "covid-19",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "is there anyone who works for Facebook, twitter or google, we would like to ask them for fee waiver for ads or reduction in price. <@U01076XHPC0>",
+                "author_name": "Muluken TM",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UV6JHD1GS",
+                "author_icon": "https://secure.gravatar.com/avatar/522cef52ae331bca3f880b42c83bc2fd.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584560948169800?thread_ts=1584560948169800&cid=C0104D5J3T2",
+                "is_share": true,
+                "footer": "Thread in #covid-19"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584570023.002500",
+        "user": "U0107JEHBEJ",
+        "text": "<@U0107JEHBEJ> has joined the channel"
+    },
+    {
+        "client_msg_id": "243ed810-1af7-4903-9d5b-47eefe3c4158",
+        "type": "message",
+        "text": "<@U0107AYF16H> is leading the Google efforts (we\u2019re on a call with Saron of Alphabet now to talk specs). And <@U0106SC3L0L> is assisting.",
+        "user": "U0106M26108",
+        "ts": "1584570279.003800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1584575338.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BwxgB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is leading the Google efforts (we\u2019re on a call with Saron of Alphabet now to talk specs). And "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106SC3L0L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is assisting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "construction",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e41fb68-044a-4403-a219-b660f41dec67",
+        "type": "message",
+        "text": "I\u2019m in chats with folks at Facebook.",
+        "user": "U0106M26108",
+        "ts": "1584570308.004300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K4XoX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019m in chats with folks at Facebook."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "construction",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JHD1GS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3732d56-93da-4de0-bfef-c32fc3adcc83",
+        "type": "message",
+        "text": "Along with Instagram.",
+        "user": "U0106M26108",
+        "ts": "1584570314.004500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CE2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Along with Instagram."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "construction",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4811abb3-8f6f-4ce8-a439-f303fcbd68bf",
+        "type": "message",
+        "text": "And Twitter.",
+        "user": "U0106M26108",
+        "ts": "1584570319.004700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gdowy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And Twitter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "construction",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "766fcca9-106c-43ec-8313-8bd208a48bc6",
+        "type": "message",
+        "text": "Will update each of those threads accordingly (leaving a :construction: for now till things change). Will start a new thread once we get the go ahead from either org.",
+        "user": "U0106M26108",
+        "ts": "1584570359.005600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1584570535.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jXGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will update each of those threads accordingly (leaving a "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "construction"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for now till things change). Will start a new thread once we get the go ahead from either org."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584570359.005600",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1584575537.027900",
+        "reply_users": [
+            "U0106M26108",
+            "UV6JHD1GS"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0107AYF16H",
+        "ts": "1584571851.007400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 18th, 2020 10:16 AM] muleretu: Please share this in your social media, Thanks <#C010695DKMM|general> <#C0106LZBVCY|ideas> <#C0104D5J3T2|covid-19> <#CV8GEDED8|mereja> <#C0109GD5BGW|contact-tracing>",
+                "ts": "1584551772.031500",
+                "author_id": "UV6JHD1GS",
+                "author_subname": "Muluken TM",
+                "channel_id": "CVBQ5H16D",
+                "channel_name": "ui-ux",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Please share this in your social media, Thanks <#C010695DKMM|general> <#C0106LZBVCY|ideas> <#C0104D5J3T2|covid-19> <#CV8GEDED8|mereja> <#C0109GD5BGW|contact-tracing>",
+                "author_name": "Muluken TM",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UV6JHD1GS",
+                "author_icon": "https://secure.gravatar.com/avatar/522cef52ae331bca3f880b42c83bc2fd.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F010BLJ6EA2",
+                        "created": 1584551762,
+                        "timestamp": 1584551762,
+                        "name": "Covid ad 2.jpg",
+                        "title": "Covid ad 2.jpg",
+                        "mimetype": "image/jpeg",
+                        "filetype": "jpg",
+                        "pretty_type": "JPEG",
+                        "user": "UV6JHD1GS",
+                        "editable": false,
+                        "size": 322050,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010BLJ6EA2/covid_ad_2.jpg",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010BLJ6EA2/download/covid_ad_2.jpg",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EA2-4ac48c02dc/covid_ad_2_64.jpg",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EA2-4ac48c02dc/covid_ad_2_80.jpg",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EA2-4ac48c02dc/covid_ad_2_360.jpg",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 188,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EA2-4ac48c02dc/covid_ad_2_480.jpg",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 251,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EA2-4ac48c02dc/covid_ad_2_160.jpg",
+                        "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EA2-4ac48c02dc/covid_ad_2_720.jpg",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 376,
+                        "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EA2-4ac48c02dc/covid_ad_2_800.jpg",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 418,
+                        "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EA2-4ac48c02dc/covid_ad_2_960.jpg",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 502,
+                        "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EA2-4ac48c02dc/covid_ad_2_1024.jpg",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 535,
+                        "image_exif_rotation": 1,
+                        "original_w": 1200,
+                        "original_h": 627,
+                        "thumb_tiny": "AwAZADDSY4GaZvPoKc4yuOfwpoUZHytQIeM9wKgu2VUBPQHNTqoXpVa7G4le2B/WmgeqKfnuxbZEpx3IzUWoPuZFwAQOcD1AotySxBPbNF7/AKuEnBJBzU9Rmy4LLhTg+tR+XJ/z1NS0VSdhOKYANnlu9V7xcqOcE8ZqxUF39xfrRHVik7K5m+WQ57E8HNQ3KkbcnPGKtyf6wfSq13/B+ND3GtUf/9k=",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/UV6JHD1GS/F010BLJ6EA2/covid_ad_2.jpg",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F010BLJ6EA2-163b7ff11c",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    },
+                    {
+                        "id": "F0109EWH9U5",
+                        "created": 1584551762,
+                        "timestamp": 1584551762,
+                        "name": "Covid ad 2-2.jpg",
+                        "title": "Covid ad 2-2.jpg",
+                        "mimetype": "image/jpeg",
+                        "filetype": "jpg",
+                        "pretty_type": "JPEG",
+                        "user": "UV6JHD1GS",
+                        "editable": false,
+                        "size": 337414,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0109EWH9U5/covid_ad_2-2.jpg",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0109EWH9U5/download/covid_ad_2-2.jpg",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EWH9U5-0ef9b4bee5/covid_ad_2-2_64.jpg",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EWH9U5-0ef9b4bee5/covid_ad_2-2_80.jpg",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EWH9U5-0ef9b4bee5/covid_ad_2-2_360.jpg",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 188,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EWH9U5-0ef9b4bee5/covid_ad_2-2_480.jpg",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 251,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EWH9U5-0ef9b4bee5/covid_ad_2-2_160.jpg",
+                        "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EWH9U5-0ef9b4bee5/covid_ad_2-2_720.jpg",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 376,
+                        "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EWH9U5-0ef9b4bee5/covid_ad_2-2_800.jpg",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 418,
+                        "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EWH9U5-0ef9b4bee5/covid_ad_2-2_960.jpg",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 502,
+                        "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EWH9U5-0ef9b4bee5/covid_ad_2-2_1024.jpg",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 535,
+                        "image_exif_rotation": 1,
+                        "original_w": 1200,
+                        "original_h": 627,
+                        "thumb_tiny": "AwAZADDSY4GaZvPoKc4yuOfwpoUZHytQIeM9wKguyAgJ7c1OqhelVL48HJx0x+tNA1fQqOwb5m4FSiVB1IFQNwoUnOKVoZBGJAnGMk1JdtDWcFlwpwfWo/Lk/wCepqWiqTsQ4pgA2eW71BdqCFz3NT1Bd/cX60LVik7K5mMCAxweKsLdKLMJzv24ouP+PdvpVMfdpNWKTuj/2Q==",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/UV6JHD1GS/F0109EWH9U5/covid_ad_2-2.jpg",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F0109EWH9U5-dc043314a7",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    },
+                    {
+                        "id": "F010BLJ6EQ6",
+                        "created": 1584551762,
+                        "timestamp": 1584551762,
+                        "name": "Covid ad 2-3.jpg",
+                        "title": "Covid ad 2-3.jpg",
+                        "mimetype": "image/jpeg",
+                        "filetype": "jpg",
+                        "pretty_type": "JPEG",
+                        "user": "UV6JHD1GS",
+                        "editable": false,
+                        "size": 340132,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010BLJ6EQ6/covid_ad_2-3.jpg",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010BLJ6EQ6/download/covid_ad_2-3.jpg",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EQ6-ab21c662d9/covid_ad_2-3_64.jpg",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EQ6-ab21c662d9/covid_ad_2-3_80.jpg",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EQ6-ab21c662d9/covid_ad_2-3_360.jpg",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 188,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EQ6-ab21c662d9/covid_ad_2-3_480.jpg",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 251,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EQ6-ab21c662d9/covid_ad_2-3_160.jpg",
+                        "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EQ6-ab21c662d9/covid_ad_2-3_720.jpg",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 376,
+                        "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EQ6-ab21c662d9/covid_ad_2-3_800.jpg",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 418,
+                        "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EQ6-ab21c662d9/covid_ad_2-3_960.jpg",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 502,
+                        "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010BLJ6EQ6-ab21c662d9/covid_ad_2-3_1024.jpg",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 535,
+                        "image_exif_rotation": 1,
+                        "original_w": 1200,
+                        "original_h": 627,
+                        "thumb_tiny": "AwAZADDSY4GaZvPoKc4yuOfwpoUZHytQIeM9wKguyoQFug5NTqoXpUE7BZPm6YH9aaBq+hTlZpFG1SUxngVXVDIdqg5PSrLPGwO35fYHrRB+7cmQgEjAHpRYDRcFlwpwfWo/Lk/56mpaKE7A4pgA2eW71XvU3R47nirFQXf3F+tC1YpOyuZiqC+CcEetSqwDA56nH/16G/1zf7oqMdT9aVtR76n/2Q==",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/UV6JHD1GS/F010BLJ6EQ6/covid_ad_2-3.jpg",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F010BLJ6EQ6-e658ef0a69",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    },
+                    {
+                        "id": "FVDCBNZTK",
+                        "created": 1584551762,
+                        "timestamp": 1584551762,
+                        "name": "Covid ad 2-4.jpg",
+                        "title": "Covid ad 2-4.jpg",
+                        "mimetype": "image/jpeg",
+                        "filetype": "jpg",
+                        "pretty_type": "JPEG",
+                        "user": "UV6JHD1GS",
+                        "editable": false,
+                        "size": 393770,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-FVDCBNZTK/covid_ad_2-4.jpg",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-FVDCBNZTK/download/covid_ad_2-4.jpg",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-FVDCBNZTK-a42ffcdadd/covid_ad_2-4_64.jpg",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-FVDCBNZTK-a42ffcdadd/covid_ad_2-4_80.jpg",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-FVDCBNZTK-a42ffcdadd/covid_ad_2-4_360.jpg",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 188,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-FVDCBNZTK-a42ffcdadd/covid_ad_2-4_480.jpg",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 251,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-FVDCBNZTK-a42ffcdadd/covid_ad_2-4_160.jpg",
+                        "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-FVDCBNZTK-a42ffcdadd/covid_ad_2-4_720.jpg",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 376,
+                        "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-FVDCBNZTK-a42ffcdadd/covid_ad_2-4_800.jpg",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 418,
+                        "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-FVDCBNZTK-a42ffcdadd/covid_ad_2-4_960.jpg",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 502,
+                        "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-FVDCBNZTK-a42ffcdadd/covid_ad_2-4_1024.jpg",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 535,
+                        "image_exif_rotation": 1,
+                        "original_w": 1200,
+                        "original_h": 627,
+                        "thumb_tiny": "AwAZADDSY4GaZvPoKc4yuOfwpoUZHytQIeM9wKguyAozjjmp1UL0qpfEgjn0/rTQPXQqpu2sWYMx9DTocjKnHrTHjdUV8j5ug70roAu+RhkrkDFK7HZdDUcFlwpwfWo/Lk/56mpaKadhOKYANnlu9QXagqM4545qeoLv7i/WhasUnZXKFwHKjJ+5TX++oZc5Axz2qW4/1R+gqA/62P8AGkyk9D//2Q==",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/UV6JHD1GS/FVDCBNZTK/covid_ad_2-4.jpg",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-FVDCBNZTK-a2f26692e2",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    },
+                    {
+                        "id": "F0109EC26GY",
+                        "created": 1584551762,
+                        "timestamp": 1584551762,
+                        "name": "Ethio-Covid-19-2.jpg",
+                        "title": "Ethio-Covid-19-2.jpg",
+                        "mimetype": "image/jpeg",
+                        "filetype": "jpg",
+                        "pretty_type": "JPEG",
+                        "user": "UV6JHD1GS",
+                        "editable": false,
+                        "size": 393105,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0109EC26GY/ethio-covid-19-2.jpg",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0109EC26GY/download/ethio-covid-19-2.jpg",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EC26GY-3fc238a969/ethio-covid-19-2_64.jpg",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EC26GY-3fc238a969/ethio-covid-19-2_80.jpg",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EC26GY-3fc238a969/ethio-covid-19-2_360.jpg",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 188,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EC26GY-3fc238a969/ethio-covid-19-2_480.jpg",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 251,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EC26GY-3fc238a969/ethio-covid-19-2_160.jpg",
+                        "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EC26GY-3fc238a969/ethio-covid-19-2_720.jpg",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 376,
+                        "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EC26GY-3fc238a969/ethio-covid-19-2_800.jpg",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 418,
+                        "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EC26GY-3fc238a969/ethio-covid-19-2_960.jpg",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 502,
+                        "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F0109EC26GY-3fc238a969/ethio-covid-19-2_1024.jpg",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 535,
+                        "image_exif_rotation": 1,
+                        "original_w": 1200,
+                        "original_h": 627,
+                        "thumb_tiny": "AwAZADDSY4GaZvPoKc4yuOfwpoUZHytQIeM9wKhuvujAyRzj1qZVC9KqXvXGcdP601oDV9Bi3Mh27UVRnmnGcgswIwegJqqBuXK4P5007lALEAkc5PSluUa7gsuFOD61H5cn/PU1LRTTsS4pgA2eW71Wvow8YHQnvVmoLv7i/WhasUnZXM3YUi5ypHJ96dGElY7uD0qw/wDqj9BVH+L/AIFS6lLVH//Z",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/UV6JHD1GS/F0109EC26GY/ethio-covid-19-2.jpg",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F0109EC26GY-456fb67762",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CVBQ5H16D/p1584551772031500?thread_ts=1584551772031500&cid=CVBQ5H16D",
+                "is_share": true,
+                "footer": "Thread in #ui-ux"
+            }
+        ],
+        "thread_ts": "1584571851.007400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584575569.028100",
+        "reply_users": [
+            "U0106M26108"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584572038.008100",
+        "user": "U01076XHPC0",
+        "text": "<@U01076XHPC0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584572150.008500",
+        "user": "U0107JERE9L",
+        "text": "<@U0107JERE9L> has joined the channel",
+        "inviter": "UV6JHD1GS"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584572150.008700",
+        "user": "UV6JHDP0S",
+        "text": "<@UV6JHDP0S> has joined the channel",
+        "inviter": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "fbf08e1b-f7f9-4fd4-b420-325a33362ccb",
+        "type": "message",
+        "text": "<@U0107AYF16H> any luck on the Ethiopian famous accounts",
+        "user": "UV6JHD1GS",
+        "ts": "1584572792.009900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bKva",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " any luck on the Ethiopian famous accounts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572792.009900",
+        "reply_count": 7,
+        "reply_users_count": 1,
+        "latest_reply": "1584574399.024100",
+        "reply_users": [
+            "U0106M26108"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fb6ada4e-7c30-4f79-8a00-ab7889502c8d",
+        "type": "message",
+        "text": "<!here> Guys, until we get fee waiver or funding for social media ads, please push in all recommendation form WHO to the public by any means, the condition in Ethiopian will gonna get a lot worst if we don't act now.",
+        "user": "UV6JHD1GS",
+        "ts": "1584572973.013300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OUS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Guys, until we get fee waiver or funding for social media ads, please push in all recommendation form WHO to the public by any means, the condition in Ethiopian will gonna get a lot worst if we don't act now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572973.013300",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1584577439.028700",
+        "reply_users": [
+            "U0107AYF16H",
+            "UV6JHD1GS",
+            "U0106M26108"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVB9ZSPCH",
+                    "U01087PJBNG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c88ff7b3-3346-4422-b446-4f771db4eb54",
+        "type": "message",
+        "text": "<@UV6JHD1GS> can you please save the assets people should use here with \"descriptor_language\" as the title? <https://drive.google.com/drive/folders/1EvafOrjG0wsosBaL4dmPcpQLPPPHLfM6>",
+        "user": "U0107AYF16H",
+        "ts": "1584573128.015300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Ty",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHD1GS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you please save the assets people should use here with \"descriptor_language\" as the title? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1EvafOrjG0wsosBaL4dmPcpQLPPPHLfM6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572973.013300",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "e26c8a94-eb11-4582-b6bd-f266bb03cdf4",
+        "type": "message",
+        "text": "sure will do that",
+        "user": "UV6JHD1GS",
+        "ts": "1584573300.015700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure will do that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572973.013300",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "c5f24ead-feb7-4aa5-ae87-01ddc6aed694",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572847011200>",
+        "user": "U0106M26108",
+        "ts": "1584573389.018100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572847011200",
+                "fallback": "[March 18th, 2020 4:07 PM] pomitefera: hi have reached out but currently prioritizing fast tracking google/facebook/twitter ads because the accounts i listed are most popular with diasporan population",
+                "ts": "1584572847.011200",
+                "author_id": "U0107AYF16H",
+                "author_subname": "Pomi Tefera",
+                "channel_id": "CVBEW057U",
+                "channel_name": "mereja-ads",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "hi have reached out but currently prioritizing fast tracking google/facebook/twitter ads because the accounts i listed are most popular with diasporan population",
+                "author_name": "Pomi Tefera",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107AYF16H",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-17/1007365241072_3874f55d689c7aabe01b_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572847011200",
+                "footer": "Thread in #mereja-ads"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hge30",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572847011200"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572792.009900",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "e4c65cfc-0beb-4ba7-9650-808355fac213",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573044014500?thread_ts=1584572847.011200&amp;cid=CVBEW057U>",
+        "user": "U0106M26108",
+        "ts": "1584573399.018700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573044014500?thread_ts=1584572847.011200&amp;cid=CVBEW057U",
+                "fallback": "[March 18th, 2020 4:10 PM] pomitefera: what we are fast tracking is getting the fees waived",
+                "ts": "1584573044.014500",
+                "author_id": "U0107AYF16H",
+                "author_subname": "Pomi Tefera",
+                "channel_id": "CVBEW057U",
+                "channel_name": "mereja-ads",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "what we are fast tracking is getting the fees waived",
+                "author_name": "Pomi Tefera",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107AYF16H",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-17/1007365241072_3874f55d689c7aabe01b_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573044014500?thread_ts=1584572847.011200&amp;cid=CVBEW057U",
+                "footer": "From a thread in #mereja-ads"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qTPh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573044014500?thread_ts=1584572847.011200&cid=CVBEW057U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572792.009900",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "237ac648-df67-4dac-8047-7d2fece55f26",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572892012600>",
+        "user": "U0106M26108",
+        "ts": "1584573414.019300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572892012600",
+                "fallback": "[March 18th, 2020 4:08 PM] pomitefera: diasporan pop outreach will be great, but feels like 2nd prio",
+                "ts": "1584572892.012600",
+                "author_id": "U0107AYF16H",
+                "author_subname": "Pomi Tefera",
+                "channel_id": "CVBEW057U",
+                "channel_name": "mereja-ads",
+                "is_msg_unfurl": true,
+                "text": "diasporan pop outreach will be great, but feels like 2nd prio",
+                "author_name": "Pomi Tefera",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107AYF16H",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-17/1007365241072_3874f55d689c7aabe01b_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572892012600",
+                "footer": "Posted in #mereja-ads"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iH1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572892012600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572792.009900",
+        "parent_user_id": "UV6JHD1GS",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93d22881-164c-4781-a722-d9144e0cb428",
+        "type": "message",
+        "text": "<@UV6JHD1GS>, just trying to clean up a bit, so bare with me if I\u2019m missing it but trying to understand if your message here has anything to do with ads? Just making sure I\u2019m not missing something.",
+        "user": "U0106M26108",
+        "ts": "1584573654.022000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xF8G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHD1GS"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", just trying to clean up a bit, so bare with me if I\u2019m missing it but trying to understand if your message here has anything to do with ads? Just making sure I\u2019m not missing something."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572973.013300",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "df30bf98-19ea-40e1-a591-0906be7b7397",
+        "type": "message",
+        "text": "Outside of the fee waiver of course, since those are pending items above.",
+        "user": "U0106M26108",
+        "ts": "1584573683.022500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fX83L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Outside of the fee waiver of course, since those are pending items above."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572973.013300",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "76e48ad9-93d9-4278-9874-4740d221a176",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573092015200>",
+        "user": "U0106M26108",
+        "ts": "1584573703.022700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573092015200",
+                "fallback": "[March 18th, 2020 4:11 PM] muleretu: You're right <@U0107AYF16H>, our targets should be the one in Ethiopia, I will reach out to some celebrities, can you do the same if you know any",
+                "ts": "1584573092.015200",
+                "author_id": "UV6JHD1GS",
+                "author_subname": "Muluken TM",
+                "channel_id": "CVBEW057U",
+                "channel_name": "mereja-ads",
+                "is_msg_unfurl": true,
+                "text": "You're right <@U0107AYF16H>, our targets should be the one in Ethiopia, I will reach out to some celebrities, can you do the same if you know any",
+                "author_name": "Muluken TM",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UV6JHD1GS",
+                "author_icon": "https://secure.gravatar.com/avatar/522cef52ae331bca3f880b42c83bc2fd.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573092015200",
+                "footer": "Posted in #mereja-ads"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zxX8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573092015200"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572792.009900",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "5274f3b7-a8a4-4035-94a1-8b79cdd6a6d0",
+        "type": "message",
+        "text": "Just here cleaning up so don\u2019t mind me. If you\u2019d like to chat regarding celebs :point_right::skin-tone-4: <#CV8GEDED8|mereja>",
+        "user": "U0106M26108",
+        "ts": "1584573763.023000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C80lX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just here cleaning up so don\u2019t mind me. If you\u2019d like to chat regarding celebs "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CV8GEDED8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572792.009900",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "ca5d6438-e67f-42ba-bd5b-42ba6782209e",
+        "type": "message",
+        "text": "I was trying to say, we all share the message in our social media as well we should reach out to anyone who spread the words, is that makes sense?",
+        "user": "UV6JHD1GS",
+        "ts": "1584574167.023300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fnjv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was trying to say, we all share the message in our social media as well we should reach out to anyone who spread the words, is that makes sense?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572973.013300",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "7a8d8e19-a0a5-4854-bc2e-3f8e777c5656",
+        "type": "message",
+        "text": "<@U0107AYF16H> I have uploaded all the files that I have so far, I will keep adding to it",
+        "user": "UV6JHD1GS",
+        "ts": "1584574207.023500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ell",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have uploaded all the files that I have so far, I will keep adding to it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572973.013300",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584574243.023700",
+        "user": "UV6JHD1GS",
+        "text": "<@UV6JHD1GS> set the channel purpose: All ad photos are located in <https://drive.google.com/drive/folders/1EvafOrjG0wsosBaL4dmPcpQLPPPHLfM6>",
+        "purpose": "All ad photos are located in <https://drive.google.com/drive/folders/1EvafOrjG0wsosBaL4dmPcpQLPPPHLfM6>"
+    },
+    {
+        "client_msg_id": "db712417-f7a1-43ff-b865-63e947461b25",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573393018500>",
+        "user": "U0106M26108",
+        "ts": "1584574383.023800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573393018500",
+                "fallback": "[March 18th, 2020 4:16 PM] zteklyes: I will reach out some etho-celebrities ",
+                "ts": "1584573393.018500",
+                "author_id": "UVB9ZSPCH",
+                "author_subname": "ZEBIB",
+                "channel_id": "CVBEW057U",
+                "channel_name": "mereja-ads",
+                "is_msg_unfurl": true,
+                "text": "I will reach out some etho-celebrities ",
+                "author_name": "ZEBIB",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UVB9ZSPCH",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-17/997365328273_7683dff568db77bde644_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573393018500",
+                "footer": "Posted in #mereja-ads"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X0l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584573393018500"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572792.009900",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "d3f62679-0f62-4eaa-912f-9311d5361669",
+        "type": "message",
+        "text": "<@UVB9ZSPCH>, check out this thread :point_up_2::skin-tone-4:",
+        "user": "U0106M26108",
+        "ts": "1584574399.024100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xjkg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", check out this thread "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572792.009900",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "5d6e4454-6371-49e3-af2a-d01806094e33",
+        "type": "message",
+        "text": "<@UV6JHD1GS>, gotcha! And noted! And yes, it does make sense with that clarification.",
+        "user": "U0106M26108",
+        "ts": "1584575077.026200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s6ONb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHD1GS"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", gotcha! And noted! And yes, it does make sense with that clarification."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572973.013300",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "client_msg_id": "28781cc4-46dd-490d-b2f3-15c8bf5bbd6f",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584570919006900>",
+        "user": "U0106M26108",
+        "ts": "1584575386.026600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584570919006900",
+                "fallback": "[March 18th, 2020 3:35 PM] muleretu: <@U0106M26108> Thanks and let us know when you here back from them",
+                "ts": "1584570919.006900",
+                "author_id": "UV6JHD1GS",
+                "author_subname": "Muluken TM",
+                "channel_id": "CVBEW057U",
+                "channel_name": "mereja-ads",
+                "is_msg_unfurl": true,
+                "text": "<@U0106M26108> Thanks and let us know when you here back from them",
+                "author_name": "Muluken TM",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UV6JHD1GS",
+                "author_icon": "https://secure.gravatar.com/avatar/522cef52ae331bca3f880b42c83bc2fd.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584570919006900",
+                "footer": "Posted in #mereja-ads"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B9evY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584570919006900"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584570359.005600",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "6a5f9c5c-4867-49b3-b606-e33f6a26977a",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572078008200?thread_ts=1584570279.003800&amp;cid=CVBEW057U>",
+        "user": "U0106M26108",
+        "ts": "1584575401.027000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572078008200?thread_ts=1584570279.003800&amp;cid=CVBEW057U",
+                "fallback": "[March 18th, 2020 3:54 PM] amanuel1995: Amazing job! Let us know how we can help!",
+                "ts": "1584572078.008200",
+                "author_id": "U01076XHPC0",
+                "author_subname": "Amanuel",
+                "channel_id": "CVBEW057U",
+                "channel_name": "mereja-ads",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "Amazing job! Let us know how we can help!",
+                "author_name": "Amanuel",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U01076XHPC0",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-18/1007741557445_90f56257f31b97aa1758_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572078008200?thread_ts=1584570279.003800&amp;cid=CVBEW057U",
+                "footer": "From a thread in #mereja-ads"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M9Rl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/CVBEW057U/p1584572078008200?thread_ts=1584570279.003800&cid=CVBEW057U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584570359.005600",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "4d939732-f8b9-4434-903f-fe8da2e5e8e8",
+        "type": "message",
+        "text": "<@UV6JHD1GS> &amp; <@U01076XHPC0>! Will keep you both posted on this thread with next steps when I hear back. Appreciate you both! :raised_hands::skin-tone-4:",
+        "user": "U0106M26108",
+        "ts": "1584575483.027300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PlfU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHD1GS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Will keep you both posted on this thread with next steps when I hear back. Appreciate you both! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584570359.005600",
+        "parent_user_id": "U0106M26108",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U01076XHPC0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1c2f2a3-5553-4cce-b1f3-b0297de47edc",
+        "type": "message",
+        "text": "Thanks safanit",
+        "user": "UV6JHD1GS",
+        "ts": "1584575537.027900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ak36",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks safanit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584570359.005600",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "2723eed4-e17a-40d9-8fd5-859c5444de69",
+        "type": "message",
+        "text": "<@U0107AYF16H>, these were all the ones that were added to the folder <https://drive.google.com/drive/folders/1EvafOrjG0wsosBaL4dmPcpQLPPPHLfM6|here>, right?",
+        "user": "U0106M26108",
+        "ts": "1584575569.028100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EXnEC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", these were all the ones that were added to the folder "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1EvafOrjG0wsosBaL4dmPcpQLPPPHLfM6",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584571851.007400",
+        "parent_user_id": "U0107AYF16H"
+    }
+]

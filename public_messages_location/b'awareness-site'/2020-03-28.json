@@ -1,0 +1,64 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585375519.000200",
+        "user": "U0106M27EKS",
+        "text": "<@U0106M27EKS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1585375519.000300",
+        "user": "U0106M27EKS",
+        "text": "<@U0106M27EKS> set the channel purpose: Hackathon project: Static Site for COVID-19 Ethiopia info",
+        "purpose": "Hackathon project: Static Site for COVID-19 Ethiopia info"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585375532.000500",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel",
+        "inviter": "U0106M27EKS"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585435361.000200",
+        "user": "U010DH00BCM",
+        "text": "<@U010DH00BCM> has joined the channel"
+    },
+    {
+        "client_msg_id": "e36d3082-24e0-46f0-8ee0-3038c4722726",
+        "type": "message",
+        "text": "Hello everyone, this is Ermias,  a full-stack web developer from Ethiopia. I am ready to contribute to building the awareness site. are there any list of tasks that I can start right away?",
+        "user": "U010DH00BCM",
+        "ts": "1585435832.002900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "un0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, this is Ermias,  a full-stack web developer from Ethiopia. I am ready to contribute to building the awareness site. are there any list of tasks that I can start right away?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585438005.003100",
+        "user": "U010UJ2C1FS",
+        "text": "<@U010UJ2C1FS> has joined the channel"
+    }
+]

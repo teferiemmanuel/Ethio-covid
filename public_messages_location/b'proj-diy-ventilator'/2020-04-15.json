@@ -1,0 +1,33 @@
+[
+    {
+        "client_msg_id": "c1768e53-ea2d-4656-8071-fa74549cb8e8",
+        "type": "message",
+        "text": "You are ahead of the game <@U010986778X>",
+        "user": "U010RM5TX1R",
+        "ts": "1586918220.116900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g1fk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You are ahead of the game "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586904336.115200",
+        "parent_user_id": "U010986778X"
+    }
+]

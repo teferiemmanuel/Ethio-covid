@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584667241.000200",
+        "user": "U0105C7GP08",
+        "text": "<@U0105C7GP08> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584667242.000300",
+        "user": "U0105C7GP08",
+        "text": "<@U0105C7GP08> set the channel purpose: Feel free to ask the team qurations here.",
+        "purpose": "Feel free to ask the team qurations here."
+    },
+    {
+        "client_msg_id": "AEE8273D-EBDE-4318-BCFB-FCC4836AEC70",
+        "type": "message",
+        "text": "<@U0107AYF16H> ",
+        "user": "U0105C7GP08",
+        "ts": "1584667276.000500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "37jiC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5C9E91F1-B9C7-45FC-878D-F8B13FFA8771",
+        "type": "message",
+        "text": "<@U0107A7161E> ",
+        "user": "U0105C7GP08",
+        "ts": "1584667323.001000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WoQQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584667336.001200",
+        "user": "U0107AYF16H",
+        "text": "<@U0107AYF16H> has joined the channel"
+    }
+]

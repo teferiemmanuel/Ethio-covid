@@ -1,0 +1,478 @@
+[
+    {
+        "client_msg_id": "07a5195f-ccad-49a4-96d3-a78eb07e16f0",
+        "type": "message",
+        "text": "Hey <@UVALAR52P> I'm the country rep for Viamo in Ethiopia. Glad to see the people are hearing about our work.",
+        "user": "U010VSAKD1S",
+        "ts": "1586592666.010600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F+ln",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVALAR52P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm the country rep for Viamo in Ethiopia. Glad to see the people are hearing about our work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586352220.460500",
+        "parent_user_id": "UVALAR52P"
+    },
+    {
+        "client_msg_id": "6a9e8d0a-3927-44ec-864b-eea9ae6f34eb",
+        "type": "message",
+        "text": "AWS made their COVID-19 Data lake available for the public: <https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/>",
+        "user": "U0111A9R6JK",
+        "ts": "1586613008.011400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Amazon Web Services",
+                "title": "A public data lake for analysis of COVID-19 data | Amazon Web Services",
+                "title_link": "https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/",
+                "text": "As the COVID-19 pandemic continues to threaten and take lives around the world, we must work together across organizations and scientific disciplines to fight this disease. Innumerable healthcare workers, medical researchers, scientists, and public health officials are already on the front lines caring for patients, searching for therapies, educating the public, and helping to set [\u2026]",
+                "fallback": "Amazon Web Services: A public data lake for analysis of COVID-19 data | Amazon Web Services",
+                "image_url": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2020/04/08/COVID19DataLake_rev.png",
+                "image_width": 421,
+                "image_height": 250,
+                "ts": 1586355138,
+                "from_url": "https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/",
+                "image_bytes": 210598,
+                "service_icon": "http://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png",
+                "id": 1,
+                "original_url": "https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rzzb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AWS made their COVID-19 Data lake available for the public: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586613008.011400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586633614.017000",
+        "reply_users": [
+            "UV6JHDP0S"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010W32U9B2",
+                    "UV6JHDP0S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1c26caf-f046-48e6-bf3b-e939b0a0024d",
+        "type": "message",
+        "text": "Found a blueprint. Who's down to make a POC?\n<https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ContactTracing-FrameworkDocumentation.pdf>\n<https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ContactTracing-CryptographySpecification.pdf>\n<https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ContactTracing-BluetoothSpecificationv1.1.pdf>",
+        "user": "U010059R6BT",
+        "ts": "1586615637.011800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4G2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Found a blueprint. Who's down to make a POC?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ContactTracing-FrameworkDocumentation.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ContactTracing-CryptographySpecification.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ContactTracing-BluetoothSpecificationv1.1.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586555485.494700",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "777bd598-0173-4d1b-bb7d-91223350e22e",
+        "type": "message",
+        "text": "Dear\u00a0all , Hannicha has found some fashion designers and manufacturers who can still provide fabric to make masks. But she needs sponsors /donators to finance this. Could you try to help her find some sponsors, or enterprises who would be willing to participate financially?\u00a0Thank you for your attention. You can contact her on   <mailto:hananext@gmail.com|hananext@gmail.com>.  Thanks a lot",
+        "user": "U011CUU89U5",
+        "ts": "1586621678.012600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L78bQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear\u00a0all , Hannicha has found some fashion designers and manufacturers who can still provide fabric to make masks. But she needs sponsors /donators to finance this. Could you try to help her find some sponsors, or enterprises who would be willing to participate financially?\u00a0Thank you for your attention. You can contact her on   "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hananext@gmail.com",
+                                "text": "hananext@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".  Thanks a lot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff8b5d2e-6ae8-46d2-a02a-189b01be3e55",
+        "type": "message",
+        "text": "<!channel> Something to watch in about 2 and half hours: A FB Live conversation with Dr. Ermias Belay, Associate Director of Epidemologice Science (CDC)\n\n<https://www.facebook.com/EthioTube/posts/10158263936722065>",
+        "user": "U0129DCDU72",
+        "ts": "1586633390.015900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "EthioTube",
+                "title_link": "https://www.facebook.com/EthioTube/posts/10158263936722065",
+                "text": "\u1260\u12db\u122c\u12cd \u12a5\u1208\u1270 \u1245\u12f3\u121c \u1260\u12a0\u121c\u122a\u12ab\u12cd \u12e8\u1324\u1293 \u121d\u122d\u121d\u122d \u1270\u124b\u121d CDC \u1260\u1200\u120b\u134a\u1290\u1275 \u12a8\u121a\u1230\u1229\u1275 \u12a2\u1275\u12ee\u1335\u12eb\u12ca \u12a0\u121c\u122a\u12ab\u12ca\u12cd \u12f6/\u122d \u12a4\u122d\u121a\u12eb\u1235 \u1260\u120b\u12ed \u130b\u122d \u1260\u12a2\u1275\u12ee\u1275\u12e9\u1265 \u12e8\u134c\u1235\u1261\u12ad \u12e8\u1240\u1325\u1273 \u1235\u122d\u132d\u1275 #\u12ae\u122e\u1293\u126b\u12ed\u1228\u1235 \u1295 \u1260\u1270\u1218\u1208\u12a8\u1270 \u1243\u1208 \u121d\u120d\u120d\u1235 \u12ed\u1296\u1228\u1293\u120d\u1362 \u12a5\u1295\u12f3\u12eb\u1218\u120d\u1323\u127d\u1201\u1362 | Join us today for a FB Live conversation on...",
+                "fallback": "EthioTube",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/92872928_10158263977632065_4122690423976099840_n.png?_nc_cat=107&_nc_sid=8024bb&_nc_ohc=kTu8AELthdUAX_knnUi&_nc_ht=scontent-iad3-1.xx&oh=9447d22bea9625f865177824b16ee024&oe=5EB5EB98",
+                "from_url": "https://www.facebook.com/EthioTube/posts/10158263936722065",
+                "image_width": 298,
+                "image_height": 250,
+                "image_bytes": 732649,
+                "service_icon": "https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https://www.facebook.com/EthioTube/posts/10158263936722065"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EL+T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Something to watch in about 2 and half hours: A FB Live conversation with Dr. Ermias Belay, Associate Director of Epidemologice Science (CDC)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.facebook.com/EthioTube/posts/10158263936722065"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586633390.015900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586633691.017400",
+        "reply_users": [
+            "UV8B0679P",
+            "U0129DCDU72"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U0107EMK8UD",
+                    "UVAL943JP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "UV8B0679P",
+                    "U0105C870AC",
+                    "U010LGW2A5A"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5747CAFC-69F7-47F9-9AB4-A3979DC1A39A",
+        "type": "message",
+        "text": "Welcome, <@U0129DCDU72> ",
+        "user": "UV8B0679P",
+        "ts": "1586633474.016800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a4ybo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0129DCDU72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586633390.015900",
+        "parent_user_id": "U0129DCDU72",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0129DCDU72"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Here is deployed one if you want to test it out -  <https://dj2taa9i652rf.cloudfront.net/dashboard.html?dashboardName=COVID-19|https://dj2taa9i652rf.cloudfront.net/dashboard.html?dashboardName=COVID-19>",
+        "user": "UV6JHDP0S",
+        "ts": "1586633614.017000",
+        "thread_ts": "1586613008.011400",
+        "root": {
+            "client_msg_id": "6a9e8d0a-3927-44ec-864b-eea9ae6f34eb",
+            "type": "message",
+            "text": "AWS made their COVID-19 Data lake available for the public: <https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/>",
+            "user": "U0111A9R6JK",
+            "ts": "1586613008.011400",
+            "team": "TV5KELEUS",
+            "attachments": [
+                {
+                    "service_name": "Amazon Web Services",
+                    "title": "A public data lake for analysis of COVID-19 data | Amazon Web Services",
+                    "title_link": "https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/",
+                    "text": "As the COVID-19 pandemic continues to threaten and take lives around the world, we must work together across organizations and scientific disciplines to fight this disease. Innumerable healthcare workers, medical researchers, scientists, and public health officials are already on the front lines caring for patients, searching for therapies, educating the public, and helping to set [\u2026]",
+                    "fallback": "Amazon Web Services: A public data lake for analysis of COVID-19 data | Amazon Web Services",
+                    "image_url": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2020/04/08/COVID19DataLake_rev.png",
+                    "image_width": 421,
+                    "image_height": 250,
+                    "ts": 1586355138,
+                    "from_url": "https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/",
+                    "image_bytes": 210598,
+                    "service_icon": "http://a0.awsstatic.com/main/images/site/touch-icon-iphone-114-smile.png",
+                    "id": 1,
+                    "original_url": "https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rzzb",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "AWS made their COVID-19 Data lake available for the public: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1586613008.011400",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1586633614.017000",
+            "reply_users": [
+                "UV6JHDP0S"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQgL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is deployed one if you want to test it out -  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://dj2taa9i652rf.cloudfront.net/dashboard.html?dashboardName=COVID-19",
+                                "text": "https://dj2taa9i652rf.cloudfront.net/dashboard.html?dashboardName=COVID-19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5cb03165-0335-44ae-a01e-29ace2693bdb",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UV8B0679P",
+                    "U010EQU5E6N",
+                    "U0107A7161E",
+                    "U0106M26108",
+                    "U0107JE2S94"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JEKN0N",
+                    "U0107A7161E",
+                    "U0107N1RSUD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U010ARHF5BK",
+                    "U0106M26108"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61d72a9e-e3ea-45a9-9c86-cb8567407c12",
+        "type": "message",
+        "text": "Thanks, <@UV8B0679P>.",
+        "user": "U0129DCDU72",
+        "ts": "1586633691.017400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hw1mL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586633390.015900",
+        "parent_user_id": "U0129DCDU72"
+    }
+]

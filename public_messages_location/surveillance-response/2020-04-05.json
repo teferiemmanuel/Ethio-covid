@@ -1,0 +1,501 @@
+[
+    {
+        "client_msg_id": "2f487d13-7187-45ce-a843-413e5b3e4431",
+        "type": "message",
+        "text": "<@U010L1RJMUN> Do you have a meeting link already to share? If not, I can try to pull one up on zoom.",
+        "user": "U010T8D05UM",
+        "ts": "1586102665.173400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do you have a meeting link already to share? If not, I can try to pull one up on zoom."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585960008.165600",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "522e5f3f-f505-4018-a87c-3c38eb8431f3",
+        "type": "message",
+        "text": "<https://meet.jit.si/covid19.et>",
+        "user": "U010L1RJMUN",
+        "ts": "1586102712.173600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https://meet.jit.si/covid19.et",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https://meet.jit.si/covid19.et",
+                "service_icon": "https://meet.jit.si/images/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 1,
+                "original_url": "https://meet.jit.si/covid19.et"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S+q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://meet.jit.si/covid19.et"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585960008.165600",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "607c4947-cd40-4ed0-b02c-b2ab7c0753bd",
+        "type": "message",
+        "text": "<@UV9A4J5TK> <@U0100B5MHDG>  <@U010T8D05UM> and I are already in the meeting, so please join us when you can",
+        "user": "U010L1RJMUN",
+        "ts": "1586102821.173900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OvM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9A4J5TK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010T8D05UM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I are already in the meeting, so please join us when you can"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585960008.165600",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "cc6761ab-1396-42ba-961b-ff813d753fe1",
+        "type": "message",
+        "text": "here is an open document <https://docs.google.com/document/d/18B16xByf5MqSieElcIhncF0CvCLW-f7hfp2MZTu72Po/edit?usp=sharing>",
+        "user": "U010L1RJMUN",
+        "ts": "1586102887.174200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJuVU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here is an open document "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/18B16xByf5MqSieElcIhncF0CvCLW-f7hfp2MZTu72Po/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585960008.165600",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "7c70953c-f18b-4d2e-8633-d27f4693c200",
+        "type": "message",
+        "text": "Here is my colab notebook <https://colab.research.google.com/drive/1XeD2_-7j5R1W5P8ZENBre4OeaVX6DUP2?authuser=3#scrollTo=piXlMqoHdl5b>",
+        "user": "U010L1RJMUN",
+        "ts": "1586103571.174400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Google Colaboratory",
+                "title_link": "https://colab.research.google.com/drive/1XeD2_-7j5R1W5P8ZENBre4OeaVX6DUP2?authuser=3#scrollTo=piXlMqoHdl5b",
+                "fallback": "Google Colaboratory",
+                "image_url": "https://colab.research.google.com/img/colab_favicon_256px.png",
+                "from_url": "https://colab.research.google.com/drive/1XeD2_-7j5R1W5P8ZENBre4OeaVX6DUP2?authuser=3#scrollTo=piXlMqoHdl5b",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 5500,
+                "service_icon": "https://colab.research.google.com/img/favicon.ico?vrz=colab-20200402-085600-RC00_304410412",
+                "service_name": "colab.research.google.com",
+                "id": 1,
+                "original_url": "https://colab.research.google.com/drive/1XeD2_-7j5R1W5P8ZENBre4OeaVX6DUP2?authuser=3#scrollTo=piXlMqoHdl5b"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cTm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is my colab notebook "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://colab.research.google.com/drive/1XeD2_-7j5R1W5P8ZENBre4OeaVX6DUP2?authuser=3#scrollTo=piXlMqoHdl5b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585960008.165600",
+        "parent_user_id": "U010T8D05UM",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0100B5MHDG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6878a1fc-056d-4f43-ba7a-5d7fc4b3154c",
+        "type": "message",
+        "text": "<https://colab.research.google.com/drive/1XeD2_-7j5R1W5P8ZENBre4OeaVX6DUP2>",
+        "user": "U010L1RJMUN",
+        "ts": "1586103595.174800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Google Colaboratory",
+                "title_link": "https://colab.research.google.com/drive/1XeD2_-7j5R1W5P8ZENBre4OeaVX6DUP2",
+                "fallback": "Google Colaboratory",
+                "image_url": "https://colab.research.google.com/img/colab_favicon_256px.png",
+                "from_url": "https://colab.research.google.com/drive/1XeD2_-7j5R1W5P8ZENBre4OeaVX6DUP2",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 5500,
+                "service_icon": "https://colab.research.google.com/img/favicon.ico?vrz=colab-20200402-085600-RC00_304410412",
+                "service_name": "colab.research.google.com",
+                "id": 1,
+                "original_url": "https://colab.research.google.com/drive/1XeD2_-7j5R1W5P8ZENBre4OeaVX6DUP2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erwt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://colab.research.google.com/drive/1XeD2_-7j5R1W5P8ZENBre4OeaVX6DUP2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585960008.165600",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "261e2387-d184-4966-8b6b-fa1986145938",
+        "type": "message",
+        "text": "<https://www.kff.org/global-health-policy/issue-brief/how-many-adults-are-at-risk-of-serious-illness-if-infected-with-coronavirus/>",
+        "user": "U010L1RJMUN",
+        "ts": "1586105714.175100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "The Henry J. Kaiser Family Foundation",
+                "title": "How Many Adults Are at Risk of Serious Illness If Infected with Coronavirus? Updated Data",
+                "title_link": "https://www.kff.org/global-health-policy/issue-brief/how-many-adults-are-at-risk-of-serious-illness-if-infected-with-coronavirus/",
+                "text": "About four in ten adults (37.6%) ages 18 and older in the U.S. (92.6 million people) have a higher risk of developing serious illness if they become infected with the novel coronavirus, due to thei\u2026",
+                "fallback": "The Henry J. Kaiser Family Foundation: How Many Adults Are at Risk of Serious Illness If Infected with Coronavirus? Updated Data",
+                "image_url": "https://www.kff.org/wp-content/uploads/2020/04/FEATURE-Coronavirus-Risk-in-Adults_1-1.png",
+                "image_width": 446,
+                "image_height": 250,
+                "ts": 1585769383,
+                "from_url": "https://www.kff.org/global-health-policy/issue-brief/how-many-adults-are-at-risk-of-serious-illness-if-infected-with-coronavirus/",
+                "image_bytes": 220876,
+                "service_icon": "https://www.kff.org/wp-content/uploads/2019/05/cropped-KFF-Favicon.png?w=180",
+                "id": 1,
+                "original_url": "https://www.kff.org/global-health-policy/issue-brief/how-many-adults-are-at-risk-of-serious-illness-if-infected-with-coronavirus/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7IT4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.kff.org/global-health-policy/issue-brief/how-many-adults-are-at-risk-of-serious-illness-if-infected-with-coronavirus/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585960008.165600",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "b256b949-f7cb-42ce-9551-e8b4d5dbf450",
+        "type": "message",
+        "text": "\u201cOur results indicate that aerosol transmission is a potential mode of transmission for coronaviruses as well as influenza viruses and rhinoviruses.\u201d \u201cWe also demonstrated the efficacy of surgical masks to reduce coronavirus detection and viral copies in large respiratory droplets and in aerosols (Table\u00a0<https://www.nature.com/articles/s41591-020-0843-2#Tab2|1b>). This has important implications for control of COVID-19, suggesting that surgical face masks could be used by ill people to reduce onward transmission.\u201c<https://www.nature.com/articles/s41591-020-0843-2?fbclid=IwAR25gXm3UcYoz9CdWKyFdYrTO_7SwrhDiu8BhNpT-LZgahUDw1zAGmTBMqM>",
+        "user": "U010L1RJMUN",
+        "ts": "1586113846.175800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010L1RJMUN",
+            "ts": "1586113863.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Nature Medicine",
+                "title": "Respiratory virus shedding in exhaled breath and efficacy of face mask",
+                "title_link": "https://www.nature.com/articles/s41591-020-0843-2#Tab2",
+                "text": "A study of 246 individuals with seasonal respiratory virus infections randomized to wear or not wear a surgical face mask showed that masks can significantly reduce detection of coronavirus and influenza virus in exhaled breath and may help interrupt virus transmission.",
+                "fallback": "Nature Medicine: Respiratory virus shedding in exhaled breath and efficacy of face mask",
+                "thumb_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-0843-2/MediaObjects/41591_2020_843_Fig1_HTML.png",
+                "from_url": "https://www.nature.com/articles/s41591-020-0843-2#Tab2",
+                "thumb_width": 1748,
+                "thumb_height": 2208,
+                "id": 1,
+                "original_url": "https://www.nature.com/articles/s41591-020-0843-2#Tab2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\u201cOur results indicate that aerosol transmission is a potential mode of transmission for coronaviruses as well as influenza viruses and rhinoviruses.\u201d \u201cWe also demonstrated the efficacy of surgical masks to reduce coronavirus detection and viral copies in large respiratory droplets and in aerosols (Table\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.nature.com/articles/s41591-020-0843-2#Tab2",
+                                "text": "1b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). This has important implications for control of COVID-19, suggesting that surgical face masks could be used by ill people to reduce onward transmission.\u201c"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.nature.com/articles/s41591-020-0843-2?fbclid=IwAR25gXm3UcYoz9CdWKyFdYrTO_7SwrhDiu8BhNpT-LZgahUDw1zAGmTBMqM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc54d45a-ce39-4139-b354-9a716f21205a",
+        "type": "message",
+        "text": "<@U0100B5MHDG> this may be useful if you have not seen it already <https://medium.com/data-for-science/epidemic-modeling-102-all-covid-19-models-are-wrong-but-some-are-useful-c81202cc6ee9>",
+        "user": "U010L1RJMUN",
+        "ts": "1586114432.176400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Epidemic Modeling 102: All CoVID-19 models are wrong, but some are useful",
+                "title_link": "https://medium.com/data-for-science/epidemic-modeling-102-all-covid-19-models-are-wrong-but-some-are-useful-c81202cc6ee9",
+                "text": "As George E. P. Box, famously said \u201call models are wrong, but some are useful\u201d. This is perhaps never more true than during a crisis",
+                "fallback": "Medium: Epidemic Modeling 102: All CoVID-19 models are wrong, but some are useful",
+                "image_url": "https://miro.medium.com/max/1200/1*9Ik0mqmGcgX210sSKqdEjQ.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "12 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1586104506,
+                "from_url": "https://medium.com/data-for-science/epidemic-modeling-102-all-covid-19-models-are-wrong-but-some-are-useful-c81202cc6ee9",
+                "image_width": 584,
+                "image_height": 250,
+                "image_bytes": 71425,
+                "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https://medium.com/data-for-science/epidemic-modeling-102-all-covid-19-models-are-wrong-but-some-are-useful-c81202cc6ee9"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LQ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this may be useful if you have not seen it already "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://medium.com/data-for-science/epidemic-modeling-102-all-covid-19-models-are-wrong-but-some-are-useful-c81202cc6ee9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585960008.165600",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "17659a14-4dcc-40fe-b6cc-ddd7b5a518a6",
+        "type": "message",
+        "text": "the minute of our meeting is <https://docs.google.com/document/d/1rrg88yXJmaMEt7_V9n5zkfpBa0JcdxCk_U66OJlzgOk/edit?usp=sharing|here>",
+        "user": "U010L1RJMUN",
+        "ts": "1586114810.176700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQjzi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the minute of our meeting is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1rrg88yXJmaMEt7_V9n5zkfpBa0JcdxCk_U66OJlzgOk/edit?usp=sharing",
+                                "text": "here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585960008.165600",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "type": "message",
+        "text": "Surgical masks are even more effective stopping Corona virus than stopping the seasonal Flu !!!",
+        "files": [
+            {
+                "id": "F011DHJRLNS",
+                "created": 1586125007,
+                "timestamp": 1586125007,
+                "name": "HK Surgical mask study.pdf",
+                "title": "HK Surgical mask study.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010PF746SY",
+                "editable": false,
+                "size": 453425,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011DHJRLNS/hk_surgical_mask_study.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011DHJRLNS/download/hk_surgical_mask_study.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011DHJRLNS-c7d17c7da9/hk_surgical_mask_study_thumb_pdf.png",
+                "thumb_pdf_w": 1210,
+                "thumb_pdf_h": 935,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010PF746SY/F011DHJRLNS/hk_surgical_mask_study.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011DHJRLNS-08ec4dc765",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4K0bK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Surgical masks are even more effective stopping Corona virus than stopping the seasonal Flu !!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010PF746SY",
+        "display_as_bot": false,
+        "ts": "1586125017.177100",
+        "client_msg_id": "a222b5c3-45a1-42f3-bc81-c2672efafa29"
+    }
+]

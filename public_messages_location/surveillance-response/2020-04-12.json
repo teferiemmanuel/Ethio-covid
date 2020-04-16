@@ -1,0 +1,752 @@
+[
+    {
+        "client_msg_id": "4b7df8b6-ed75-48b2-b517-f2e475d5c2b6",
+        "type": "message",
+        "text": "<!here> I have collected data on mortality rates, hospital readiness, etc. useful for baseline calculation by age, gender, and disease across ethiopia from multiple papers. Here is <https://docs.google.com/spreadsheets/d/1EiA3Q2f6OdSFkCqaSLTSKDcJ2AgLYUgqI1VLYww8sB4/edit?usp=sharing|a link> to access all these data from a single google sheet. You can find a link to the papers at the end of each data sheet.",
+        "user": "U010L1RJMUN",
+        "ts": "1586652896.214700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010L1RJMUN",
+            "ts": "1586653071.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M2SCj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have collected data on mortality rates, hospital readiness, etc. useful for baseline calculation by age, gender, and disease across ethiopia from multiple papers. Here is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1EiA3Q2f6OdSFkCqaSLTSKDcJ2AgLYUgqI1VLYww8sB4/edit?usp=sharing",
+                                "text": "a link"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to access all these data from a single google sheet. You can find a link to the papers at the end of each data sheet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586652896.214700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586716313.222400",
+        "reply_users": [
+            "U0107JERE9L",
+            "U0107EMK8UD"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E",
+                    "U010T8D05UM",
+                    "U010ETDKCA1",
+                    "U0107JERE9L",
+                    "U010YC7MX2Q"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E",
+                    "U0107JERE9L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a737b004-8d2f-4b4f-a0d7-89f458997480",
+        "type": "message",
+        "text": "Ende? Really? - well here is the copy I saved in a google drive-\n\n<https://docs.google.com/document/d/1zgVw7BE8MxAxcpejvic--uCy_l28zfBcSSELwkp-sSU/edit?usp=sharing>",
+        "user": "U0107JERE9L",
+        "ts": "1586670040.215600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hYxEN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ende? Really? - well here is the copy I saved in a google drive-\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1zgVw7BE8MxAxcpejvic--uCy_l28zfBcSSELwkp-sSU/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586639340.210300",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "34773b3c-e73f-40aa-87bd-d5c36c074432",
+        "type": "message",
+        "text": "For those people who want interactive density map of Addis Ababa (and Ethiopia), here is a nice <https://arcg.is/PuXzG|argGIS map> by Prof. Aynalem Adugna",
+        "user": "U010L1RJMUN",
+        "ts": "1586706447.218100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1fnhl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For those people who want interactive density map of Addis Ababa (and Ethiopia), here is a nice "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://arcg.is/PuXzG",
+                                "text": "argGIS map"
+                            },
+                            {
+                                "type": "text",
+                                "text": " by Prof. Aynalem Adugna"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586706447.218100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1586706752.219200",
+        "reply_users": [
+            "U011CJW7GA3",
+            "U0107JERE9L",
+            "U010L1RJMUN"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010LJ2BUCW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F012A6N2PCG",
+                "created": 1586706529,
+                "timestamp": 1586706529,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L1RJMUN",
+                "editable": false,
+                "size": 4258253,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F012A6N2PCG/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F012A6N2PCG/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F012A6N2PCG-d6e62bc2b4/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F012A6N2PCG-d6e62bc2b4/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F012A6N2PCG-d6e62bc2b4/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 323,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F012A6N2PCG-d6e62bc2b4/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 430,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F012A6N2PCG-d6e62bc2b4/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F012A6N2PCG-d6e62bc2b4/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 646,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F012A6N2PCG-d6e62bc2b4/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 717,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F012A6N2PCG-d6e62bc2b4/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 861,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F012A6N2PCG-d6e62bc2b4/image_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 918,
+                "image_exif_rotation": 1,
+                "original_w": 1684,
+                "original_h": 1510,
+                "thumb_tiny": "AwArADCvxnkdqdHGpzkUn0qSEZJqRMGUKhwMZqE89e1W5FG1jjJxzmq4Q0AJ25pCKftprDFA7gB1pyj9aT+dO60CY/zCVxj8abUsSbkbPQ07yVx3+uaAIKY/bFTzRqIiQMFarjnOTQCQjDIAB6c0qggHJpCcGlY9BQMtW8gKbe4qQEEn1FUASORwasq7GKQk9KYDZZ8gqF68ZqEY70ev1pP4qBn/2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L1RJMUN/F012A6N2PCG/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F012A6N2PCG-b504081f7e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U010L1RJMUN",
+        "display_as_bot": false,
+        "ts": "1586706537.218200",
+        "client_msg_id": "e656df79-9136-4c72-aaa0-3af4d1fa73aa"
+    },
+    {
+        "client_msg_id": "61839d16-2301-4564-be46-362596ba0a95",
+        "type": "message",
+        "text": "this is interesting! Do we have this in a structured data format as well, JSON or XML?",
+        "user": "U011CJW7GA3",
+        "ts": "1586706604.218500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rH5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is interesting! Do we have this in a structured data format as well, JSON or XML?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586706447.218100",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "5123a85b-474d-4f53-9dad-0409665850b8",
+        "type": "message",
+        "text": "Hey <@U010L1RJMUN> - This is excellent data. Thank you.\nDo you have a list of the sources? Just links and the like on maybe a separate tab?",
+        "user": "U0107JERE9L",
+        "ts": "1586706644.218700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "327pA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - This is excellent data. Thank you.\nDo you have a list of the sources? Just links and the like on maybe a separate tab?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586652896.214700",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "21819abf-1d2a-457f-a5ac-2ce03304bc14",
+        "type": "message",
+        "text": "Hey <@U010P2VU7ND> - Check this out!",
+        "user": "U0107JERE9L",
+        "ts": "1586706689.219000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FS=nA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010P2VU7ND"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Check this out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586706447.218100",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "4e3c1c94-491a-471e-904f-89a6e7787595",
+        "type": "message",
+        "text": "<@U011CJW7GA3> you can find most recent  Ethiopian date (JSON and many other formats) from <https://data.humdata.org/search?q=ethiopia>",
+        "user": "U010L1RJMUN",
+        "ts": "1586706752.219200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Search for a Dataset - Humanitarian Data Exchange",
+                "title_link": "https://data.humdata.org/search?q=ethiopia",
+                "fallback": "Search for a Dataset - Humanitarian Data Exchange",
+                "image_url": "http://data.humdata.org/images/hxl_fb-01.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https://data.humdata.org/search?q=ethiopia",
+                "image_bytes": 32152,
+                "service_icon": "https://data.humdata.org/images/icons/hdx.ico",
+                "service_name": "data.humdata.org",
+                "id": 1,
+                "original_url": "https://data.humdata.org/search?q=ethiopia"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ktWpY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011CJW7GA3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you can find most recent  Ethiopian date (JSON and many other formats) from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://data.humdata.org/search?q=ethiopia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586706447.218100",
+        "parent_user_id": "U010L1RJMUN",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U011CJW7GA3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1dcc494c-7d6d-4887-af5d-fc0b5a40227b",
+        "type": "message",
+        "text": "The same map, with almost all regional statistics - birth rate, death rate, and anything else you can think of at a region level <https://arcg.is/zXKqS>",
+        "user": "U010L1RJMUN",
+        "ts": "1586707055.220400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The same map, with almost all regional statistics - birth rate, death rate, and anything else you can think of at a region level "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://arcg.is/zXKqS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f24a858-a8b8-4a35-90c3-c96ed06a0c5e",
+        "type": "message",
+        "text": "the data is from DHS 2000, 2005, 2011 &amp; 2016",
+        "user": "U010L1RJMUN",
+        "ts": "1586707137.221000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZAF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the data is from DHS 2000, 2005, 2011 & 2016"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010LJ2BUCW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0485589-9cee-4f4e-9748-3156659af78b",
+        "type": "message",
+        "text": "IHME does have their code up in GitHub: <https://github.com/ihmeuw-msca/CurveFit>",
+        "user": "U010YC7MX2Q",
+        "ts": "1586709426.221300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "ihmeuw-msca/CurveFit",
+                "text": "Generic curve fitting package with nonlinear mixed effects model",
+                "title": "ihmeuw-msca/CurveFit",
+                "footer": "<https://github.com/ihmeuw-msca/CurveFit|ihmeuw-msca/CurveFit>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1584857280,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Website",
+                        "value": "<https://ihmeuw-msca.github.io/CurveFit/>",
+                        "short": true
+                    },
+                    {
+                        "title": "Stars",
+                        "value": "147",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/ihmeuw-msca/CurveFit",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jr5p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IHME does have their code up in GitHub: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/ihmeuw-msca/CurveFit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586553938.195600",
+        "parent_user_id": "U010L1RJMUN",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff9a24f6-1603-4589-81c4-c8016e798fb2",
+        "type": "message",
+        "text": "<@U010L1RJMUN> you should join the <#C0106BWK8AX|surveillance-viz> group, I think you and <@U01078QCG2C> are thinking similar visualizations.",
+        "user": "U010YC7MX2Q",
+        "ts": "1586711604.221800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j9x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you should join the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0106BWK8AX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " group, I think you and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are thinking similar visualizations."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586553938.195600",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "fa317df2-3547-4d05-b00b-87f371ed3497",
+        "type": "message",
+        "text": "<@U01078QCG2C>",
+        "user": "U0107EMK8UD",
+        "ts": "1586716313.222400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mbq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586652896.214700",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "de576b9c-63c3-4e1d-b770-7d8f9a4af25d",
+        "type": "message",
+        "text": "Given there are two live air quality controller installed by the US embassy, we may use it to measure behavioural activities <https://www.iqair.com/ethiopia>",
+        "user": "U010L1RJMUN",
+        "ts": "1586725366.224400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Ethiopia Air Quality Index (AQI) and Air Pollution information | AirVisual",
+                "title_link": "https://www.iqair.com/ethiopia",
+                "text": "Ethiopia Air Quality Index (AQI). Read the air pollution in Ethiopia, get real-time, historical and forecast PM2.5 and weather data with AirVisual.",
+                "fallback": "Ethiopia Air Quality Index (AQI) and Air Pollution information | AirVisual",
+                "thumb_url": "https://www.iqair.com/assets/favicons/iq-air-air-visual-logo.png",
+                "from_url": "https://www.iqair.com/ethiopia",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https://www.iqair.com/assets/favicons/apple-touch-icon.png",
+                "service_name": "iqair.com",
+                "id": 1,
+                "original_url": "https://www.iqair.com/ethiopia"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "88d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Given there are two live air quality controller installed by the US embassy, we may use it to measure behavioural activities "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.iqair.com/ethiopia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "My attempt to compare historical changes from the last few weeks compared to previous years of same time does not yield any useful insight though",
+        "files": [
+            {
+                "id": "F011CNA25T9",
+                "created": 1586725508,
+                "timestamp": 1586725508,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L1RJMUN",
+                "editable": false,
+                "size": 361304,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011CNA25T9/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011CNA25T9/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011CNA25T9-e3158dee6c/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011CNA25T9-e3158dee6c/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011CNA25T9-e3158dee6c/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 181,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011CNA25T9-e3158dee6c/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 242,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011CNA25T9-e3158dee6c/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011CNA25T9-e3158dee6c/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 363,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011CNA25T9-e3158dee6c/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 403,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011CNA25T9-e3158dee6c/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 484,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011CNA25T9-e3158dee6c/image_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 516,
+                "image_exif_rotation": 1,
+                "original_w": 2168,
+                "original_h": 1092,
+                "thumb_tiny": "AwAYADDTpD1xR2o60AG0elG0elAPFLQAYAoopM0AFGaP4qB0FABRx6Udj9aD/FQAZozR3/Cgfw0Af//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L1RJMUN/F011CNA25T9/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011CNA25T9-42bebb0a1d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uJe0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My attempt to compare historical changes from the last few weeks compared to previous years of same time does not yield any useful insight though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010L1RJMUN",
+        "display_as_bot": false,
+        "ts": "1586725512.225500",
+        "client_msg_id": "036c25ec-15fe-4960-8d66-6e9edd4fe404"
+    },
+    {
+        "client_msg_id": "88e4cf2b-cba7-4f6b-b0ef-b07248f48537",
+        "type": "message",
+        "text": "If we install (identify) censors at wereda/kebele level, we could get insight about where people are most active",
+        "user": "U010L1RJMUN",
+        "ts": "1586725640.227200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010L1RJMUN",
+            "ts": "1586725666.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L5o9f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we install (identify) censors at wereda/kebele level, we could get insight about where people are most active"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

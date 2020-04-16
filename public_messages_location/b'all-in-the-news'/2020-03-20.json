@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584687948.001400",
+        "user": "UV9A3UBA5",
+        "text": "<@UV9A3UBA5> has joined the channel"
+    },
+    {
+        "client_msg_id": "494D8022-F00C-4DCA-938B-FA52A4EBA24A",
+        "type": "message",
+        "text": "<https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56|https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56>",
+        "user": "U0105C7GP08",
+        "ts": "1584706806.001600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Coronavirus: The Hammer and the Dance",
+                "title_link": "https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56",
+                "text": "What the Next 18 Months Can Look Like, if Leaders Buy Us Time",
+                "fallback": "Medium: Coronavirus: The Hammer and the Dance",
+                "image_url": "https://miro.medium.com/max/1200/1*a9Lcz2g8DkKdnW0o_vk3ow.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "27 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1584694308,
+                "from_url": "https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56",
+                "image_width": 461,
+                "image_height": 250,
+                "image_bytes": 151915,
+                "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R7LA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56",
+                                "text": "https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

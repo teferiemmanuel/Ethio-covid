@@ -1,0 +1,656 @@
+[
+    {
+        "client_msg_id": "39f6e4ee-5381-4293-a5bd-ed58714040f8",
+        "type": "message",
+        "text": "<!channel> - is there anyone from this team available to do a demo?",
+        "user": "UV8B0679P",
+        "ts": "1585541485.073600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FCe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - is there anyone from this team available to do a demo?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75b19b7b-ee1c-4cbd-8a47-c1da2c0f8d1e",
+        "type": "message",
+        "text": "<@UV8B0679P> is the stats api ready? We need to have numeric data (on single api endpoint ....compiled and aggregated )\n\nNumeric datas....\n1. based on case status\n2. in relation to time(like monthly, daily, hourly), \n3. Based on gender\n4. Based on location (like zone/city/region)\n5. Based on nationality\n\nOptional\n6. Based on travel history",
+        "user": "U01051X26HJ",
+        "ts": "1585585722.082600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yZjpf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is the stats api ready? We need to have numeric data (on single api endpoint ....compiled and aggregated )\n\nNumeric datas....\n1. based on case status\n2. in relation to time(like monthly, daily, hourly), \n3. Based on gender\n4. Based on location (like zone/city/region)\n5. Based on nationality\n\nOptional\n6. Based on travel history"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "528ef558-6243-48a7-bfff-a2ac3789cdcc",
+        "type": "message",
+        "text": "yes",
+        "user": "UV8B0679P",
+        "ts": "1585585738.082900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3d82",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0a7b018-85f4-4390-a93d-7e5c8f040ca7",
+        "type": "message",
+        "text": "please ping <@U0107JEKN0N> to get it fully looped in",
+        "user": "UV8B0679P",
+        "ts": "1585585749.083200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A5AeL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to get it fully looped in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585585752.083400",
+        "user": "U0107JEKN0N",
+        "text": "<@U0107JEKN0N> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "1311a4a7-d110-4c81-af1b-bc611fc875a7",
+        "type": "message",
+        "text": "Hi <@U0107JEKN0N>, can you give me the stats api?",
+        "user": "U01051X26HJ",
+        "ts": "1585585799.084500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07XST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", can you give me the stats api?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1585587371.087800",
+        "reply_users": [
+            "U0107JEKN0N",
+            "U01051X26HJ",
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "db4843d1-ba38-4fa7-be8b-e19d403a325c",
+        "type": "message",
+        "text": "<@U01051X26HJ>, there are no dedicated stats API the API handles CRUD operation on the following types:\n```communities\npassengers\nmedical-facilities\nsurveillance\ncommunity-report\ntoll-free```",
+        "user": "U0107JEKN0N",
+        "ts": "1585585958.084800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f28Wz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", there are no dedicated stats API the API handles CRUD operation on the following types:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "communities\npassengers\nmedical-facilities\nsurveillance\ncommunity-report\ntoll-free"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "f02f4bd8-72ff-44cd-b178-dc2fcd140509",
+        "type": "message",
+        "text": "Here\u2019s type definition as of now: <https://github.com/Ethiopia-COVID19/api-gateway#data-structure>",
+        "user": "U0107JEKN0N",
+        "ts": "1585585997.085000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/api-gateway",
+                "text": "COVID-19 Forms API",
+                "title": "Ethiopia-COVID19/api-gateway",
+                "footer": "<https://github.com/Ethiopia-COVID19/api-gateway|Ethiopia-COVID19/api-gateway>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585073210,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "3",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/api-gateway#data-structure",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tyvD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here\u2019s type definition as of now: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway#data-structure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "0c41c318-4c84-444b-9b8d-53300adcc869",
+        "type": "message",
+        "text": "The way I see it is your app should pull the data periodically and do the stats on your end.",
+        "user": "U0107JEKN0N",
+        "ts": "1585586038.085400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dey",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The way I see it is your app should pull the data periodically and do the stats on your end."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "a0fa217b-d079-48fb-a215-099b04e40b53",
+        "type": "message",
+        "text": "And here\u2019s a documentation of the API <https://documenter.getpostman.com/view/370266/SzYW3L6e?version=latest>",
+        "user": "U0107JEKN0N",
+        "ts": "1585586119.085600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Ethiopia COVID-19 Response API",
+                "title_link": "https://documenter.getpostman.com/view/370266/SzYW3L6e?version=latest",
+                "text": "The Postman Documenter generates and maintains beautiful, live documentation for your collections. Never worry about maintaining API documentation again.",
+                "fallback": "Ethiopia COVID-19 Response API",
+                "thumb_url": "https://res.cloudinary.com/postman/image/upload/w_152,h_56,c_fit,f_auto,t_team_logo/v1/team/768118b36f06c94b0306958b980558e6915839447e859fe16906e29d683976f0",
+                "from_url": "https://documenter.getpostman.com/view/370266/SzYW3L6e?version=latest",
+                "thumb_width": 304,
+                "thumb_height": 112,
+                "service_icon": "https://documenter.getpostman.com/favicon.ico",
+                "service_name": "documenter.getpostman.com",
+                "id": 1,
+                "original_url": "https://documenter.getpostman.com/view/370266/SzYW3L6e?version=latest"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tqI6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And here\u2019s a documentation of the API "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://documenter.getpostman.com/view/370266/SzYW3L6e?version=latest"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "fce960ac-e621-4315-84a1-9a45e6ef2a06",
+        "type": "message",
+        "text": "I think for the operational dashboard, or for any other application who need only numeric data, we need a separate stats api .... for visualization and understanding the over all covid status. Dont you think this is the right approach?",
+        "user": "U01051X26HJ",
+        "ts": "1585586152.085900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qnz6+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think for the operational dashboard, or for any other application who need only numeric data, we need a separate stats api .... for visualization and understanding the over all covid status. Dont you think this is the right approach?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "79b3bdb0-7912-4b14-922a-f59882c44039",
+        "type": "message",
+        "text": "Possibly. Yes. But due to the time constraint we have, I don\u2019t think we\u2019ll be able to do that now. <@UV8B0679P> What are your thought on this?",
+        "user": "U0107JEKN0N",
+        "ts": "1585586239.086100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Possibly. Yes. But due to the time constraint we have, I don\u2019t think we\u2019ll be able to do that now. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What are your thought on this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "afac6ff5-a605-44c0-9bfc-de2dbcc61560",
+        "type": "message",
+        "text": "So, let\u2019s do this; <@U01051X26HJ> and this team can define the data you want in a JSON format and create an issue on: <https://github.com/Ethiopia-COVID19/api-gateway>",
+        "user": "UV8B0679P",
+        "ts": "1585587323.086900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/api-gateway",
+                "text": "COVID-19 Forms API",
+                "title": "Ethiopia-COVID19/api-gateway",
+                "footer": "<https://github.com/Ethiopia-COVID19/api-gateway|Ethiopia-COVID19/api-gateway>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585073210,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "3",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/api-gateway",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8WII4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, let\u2019s do this; "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and this team can define the data you want in a JSON format and create an issue on: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "82fe3db4-0efd-432d-93ae-3a4d945c78cd",
+        "type": "message",
+        "text": "So that we can add it as part of tomorrow\u2019s sprint",
+        "user": "UV8B0679P",
+        "ts": "1585587345.087200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CgZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So that we can add it as part of tomorrow\u2019s sprint"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "cb6c7771-7cc1-4025-8341-924bd1fe09fd",
+        "type": "message",
+        "text": "Does that make sense?",
+        "user": "UV8B0679P",
+        "ts": "1585587348.087400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmnEy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does that make sense?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "a2572a9b-2517-4a05-befa-e86da7330af9",
+        "type": "message",
+        "text": "Yes i will create an issue.",
+        "user": "U01051X26HJ",
+        "ts": "1585587364.087600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mTMwV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes i will create an issue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "b1429d95-a330-440b-9577-713af31aef27",
+        "type": "message",
+        "text": "Great",
+        "user": "UV8B0679P",
+        "ts": "1585587371.087800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xBt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585585799.084500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "0cee05e6-827b-4fad-89d0-832d2a9a4416",
+        "type": "message",
+        "text": "<!channel> I've added some suggestions and actionable items for the dashboard vis. Some of which are already being worked on. Done some research and think the points here: <https://github.com/Ethiopia-COVID19/Covid19.ET/issues/37>\nwill satisfy an MVP.\nPlease feel free to comment on that issue with some feedback and/or ideas.  Cheers!",
+        "user": "U010UJ2C1FS",
+        "ts": "1585607992.096700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "author_name": "yohannesHL",
+                "fallback": "[Ethiopia-COVID19/Covid19.ET] #37 Review components to add into the dashboard",
+                "text": "<https://public.tableau.com/profile/mahletkonjitsolomon#!/vizhome/EthiopiaCOVID-19Cases/AfricaCOVID19Cases|https://public.tableau.com/profile/mahletkonjitsolomon#!/vizhome/EthiopiaCOVID-19Cases/AfricaCOVID19Cases>",
+                "title": "#37 Review components to add into the dashboard",
+                "footer": "<https://github.com/Ethiopia-COVID19/Covid19.ET|Ethiopia-COVID19/Covid19.ET>",
+                "id": 1,
+                "title_link": "https://github.com/Ethiopia-COVID19/Covid19.ET/issues/37",
+                "author_link": "https://github.com/yohannesHL",
+                "author_icon": "https://avatars1.githubusercontent.com/u/9559892?v=4",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585523848,
+                "color": "36a64f",
+                "fields": [
+                    {
+                        "title": "Assignees",
+                        "value": "yohannesHL",
+                        "short": true
+                    },
+                    {
+                        "title": "Labels",
+                        "value": "enhancement",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/Covid19.ET/issues/37",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5d3b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I've added some suggestions and actionable items for the dashboard vis. Some of which are already being worked on. Done some research and think the points here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/Covid19.ET/issues/37"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nwill satisfy an MVP.\nPlease feel free to comment on that issue with some feedback and/or ideas.  Cheers!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

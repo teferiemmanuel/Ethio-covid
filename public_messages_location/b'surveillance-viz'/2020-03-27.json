@@ -1,0 +1,274 @@
+[
+    {
+        "client_msg_id": "64dff3b2-3706-489d-b1d6-92088bb777a3",
+        "type": "message",
+        "text": "Hi all, was working on trend analysis using google sheets (<https://docs.google.com/spreadsheets/d/1R9uxv5SQMobuSLtziDG8_Nnwjknd3rnyl05eMKOcxy4/edit?usp=sharing>) will be moving my efforts to <https://github.com/Ethiopia-COVID19/Covid19.ET|Covid19.ET>",
+        "user": "U010FJJH4DC",
+        "ts": "1585346773.002100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/Covid19.ET",
+                "text": "Ethiopia - Covid19 live stats, case tracking and monitoring",
+                "title": "Ethiopia-COVID19/Covid19.ET",
+                "footer": "<https://github.com/Ethiopia-COVID19/Covid19.ET|Ethiopia-COVID19/Covid19.ET>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1584453098,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "16",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Vue",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/Covid19.ET",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+KF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, was working on trend analysis using google sheets ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1R9uxv5SQMobuSLtziDG8_Nnwjknd3rnyl05eMKOcxy4/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") will be moving my efforts to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/Covid19.ET",
+                                "text": "Covid19.ET"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U01078QCG2C",
+                    "U01069Z58V8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8393afcd-8a34-422f-a0c1-1831102617a4",
+        "type": "message",
+        "text": "Hi everyone, I'm an infectious disease epidemiologist. If you need support with that skillset, let me know! For the moment, here are a few thoughts for dashboard integrations. It would be helpful to have a tab or layer which differentiates community transmission (i.e. those with no recent travel history) from case importation (i.e. those without recent travel history). Separate colors for case pins are one option. Another possibility might be a tie connecting travelers' most recent travel location to the point where they were identified as a possible case. I don't know if medical center reporting includes a field for diagnostic test results, but if it does, it'd also be helpful to differentiate presumed or likely cases from confirmed cases.",
+        "user": "U010T8D05UM",
+        "ts": "1585349022.008400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nrZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, I'm an infectious disease epidemiologist. If you need support with that skillset, let me know! For the moment, here are a few thoughts for dashboard integrations. It would be helpful to have a tab or layer which differentiates community transmission (i.e. those with no recent travel history) from case importation (i.e. those without recent travel history). Separate colors for case pins are one option. Another possibility might be a tie connecting travelers' most recent travel location to the point where they were identified as a possible case. I don't know if medical center reporting includes a field for diagnostic test results, but if it does, it'd also be helpful to differentiate presumed or likely cases from confirmed cases."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585349022.008400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1585415356.032700",
+        "reply_users": [
+            "U0107A7161E",
+            "UV8B0679P",
+            "U01078QCG2C",
+            "U010T8D05UM"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4a0a63a0-6af2-47f2-9d99-237f68842561",
+        "type": "message",
+        "text": "I apologize if these features were already in the works--I just came into this side of the project and recognize I'm just getting into the lop",
+        "user": "U010T8D05UM",
+        "ts": "1585349063.009300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L7w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I apologize if these features were already in the works--I just came into this side of the project and recognize I'm just getting into the lop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585349063.009300",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1585352326.012300",
+        "reply_users": [
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ef7b5bf3-8b8f-4a05-a76a-78b25bc00877",
+        "type": "message",
+        "text": "I took the liberty to create a github issue that I'll be working on. Feel free to update it as you see fit. I'm also happy to collaboratively develop on this.\n<https://github.com/Ethiopia-COVID19/Covid19.ET/issues/18>",
+        "user": "U010059R6BT",
+        "ts": "1585352230.011100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010059R6BT",
+            "ts": "1585352428.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pUCy+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I took the liberty to create a github issue that I'll be working on. Feel free to update it as you see fit. I'm also happy to collaboratively develop on this.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/Covid19.ET/issues/18"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U010N3BFN4F",
+                    "U01051X26HJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DB1E0AD5-BE84-415F-B43A-FD829265428F",
+        "type": "message",
+        "text": "Not at all - these are great suggestions",
+        "user": "UV8B0679P",
+        "ts": "1585352312.011600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sdr=W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not at all - these are great suggestions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585349063.009300",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "84969A30-2671-4C4F-82AC-1C6C55966C66",
+        "type": "message",
+        "text": "What else?",
+        "user": "UV8B0679P",
+        "ts": "1585352316.011900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s4YJi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585349063.009300",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "3E059A64-D83B-42CA-BB9C-7C96138861C2",
+        "type": "message",
+        "text": "Keep writing them on this thread",
+        "user": "UV8B0679P",
+        "ts": "1585352326.012300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w/=n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Keep writing them on this thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585349063.009300",
+        "parent_user_id": "U010T8D05UM"
+    }
+]

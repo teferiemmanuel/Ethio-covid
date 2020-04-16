@@ -1,0 +1,595 @@
+[
+    {
+        "client_msg_id": "f1b8c419-5c17-4eef-a159-fda32902f5c3",
+        "type": "message",
+        "text": "<!here>I am looking for someone who can help me locate the different isolation/quarantine centers and their capacity? In <#C010W2ZJN6L|proj-delivery> we are fundraising to donate cooked food to centers and care packages with groceries to families who cannot comply with isolation. Any leads would be extremely helpful!:pray::skin-tone-5:",
+        "user": "U0107A7161E",
+        "ts": "1586144430.211400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "akqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I am looking for someone who can help me locate the different isolation/quarantine centers and their capacity? In "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010W2ZJN6L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are fundraising to donate cooked food to centers and care packages with groceries to families who cannot comply with isolation. Any leads would be extremely helpful!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586144430.211400",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1586787383.393600",
+        "reply_users": [
+            "U010787AZ2T",
+            "U0108PQ1SRH",
+            "U0111JYSE23"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UV8B0679P",
+                    "U0107JERE9L",
+                    "U010L1RJMUN",
+                    "U0106M27EKS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0111JYSE23"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hello everyone. I've made a Coronavirus visualizer here <https://covid-eth-visualizer.herokuapp.com/|https://covid-eth-visualizer.herokuapp.com/> I'm pulling the data from <http://api.pmo.gov.et/v1/patients/|api.pmo.gov.et/v1/patients/>  But for some reason the PMO website goes down for a few minutes everyday. Could someone responsible please adress this issue. Or could some please direct me to a similar API",
+        "files": [
+            {
+                "id": "F011DMQDERL",
+                "created": 1586150708,
+                "timestamp": 1586150708,
+                "name": "cover.png",
+                "title": "cover.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0112B1TNQ7",
+                "editable": false,
+                "size": 800953,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011DMQDERL/cover.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011DMQDERL/download/cover.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011DMQDERL-339650479e/cover_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011DMQDERL-339650479e/cover_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011DMQDERL-339650479e/cover_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011DMQDERL-339650479e/cover_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011DMQDERL-339650479e/cover_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011DMQDERL-339650479e/cover_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011DMQDERL-339650479e/cover_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011DMQDERL-339650479e/cover_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011DMQDERL-339650479e/cover_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "image_exif_rotation": 1,
+                "original_w": 1280,
+                "original_h": 720,
+                "thumb_tiny": "AwAbADCvI3z4pNxFEv8ArKjLHNMCTeaC7U0c4paBDt+Fwo57k9TSxsS2Kjp8IJkwBk0AJL9+lgby3JBXkfxVMO571IwAhUgDJPNA1uUv4y3qc8UZq1RQBVzTovv/AIVOaSgR/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0112B1TNQ7/F011DMQDERL/cover.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011DMQDERL-18043b5d59",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3T/w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone. I've made a Coronavirus visualizer here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://covid-eth-visualizer.herokuapp.com/",
+                                "text": "https://covid-eth-visualizer.herokuapp.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm pulling the data from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://api.pmo.gov.et/v1/patients/",
+                                "text": "api.pmo.gov.et/v1/patients/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  But for some reason the PMO website goes down for a few minutes everyday. Could someone responsible please adress this issue. Or could some please direct me to a similar API"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0112B1TNQ7",
+        "display_as_bot": false,
+        "ts": "1586150718.219400",
+        "client_msg_id": "5ba928dd-4953-4bd3-b9ef-1fcc8d3535cc",
+        "thread_ts": "1586150718.219400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586636737.324900",
+        "reply_users": [
+            "U010LJ2BUCW",
+            "U011CJW7GA3"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0106M27EKS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010N2S4RUJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6f5c72a-dc07-4ec0-bcfa-f7ed5fbb4b9d",
+        "type": "message",
+        "text": "<@U0107A7161E> the Ethiopian Architects Association  in partnership with Maheder and the Urban Center are leading this charge to geo-locate all isolation centers, (active and in the pipeline)",
+        "user": "U010787AZ2T",
+        "ts": "1586163341.221400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fZXFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the Ethiopian Architects Association  in partnership with Maheder and the Urban Center are leading this charge to geo-locate all isolation centers, (active and in the pipeline)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586144430.211400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "541af7d5-7c65-4edc-b2f7-8df469555054",
+        "type": "message",
+        "text": "<@U0108PQ1SRH> please share your work with <@U0107A7161E>",
+        "user": "U010787AZ2T",
+        "ts": "1586165943.221800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "12NW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0108PQ1SRH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please share your work with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586144430.211400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Will get back to you later",
+        "user": "U0108PQ1SRH",
+        "ts": "1586166068.222000",
+        "thread_ts": "1586144430.211400",
+        "root": {
+            "client_msg_id": "f1b8c419-5c17-4eef-a159-fda32902f5c3",
+            "type": "message",
+            "text": "<!here>I am looking for someone who can help me locate the different isolation/quarantine centers and their capacity? In <#C010W2ZJN6L|proj-delivery> we are fundraising to donate cooked food to centers and care packages with groceries to families who cannot comply with isolation. Any leads would be extremely helpful!:pray::skin-tone-5:",
+            "user": "U0107A7161E",
+            "ts": "1586144430.211400",
+            "team": "TV5KELEUS",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "akqq",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "I am looking for someone who can help me locate the different isolation/quarantine centers and their capacity? In "
+                                },
+                                {
+                                    "type": "channel",
+                                    "channel_id": "C010W2ZJN6L"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " we are fundraising to donate cooked food to centers and care packages with groceries to families who cannot comply with isolation. Any leads would be extremely helpful!"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "pray",
+                                    "skin_tone": 5
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1586144430.211400",
+            "reply_count": 7,
+            "reply_users_count": 3,
+            "latest_reply": "1586787383.393600",
+            "reply_users": [
+                "U010787AZ2T",
+                "U0108PQ1SRH",
+                "U0111JYSE23"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M28K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will get back to you later"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2c5ae24a-b4e4-4cef-99c9-64e602a3dc19"
+    },
+    {
+        "client_msg_id": "b1ab544e-03a4-4d66-acea-b97851152fc6",
+        "type": "message",
+        "text": ":+1::skin-tone-2:",
+        "user": "U010787AZ2T",
+        "ts": "1586166100.222300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KeOA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586144430.211400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "215da279-c224-4789-bee5-98f51be71e33",
+        "type": "message",
+        "text": "Hi All,Any remote Education tools that you recommend in this time of Covid19?",
+        "user": "UV81AMFSP",
+        "ts": "1586172152.223100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+P=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All,Any remote Education tools that you recommend in this time of Covid19?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c3f0e5e-00df-42c0-9cd1-69be3586e217",
+        "type": "message",
+        "text": "<@UV81AMFSP> I have experience in setting up and running scalable <https://school.moodledemo.net/?lang=am|moodle> platform. It is a mature project, with a lot of external modules. The look may not be moder out of the box, but I can say the internal structure is incredibly robust. I in particular like how every type of event in the system -  views and other actions by students, teachers, etc. - are collected in well organised database structure.",
+        "user": "U010L1RJMUN",
+        "ts": "1586174075.230800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yZvN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV81AMFSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have experience in setting up and running scalable "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://school.moodledemo.net/?lang=am",
+                                "text": "moodle"
+                            },
+                            {
+                                "type": "text",
+                                "text": " platform. It is a mature project, with a lot of external modules. The look may not be moder out of the box, but I can say the internal structure is incredibly robust. I in particular like how every type of event in the system -  views and other actions by students, teachers, etc. - are collected in well organised database structure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ef40933-30b4-4bea-98bc-ab8e05ad6f6b",
+        "type": "message",
+        "text": "<@UV81AMFSP> this document from <https://coronavirustechhandbook.com/education|coronavirustech handbook> contains resources relevant to your question",
+        "user": "U010L1RJMUN",
+        "ts": "1586174454.231900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Education | Coronavirus Tech Handbook",
+                "title_link": "https://coronavirustechhandbook.com/education",
+                "text": "A crowdsourced set of tech, tools and data relating to the Coronavirus Pandemic",
+                "fallback": "Education | Coronavirus Tech Handbook",
+                "image_url": "https://res.cloudinary.com/gived/image/upload/v1585313942/handbookpls/1585313942239.png",
+                "from_url": "https://coronavirustechhandbook.com/education",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 85032,
+                "service_name": "coronavirustechhandbook.com",
+                "id": 1,
+                "original_url": "https://coronavirustechhandbook.com/education"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iM0m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV81AMFSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this document from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://coronavirustechhandbook.com/education",
+                                "text": "coronavirustech handbook"
+                            },
+                            {
+                                "type": "text",
+                                "text": " contains resources relevant to your question"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV81AMFSP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87739709-0d8c-436f-8914-1e03872eb828",
+        "type": "message",
+        "text": "Thanks <@U010L1RJMUN> do you have test user account to look around the tool you used? Thanks for the other link too",
+        "user": "UV81AMFSP",
+        "ts": "1586175211.233700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r1wL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you have test user account to look around the tool you used? Thanks for the other link too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f036d7c-5126-49c5-8e23-e160f047168b",
+        "type": "message",
+        "text": "<@UV81AMFSP> if you DM me your email, I can create account for you in our moodle system so that you can check it. If you click <https://school.moodledemo.net/?lang=am|moodle>, you can get a demo site to play and check everything as a student, teacher, admin etc.",
+        "user": "U010L1RJMUN",
+        "ts": "1586175814.235200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010L1RJMUN",
+            "ts": "1586175839.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KHm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV81AMFSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you DM me your email, I can create account for you in our moodle system so that you can check it. If you click "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://school.moodledemo.net/?lang=am",
+                                "text": "moodle"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you can get a demo site to play and check everything as a student, teacher, admin etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6fcc8de-310c-4595-a7e8-fa386b928bdd",
+        "type": "message",
+        "text": "Rotary Ethiopia. I can give you a contact no.",
+        "user": "U010T6L6LEL",
+        "ts": "1586205525.237300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dhlT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rotary Ethiopia. I can give you a contact no."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586080418.202600",
+        "parent_user_id": "U010SBSQC9K"
+    }
+]

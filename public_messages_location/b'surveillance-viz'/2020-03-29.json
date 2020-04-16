@@ -1,0 +1,1390 @@
+[
+    {
+        "client_msg_id": "455ce7a6-d45b-4436-b78a-be76bba7ebc7",
+        "type": "message",
+        "text": "<@U010N3BFN4F> the cases part is to be removed right? So for the operetional dashboard their should be an api for all stats, by day, by month, by hour and by status for each timespan.",
+        "user": "U01051X26HJ",
+        "ts": "1585455604.054100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01051X26HJ",
+            "ts": "1585455658.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t1j3L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010N3BFN4F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the cases part is to be removed right? So for the operetional dashboard their should be an api for all stats, by day, by month, by hour and by status for each timespan."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585421181.044600",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "480e7cab-b93b-45f7-b0c5-ffe77ce773f4",
+        "type": "message",
+        "text": "And olso, for every region(at lease total values based on status) would be great for charts and the map.",
+        "user": "U01051X26HJ",
+        "ts": "1585456740.054500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01051X26HJ",
+            "ts": "1585456826.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TxR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And olso, for every region(at lease total values based on status) would be great for charts and the map."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585421181.044600",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "56d373a5-1744-4c50-bca2-f8a68b64f0de",
+        "type": "message",
+        "text": "That makes sense! Please go for it",
+        "user": "U010N3BFN4F",
+        "ts": "1585470501.055500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9rBa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That makes sense! Please go for it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585421181.044600",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "68eae906-fd05-4fcb-ae02-8d892d8a0904",
+        "type": "message",
+        "text": "<@U01051X26HJ> maybe what will be good is if you create separate issues for the different dashboards so other people can help you",
+        "user": "U010N3BFN4F",
+        "ts": "1585471119.055700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sx/I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " maybe what will be good is if you create separate issues for the different dashboards so other people can help you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585421181.044600",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "be6a3385-9977-48ac-9daf-91838f4ba509",
+        "type": "message",
+        "text": "What do you think?",
+        "user": "U010N3BFN4F",
+        "ts": "1585471126.055900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4=Cg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you think?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585421181.044600",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "405e3d9b-096b-4f7b-9af1-5bce4674e94f",
+        "type": "message",
+        "text": "Yes, what meant is that, \nThis is the current api <https://api.pmo.gov.et/v1/cases/|https://api.pmo.gov.et/v1/cases/>\n\nAnd the data returned is very limited.\n\nThe demo api is <https://capi.abren.tech/stats|https://capi.abren.tech/stats> which is a kind of data we need. \n\nSo please communicate with the backend team provide susch detailed stats at least in similar way .",
+        "user": "U01051X26HJ",
+        "ts": "1585471478.056100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lsx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, what meant is that, \nThis is the current api "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://api.pmo.gov.et/v1/cases/",
+                                "text": "https://api.pmo.gov.et/v1/cases/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAnd the data returned is very limited.\n\nThe demo api is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://capi.abren.tech/stats",
+                                "text": "https://capi.abren.tech/stats"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which is a kind of data we need. \n\nSo please communicate with the backend team provide susch detailed stats at least in similar way ."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585421181.044600",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "27bd2be2-6d13-4942-866e-6f1625eee4c6",
+        "type": "message",
+        "text": "The backend team are limited to the data I shared with you before, which is data that comes from MoH\n```{\n    \"Woreda\": \"Test Woreda\",\n    \"Longitude\": \"YY\",\n    \"Region\": \"Addis Ababa\",\n    \"Latitude\": \"YY\",\n    \"sex\": \"Female\",\n    \"Language\": \"55\",\n    \"SubcityOrZone\": \"66\",\n    \"Occupation\": \"YY\",\n    \"FormStatus\": \"Incomplete\",\n    \"cough\": true,\n    \"PhoneNo\": \"4444\",\n    \"travleHx\": true,\n    \"checked\": false,\n    \"healthFacility\": true,\n    \"haveSex\": true,\n    \"occupation\": \"Merchant(Animal)\",\n    \"HasSOB\": false,\n    \"fever\": true,\n    \"animalMarket\": true,\n    \"Kebele\": \"TT\",\n    \"createdAt\": 1585335464387,\n    \"HouseNo\": \"YY\",\n    \"Sefer\": \"77\",\n    \"updatedAt\": 1585335464387,\n    \"FirstName\": \"ASDF\",\n    \"LastName\": \"ASDF\",\n    \"Age\": \"333\"\n}```",
+        "user": "U010N3BFN4F",
+        "ts": "1585480547.056300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5eQp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The backend team are limited to the data I shared with you before, which is data that comes from MoH\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{\n    \"Woreda\": \"Test Woreda\",\n    \"Longitude\": \"YY\",\n    \"Region\": \"Addis Ababa\",\n    \"Latitude\": \"YY\",\n    \"sex\": \"Female\",\n    \"Language\": \"55\",\n    \"SubcityOrZone\": \"66\",\n    \"Occupation\": \"YY\",\n    \"FormStatus\": \"Incomplete\",\n    \"cough\": true,\n    \"PhoneNo\": \"4444\",\n    \"travleHx\": true,\n    \"checked\": false,\n    \"healthFacility\": true,\n    \"haveSex\": true,\n    \"occupation\": \"Merchant(Animal)\",\n    \"HasSOB\": false,\n    \"fever\": true,\n    \"animalMarket\": true,\n    \"Kebele\": \"TT\",\n    \"createdAt\": 1585335464387,\n    \"HouseNo\": \"YY\",\n    \"Sefer\": \"77\",\n    \"updatedAt\": 1585335464387,\n    \"FirstName\": \"ASDF\",\n    \"LastName\": \"ASDF\",\n    \"Age\": \"333\"\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585421181.044600",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "2fdcfd5e-5053-4f8a-b0f0-cb6638155ba6",
+        "type": "message",
+        "text": "We just have to make it work with what we have for now",
+        "user": "U010N3BFN4F",
+        "ts": "1585480558.056500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DNuC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We just have to make it work with what we have for now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585421181.044600",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "c64475e0-490f-4190-be05-d8d668211861",
+        "type": "message",
+        "text": "Who maintains the data at <https://api.pmo.gov.et/v1/patients> ? The location data on patient #19 is inconsistent with the tweet from HE Dr. Lia - <https://twitter.com/lia_tadesse/status/1244194960817209344?s=20>",
+        "user": "U010EJ90XSM",
+        "ts": "1585481116.057600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/lia_tadesse|@lia_tadesse>: Ethiopia #COVID19 Status update \n\n\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12e8\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1201\u1294\u1273 \u1218\u130d\u1208\u132b <https://pbs.twimg.com/media/EUREszkXgAAZsQ8.jpg>",
+                "ts": 1585474169,
+                "author_name": "Lia Tadesse",
+                "author_link": "https://twitter.com/lia_tadesse/status/1244194960817209344",
+                "author_icon": "https://pbs.twimg.com/profile_images/522994715805773825/VQZdJx8m_normal.jpeg",
+                "author_subname": "@lia_tadesse",
+                "text": "Ethiopia #COVID19 Status update \n\n\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12e8\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1201\u1294\u1273 \u1218\u130d\u1208\u132b <https://pbs.twimg.com/media/EUREszkXgAAZsQ8.jpg>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/lia_tadesse/status/1244194960817209344?s=20",
+                "image_url": "https://pbs.twimg.com/media/EUREszkXgAAZsQ8.jpg",
+                "image_width": 558,
+                "image_height": 1024,
+                "image_bytes": 103095,
+                "id": 1,
+                "original_url": "https://twitter.com/lia_tadesse/status/1244194960817209344?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            },
+            {
+                "text": "<https://pbs.twimg.com/media/EUREszgXYAA1bcj.jpg>",
+                "image_url": "https://pbs.twimg.com/media/EUREszgXYAA1bcj.jpg",
+                "image_width": 586,
+                "image_height": 1024,
+                "image_bytes": 121139,
+                "id": 2
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V3vd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who maintains the data at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://api.pmo.gov.et/v1/patients"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? The location data on patient #19 is inconsistent with the tweet from HE Dr. Lia - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/lia_tadesse/status/1244194960817209344?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0111A9R6JK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "756321D6-40D9-402B-87F8-F91269227946",
+        "type": "message",
+        "text": "<!channel> - to add a little more clarity on this, here is the data structure for all data streams: <https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure|https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure>\n\nThis represents the total universe of data that the system will have at go time tomorrow morning. \n\nAsk me anything that\u2019s not clear",
+        "user": "UV8B0679P",
+        "ts": "1585486792.060500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[Ethiopia-COVID19/api-gateway] README.md",
+                "text": "```\n&lt;!--\ntitle: 'AWS Serverless REST API example in NodeJS'\ndescription: 'This example demonstrates how to setup a RESTful Web Service allowing you to create, list, get, update and delete Community. DynamoDB is used to store the data.'\nlayout: Doc\nframework: v1\nplatform: AWS\nlanguage: nodeJS\nauthorLink: 'https://github.com/ozbillwang'\nauthorName: 'Bill Wang'\nauthorAvatar: 'https://avatars3.githubusercontent.com/u/8954908?v=4&amp;s=140'\n--&gt;\n# API for writing/retrieving COVID-19 data\n\nThis API will be utilised by all applications that need to write/retrieve Ethiopia Covid19 data. E.g. [<http://covid19.et|covid19.et>](<https://github.com/Ethiopia-COVID19/Covid19.ET>) project will use it to retrieve data for dashboard and write data\n\n\n## Serverless REST API\n\nThis example demonstrates how to setup a [RESTful Web Services](<https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services>) allowing you to create, list, get, update and delete Community. DynamoDB is used to store the data. This is just an example and of course you could use any data storage as a backend.\n\n## [Structure](#structure)\n\nThis service has a separate directory for all the community operations. For each operation exactly one file exists e.g. `handler/delete.js`. In each of these files there is exactly one function which is directly attached to `module.exports`.\n\nThe idea behind the `communities` directory is that in case you want to create a service containing multiple resources e.g. users, notes, comments you could do so in the same service. While this is certainly possible you might consider creating a separate service for each resource. It depends on the use-case and your preference.\n\n### Use-cases\n\n- API for a Web Application\n- API for a Mobile Application\n\n### Setup\n\n```bash\nnpm install\n```\n\n### Deploy\n\nIn order to deploy the endpoint simply run\n\n```bash\nserverless deploy\n```\n\nAPI Documentation\n<https://documenter.getpostman.com/view/370266/SzYW3L6e?version=latest>\n\n\n[![Run in Postman](<https://run.pstmn.io/button.svg>)](<https://app.getpostman.com/run-collection/64e612b7b58fd9352206>)\n\n---\n## [Auth Flow](#auth-flow)\n\n```\nclient_id = {value}\nclient_secret = {value}\n```\n\nPing @Naod on Slack to get the values above\n\nGenerate base64 key by using the `client_id` and `client_secret`\n\n```\n$ echo -n 'client_id:client_secret' | openssl base64\nNode example:\nconst AUTHORIZATION_KEY = Buffer.from('process.env.CLIENT_ID:process.env.CLIENT_SECRET').toString('base64')\n```\n\nSend a request to the auth endpoint to get an access token:\n\n```\ncurl --location --request POST '<https://ethiopia-covid19.auth.us-east-2.amazoncognito.com/oauth2/token>' \\\n--header 'Authorization: Basic abc123==' \\\n--header 'Content-Type: application/x-www-form-urlencoded' \\\n--data-urlencode 'grant_type=client_credentials'\n```\n\nresponse body:\n\n```\n{\n    \"access_token\": \"long_token_value\",\n    \"expires_in\": 3600,\n    \"token_type\": \"Bearer\"\n}\n```\n\nMake a request to the API:\n\n```\ncurl --location --request GET '<https://api.ethiopia-covid19.com/gateway/communities>' \\\n--header 'Authorization: Bearer long_string' \\\n--header 'Content-Type: application/json'\n```\n\nOnce you authenticate, use the `Access Token` as a `Bearer` authorization using Postman. \n\nIn case you expect a lot of traffic fluctuation we recommend to checkout this guide on how to auto scale DynamoDB [<https://aws.amazon.com/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/>](<https://aws.amazon.com/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/>)\n\nPlease note: This API supports the following types:\n- `communities`\n- `passengers`\n- `medical-facilities`\n- `surveillance`\n- `community-report`\n- `toll-free`\n---\n\n## [Data Structure](#data-structure)\n\n### Community\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"asdfa\",\n  \"lastName\": \"asdf\",\n  \"age\": \"5\",\n  \"sex\": \"Male\",\n  \"language\": \"\",\n  \"region\": \"Addis Ababa\",\n  \"subcityOrZone\": \"\",\n  \"sefer\": \"\",\n  \"woreda\": \"\",\n  \"kebele\": \"\",\n  \"houseNo\": \"\",\n  \"phoneNo\": \"1231231\",\n  \"latitude\": 38.9071923,\n  \"longitude\": -77.0368707,\n  \"fever\": true,\n  \"cough\": true,\n  \"shortnessOfBreath\": true,\n  \"formStatus\": \"Incomplete\",\n  \"travelHx\": true,\n  \"haveSex\": true,\n  \"animalMarket\": true,\n  \"healthFacility\": false,\n  \"occupation\": \"Merchant(Animal)\",\n  \"dataSource\": \"bot\"\n}\n```\n\n### Passengers\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"asdfas\",\n  \"middleName\": \"dasdfas\",\n  \"lastName\": \"dasdfasd\",\n  \"gender\": \"Female\",\n  \"dateOfBirth\": \"0100-01-01\",\n  \"nationality\": \"\u00c5land Islands\",\n  \"passportNo\": \"asdfasdfa\",\n  \"travelFrom\": \"Algeria\",\n  \"phoneNo\": \"sdfasdfasdfasdf\",\n  \"hotelName\": \"Ghion Hotel\",\n  \"flightNumber\": \"asdfas\",\n  \"seatNumber\": \"dfasdfasdf\",\n  \"transitFrom\": \"Albania\",\n  \"fever\": true,\n  \"shortnessOfBreath\": true,\n  \"cough\": true,\n  \"dependents\": [\n    {\n      \"firstName\": \"asdfasdf\",\n      \"middleName\": \"asdfasd\",\n      \"lastName\": \"fasdfasd\",\n      \"gender\": \"Female\",\n      \"dateOfBirth\": \"\",\n      \"nationality\": \"Albania\",\n      \"passportNo\": \"asdfasdf\",\n      \"seatNumber\": \"asdfasdfasda\",\n      \"fever\": true,\n      \"shortnessOfBreath\": true,\n      \"cough\": true,\n      \"travelFrom\": \"Algeria\",\n      \"transitFrom\": \"Albania\",\n      \"phoneNo\": \"sdfasdfasdfasdf\",\n      \"flightNumber\": \"asdfas\",\n      \"selectedLanguage\": \"English\"\n    },\n    {\n      \"firstName\": \"asdfa\",\n      \"middleName\": \"sdfasdf\",\n      \"lastName\": \"asdfasdfa\",\n      \"gender\": \"Female\",\n      \"dateOfBirth\": \"3333-03-02\",\n      \"nationality\": \"\u00c5land Islands\",\n      \"passportNo\": \"asdfasdf\",\n      \"seatNumber\": \"asdfasdf\",\n      \"fever\": true,\n      \"shortnessOfBreath\": true,\n      \"cough\": true,\n      \"travelFrom\": \"Algeria\",\n      \"transitFrom\": \"Albania\",\n      \"phoneNo\": \"sdfasdfasdfasdf\",\n      \"flightNumber\": \"asdfas\",\n      \"selectedLanguage\": \"English\"\n    }\n  ],\n  \"otherHotelName\": \"\",\n  \"email\": \"<mailto:asdfasdf@asdfa.com|asdfasdf@asdfa.com>\",\n  \"language\": \"\"\n}\n```\n\n### Medical Facilities\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"string\",\n  \"middleName\": \"string\",\n  \"lastName\": \"string\",\n  \"nationality\": \"string\",\n  \"email\": \"string\",\n  \"sex\": \"string\",\n  \"age\": 0,\n  \"region\": \"string\",\n  \"subcity\": \"string\",\n  \"zone\": \"string\",\n  \"woreda\": \"string\",\n  \"kebele\": \"string\",\n  \"houseNumber\": \"string\",\n  \"phoneNumber\": \"string\",\n  \"occupation\": \"string\",\n  \"callDate\": \"2020-03-29T00:52:45.527Z\",\n  \"callerType\": \"string\",\n  \"fever\": true,\n  \"cough\": true,\n  \"headache\": true,\n  \"runnyNose\": true,\n  \"feelingUnwell\": true,\n  \"shortnessOfBreath\": true,\n  \"bodyPain\": true,\n  \"travelHx\": true,\n  \"haveSex\": true,\n  \"animalMarket\": true,\n  \"healthFacility\": true,\n  \"receiverName\": \"string\",\n  \"source\": \"string\",\n  \"formStatus\": \"string\"\n}\n```\n\n### Toll Free\n```\n{\n  \"firstName\": \"string\",\n  \"middleName\": \"string\",\n  \"lastName\": \"string\",\n  \"gender\": \"male\",\n  \"phoneNumber\": \"string\",\n  \"secondPhoneNumber\": \"string\",\n  \"age\": \"23\",\n  \"region\": \"string\",\n  \"subcity\": \"string\",\n  \"zone\": \"string\",\n  \"woreda\": \"string\",\n  \"kebele\": \"string\",\n  \"city\": \"23\",\n  \"reportType\": \"Transmission Mode\",\n  \"rumorTypes\": [\n    {\n      \"id\": 2,\n      \"name\": \"Cough\",\n      \"description\": null,\n      \"createdAt\": \"2020-03-26 07:57:59\",\n      \"updatedAt\": \"2020-03-26 07:57:59\",\n      \"deletedAt\": null\n    },\n    {\n      \"id\": 3,\n      \"name\": \"Headache\",\n      \"description\": null,\n      \"createdAt\": \"2020-03-26 07:57:59\",\n      \"updatedAt\": \"2020-03-26 07:57:59\",\n      \"deletedAt\": null\n    }\n  ],\n  \"travelHx\": true,\n  \"haveSex\": true,\n  \"description\": \"description description\"\n}\n```\n\n### Surveillance\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"string\",\n  \"middleName\": \"string\",\n  \"lastName\": \"string\",\n  \"nationality\": \"string\",\n  \"email\": \"string\",\n  \"sex\": \"string\",\n  \"age\": 0,\n  \"region\": \"string\",\n  \"subcity\": \"string\",\n  \"zone\": \"string\",\n  \"woreda\": \"string\",\n  \"kebele\": \"string\",\n  \"houseNumber\": \"string\",\n  \"phoneNumber\": \u2026",
+                "title": "README.md",
+                "footer": "<https://github.com/Ethiopia-COVID19/api-gateway|Ethiopia-COVID19/api-gateway>",
+                "id": 1,
+                "title_link": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hsu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - to add a little more clarity on this, here is the data structure for all data streams: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure",
+                                "text": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This represents the total universe of data that the system will have at go time tomorrow morning. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ask me anything that\u2019s not clear"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7f6c0b7-bef5-4341-83e5-b3b0ba4b41c0",
+        "type": "message",
+        "text": "<!here> should we arrange a call to talk through who is working on what and to create some tasks that people can work on?",
+        "user": "U010N3BFN4F",
+        "ts": "1585490892.061700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SfFk1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " should we arrange a call to talk through who is working on what and to create some tasks that people can work on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "reply_count": 19,
+        "reply_users_count": 6,
+        "latest_reply": "1585514827.070600",
+        "reply_users": [
+            "U01078QCG2C",
+            "U010N3BFN4F",
+            "U010059R6BT",
+            "U01051X26HJ",
+            "U010UJ2C1FS",
+            "U010FJJH4DC"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UJ2C1FS",
+                    "U010059R6BT",
+                    "U01023RPHPU",
+                    "U01078QCG2C"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6cd41736-d6cf-4c36-9007-c1885904d801",
+        "type": "message",
+        "text": "Is everyone free at 12pm CST?",
+        "user": "U01078QCG2C",
+        "ts": "1585496106.062500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is everyone free at 12pm CST?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "8369febd-1bc8-4879-994f-2596dd480124",
+        "type": "message",
+        "text": "Yes for me",
+        "user": "U010N3BFN4F",
+        "ts": "1585497517.062700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zFZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "75e077e9-6cad-4101-800e-eae5d75347e9",
+        "type": "message",
+        "text": "Sure. <@U01051X26HJ> What is the username/password for the latest master branch. The `vueuser` doesn't work for me.\n<https://github.com/Ethiopia-COVID19/Covid19.ET/commit/f74f8d3950726302e20b61b9b49d695e45e736c6>",
+        "user": "U010059R6BT",
+        "ts": "1585497919.062900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x/cVi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What is the username/password for the latest master branch. The "
+                            },
+                            {
+                                "type": "text",
+                                "text": "vueuser",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " doesn't work for me.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/Covid19.ET/commit/f74f8d3950726302e20b61b9b49d695e45e736c6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "30ee86e9-dea6-4301-986a-ed40c76ab598",
+        "type": "message",
+        "text": "<@U010N3BFN4F>  is it ok to give test credentials? \n<@U010059R6BT>  username: admin, password: Ethiopia!123",
+        "user": "U01051X26HJ",
+        "ts": "1585498058.063300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01051X26HJ",
+            "ts": "1585498208.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=+8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010N3BFN4F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  is it ok to give test credentials? \n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010059R6BT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  username: admin, password: Ethiopia!123"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "type": "message",
+        "text": "No luck <@U01051X26HJ>",
+        "files": [
+            {
+                "id": "F010ZTM5BEC",
+                "created": 1585498251,
+                "timestamp": 1585498251,
+                "name": "Screen Shot 2020-03-29 at 11.10.16 AM.png",
+                "title": "Screen Shot 2020-03-29 at 11.10.16 AM.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010059R6BT",
+                "editable": false,
+                "size": 330788,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010ZTM5BEC/screen_shot_2020-03-29_at_11.10.16_am.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010ZTM5BEC/download/screen_shot_2020-03-29_at_11.10.16_am.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010ZTM5BEC-6a67a0d462/screen_shot_2020-03-29_at_11.10.16_am_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010ZTM5BEC-6a67a0d462/screen_shot_2020-03-29_at_11.10.16_am_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010ZTM5BEC-6a67a0d462/screen_shot_2020-03-29_at_11.10.16_am_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 205,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010ZTM5BEC-6a67a0d462/screen_shot_2020-03-29_at_11.10.16_am_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 274,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010ZTM5BEC-6a67a0d462/screen_shot_2020-03-29_at_11.10.16_am_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010ZTM5BEC-6a67a0d462/screen_shot_2020-03-29_at_11.10.16_am_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 411,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010ZTM5BEC-6a67a0d462/screen_shot_2020-03-29_at_11.10.16_am_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 456,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010ZTM5BEC-6a67a0d462/screen_shot_2020-03-29_at_11.10.16_am_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 547,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010ZTM5BEC-6a67a0d462/screen_shot_2020-03-29_at_11.10.16_am_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 584,
+                "image_exif_rotation": 1,
+                "original_w": 2276,
+                "original_h": 1298,
+                "thumb_tiny": "AwAbADC59kt/+eQo+x2//PJamOc0tAEH2O3/AOeS1Tv4I4tnloFznNadUNU/5Z8460AUMD/9VAGOlJx60uMd6AN7vSFgvU4pGRWOWGaTyY/7ooHoOBDdDmqGq/8ALL8f6VfVVUYUYFUNV/5Zfj/SgRnU80yn0Af/2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010059R6BT/F010ZTM5BEC/screen_shot_2020-03-29_at_11.10.16_am.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010ZTM5BEC-7d98ce02c2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k3H6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No luck "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010059R6BT",
+        "display_as_bot": false,
+        "ts": "1585498257.064200",
+        "client_msg_id": "92949702-cf5f-48b9-9eb9-0719b3a4544e",
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "617ec1aa-a072-4178-b133-e87f82957f82",
+        "type": "message",
+        "text": "<@U01078QCG2C>, I'd like to get involved as well",
+        "user": "U010UJ2C1FS",
+        "ts": "1585498402.064600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3HYNT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I'd like to get involved as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01078QCG2C",
+                    "U01051X26HJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d72277d8-e5b6-45a2-924e-c813a3cea688",
+        "type": "message",
+        "text": "ok, plan is to give everyone on this thread a call at 12pm CST (in ~45 minutes)",
+        "user": "U01078QCG2C",
+        "ts": "1585498468.064900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CJaI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, plan is to give everyone on this thread a call at 12pm CST (in ~45 minutes)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "e28374a5-de29-4e2d-a868-be6232ddc139",
+        "type": "message",
+        "text": "<@U010059R6BT> please ask <@U010N3BFN4F>",
+        "user": "U01051X26HJ",
+        "ts": "1585498593.065200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01051X26HJ",
+            "ts": "1585498684.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+f2xv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010059R6BT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please ask "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010N3BFN4F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010059R6BT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06a0ece8-28ca-4695-9f8d-0e1666fbcc30",
+        "type": "message",
+        "text": "<@U01051X26HJ> did it work for you?",
+        "user": "U010N3BFN4F",
+        "ts": "1585498732.065600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7K3A9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did it work for you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "fa3afe33-fb9e-4823-a4aa-dcc551aba252",
+        "type": "message",
+        "text": "The credentials work. Have you tested it with your latest changes?",
+        "user": "U010N3BFN4F",
+        "ts": "1585498757.065800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xIMj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The credentials work. Have you tested it with your latest changes?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "29dc7dd1-e126-4ded-8bcc-398ca74e1100",
+        "type": "message",
+        "text": "Yes It works",
+        "user": "U01051X26HJ",
+        "ts": "1585499027.066000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RuWd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes It works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "bb523bae-c9a9-4468-a832-e73a41e898ab",
+        "type": "message",
+        "text": "Just checked it",
+        "user": "U01051X26HJ",
+        "ts": "1585499029.066200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MCrf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just checked it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "8734bbc9-7c35-40f9-8868-4fdefb923a43",
+        "type": "message",
+        "text": "<@U010059R6BT> do you have the latest changes? And password is uppercase E",
+        "user": "U010N3BFN4F",
+        "ts": "1585499320.066400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DP2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010059R6BT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you have the latest changes? And password is uppercase E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "0d81093c-f5ba-4ef8-8196-80bd9e5c59cc",
+        "type": "message",
+        "text": "Thanks <@U010N3BFN4F> - It works now.",
+        "user": "U010059R6BT",
+        "ts": "1585499457.066600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5hZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010N3BFN4F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - It works now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "c1fb5517-b08e-44ef-bbf2-234cdcab165c",
+        "type": "message",
+        "text": "<https://hangouts.google.com/call/0GksHaaWCYVNNt_87v2FAEEE>",
+        "user": "U01078QCG2C",
+        "ts": "1585501205.067000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p2gFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://hangouts.google.com/call/0GksHaaWCYVNNt_87v2FAEEE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "c2bd454e-abe9-47a4-bd99-29b9fd3a0437",
+        "type": "message",
+        "text": "Link to enter call",
+        "user": "U01078QCG2C",
+        "ts": "1585501223.067300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H4jXn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Link to enter call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "71736fd1-c408-42f6-824d-a952a04e25fb",
+        "type": "message",
+        "text": "<https://public.tableau.com/profile/mahletkonjitsolomon#!/vizhome/EthiopiaCOVID-19Cases/AfricaCOVID19Cases>",
+        "user": "U010UJ2C1FS",
+        "ts": "1585503629.067900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Mahlet Konjit-Solomon - Profile | Tableau Public",
+                "title_link": "https://public.tableau.com/profile/mahletkonjitsolomon#!/vizhome/EthiopiaCOVID-19Cases/AfricaCOVID19Cases",
+                "text": "Mahlet Konjit-Solomon\u2019s Tableau Public author profile page. See interactive data visualizations published by this author.",
+                "fallback": "Mahlet Konjit-Solomon - Profile | Tableau Public",
+                "thumb_url": "https://gravatar.com/avatar/d3c3b6382b0c3d2eb5c9b85d74e4d7d5?default=mm&size=150",
+                "from_url": "https://public.tableau.com/profile/mahletkonjitsolomon#!/vizhome/EthiopiaCOVID-19Cases/AfricaCOVID19Cases",
+                "thumb_width": 150,
+                "thumb_height": 150,
+                "service_icon": "https://public.tableau.com/s/favicon.ico",
+                "service_name": "public.tableau.com",
+                "id": 1,
+                "original_url": "https://public.tableau.com/profile/mahletkonjitsolomon#!/vizhome/EthiopiaCOVID-19Cases/AfricaCOVID19Cases"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GE/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://public.tableau.com/profile/mahletkonjitsolomon#!/vizhome/EthiopiaCOVID-19Cases/AfricaCOVID19Cases"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "type": "message",
+        "text": "<@U010T8D05UM> was considering the implementation of a network graph for contact tracing as part of the visualizer. Do you think this is an essential feature or just nice to have? I'm using <https://zoomcharts.com/en/chart-types-demo/grouped-network-chart-using-netchart>",
+        "files": [
+            {
+                "id": "F0111RNCSDU",
+                "created": 1585503959,
+                "timestamp": 1585503959,
+                "name": "ContractTracing.mov",
+                "title": "ContactTracing.mov",
+                "mimetype": "video/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U010FJJH4DC",
+                "editable": false,
+                "size": 7935088,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0111RNCSDU/contracttracing.mov",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0111RNCSDU/download/contracttracing.mov",
+                "thumb_video": "https://files.slack.com/files-tmb/TV5KELEUS-F0111RNCSDU-68cdf944fa/contracttracing_thumb_video.jpeg",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010FJJH4DC/F0111RNCSDU/contracttracing.mov",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0111RNCSDU-5dc0eefa1a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y4rJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010T8D05UM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " was considering the implementation of a network graph for contact tracing as part of the visualizer. Do you think this is an essential feature or just nice to have? I'm using "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://zoomcharts.com/en/chart-types-demo/grouped-network-chart-using-netchart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010FJJH4DC",
+        "display_as_bot": false,
+        "ts": "1585504016.068200",
+        "client_msg_id": "e2b75a60-d2e7-4089-9714-11e2c8d9a600",
+        "thread_ts": "1585504016.068200",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1585513203.070400",
+        "reply_users": [
+            "U010T8D05UM",
+            "U010FJJH4DC"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "88987711-cb8f-4f91-88f4-3d116dbc284d",
+        "type": "message",
+        "text": "Oops, I missed the call",
+        "user": "U010FJJH4DC",
+        "ts": "1585504188.068600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nvVI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oops, I missed the call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    },
+    {
+        "client_msg_id": "db700612-098e-4498-978a-89ca17950271",
+        "type": "message",
+        "text": "This is an amazing tool. For epidemiologists considering contact tracing and containment at an early stage, something like this would be invaluable. I would stop short of saying this is essential because the same information could be reconstructed from raw data, but this takes out a lot of the mental legwork in seeing the progress of cluster spreading patterns.",
+        "user": "U010T8D05UM",
+        "ts": "1585504337.068800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fefV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is an amazing tool. For epidemiologists considering contact tracing and containment at an early stage, something like this would be invaluable. I would stop short of saying this is essential because the same information could be reconstructed from raw data, but this takes out a lot of the mental legwork in seeing the progress of cluster spreading patterns."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585504016.068200",
+        "parent_user_id": "U010FJJH4DC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010FJJH4DC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bafb6c4b-01c5-4d11-858f-6518903872d3",
+        "type": "message",
+        "text": "The only concern I have is how this would be constructed. At the moment, the forms are collecting limited data on date of symptom onset, contact history, or genetic similarity of virus strains. I'm not sure how well we could establish epidemiological links between cases like those depicted in the map. Do you have a plan for that?",
+        "user": "U010T8D05UM",
+        "ts": "1585504685.069100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The only concern I have is how this would be constructed. At the moment, the forms are collecting limited data on date of symptom onset, contact history, or genetic similarity of virus strains. I'm not sure how well we could establish epidemiological links between cases like those depicted in the map. Do you have a plan for that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585504016.068200",
+        "parent_user_id": "U010FJJH4DC"
+    },
+    {
+        "client_msg_id": "0825c93b-88be-4fda-9fb5-87c8d2f030e0",
+        "type": "message",
+        "text": "Was AFK, good question. What does the contact history look like? Is the data available?",
+        "user": "U010FJJH4DC",
+        "ts": "1585506115.069300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rYB0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Was AFK, good question. What does the contact history look like? Is the data available?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585504016.068200",
+        "parent_user_id": "U010FJJH4DC"
+    },
+    {
+        "client_msg_id": "4a610b3f-ff3f-4134-9f92-933b56a7d3a1",
+        "type": "message",
+        "text": "<@UV8B0679P>, can i get an invite to the repo pls",
+        "user": "U010UJ2C1FS",
+        "ts": "1585506877.069900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010UJ2C1FS",
+            "ts": "1585506884.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G35AT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", can i get an invite to the repo pls"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3af6d7f-ed9d-4c69-91d0-4bc7cd9e36c7",
+        "type": "message",
+        "text": "my handle is `yohannesHL`",
+        "user": "U010UJ2C1FS",
+        "ts": "1585506905.070300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ttbO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my handle is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "yohannesHL",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5de1c148-ad94-48b1-97a8-313dffdbaedc",
+        "type": "message",
+        "text": "I'm not sure that it is at the moment. We would have to have some field in the database of cases that cross-references each case with others with whom they had contact. We could automatically generate that for cases linked within a household by cross-referencing address fields. For cases linked by community contact, that's not really possible at the moment with the level of information available in the forms. We could indicate suspected linkage between community cases by grouping by color cases in the same region, but we couldn't draw links between them.",
+        "user": "U010T8D05UM",
+        "ts": "1585513203.070400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G2DN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure that it is at the moment. We would have to have some field in the database of cases that cross-references each case with others with whom they had contact. We could automatically generate that for cases linked within a household by cross-referencing address fields. For cases linked by community contact, that's not really possible at the moment with the level of information available in the forms. We could indicate suspected linkage between community cases by grouping by color cases in the same region, but we couldn't draw links between them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585504016.068200",
+        "parent_user_id": "U010FJJH4DC"
+    },
+    {
+        "client_msg_id": "62f3cc63-8b1e-445c-8609-e84f0d4e040b",
+        "type": "message",
+        "text": "any of you guys able to move tickets in the project yet?",
+        "user": "U01078QCG2C",
+        "ts": "1585514827.070600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Vh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any of you guys able to move tickets in the project yet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585490892.061700",
+        "parent_user_id": "U010N3BFN4F"
+    }
+]

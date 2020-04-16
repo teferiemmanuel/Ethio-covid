@@ -1,0 +1,394 @@
+[
+    {
+        "client_msg_id": "8065653e-cade-42e3-bff8-5c05c480edf4",
+        "type": "message",
+        "text": "*<!channel>\u00a0*<#C010J0503QD|proj-testing-kits>\u00a0team is in the ideation phase of potentially building a covid-19 test kit -\u00a0_*Made in Ethiopia*_\u00a0:flag-et:.\n\nWe would like to gather some information to build a solid team for this. We will need to brainstorm and determine the feasibility required to build this in a timely fashion.\n\nKenyans have<https://twitter.com/KEMRI_Kenya/status/1247837553765613570/photo/1|\u00a0built their own testing>\u00a0and we could learn from what they have done.\n\nPlease answer the questions in the form if you are a medical doctor, laboratory technician, have any experience with biomedical equipment, virology, skills with usability testing, biochemistry, biology, biomedical sciences with lab experiences.\nPlease share the link to the form with anyone who would be interested in this project and can dedicate the time required to build it.\n\nWe will set up the meeting after reviewing the responses we receive.\n\nLink to google form -\u00a0<https://forms.gle/FG5J5Hwgq8fAzdZa9>",
+        "user": "U0107JERE9L",
+        "ts": "1586822724.337600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/KEMRI_Kenya|@KEMRI_Kenya>: In today's paper:arrow_heading_down:\n\n'New tech at Kemri to enable Kenya to mass test for virus'\n\nDaily Nation <https://twitter.com/dailynation|@dailynation> : <https://bit.ly/2x3iHO3>\n\n<https://twitter.com/KEMRI_Wellcome|@KEMRI_Wellcome> <https://twitter.com/IDeAL_KEMRI_WT|@IDeAL_KEMRI_WT> <https://twitter.com/veclab_KEMRI_WT|@veclab_KEMRI_WT> <https://twitter.com/MOH_Kenya|@MOH_Kenya> <https://twitter.com/SpokespersonGoK|@SpokespersonGoK> <https://pbs.twimg.com/media/EVE1gMcU8AAJBnJ.jpg>",
+                "ts": 1586342631,
+                "author_name": "Kenya Medical Research Institute",
+                "author_link": "https://twitter.com/KEMRI_Kenya/status/1247837553765613570",
+                "author_icon": "https://pbs.twimg.com/profile_images/738720362771288065/yONFELN8_normal.jpg",
+                "author_subname": "@KEMRI_Kenya",
+                "text": "In today's paper:arrow_heading_down:\n\n'New tech at Kemri to enable Kenya to mass test for virus'\n\nDaily Nation <https://twitter.com/dailynation|@dailynation> : <https://bit.ly/2x3iHO3>\n\n<https://twitter.com/KEMRI_Wellcome|@KEMRI_Wellcome> <https://twitter.com/IDeAL_KEMRI_WT|@IDeAL_KEMRI_WT> <https://twitter.com/veclab_KEMRI_WT|@veclab_KEMRI_WT> <https://twitter.com/MOH_Kenya|@MOH_Kenya> <https://twitter.com/SpokespersonGoK|@SpokespersonGoK> <https://pbs.twimg.com/media/EVE1gMcU8AAJBnJ.jpg>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/KEMRI_Kenya/status/1247837553765613570/photo/1",
+                "image_url": "https://pbs.twimg.com/media/EVE1gMcU8AAJBnJ.jpg",
+                "image_width": 1200,
+                "image_height": 900,
+                "image_bytes": 348209,
+                "id": 1,
+                "original_url": "https://twitter.com/KEMRI_Kenya/status/1247837553765613570/photo/1",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            },
+            {
+                "service_name": "Google Docs",
+                "title": "EthioCovid19 Response Team: Test Kit Volunteer form",
+                "title_link": "https://forms.gle/FG5J5Hwgq8fAzdZa9",
+                "text": "The Ethiopia COVID-19 Response Team (ECRT) is a global volunteer team of engineers, doctors, designers, marketers, architects, product managers, and other industry professionals. We have mobilized to build and support over 15+ open source projects to combat COVID-19. We are asking for your help in creating a COVID-19 test kit to be built in Ethiopia to mitigate the current shortage enable and aid in the fight against the pandemic. Please fill out the questions below. If you do not have experience in any of the methods currently on this list, please add your expertise in the \"Other\" box at the end of the form. Finally, please share with anyone who you think might be interested. Stay safe--thank you.",
+                "fallback": "Google Docs: EthioCovid19 Response Team: Test Kit Volunteer form",
+                "image_url": "https://lh5.googleusercontent.com/sFfc2f_9Tas0WqIKrT6wyY6xaCMYGEMwuFUAuoiTS0ytA5JXfe53n-o_KiLD9qsc5m2hxHE",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https://forms.gle/FG5J5Hwgq8fAzdZa9",
+                "image_bytes": 118698,
+                "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+                "id": 2,
+                "original_url": "https://forms.gle/FG5J5Hwgq8fAzdZa9"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ixLA=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010J0503QD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0team is in the ideation phase of potentially building a covid-19 test kit -\u00a0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Made in Ethiopia\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flag-et",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nWe would like to gather some information to build a solid team for this. We will need to brainstorm and determine the feasibility required to build this in a timely fashion.\n\nKenyans have"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/KEMRI_Kenya/status/1247837553765613570/photo/1",
+                                "text": "\u00a0built their own testing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0and we could learn from what they have done.\n\nPlease answer the questions in the form if you are a medical doctor, laboratory technician, have any experience with biomedical equipment, virology, skills with usability testing, biochemistry, biology, biomedical sciences with lab experiences.\nPlease share the link to the form with anyone who would be interested in this project and can dedicate the time required to build it.\n\nWe will set up the meeting after reviewing the responses we receive.\n\nLink to google form -\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://forms.gle/FG5J5Hwgq8fAzdZa9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U010986778X",
+                    "U010EDFHFGU",
+                    "U0102QX78GH",
+                    "U0111JYSE23",
+                    "U0106M26108",
+                    "U0107A7161E",
+                    "UVB9ZSPCH",
+                    "UV9A3SXC1",
+                    "U011JC1RXGE",
+                    "U011BGST4BG",
+                    "U01084NU2NL",
+                    "U0103EHQLEM"
+                ],
+                "count": 12
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0107JEHBEJ",
+                    "UVAL943JP",
+                    "U0106M26108",
+                    "U0107A7161E",
+                    "UVB9ZSPCH",
+                    "U01084NU2NL"
+                ],
+                "count": 6
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0106M26108",
+                    "U0107A7161E",
+                    "UVB9ZSPCH",
+                    "U01084NU2NL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fist::skin-tone-4",
+                "users": [
+                    "U0106M26108",
+                    "U0107A7161E",
+                    "UVB9ZSPCH",
+                    "U01084NU2NL"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel> Reminder for today's Demo Day happening in 1 hour! <https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586738999333400>\n\nyou can follow-along during the call using these <https://docs.google.com/document/d/1JmKvWJRqNxiVK5tNM-vG2q5kIASraq0CCfPHqvEs1GY/edit|meeting minutes>\nthe recording will be posted <https://drive.google.com/drive/folders/1lXzJDpfFMMCOLIycOxtXl_Yk57H28rKt|here> afterwards",
+        "files": [
+            {
+                "id": "F011JRT32BG",
+                "created": 1586540958,
+                "timestamp": 1586540958,
+                "name": "4",
+                "title": "4.10 All-Hands #7 Agenda + Minutes",
+                "mimetype": "application/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "GSuite Document",
+                "user": "U0107A7161E",
+                "editable": false,
+                "size": 3220,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/document/d/1JmKvWJRqNxiVK5tNM-vG2q5kIASraq0CCfPHqvEs1GY/edit",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011JRT32BG-2b7cb97735/4_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011JRT32BG-2b7cb97735/4_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011JRT32BG-2b7cb97735/4_360.png",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011JRT32BG-2b7cb97735/4_480.png",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011JRT32BG-2b7cb97735/4_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011JRT32BG-2b7cb97735/4_720.png",
+                "thumb_720_w": 557,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011JRT32BG-2b7cb97735/4_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011JRT32BG-2b7cb97735/4_960.png",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011JRT32BG-2b7cb97735/4_1024.png",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 1035,
+                "thumb_tiny": "AwAwACXRy2TjFOHTmsWRj/amMnHmD+dbDDBoAdRTQQKXg9qAFooooAxpdv8AaXv5o/nWscg9ax5P+Qr/ANtR/OtogfSgBMtS46c0gPvSigBaKKKAMST/AJCv/bUfzrZY54rOeymN/wCaFGzeDnPatEjnOKAFyfSjnvRz6Uc+lAC0UUUAf//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107A7161E/F011JRT32BG/4",
+                "is_starred": false,
+                "external_id": "1JmKvWJRqNxiVK5tNM-vG2q5kIASraq0CCfPHqvEs1GY",
+                "external_url": "https://docs.google.com/document/d/1JmKvWJRqNxiVK5tNM-vG2q5kIASraq0CCfPHqvEs1GY/edit",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fziSa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Reminder for today's Demo Day happening in 1 hour! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586738999333400"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nyou can follow-along during the call using these "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1JmKvWJRqNxiVK5tNM-vG2q5kIASraq0CCfPHqvEs1GY/edit",
+                                "text": "meeting minutes"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthe recording will be posted "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1lXzJDpfFMMCOLIycOxtXl_Yk57H28rKt",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " afterwards"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "x_files": [
+            "F011JRT32BG"
+        ],
+        "ts": "1586884801.344400",
+        "client_msg_id": "d05cc63e-a527-4878-8e11-f8f686692a2c",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586738999333400",
+                "fallback": "[April 12th, 2020 5:49 PM] samralakew: <!channel> Demo-day for Sprint #3 is Tuesday at 11:30AM PST/2:30 EST/9:30PM -- we are going to be alternating times so that our teammates in Europe and Ethiopian can join us! --&gt; meeting link: <https://mit.zoom.us/j/99168062759>",
+                "ts": "1586738999.333400",
+                "author_id": "U0107A7161E",
+                "author_subname": "Samra Lakew",
+                "channel_id": "C010695DKMM",
+                "channel_name": "all-broadcast",
+                "is_msg_unfurl": true,
+                "text": "<!channel> Demo-day for Sprint #3 is Tuesday at 11:30AM PST/2:30 EST/9:30PM -- we are going to be alternating times so that our teammates in Europe and Ethiopian can join us! --&gt; meeting link: <https://mit.zoom.us/j/99168062759>",
+                "author_name": "Samra Lakew",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107A7161E",
+                "author_icon": "https://avatars.slack-edge.com/2020-04-14/1066853158260_c5999e1ff390542eeafd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586738999333400",
+                "footer": "Posted in #all-broadcast"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U0105CS9G93",
+                    "U011RRRMPGS",
+                    "U0106M26108",
+                    "U010A8YEUP9",
+                    "U0109ELFV4Y",
+                    "U0107MQG4SV"
+                ],
+                "count": 7
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UV8B0679P",
+                    "U0105CS9G93",
+                    "U011RRRMPGS",
+                    "U0106M26108"
+                ],
+                "count": 4
+            },
+            {
+                "name": "100",
+                "users": [
+                    "UV8B0679P",
+                    "U011RRRMPGS",
+                    "U0106M26108"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U011RRRMPGS",
+                    "U0106M26108"
+                ],
+                "count": 3
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "UV8B0679P",
+                    "U0106M26108",
+                    "U010GUEQVPF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "reminder_add",
+        "text": " set up a reminder \u201cDemo Day https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586738999333400\u201d in this channel at 2:30PM today, Eastern Daylight Time.",
+        "user": "UV8B0679P",
+        "ts": "1586885981.347300"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "Reminder: Demo Day <https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586738999333400>",
+        "user": "USLACKBOT",
+        "ts": "1586889030.348100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "B01",
+            "ts": "1586889031.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586738999333400",
+                "fallback": "[April 12th, 2020 5:49 PM] samralakew: <!channel> Demo-day for Sprint #3 is Tuesday at 11:30AM PST/2:30 EST/9:30PM -- we are going to be alternating times so that our teammates in Europe and Ethiopian can join us! --&gt; meeting link: <https://mit.zoom.us/j/99168062759>",
+                "ts": "1586738999.333400",
+                "author_id": "U0107A7161E",
+                "author_subname": "Samra Lakew",
+                "channel_id": "C010695DKMM",
+                "channel_name": "all-broadcast",
+                "is_msg_unfurl": true,
+                "text": "<!channel> Demo-day for Sprint #3 is Tuesday at 11:30AM PST/2:30 EST/9:30PM -- we are going to be alternating times so that our teammates in Europe and Ethiopian can join us! --&gt; meeting link: <https://mit.zoom.us/j/99168062759>",
+                "author_name": "Samra Lakew",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107A7161E",
+                "author_icon": "https://avatars.slack-edge.com/2020-04-14/1066853158260_c5999e1ff390542eeafd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C010695DKMM/p1586738999333400",
+                "footer": "Posted in #all-broadcast"
+            }
+        ]
+    }
+]

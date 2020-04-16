@@ -1,0 +1,564 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585483771.000200",
+        "user": "U010UJ2C1FS",
+        "text": "<@U010UJ2C1FS> has joined the channel"
+    },
+    {
+        "client_msg_id": "000AB3F7-3F78-4C3B-A6EF-1AC996499592",
+        "type": "message",
+        "text": "<https://2019.makerfairerome.eu/en/intensive-care-pod-within-a-shipping-container/|https://2019.makerfairerome.eu/en/intensive-care-pod-within-a-shipping-container/>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585497908.000400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Maker Faire Rome",
+                "title": "Intensive-care pod within a shipping container - Maker Faire Rome",
+                "title_link": "https://2019.makerfairerome.eu/en/intensive-care-pod-within-a-shipping-container/",
+                "text": "Italian architects Carlo Ratti and Italo Rota have designed an intensive-care pod within a shipping container that could be added to hospitals\u00a0 by",
+                "fallback": "Maker Faire Rome: Intensive-care pod within a shipping container - Maker Faire Rome",
+                "image_url": "https://2019.makerfairerome.eu/wp-content/uploads/2020/03/Dezeen.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1585131418,
+                "from_url": "https://2019.makerfairerome.eu/en/intensive-care-pod-within-a-shipping-container/",
+                "image_bytes": 130959,
+                "service_icon": "https://2019.makerfairerome.eu/wp-content/themes/mfr19/img/favicon.ico",
+                "id": 1,
+                "original_url": "https://2019.makerfairerome.eu/en/intensive-care-pod-within-a-shipping-container/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2M=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://2019.makerfairerome.eu/en/intensive-care-pod-within-a-shipping-container/",
+                                "text": "https://2019.makerfairerome.eu/en/intensive-care-pod-within-a-shipping-container/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2835B53D-795C-4B38-8EFA-F4BBD0C1ECCA",
+        "type": "message",
+        "text": "CURA: open-source design for emergency COVID-19 hospitals\n \nCURA (Connected Units for Respiratory Ailments) aims to convert shipping containers into plug-in Intensive-Care Pods for the COVID-19 pandemic. The units could be as fast to mount as a hospital tent, but as safe as an isolation ward, thanks to biocontainment with negative pressure. The first unit \u2013 whose open-source design has been initiated by an international task force of architects, engineers, doctors, military experts and NGOs and is open to further contributions - is currently being built in Milan, Italy, with the sponsorship of UniCredit\n \n \nMarch 27th, 2020 - FOR IMMEDIATE RELEASE. Hi-res images and more information are available upon request. Please write to <mailto:pr@carloratti.com|pr@carloratti.com> or visit <http://www.CURApods.org|www.CURApods.org>\n \nAmidst the COVID-19 pandemic, an international task force of designers, engineers, medical professionals, and\nmilitary experts have joined forces to work on CURA, an open-source project aimed at capacity building in\nIntensive-Care Units (ICU). The first prototype of CURA, whose name stands for Connected Units for Respiratory\nAilments (and also \u201ccure\u201d in Latin), is currently being built in Milan, Italy, with the sponsorship of European bank\nUniCredit. It uses repurposed shipping containers to create plug-in biocontainment pods that can be quickly\ndeployed in cities around the world, promptly responding to the shortage of ICU space in hospitals and the spread\nof the disease.\n \n \n(For the list of CURA\u2019s initial contributors, see below)\n \nCURA is a compact Intensive-Care pod for patients with respiratory infections, hosted in a 20-foot intermodal\ncontainer with biocontainment (thanks to negative pressure). Each unit works autonomously and can be shipped\nanywhere. Individual pods are connected by an inflatable structure to create multiple modular configurations (from\n4 beds to over 40), which can be deployed in just a few hours. Some pods can be placed in proximity to a hospital\n(e.g. in parking lots) to expand the ICU capacity, while others could be used to create self-standing field hospitals\nof varying sizes.\n \nCURA aims to improve the efficiency of existing solutions in the design of field hospitals, tailoring them to the\ncurrent pandemic. In the last weeks, hospitals in the countries most affected by COVID-19, from China to Italy,\nSpain to the USA, have been struggling to increase their ICU capacity to admit a growing number of patients with\nsevere respiratory diseases, in need of ventilators. Whatever the evolution of this pandemic, it is expected that\nmore ICUs will be needed internationally in the next few months.",
+        "user": "UVB9ZSPCH",
+        "ts": "1585498621.001400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f+9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CURA: open-source design for emergency COVID-19 hospitals\n \nCURA (Connected Units for Respiratory Ailments) aims to convert shipping containers into plug-in Intensive-Care Pods for the COVID-19 pandemic. The units could be as fast to mount as a hospital tent, but as safe as an isolation ward, thanks to biocontainment with negative pressure. The first unit \u2013 whose open-source design has been initiated by an international task force of architects, engineers, doctors, military experts and NGOs and is open to further contributions - is currently being built in Milan, Italy, with the sponsorship of UniCredit\n \n \nMarch 27th, 2020 - FOR IMMEDIATE RELEASE. Hi-res images and more information are available upon request. Please write to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:pr@carloratti.com",
+                                "text": "pr@carloratti.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or visit "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.CURApods.org",
+                                "text": "www.CURApods.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n \nAmidst the COVID-19 pandemic, an international task force of designers, engineers, medical professionals, and\nmilitary experts have joined forces to work on CURA, an open-source project aimed at capacity building in\nIntensive-Care Units (ICU). The first prototype of CURA, whose name stands for Connected Units for Respiratory\nAilments (and also \u201ccure\u201d in Latin), is currently being built in Milan, Italy, with the sponsorship of European bank\nUniCredit. It uses repurposed shipping containers to create plug-in biocontainment pods that can be quickly\ndeployed in cities around the world, promptly responding to the shortage of ICU space in hospitals and the spread\nof the disease.\n \n \n(For the list of CURA\u2019s initial contributors, see below)\n \nCURA is a compact Intensive-Care pod for patients with respiratory infections, hosted in a 20-foot intermodal\ncontainer with biocontainment (thanks to negative pressure). Each unit works autonomously and can be shipped\nanywhere. Individual pods are connected by an inflatable structure to create multiple modular configurations (from\n4 beds to over 40), which can be deployed in just a few hours. Some pods can be placed in proximity to a hospital\n(e.g. in parking lots) to expand the ICU capacity, while others could be used to create self-standing field hospitals\nof varying sizes.\n \nCURA aims to improve the efficiency of existing solutions in the design of field hospitals, tailoring them to the\ncurrent pandemic. In the last weeks, hospitals in the countries most affected by COVID-19, from China to Italy,\nSpain to the USA, have been struggling to increase their ICU capacity to admit a growing number of patients with\nsevere respiratory diseases, in need of ventilators. Whatever the evolution of this pandemic, it is expected that\nmore ICUs will be needed internationally in the next few months."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F303EFBB-0C5E-4640-9C00-F005F5A22449",
+        "type": "message",
+        "text": "The response to the emergency in China and Italy so far has been to set up makeshift emergency hospitals such\nas tents, or build new prefabricated wards with biocontainment. While the latter option is time and\nresource-intensive, the former one exposes medical professionals to a higher risk of contamination and adds\noperational strain, especially in the long run. Learning from both approaches, CURA strives to be as fast to mount\nas a hospital tent, but as safe as a hospital\u2019s isolation ward to work in, thanks to biocontainment (an extractor\ncreates indoor negative pressure, complying with the standards of Airborne Infection Isolation Rooms AIIRs). It\nfollows the standards for COVID-19 hospitals issued by the Chinese authorities, while speeding up execution.\n \nEach CURA pod would contain all the medical equipment needed for two COVID-19 intensive-care patients \u2013\nincluding ventilators and intravenous fluids stands. All units can be connected by an inflatable corridor. The first\nCURA pod is being built for test at a hospital in Milan, Italy.\n \nCURA pods are being conceived as a ready-to-use solution. Shipping containers can easily be moved through\ndifferent modes of transport - from ship to rail to truck - and re-used in different parts of the world, adapting to the\nneeds and capacity of the local healthcare infrastructure.\n \nCURA is developed in an open-source, non-for-profit framework and solicits suggestions and improvements.\nContributors to date are listed below in chronological order. More information is available on  <http://www.CURApods.org|www.CURApods.org>\n ",
+        "user": "UVB9ZSPCH",
+        "ts": "1585498637.001600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=b+MH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The response to the emergency in China and Italy so far has been to set up makeshift emergency hospitals such\nas tents, or build new prefabricated wards with biocontainment. While the latter option is time and\nresource-intensive, the former one exposes medical professionals to a higher risk of contamination and adds\noperational strain, especially in the long run. Learning from both approaches, CURA strives to be as fast to mount\nas a hospital tent, but as safe as a hospital\u2019s isolation ward to work in, thanks to biocontainment (an extractor\ncreates indoor negative pressure, complying with the standards of Airborne Infection Isolation Rooms AIIRs). It\nfollows the standards for COVID-19 hospitals issued by the Chinese authorities, while speeding up execution.\n \nEach CURA pod would contain all the medical equipment needed for two COVID-19 intensive-care patients \u2013\nincluding ventilators and intravenous fluids stands. All units can be connected by an inflatable corridor. The first\nCURA pod is being built for test at a hospital in Milan, Italy.\n \nCURA pods are being conceived as a ready-to-use solution. Shipping containers can easily be moved through\ndifferent modes of transport - from ship to rail to truck - and re-used in different parts of the world, adapting to the\nneeds and capacity of the local healthcare infrastructure.\n \nCURA is developed in an open-source, non-for-profit framework and solicits suggestions and improvements.\nContributors to date are listed below in chronological order. More information is available on  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.CURApods.org",
+                                "text": "www.CURApods.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6FB3534E-5BF8-4FEA-A51D-5647F1E89721",
+        "type": "message",
+        "text": "CREDITS\n \nCURA-Connected Units for Respiratory Ailments\n<http://www.CURApods.org|www.CURApods.org>\n \nThe first prototype of CURA, to be developed in Milan, Italy, is sponsored by UniCredit bank\n \nList of people and organizations who have contributed thus far to CURA (in chronological order):\nCRA-Carlo Ratti Associati with Italo Rota (Design and Innovation), Humanitas Research Hospital (Medical Engineering), Policlinico di Milano (Medical Consultancy), Jacobs (Alberto Riva - Master Planning, Design, Construction and Logistics Support Services), MIT Senseable City Lab (Research), Studio FM Milano (Visual Identity &amp; Graphic Design), Squint/Opera (Digital Media), IEC Engineering (Fulvio Sabato - Safety and Certifications), Alex Neame of Team Rubicon UK (Logistics), Ivan Pavanello of Projema (MEP Engineering), Dr. Maurizio Lanfranco of Ospedale Cottolengo (Medical Consultancy)\n \nWith the support of the World Economic Forum: COVID-19 Action Platform, and Cities, Infrastructure and Urban Services Platform\n \nCURA is an open-source project.\nTo share ideas or suggestions, visit the website <http://www.CURApods.org|www.CURApods.org> to contact us",
+        "user": "UVB9ZSPCH",
+        "ts": "1585498652.001800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Acbho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CREDITS\n \nCURA-Connected Units for Respiratory Ailments\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.CURApods.org",
+                                "text": "www.CURApods.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n \nThe first prototype of CURA, to be developed in Milan, Italy, is sponsored by UniCredit bank\n \nList of people and organizations who have contributed thus far to CURA (in chronological order):\nCRA-Carlo Ratti Associati with Italo Rota (Design and Innovation), Humanitas Research Hospital (Medical Engineering), Policlinico di Milano (Medical Consultancy), Jacobs (Alberto Riva - Master Planning, Design, Construction and Logistics Support Services), MIT Senseable City Lab (Research), Studio FM Milano (Visual Identity & Graphic Design), Squint/Opera (Digital Media), IEC Engineering (Fulvio Sabato - Safety and Certifications), Alex Neame of Team Rubicon UK (Logistics), Ivan Pavanello of Projema (MEP Engineering), Dr. Maurizio Lanfranco of Ospedale Cottolengo (Medical Consultancy)\n \nWith the support of the World Economic Forum: COVID-19 Action Platform, and Cities, Infrastructure and Urban Services Platform\n \nCURA is an open-source project.\nTo share ideas or suggestions, visit the website "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.CURApods.org",
+                                "text": "www.CURApods.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to contact us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7E3F05DA-2095-40E7-87C0-72DA531277D1",
+        "type": "message",
+        "text": "<https://www.fastcompany.com/90480139/3-things-hospitals-can-do-right-now-to-prepare-for-covid-19|https://www.fastcompany.com/90480139/3-things-hospitals-can-do-right-now-to-prepare-for-covid-19>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585498745.002000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Fast Company",
+                "title": "3 things hospitals can do right now to prepare for COVID-19",
+                "title_link": "https://www.fastcompany.com/90480139/3-things-hospitals-can-do-right-now-to-prepare-for-covid-19",
+                "text": "Architects who specialize in mitigating the transfer of infectious diseases share three design changes hospitals can make right now, as the coronavirus crisis escalates.",
+                "fallback": "Fast Company: 3 things hospitals can do right now to prepare for COVID-19",
+                "image_url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/03/03-designing-for-infection.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1584988227,
+                "from_url": "https://www.fastcompany.com/90480139/3-things-hospitals-can-do-right-now-to-prepare-for-covid-19",
+                "image_bytes": 101504,
+                "service_icon": "https://www.fastcompany.com/apple-touch-icon.png?v=5",
+                "id": 1,
+                "original_url": "https://www.fastcompany.com/90480139/3-things-hospitals-can-do-right-now-to-prepare-for-covid-19"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aD0i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.fastcompany.com/90480139/3-things-hospitals-can-do-right-now-to-prepare-for-covid-19",
+                                "text": "https://www.fastcompany.com/90480139/3-things-hospitals-can-do-right-now-to-prepare-for-covid-19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585499072.002300",
+        "user": "U0100NQPHMY",
+        "text": "<@U0100NQPHMY> has joined the channel"
+    },
+    {
+        "client_msg_id": "DB430ED1-D894-4FA0-9AAF-CA4DEE91665B",
+        "type": "message",
+        "text": "<@U0100NQPHMY> welcome aboard! ",
+        "user": "UVB9ZSPCH",
+        "ts": "1585502226.003100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "btI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0100NQPHMY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " welcome aboard! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5C4E54BF-544F-4A40-BCD0-4E2C3566E601",
+        "type": "message",
+        "text": "I saw that you\u2019re a contractor,are you based in Ethiopia? ",
+        "user": "UVB9ZSPCH",
+        "ts": "1585502350.004500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dm+oQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I saw that you\u2019re a contractor,are you based in Ethiopia? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aab7029d-9e40-47b5-b384-95ad676e76c7",
+        "type": "message",
+        "text": "Yes I am in Ethiopia.",
+        "user": "U0100NQPHMY",
+        "ts": "1585505328.005200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rI0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes I am in Ethiopia."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1CFD7B55-5529-4D1F-8D06-5BE4F7C192A2",
+        "type": "message",
+        "text": "Awesome,feel free to contribute ideas,comment,suggestions... on isolation and quarantine centers design and construction. ",
+        "user": "UVB9ZSPCH",
+        "ts": "1585505451.006600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0oOz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome,feel free to contribute ideas,comment,suggestions... on isolation and quarantine centers design and construction. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585505584.007900",
+        "user": "U010ZJYV6AU",
+        "text": "<@U010ZJYV6AU> has joined the channel"
+    },
+    {
+        "client_msg_id": "d80b3a84-1c59-4baa-aeed-4b1e2ce4be7e",
+        "type": "message",
+        "text": "Its my pleasure, and Do  i have to join the telegram to see those documents?",
+        "user": "U0100NQPHMY",
+        "ts": "1585505656.009600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1xEj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Its my pleasure, and Do  i have to join the telegram to see those documents?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585508940.011000",
+        "user": "U01076AUPNE",
+        "text": "<@U01076AUPNE> has joined the channel"
+    },
+    {
+        "client_msg_id": "979A6DAD-D6F1-467C-ACFA-E9ACDD81D10E",
+        "type": "message",
+        "text": "<https://one.unicreditgroup.eu/latest/unicredit-sponsors-cura-initiative-to-develop-emergency-covid-19-hospitals/|https://one.unicreditgroup.eu/latest/unicredit-sponsors-cura-initiative-to-develop-emergency-covid-19-hospitals/>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585512646.011200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "One UniCredit",
+                "title": "UniCredit sponsors CURA initiative to develop emergency COVID-19 hospitals | One UniCredit",
+                "title_link": "https://one.unicreditgroup.eu/latest/unicredit-sponsors-cura-initiative-to-develop-emergency-covid-19-hospitals/",
+                "text": "(Also in Italian and German)",
+                "fallback": "One UniCredit: UniCredit sponsors CURA initiative to develop emergency COVID-19 hospitals | One UniCredit",
+                "image_url": "https://one.unicreditgroup.eu/wp-content/uploads/2020/03/CORA-6.jpg",
+                "from_url": "https://one.unicreditgroup.eu/latest/unicredit-sponsors-cura-initiative-to-develop-emergency-covid-19-hospitals/",
+                "image_width": 452,
+                "image_height": 250,
+                "image_bytes": 321253,
+                "service_icon": "https://one.unicreditgroup.eu/wp-content/uploads/2020/03/cropped-apple-touch-icon-180x180-1-180x180.png",
+                "id": 1,
+                "original_url": "https://one.unicreditgroup.eu/latest/unicredit-sponsors-cura-initiative-to-develop-emergency-covid-19-hospitals/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gU0A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://one.unicreditgroup.eu/latest/unicredit-sponsors-cura-initiative-to-develop-emergency-covid-19-hospitals/",
+                                "text": "https://one.unicreditgroup.eu/latest/unicredit-sponsors-cura-initiative-to-develop-emergency-covid-19-hospitals/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2BECD6D0-35DC-4071-9966-CDED6DCD4EA5",
+        "type": "message",
+        "text": "<https://www.healthcaredesignmagazine.com/trends/perspectives/tips-for-rapid-room-conversion-to-handle-covid-19-patients/|https://www.healthcaredesignmagazine.com/trends/perspectives/tips-for-rapid-room-conversion-to-handle-covid-19-patients/>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585512798.011500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DM7z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.healthcaredesignmagazine.com/trends/perspectives/tips-for-rapid-room-conversion-to-handle-covid-19-patients/",
+                                "text": "https://www.healthcaredesignmagazine.com/trends/perspectives/tips-for-rapid-room-conversion-to-handle-covid-19-patients/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D071615D-2186-4EA9-B786-0C6478D7D129",
+        "type": "message",
+        "text": "<https://www.ashrae.org/technical-resources/resources|https://www.ashrae.org/technical-resources/resources>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585512981.011700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "COVID-19: Resources Available to Address Concerns",
+                "title_link": "https://www.ashrae.org/technical-resources/resources",
+                "text": "ASHRAE Resources Available to Address COVID-19 Concerns",
+                "fallback": "COVID-19: Resources Available to Address Concerns",
+                "from_url": "https://www.ashrae.org/technical-resources/resources",
+                "service_icon": "https://www.ashrae.org/images/icon_120x120.png",
+                "service_name": "ashrae.org",
+                "id": 1,
+                "original_url": "https://www.ashrae.org/technical-resources/resources"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GhO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.ashrae.org/technical-resources/resources",
+                                "text": "https://www.ashrae.org/technical-resources/resources"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98CF8C86-95A6-4489-A0C5-953C8ED85A92",
+        "type": "message",
+        "text": "<https://www.osha.gov/Publications/OSHA3990.pdf|https://www.osha.gov/Publications/OSHA3990.pdf>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585516357.012000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n/C2V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.osha.gov/Publications/OSHA3990.pdf",
+                                "text": "https://www.osha.gov/Publications/OSHA3990.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "4b4b7ebc-c223-48f4-909c-54cceba1f6c1",
+        "type": "message",
+        "text": "Let me know if you have any questions or areas we can cooperate.",
+        "user": "U010RJ59L0M",
+        "ts": "1585466855.016000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lbuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me know if you have any questions or areas we can cooperate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c013381-78f2-4a58-aab9-68b5f6ff90e7",
+        "type": "message",
+        "text": "Hello everyone, we have discussed with <@U010B7Q6XE0> briefly. Eshi Express is working with wholesale and retailers to help customers get what they want during the lock down probably in a week.",
+        "user": "U010RJ59L0M",
+        "ts": "1585466866.016100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "30Um",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, we have discussed with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " briefly. Eshi Express is working with wholesale and retailers to help customers get what they want during the lock down probably in a week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010B7Q6XE0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585468984.016300",
+        "user": "UV7D89JGJ",
+        "text": "<@UV7D89JGJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585496151.016600",
+        "user": "U010CQ6P9C4",
+        "text": "<@U010CQ6P9C4> has joined the channel"
+    },
+    {
+        "client_msg_id": "4e3f5c97-0b0c-4cd0-ae92-b4502bb7b18c",
+        "type": "message",
+        "text": "Hello all ... as an online marketplace, Addis Mercato is a primary source of products and we're willing to work with delivery partners like Eshi Express and Delivery Addis along with our own logistics services to get goods to folks in Addis and its environs. Addis Mercato has ground service all the way to Adama.",
+        "user": "U010W32U9B2",
+        "ts": "1585505224.020300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+UB3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all ... as an online marketplace, Addis Mercato is a primary source of products and we're willing to work with delivery partners like Eshi Express and Delivery Addis along with our own logistics services to get goods to folks in Addis and its environs. Addis Mercato has ground service all the way to Adama."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01084LG140"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585526245.021000",
+        "user": "U01104Y0RUG",
+        "text": "<@U01104Y0RUG> has joined the channel",
+        "inviter": "U010B7Q6XE0"
+    }
+]

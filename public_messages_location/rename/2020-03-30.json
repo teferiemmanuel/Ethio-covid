@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585578071.264500",
+        "user": "U010K268TV5",
+        "text": "<@U010K268TV5> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585578071.264700",
+        "user": "U010H4Z4YEQ",
+        "text": "<@U010H4Z4YEQ> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "client_msg_id": "859e6590-fb3c-451a-a7f8-bb602e298702",
+        "type": "message",
+        "text": "Open Access to ACM Digital Library During Coronavirus Pandemic\n\n<https://www.acm.org/articles/bulletins/2020/march/dl-access-during-covid-19>",
+        "user": "U01085512G5",
+        "ts": "1585603101.269600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Message from ACM Regarding Open Access to ACM Digital Library during Coronavirus",
+                "title_link": "https://www.acm.org/articles/bulletins/2020/march/dl-access-during-covid-19",
+                "text": "There will be no fees assessed for accessing or downloading work published by ACM through June 30, 2020.",
+                "fallback": "Message from ACM Regarding Open Access to ACM Digital Library during Coronavirus",
+                "image_url": "https://www.acm.org/binaries/content/gallery/acm/ctas/publications/dl-circuit-logo.jpg",
+                "from_url": "https://www.acm.org/articles/bulletins/2020/march/dl-access-during-covid-19",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 93351,
+                "service_icon": "https://www.acm.org/images/favicon.ico?v=10",
+                "service_name": "acm.org",
+                "id": 1,
+                "original_url": "https://www.acm.org/articles/bulletins/2020/march/dl-access-during-covid-19"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/eS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Open Access to ACM Digital Library During Coronavirus Pandemic\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.acm.org/articles/bulletins/2020/march/dl-access-during-covid-19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010KAM1U4E",
+                    "UVB9ZSPCH"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

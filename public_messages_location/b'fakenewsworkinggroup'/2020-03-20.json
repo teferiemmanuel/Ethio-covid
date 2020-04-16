@@ -1,0 +1,71 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584728495.000200",
+        "user": "U01084M48U8",
+        "text": "<@U01084M48U8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584728495.000300",
+        "user": "U01084M48U8",
+        "text": "<@U01084M48U8> set the channel purpose: This specific channel is for those who are interested in to build a took for flittering fake news before and after being broadcasted to our community and intervening thereof.",
+        "purpose": "This specific channel is for those who are interested in to build a took for flittering fake news before and after being broadcasted to our community and intervening thereof."
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584728619.000600",
+        "user": "U0100B5MHDG",
+        "text": "<@U0100B5MHDG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584730189.000800",
+        "user": "U01084LG140",
+        "text": "<@U01084LG140> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584731066.001000",
+        "user": "U010CH2M90F",
+        "text": "<@U010CH2M90F> has joined the channel"
+    },
+    {
+        "client_msg_id": "389600df-b4af-4894-a0b7-16ca14b84969",
+        "type": "message",
+        "text": "I found this COVID19 myth busting page from WHO <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters>\nCould this be used to create a tool to detect keywords about these myths in social media messages (e.g. tweets) and then use an automated (twitter) bot to reply to the message with the correct information? Also incorporating translations of these keywords and applied to the channels that are being used within Ethiopia.",
+        "user": "U01084LG140",
+        "ts": "1584736075.006900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GB4rw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I found this COVID19 myth busting page from WHO "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCould this be used to create a tool to detect keywords about these myths in social media messages (e.g. tweets) and then use an automated (twitter) bot to reply to the message with the correct information? Also incorporating translations of these keywords and applied to the channels that are being used within Ethiopia."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

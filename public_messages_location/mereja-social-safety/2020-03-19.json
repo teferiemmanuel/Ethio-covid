@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584577180.014800",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> set the channel purpose: <https://docs.google.com/document/d/121f49BQBsYGrrJmDFL5A-rrlwgD79x9Os2ln-92gWaE/edit>",
+        "purpose": "<https://docs.google.com/document/d/121f49BQBsYGrrJmDFL5A-rrlwgD79x9Os2ln-92gWaE/edit>"
+    },
+    {
+        "client_msg_id": "c00cc2e8-1eb7-4810-aac8-910947b56ead",
+        "type": "message",
+        "text": "Added Google updates for this channel",
+        "user": "U0106SC3L0L",
+        "ts": "1584582504.015300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bi=br",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Added Google updates for this channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584586709.015500",
+        "user": "U010AAT0414",
+        "text": "<@U010AAT0414> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584625288.015700",
+        "user": "UVC2K4C1F",
+        "text": "<@UVC2K4C1F> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584638485.015900",
+        "user": "U01094QRPSL",
+        "text": "<@U01094QRPSL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584644127.016100",
+        "user": "U010BQSN3EK",
+        "text": "<@U010BQSN3EK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584652492.016300",
+        "user": "U0100B5MHDG",
+        "text": "<@U0100B5MHDG> has joined the channel"
+    }
+]

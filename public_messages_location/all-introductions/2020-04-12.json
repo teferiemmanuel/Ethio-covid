@@ -1,0 +1,481 @@
+[
+    {
+        "client_msg_id": "1d03d5e0-9958-45d6-8b34-a2c1470ba346",
+        "type": "message",
+        "text": "<@U010CLFURT8> sounds good!",
+        "user": "UVALWD1MG",
+        "ts": "1586651981.326100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M5G1w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010CLFURT8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sounds good!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586115085.186300",
+        "parent_user_id": "U011DKAR6SZ"
+    },
+    {
+        "client_msg_id": "f5bd8d85-48e6-453b-856c-2372da3b8c12",
+        "type": "message",
+        "text": "Hello Everyone, my name is Robel and I work as a Project Manager at Initiative Africa in Addis Abeba. I'd be really happy to help out in any way I can.",
+        "user": "U011WDEGFRP",
+        "ts": "1586675910.328900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Everyone, my name is Robel and I work as a Project Manager at Initiative Africa in Addis Abeba. I'd be really happy to help out in any way I can."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1dc0c5c7-1f94-4b51-9870-0c310320b37e",
+        "type": "message",
+        "text": "Hi everyone. Great to become a part of this group and hear about the amazing work everyone is doing. Thank you all! \nMy name is David and I work as general manager at Desert Rose Consultancy plc. We run an industrial laser cutter at our office and workshop in Sarbet, Addis. We've been making PPE face shields for the past few weeks at the request of Drs in Addis. We think we can produce 700-1000 a week. Limited only by capital for materials. We recently started fund raising to cover production costs. \n\nYou can find out more about us at: <https://facebook.com/desertroseconsultancy/|https://facebook.com/desertroseconsultancy/>\nThis is also a link to our face shield fundraiser: <https://www.gofundme.com/f/ppe-for-ethiopia-face-shield-for-health-workers|https://www.gofundme.com/f/ppe-for-ethiopia-face-shield-for-health-workers>\n\n\nKeep up the great work folks. Together we can make a real difference!",
+        "user": "U011PQWKZUM",
+        "ts": "1586709314.341200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "gofundme.com",
+                "title": "PPE for ETHIOPIA - Face Shield for health workers organized by David Pignon Desert Rose",
+                "title_link": "https://www.gofundme.com/f/ppe-for-ethiopia-face-shield-for-health-workers",
+                "text": "As you know, all over the world we are losing too many people\u2026 David Pignon Desert Rose needs your support for PPE for ETHIOPIA - Face Shield for health workers",
+                "fallback": "gofundme.com: PPE for ETHIOPIA - Face Shield for health workers organized by David Pignon Desert Rose",
+                "image_url": "https://d2g8igdw686xgo.cloudfront.net/47099946_1585815616860305_r.jpeg",
+                "from_url": "https://www.gofundme.com/f/ppe-for-ethiopia-face-shield-for-health-workers",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 197001,
+                "service_icon": "https://www.gofundme.com/favicon.ico",
+                "id": 1,
+                "original_url": "https://www.gofundme.com/f/ppe-for-ethiopia-face-shield-for-health-workers"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+sY7e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone. Great to become a part of this group and hear about the amazing work everyone is doing. Thank you all! \nMy name is David and I work as general manager at Desert Rose Consultancy plc. We run an industrial laser cutter at our office and workshop in Sarbet, Addis. We've been making PPE face shields for the past few weeks at the request of Drs in Addis. We think we can produce 700-1000 a week. Limited only by capital for materials. We recently started fund raising to cover production costs. \n\nYou can find out more about us at: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://facebook.com/desertroseconsultancy/",
+                                "text": "https://facebook.com/desertroseconsultancy/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThis is also a link to our face shield fundraiser: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.gofundme.com/f/ppe-for-ethiopia-face-shield-for-health-workers",
+                                "text": "https://www.gofundme.com/f/ppe-for-ethiopia-face-shield-for-health-workers"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nKeep up the great work folks. Together we can make a real difference!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586709314.341200",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1586716427.345000",
+        "reply_users": [
+            "U010CLFURT8",
+            "U0107A7161E",
+            "U01087PJBNG",
+            "U011PQWKZUM"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U011BGST4BG",
+                    "U010EQU5E6N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U011BGST4BG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011BGST4BG",
+                    "U011JC1RXGE",
+                    "U01087PJBNG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0108SD3DA4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U010LJ2BUCW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0C5E3927-038C-48F9-BE7E-DB3CC265FFAF",
+        "type": "message",
+        "text": "<@U0106M26108> which Selam :joy: is doing fundraising stuff? This seems like a good one to push out when people ask? ",
+        "user": "U010CLFURT8",
+        "ts": "1586714119.344000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ORzeP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which Selam "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is doing fundraising stuff? This seems like a good one to push out when people ask? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586709314.341200",
+        "parent_user_id": "U011PQWKZUM"
+    },
+    {
+        "client_msg_id": "658bef4d-0f2d-4a42-9818-f7947c9cc86a",
+        "type": "message",
+        "text": "<@U01087PJBNG>",
+        "user": "U0107A7161E",
+        "ts": "1586714130.344200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zKvo5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01087PJBNG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586709314.341200",
+        "parent_user_id": "U011PQWKZUM",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db69855a-b4c4-45af-9c29-29927130dc63",
+        "type": "message",
+        "text": "Hi <@U011PQWKZUM> awesome work. I will add the Gofundme to our list of fund raisers being done to support efforts to fight against Covid19  in Ethiopia. <@U010CLFURT8> iss mee :slightly_smiling_face: Helping here too.",
+        "user": "U01087PJBNG",
+        "ts": "1586714512.344500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yRZf3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011PQWKZUM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " awesome work. I will add the Gofundme to our list of fund raisers being done to support efforts to fight against Covid19  in Ethiopia. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010CLFURT8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " iss mee "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Helping here too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586709314.341200",
+        "parent_user_id": "U011PQWKZUM",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2af4b870-a494-4931-82a8-e8e120d6f26a",
+        "type": "message",
+        "text": "Great to meet you guys. Thank you so much for what you are doing.",
+        "user": "U011PQWKZUM",
+        "ts": "1586715106.344800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OzqWf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great to meet you guys. Thank you so much for what you are doing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586709314.341200",
+        "parent_user_id": "U011PQWKZUM"
+    },
+    {
+        "client_msg_id": "081c63ea-f797-470a-b873-14ba79f052ea",
+        "type": "message",
+        "text": "<@U01087PJBNG> haha hi girl hi !let the #socialmedia-ops channel know what that list is reviewed and we feel good about it. We have a few people in our DMs asking where they can donate. :slightly_smiling_face:",
+        "user": "U010CLFURT8",
+        "ts": "1586716427.345000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01087PJBNG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " haha hi girl hi !let the #socialmedia-ops channel know what that list is reviewed and we feel good about it. We have a few people in our DMs asking where they can donate. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586709314.341200",
+        "parent_user_id": "U011PQWKZUM",
+        "reactions": [
+            {
+                "name": "sparkles",
+                "users": [
+                    "U01087PJBNG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0821828-74b4-4d6a-a10a-c39d9abca57e",
+        "type": "message",
+        "text": "Hi team, thanks for starting this group and all the work you are doing.\nI'm a surgical resident from the US (UCSF), was a Peace Corps Volunteer in Dessie, Ethiopia many years ago and have been living in Addis the past two years working with Lifebox on improving surgical safety.\nRegarding COVID-19, I'm working with Lifebox, and multiple partners from sub-Saharan Africa on preparing surgical systems for safe response to COVID - our recent publication and COVID-19 resources are here: <https://www.lifebox.org/covid-19-resources/>\nWe are also working with a lab at Stanford and the N95 decon team (<http://N95decon.org|N95decon.org>) to test multiple materials and reprocessing methods for masks and respirators, even gloves, to make sure they are effective and safe. If anyone has samples they would like tested, or reprocessing methods to suggest and test, please reach out, we can coordinate efforts.",
+        "user": "U011PGU642F",
+        "ts": "1586727049.350800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Lifebox",
+                "title": "COVID-19 Resources for Lifebox Partners - Lifebox",
+                "title_link": "https://www.lifebox.org/covid-19-resources/",
+                "text": "Lifebox COVID-19 Resource Guide: Area Title Source Ethics Ethical Framework for Health Care Institutions &amp; Guidelines for Institutional Ethics",
+                "fallback": "Lifebox: COVID-19 Resources for Lifebox Partners - Lifebox",
+                "thumb_url": "https://www.lifebox.org/wp-content/uploads/2020/04/U-of-F_Honduras_2012-42.jpeg",
+                "ts": 1586281590,
+                "from_url": "https://www.lifebox.org/covid-19-resources/",
+                "thumb_width": 837,
+                "thumb_height": 565,
+                "service_icon": "https://www.lifebox.org/wp-content/themes/lifebox/assets/img/favicons/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https://www.lifebox.org/covid-19-resources/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iN8EI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi team, thanks for starting this group and all the work you are doing.\nI'm a surgical resident from the US (UCSF), was a Peace Corps Volunteer in Dessie, Ethiopia many years ago and have been living in Addis the past two years working with Lifebox on improving surgical safety.\nRegarding COVID-19, I'm working with Lifebox, and multiple partners from sub-Saharan Africa on preparing surgical systems for safe response to COVID - our recent publication and COVID-19 resources are here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.lifebox.org/covid-19-resources/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe are also working with a lab at Stanford and the N95 decon team ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://N95decon.org",
+                                "text": "N95decon.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") to test multiple materials and reprocessing methods for masks and respirators, even gloves, to make sure they are effective and safe. If anyone has samples they would like tested, or reprocessing methods to suggest and test, please reach out, we can coordinate efforts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586727049.350800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1586799900.355800",
+        "reply_users": [
+            "UVAL943JP",
+            "U0107JERE9L",
+            "U011PGU642F"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010U8HF7PY",
+                    "U010EQU5E6N",
+                    "U0107JERE9L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0116DL92E9",
+                    "U0107JERE9L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U0111JYSE23",
+                    "U0111A9R6JK",
+                    "U0107JERE9L"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

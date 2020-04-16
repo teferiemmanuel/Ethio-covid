@@ -1,0 +1,558 @@
+[
+    {
+        "client_msg_id": "a5a320f0-b66c-4d58-9c74-461f146fe741",
+        "type": "message",
+        "text": "<@U010BF45L75> Here is the page",
+        "user": "U010WRS6UTB",
+        "ts": "1585917387.187800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t=S+q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010BF45L75"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here is the page"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585917397.188000",
+        "user": "U010BF45L75",
+        "text": "<@U010BF45L75> has joined the channel",
+        "inviter": "U010WRS6UTB"
+    },
+    {
+        "client_msg_id": "7F406224-826B-481C-8DFD-754D610C716B",
+        "type": "message",
+        "text": "Thank you <@U010WRS6UTB> looking forward to more designs and content with <@U010BJ06WTE> ",
+        "user": "U010UM8QBQA",
+        "ts": "1585917508.189000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "No9h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010WRS6UTB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " looking forward to more designs and content with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BJ06WTE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585780172.166600",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Hi All, \n<@U010UM8QBQA> <@U010BJ06WTE>\nIf it\u2019s not too late to change. Is it possible to use \u122b\u1230\u1295 \u201c\u120d\u12ed\u1276 \u12e8\u121b\u1246\u12e8\u1275\u201d or \u201c \u12e8\u1218\u1208\u12e8\u1275\u201d \u1320\u1240\u121c\u1273\u12ce\u127d instead of \u121b\u130d\u1208\u120d. \n\u121b\u130d\u1208\u120d commonly has a negative connotation in Ethiopia. ",
+        "user": "U010BF45L75",
+        "ts": "1585926267.196000",
+        "thread_ts": "1585780172.166600",
+        "root": {
+            "client_msg_id": "1319c035-5ff8-4708-8a72-137681e2d38c",
+            "type": "message",
+            "text": "Does anyone have kids we test content on? Most of Ethiopia is full of children so they\u2019re gonna need good things to read on their (Tecno Mobile Devices? Will they even have internet to open this up-- maybe we can ask someone to help us print it physically?)\u2026",
+            "user": "U010UM8QBQA",
+            "ts": "1585780172.166600",
+            "team": "TV5KELEUS",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "LY/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Does anyone have kids we test content on? Most of Ethiopia is full of children so they\u2019re gonna need good things to read on their (Tecno Mobile Devices? Will they even have internet to open this up-- maybe we can ask someone to help us print it physically?)\u2026"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1585780172.166600",
+            "reply_count": 11,
+            "reply_users_count": 3,
+            "latest_reply": "1585934279.204100",
+            "reply_users": [
+                "U010WRS6UTB",
+                "U010UM8QBQA",
+                "U010BF45L75"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gdp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All, \n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010UM8QBQA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BJ06WTE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIf it\u2019s not too late to change. Is it possible to use \u122b\u1230\u1295 \u201c\u120d\u12ed\u1276 \u12e8\u121b\u1246\u12e8\u1275\u201d or \u201c \u12e8\u1218\u1208\u12e8\u1275\u201d \u1320\u1240\u121c\u1273\u12ce\u127d instead of \u121b\u130d\u1208\u120d. \n\u121b\u130d\u1208\u120d commonly has a negative connotation in Ethiopia. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7E420971-36EB-493B-9075-84DC5AF083FD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA",
+                    "U010WRS6UTB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U010WRS6UTB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "924e3fa7-6586-4c20-afde-f07167f5d80c",
+        "type": "message",
+        "text": "Hi <@U010BF45L75> unfortunately, my written Amharic is a failure :disappointed:",
+        "user": "U010UM8QBQA",
+        "ts": "1585926348.196400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Ny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BF45L75"
+                            },
+                            {
+                                "type": "text",
+                                "text": " unfortunately, my written Amharic is a failure "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585780172.166600",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "client_msg_id": "e5261f45-386b-4474-8b8c-e58a53cac593",
+        "type": "message",
+        "text": "I trust your decision tho",
+        "user": "U010UM8QBQA",
+        "ts": "1585926368.196600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VPmLb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I trust your decision tho"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585780172.166600",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "client_msg_id": "03560f2a-94ae-4808-a647-93f8d52083aa",
+        "type": "message",
+        "text": "<@U010BF45L75> will edit the document with \u122b\u1230\u1295 \u120d\u12ed\u1276 \u12e8\u121b\u1246\u12e8\u1275 but first let\u2019s hear from <@U010BJ06WTE> on what\u2019s most needed at this moment.",
+        "user": "U010UM8QBQA",
+        "ts": "1585926539.199100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OeT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010BF45L75"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will edit the document with \u122b\u1230\u1295 \u120d\u12ed\u1276 \u12e8\u121b\u1246\u12e8\u1275 but first let\u2019s hear from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BJ06WTE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on what\u2019s most needed at this moment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585780172.166600",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "client_msg_id": "41923648-FE77-4672-8AC9-E4E47C1E802F",
+        "type": "message",
+        "text": "I joined recently and I wasn\u2019t following what was taking place. It\u2019s ok to use it as it is but if it\u2019s possible I think we should change it so we can reach with  a relatively pleasant term. ",
+        "user": "U010BF45L75",
+        "ts": "1585926604.200400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hcNAj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I joined recently and I wasn\u2019t following what was taking place. It\u2019s ok to use it as it is but if it\u2019s possible I think we should change it so we can reach with  a relatively pleasant term. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585780172.166600",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "client_msg_id": "27710028-B566-44D8-99DF-53154B797038",
+        "type": "message",
+        "text": "Sure,  I\u2019ll be here ",
+        "user": "U010BF45L75",
+        "ts": "1585926627.201000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010BF45L75",
+            "ts": "1585926638.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+CGTV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure,  I\u2019ll be here "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585780172.166600",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "client_msg_id": "83f3f369-9bb8-4db9-b104-167e0fcc934d",
+        "type": "message",
+        "text": "I edited the copy, and should we go forward with releasing the material, will use your suggested Amharic version :slightly_smiling_face:",
+        "user": "U010UM8QBQA",
+        "ts": "1585926774.201300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DkG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I edited the copy, and should we go forward with releasing the material, will use your suggested Amharic version "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585780172.166600",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "client_msg_id": "95BFE045-78B6-4D98-9812-5765089DF101",
+        "type": "message",
+        "text": "Cool:slightly_smiling_face:\nLet me know if you have other documents that need translations to local languages. ",
+        "user": "U010BF45L75",
+        "ts": "1585926970.202400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bSj=d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLet me know if you have other documents that need translations to local languages. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585780172.166600",
+        "parent_user_id": "U010UM8QBQA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4e9c67c-e091-4c5f-b90a-65019a44286c",
+        "type": "message",
+        "text": "I already arrange one kid... not mine but I can tesr him",
+        "user": "U010WRS6UTB",
+        "ts": "1585931491.203700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQ6Fo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I already arrange one kid... not mine but I can tesr him"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I second <@U010BF45L75> \u122b\u1235\u1295 \u1208\u12ed\u1276 \u121b\u1246\u12e8\u1275",
+        "user": "U010WRS6UTB",
+        "ts": "1585934279.204100",
+        "thread_ts": "1585780172.166600",
+        "root": {
+            "client_msg_id": "1319c035-5ff8-4708-8a72-137681e2d38c",
+            "type": "message",
+            "text": "Does anyone have kids we test content on? Most of Ethiopia is full of children so they\u2019re gonna need good things to read on their (Tecno Mobile Devices? Will they even have internet to open this up-- maybe we can ask someone to help us print it physically?)\u2026",
+            "user": "U010UM8QBQA",
+            "ts": "1585780172.166600",
+            "team": "TV5KELEUS",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "LY/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Does anyone have kids we test content on? Most of Ethiopia is full of children so they\u2019re gonna need good things to read on their (Tecno Mobile Devices? Will they even have internet to open this up-- maybe we can ask someone to help us print it physically?)\u2026"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1585780172.166600",
+            "reply_count": 11,
+            "reply_users_count": 3,
+            "latest_reply": "1585934279.204100",
+            "reply_users": [
+                "U010WRS6UTB",
+                "U010UM8QBQA",
+                "U010BF45L75"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QVIwQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I second "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BF45L75"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \u122b\u1235\u1295 \u1208\u12ed\u1276 \u121b\u1246\u12e8\u1275"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1aae1a52-998f-46b7-998d-5e54bba8856c",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "UV6JHDP0S",
+        "ts": "1585946653.204900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[April 3rd, 2020 12:41 AM] alex: Hi all, I'm Alex. This week I;ve been supporting the FMoH to create a version of the OppiaMobile learning platform to provide Covid19 training content to health workers in Ethiopia. The app tech dev is pretty much done now (code: <https://github.com/OppiaCovidEthiopia/oppia-mobile-android>)  and we're awaiting the training content that the FMoH and EPHI is currently writing. We're expecting this to get pushed out to any health workers with Android phones in the next days - as well as providing it on devices that the FMoH has available.",
+                "ts": "1585899666.068900",
+                "author_id": "U011ASPP6AK",
+                "author_subname": "Alex Little",
+                "channel_id": "CV6K393C2",
+                "channel_name": "all-introductions",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Hi all, I'm Alex. This week I;ve been supporting the FMoH to create a version of the OppiaMobile learning platform to provide Covid19 training content to health workers in Ethiopia. The app tech dev is pretty much done now (code: <https://github.com/OppiaCovidEthiopia/oppia-mobile-android>)  and we're awaiting the training content that the FMoH and EPHI is currently writing. We're expecting this to get pushed out to any health workers with Android phones in the next days - as well as providing it on devices that the FMoH has available.",
+                "author_name": "Alex Little",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U011ASPP6AK",
+                "author_icon": "https://secure.gravatar.com/avatar/8f3e5de5b3724c609ed5d8e4180e7c72.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1585899666068900?thread_ts=1585899666068900&cid=CV6K393C2",
+                "is_share": true,
+                "footer": "Thread in #all-introductions"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA",
+                    "U010WRS6UTB",
+                    "UVB9ZSPCH"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

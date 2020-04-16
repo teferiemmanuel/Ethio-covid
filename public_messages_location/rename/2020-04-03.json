@@ -1,0 +1,369 @@
+[
+    {
+        "client_msg_id": "5e55b81d-8e78-4356-a0c9-78e729da38e9",
+        "type": "message",
+        "text": "Yeah. Unfortunately they told me they have a similar product",
+        "user": "U0112B1TNQ7",
+        "ts": "1585880603.349600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "luhf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah. Unfortunately they told me they have a similar product"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585735461.307300",
+        "parent_user_id": "U0112B1TNQ7"
+    },
+    {
+        "client_msg_id": "a82aa413-bc8f-4e58-ac7f-4149788b93e5",
+        "type": "message",
+        "text": "Hello again, yesterday the media announced good news that 64 people who tested were negative\n Today a lot of people out in the streets like Corona disappeared from the country. 6 more cases tested positive today.This kind of irresponsible news will worsen our situation. Did they forget they are dealing with Ethiopian people. We can only tackle this and prevent its spread is if only we think and work like Ethiopians. If media people are here please try to control this kind of news.",
+        "user": "U010WD6EW2V",
+        "ts": "1585911664.358700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010WD6EW2V",
+            "ts": "1585911904.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vxh2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello again, yesterday the media announced good news that 64 people who tested were negative\n Today a lot of people out in the streets like Corona disappeared from the country. 6 more cases tested positive today.This kind of irresponsible news will worsen our situation. Did they forget they are dealing with Ethiopian people. We can only tackle this and prevent its spread is if only we think and work like Ethiopians. If media people are here please try to control this kind of news."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "disappointed_relieved",
+                "users": [
+                    "U010K3X390E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c7f8690-2e4f-4cb8-976f-5774762f5395",
+        "type": "message",
+        "text": "Hello,\nI read a new that Google and apple are rejecting apps related to corona. The are demanding corona related apps to be  released through an official entity instead of independent developers. I managed to hack together a small self reporting app, but I am a bit not sure if I should proceed  with the release. If anyone has more information or any idea regarding this please share it here :slightly_smiling_face:",
+        "user": "U0110J9TTFA",
+        "ts": "1585916161.363900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W9h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello,\nI read a new that Google and apple are rejecting apps related to corona. The are demanding corona related apps to be  released through an official entity instead of independent developers. I managed to hack together a small self reporting app, but I am a bit not sure if I should proceed  with the release. If anyone has more information or any idea regarding this please share it here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "710f8f65-2387-4d8c-88fe-01faf2747694",
+        "type": "message",
+        "text": "Hi dayan,\nGoogle has put in place a strict policy on apps related to corona. Google do not accept apps from independent developers, there for it has to come through  organisations or official entities. So if the university is willing they could help you release it using their name.",
+        "user": "U0110J9TTFA",
+        "ts": "1585916679.364100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sh49o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi dayan,\nGoogle has put in place a strict policy on apps related to corona. Google do not accept apps from independent developers, there for it has to come through  organisations or official entities. So if the university is willing they could help you release it using their name."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585373727.179300",
+        "parent_user_id": "U010HRGAFAR"
+    },
+    {
+        "client_msg_id": "13379630-6954-4870-a96e-fc5440cb8cc1",
+        "type": "message",
+        "text": "Can we create a channel for *data-visualization* - best practices, tools, collaboration, archives and references, ...\n\n<https://91-divoc.com/pages/covid-visualization/>",
+        "user": "UVALAR52P",
+        "ts": "1585918261.366000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "91-DIVOC : Flip the script on COVID-19",
+                "title_link": "https://91-divoc.com/pages/covid-visualization/",
+                "text": "An interactive visualization of the exponential spread of COVID-19",
+                "fallback": "91-DIVOC : Flip the script on COVID-19",
+                "image_url": "https://91-divoc.com/pages/covid-visualization/img.png",
+                "from_url": "https://91-divoc.com/pages/covid-visualization/",
+                "image_width": 431,
+                "image_height": 250,
+                "image_bytes": 160167,
+                "service_icon": "https://91-divoc.com/static/91.png",
+                "service_name": "91-divoc.com",
+                "id": 1,
+                "original_url": "https://91-divoc.com/pages/covid-visualization/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wQgy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we create a channel for"
+                            },
+                            {
+                                "type": "text",
+                                "text": " data-visualization",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - best practices, tools, collaboration, archives and references, ...\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://91-divoc.com/pages/covid-visualization/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585918261.366000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585918445.366200",
+        "reply_users": [
+            "U01051X26HJ"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50886c12-5294-426e-9581-cbd7531026d6",
+        "type": "message",
+        "text": "We already have <#C0106BWK8AX|surveillance-viz> ... you can join there.",
+        "user": "U01051X26HJ",
+        "ts": "1585918445.366200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sNg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We already have "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0106BWK8AX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ... you can join there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585918261.366000",
+        "parent_user_id": "UVALAR52P"
+    },
+    {
+        "client_msg_id": "6c6dce77-32d6-4466-92d1-5965fa6b3068",
+        "type": "message",
+        "text": "<https://www.covidvisualizer.com/>",
+        "user": "U010UM8QBQA",
+        "ts": "1585920560.367000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "COVID-19 Visualizer",
+                "title_link": "https://www.covidvisualizer.com/",
+                "text": "An interactive COVID-19 (coronavirus) visualizer that highlights countries around the world based on the most recent cases.",
+                "fallback": "COVID-19 Visualizer",
+                "image_url": "https://www.covidvisualizer.com/assets/opengraph.png",
+                "from_url": "https://www.covidvisualizer.com/",
+                "image_width": 469,
+                "image_height": 250,
+                "image_bytes": 326960,
+                "service_icon": "https://www.covidvisualizer.com/assets/favicon.png",
+                "service_name": "covidvisualizer.com",
+                "id": 1,
+                "original_url": "https://www.covidvisualizer.com/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qBd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.covidvisualizer.com/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1757090E-895A-4F96-A93E-B093D429518E",
+        "type": "message",
+        "text": "Pretty cool ^^ I think ama start going to this site ",
+        "user": "U010CQ6P9C4",
+        "ts": "1585936953.369500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KDuqV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pretty cool ^^ I think ama start going to this site "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585936953.369500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585952657.371600",
+        "reply_users": [
+            "U010UM8QBQA",
+            "U010CQ6P9C4"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f2f9c6b5-1600-45fd-aa19-0582cd45d612",
+        "type": "message",
+        "text": "It\u2019s a bit morbid, but I guess that\u2019s true",
+        "user": "U010UM8QBQA",
+        "ts": "1585952146.371000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zQhDb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It\u2019s a bit morbid, but I guess that\u2019s true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585936953.369500",
+        "parent_user_id": "U010CQ6P9C4"
+    },
+    {
+        "client_msg_id": "0B9E33C7-6EAE-46CB-A66F-0AF5DC08E7AE",
+        "type": "message",
+        "text": "Welll...",
+        "user": "U010CQ6P9C4",
+        "ts": "1585952657.371600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+OZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welll..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585936953.369500",
+        "parent_user_id": "U010CQ6P9C4"
+    }
+]

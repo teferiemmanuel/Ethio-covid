@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "2980992a-25e2-4eda-a775-8a2f13d63008",
+        "type": "message",
+        "text": "<@U0107A7161E> Eshi Express used to provide free deliveries for charitable initiatives such as the Gedeo and Guji Zone displacement. This time we will be providing free deliveries for donations as well.",
+        "user": "U010RJ59L0M",
+        "ts": "1585634075.043500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Og1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Eshi Express used to provide free deliveries for charitable initiatives such as the Gedeo and Guji Zone displacement. This time we will be providing free deliveries for donations as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E",
+                    "U0107AYF16H"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585697972.044900",
+        "user": "U010A0P7EK1",
+        "text": "<@U010A0P7EK1> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "client_msg_id": "0aeff8d0-0fe2-476a-b3af-53145f317fd0",
+        "type": "message",
+        "text": "Heeey, team! Please meet <@U010A0P7EK1>, founder of PayTollo (Acquired by Siriusxm :sunglasses: ) &amp; also EiT Leadership! Given his background in driver logistics/behavior with PayTollo, this might be the perfect team to contribute to.",
+        "user": "U0106M26108",
+        "ts": "1585699189.048200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1585699236.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Crsq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heeey, team! Please meet "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010A0P7EK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", founder of PayTollo (Acquired by Siriusxm "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) & also EiT Leadership! Given his background in driver logistics/behavior with PayTollo, this might be the perfect team to contribute to."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585699189.048200",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1585700681.052200",
+        "reply_users": [
+            "U0106M26108",
+            "U010A0P7EK1",
+            "U010B7Q6XE0"
+        ],
+        "subscribed": false
+    }
+]

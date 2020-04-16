@@ -1,0 +1,806 @@
+[
+    {
+        "client_msg_id": "7c802e93-04a1-4c3b-b55e-da53abe6aa2d",
+        "type": "message",
+        "text": "what is the 3D printing capacity currently in ethiopia?",
+        "user": "U0107JYJYD7",
+        "ts": "1585098596.000500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what is the 3D printing capacity currently in ethiopia?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585098596.000500",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1585423295.024700",
+        "reply_users": [
+            "U0107JERE9L",
+            "U0107JYJYD7",
+            "U010VSAKD1S"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5101dc48-ee63-4414-b73d-d5fcfe5f21e1",
+        "type": "message",
+        "text": "or other avenues for quickly manufacturing masks?",
+        "user": "U0107JYJYD7",
+        "ts": "1585098624.000900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3az5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or other avenues for quickly manufacturing masks?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19a6b427-4e13-4b0d-b1ae-3b3b929916d9",
+        "type": "message",
+        "text": "Thank you for sharing this <@U010NBXJN06>.. Could you tell me more about the furnace filter? We are trying to get the best alternative in anticipation of the severe shortage like the kind we are seeing in the states.\n\nAccording to CDC, cloth masks aren't considered PPE but are ok in emergency situations like the one we are in... especially when used in addition to N95 due to reuse and extended use than was originally planned.\n\n<https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html>\n\n_*HCP use of homemade masks:*_\n_In settings where facemasks are not available, HCP might use homemade masks (e.g., bandana, scarf) for care of patients with COVID-19 as a last resort. However, homemade masks are not considered PPE, since their capability to protect HCP is unknown. Caution should be exercised when considering this option. Homemade masks should ideally be used in combination with a face shield that covers the entire front (that extends to the chin or below) and sides of the face._",
+        "user": "U0107JERE9L",
+        "ts": "1585102706.001200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Centers for Disease Control and Prevention",
+                "title": "Coronavirus Disease 2019 (COVID-19)",
+                "title_link": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html",
+                "text": "Coronavirus disease 2019 (COVID-19) is a virus (more specifically, a coronavirus) identified as the cause of an outbreak of respiratory illness first detected in Wuhan, China.",
+                "fallback": "Centers for Disease Control and Prevention: Coronavirus Disease 2019 (COVID-19)",
+                "image_url": "https://www.cdc.gov/coronavirus/2019-ncov/images/2019-coronavirus.png",
+                "ts": 1581408000,
+                "from_url": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 407675,
+                "service_icon": "https://www.cdc.gov/TemplatePackage/4.0/assets/imgs/favicon.ico",
+                "id": 1,
+                "original_url": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihVE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for sharing this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010NBXJN06"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".. Could you tell me more about the furnace filter? We are trying to get the best alternative in anticipation of the severe shortage like the kind we are seeing in the states.\n\nAccording to CDC, cloth masks aren't considered PPE but are ok in emergency situations like the one we are in... especially when used in addition to N95 due to reuse and extended use than was originally planned.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "HCP use of homemade masks:",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "In settings where facemasks are not available, HCP might use homemade masks (e.g., bandana, scarf) for care of patients with COVID-19 as a last resort. However, homemade masks are not considered PPE, since their capability to protect HCP is unknown. Caution should be exercised when considering this option. Homemade masks should ideally be used in combination with a face shield that covers the entire front (that extends to the chin or below) and sides of the face.",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010NBXJN06"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9679ea4-553d-4dcd-87e9-4d5b9054a3fd",
+        "type": "message",
+        "text": "Hello <@U0107JYJYD7> - Right now there is one place making about a few hundred a day but we are actively working on identifying if there is a way to work with all the sources of 3D printing.\n\nWe are also talking to a few manufacturing business owners to produce cloth masks.",
+        "user": "U0107JERE9L",
+        "ts": "1585102820.001500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "abf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JYJYD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Right now there is one place making about a few hundred a day but we are actively working on identifying if there is a way to work with all the sources of 3D printing.\n\nWe are also talking to a few manufacturing business owners to produce cloth masks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585098596.000500",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585104211.001800",
+        "user": "U010JHVF19U",
+        "text": "<@U010JHVF19U> has joined the channel"
+    },
+    {
+        "client_msg_id": "bab8b399-0cf4-4ca0-a0de-fde860568872",
+        "type": "message",
+        "text": "<https://www.technologyreview.com/s/615374/an-mit-team-hopes-to-publish-open-source-designs-for-a-low-cost-ventilator/>",
+        "user": "UV81AMFSP",
+        "ts": "1585146656.002200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "MIT Technology Review",
+                "title": "An MIT team hopes to publish open-source designs for a low-cost ventilator",
+                "title_link": "https://www.technologyreview.com/s/615374/an-mit-team-hopes-to-publish-open-source-designs-for-a-low-cost-ventilator/",
+                "text": "The researchers hope that those with manufacturing capacity and medical expertise can accelerate production of the critical medical devices.",
+                "fallback": "MIT Technology Review: An MIT team hopes to publish open-source designs for a low-cost ventilator",
+                "image_url": "https://www.technologyreview.com/i/images/ap20079596239325web.jpg?sw=560&cx=0&cy=0&cw=3000&ch=1688",
+                "from_url": "https://www.technologyreview.com/s/615374/an-mit-team-hopes-to-publish-open-source-designs-for-a-low-cost-ventilator/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 64938,
+                "service_icon": "https://www.technologyreview.com/favicon.ico?v=2",
+                "id": 1,
+                "original_url": "https://www.technologyreview.com/s/615374/an-mit-team-hopes-to-publish-open-source-designs-for-a-low-cost-ventilator/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ja8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.technologyreview.com/s/615374/an-mit-team-hopes-to-publish-open-source-designs-for-a-low-cost-ventilator/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585146656.002200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1585151003.005300",
+        "reply_users": [
+            "U0107JERE9L",
+            "UV81AMFSP"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "262797de-d10e-479f-bc1d-9f124060500b",
+        "type": "message",
+        "text": "Yes, basically any type of filter used in house heating or A/C is what they're using. I don't know if Ethiopia (maybe the private sector) has access to much of that.\n\nI think cloth masks would be good for the general public, but maybe face shields + a cloth mask would be the best alternative for healthcare workers. I'm trying to think of what in the private sector would be available to repurpose--leather maybe?",
+        "user": "U010NBXJN06",
+        "ts": "1585148012.002500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010NBXJN06",
+            "ts": "1585148098.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ta",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, basically any type of filter used in house heating or A/C is what they're using. I don't know if Ethiopia (maybe the private sector) has access to much of that.\n\nI think cloth masks would be good for the general public, but maybe face shields + a cloth mask would be the best alternative for healthcare workers. I'm trying to think of what in the private sector would be available to repurpose--leather maybe?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "client_msg_id": "a55a03b5-b1ae-4538-adf6-713fe8abc72e",
+        "type": "message",
+        "text": "Hello <@UV81AMFSP> - do you know if Ethiopia has the capacity to use this information to create ventilators?",
+        "user": "U0107JERE9L",
+        "ts": "1585148399.002900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SD1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV81AMFSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - do you know if Ethiopia has the capacity to use this information to create ventilators?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585146656.002200",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "89822c40-9e29-49e5-a717-f533bc6e92ba",
+        "type": "message",
+        "text": "Well they first need to get access to the open source design. But motorized device automatically compressing bag valve masks doesn't sound terribly complicated. There are factories which make more complicated things here. <@U0107JERE9L>",
+        "user": "UV81AMFSP",
+        "ts": "1585149026.003100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV81AMFSP",
+            "ts": "1585149060.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5nu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well they first need to get access to the open source design. But motorized device automatically compressing bag valve masks doesn't sound terribly complicated. There are factories which make more complicated things here. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585146656.002200",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "4a2cd94d-9806-40aa-9ad8-873ad2b13095",
+        "type": "message",
+        "text": "Hey everyone! Making a little bit of progress on researching different diy ventilators. Found a paper that uses bag valve masks (which I believe are available in Ethiopia) as the base of the technology. please let me know if you can help!",
+        "user": "U0107AXNR4Z",
+        "ts": "1585150128.005000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u4Oad",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! Making a little bit of progress on researching different diy ventilators. Found a paper that uses bag valve masks (which I believe are available in Ethiopia) as the base of the technology. please let me know if you can help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U010NBXJN06",
+                    "U0107JYJYD7",
+                    "U0109TQD6TT"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2be1370-2289-4536-81e6-6fa258da2d0a",
+        "type": "message",
+        "text": "Oh wonderful. That is good to hear. Hopefully they will provide access soon.",
+        "user": "U0107JERE9L",
+        "ts": "1585151003.005300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u2vq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh wonderful. That is good to hear. Hopefully they will provide access soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585146656.002200",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "f40f63fe-9d6c-43b3-951e-0f4268e98cd9",
+        "type": "message",
+        "text": "Thank you for this <@U010NBXJN06>\n\nThis is what I found about filter:\n\nWhat is a furnace filter made of?\n\nFilters are made of different materials including fiberglass, polyester, and cotton.\n\nDisposable pleated filters are made of polyester or cotton paper sheets and are better at trapping particulates. They are generally rated from six to 13 on the MERV scale. Cotton filters have higher ratings and their fibers can self-charge to remove smaller particles from the air. They usually have a MERV rating of 10 or higher and are slightly more expensive than the typical pleated variety.\n\nwashable electrostatic filters - are rated at eight on the MERV scale.. are most effective when new and clean, so they should be washed frequently",
+        "user": "U0107JERE9L",
+        "ts": "1585158023.005800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cry",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010NBXJN06"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis is what I found about filter:\n\nWhat is a furnace filter made of?\n\nFilters are made of different materials including fiberglass, polyester, and cotton.\n\nDisposable pleated filters are made of polyester or cotton paper sheets and are better at trapping particulates. They are generally rated from six to 13 on the MERV scale. Cotton filters have higher ratings and their fibers can self-charge to remove smaller particles from the air. They usually have a MERV rating of 10 or higher and are slightly more expensive than the typical pleated variety.\n\nwashable electrostatic filters - are rated at eight on the MERV scale.. are most effective when new and clean, so they should be washed frequently"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "client_msg_id": "32758651-1ef3-4351-b2c4-8067454a4052",
+        "type": "message",
+        "text": "Do you have any documentation that states that these raw materials are ideal for masks? It would be a good resource to have for when we share this proposal <@U010NBXJN06>",
+        "user": "U0107JERE9L",
+        "ts": "1585158092.006000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p+5FE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you have any documentation that states that these raw materials are ideal for masks? It would be a good resource to have for when we share this proposal "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010NBXJN06"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "client_msg_id": "7c40a4e9-f884-4793-84a4-5a8b714bcaf9",
+        "type": "message",
+        "text": "<@U0107JERE9L> so my proposal for the leather was not to use as a filter itself, but for the mask. It is something that is thick enough to hold a shape and seal to the face. The filter would still need to be, as you said, something rated, like a furnace filter.",
+        "user": "U010NBXJN06",
+        "ts": "1585159523.006200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rDuj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so my proposal for the leather was not to use as a filter itself, but for the mask. It is something that is thick enough to hold a shape and seal to the face. The filter would still need to be, as you said, something rated, like a furnace filter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "type": "message",
+        "text": "as you can see, a reusable mask where only the filter is changed is be ideal, and this mask seals to the face so air doesn't get in through gaps in the mask, as in cloth masks. What I'm proposing is making the structure of the mask out of leather, but that would not solve the problem of the replaceable filter material. However, something more structured like that + a face shield may be enough.",
+        "files": [
+            {
+                "id": "F010TTCTRF0",
+                "created": 1585159596,
+                "timestamp": 1585159596,
+                "name": "HTB12IfSOFXXXXcRaXXXq6xXFXXXx.jpg",
+                "title": "HTB12IfSOFXXXXcRaXXXq6xXFXXXx.jpg",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010NBXJN06",
+                "editable": false,
+                "size": 37738,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010TTCTRF0/htb12ifsofxxxxcraxxxq6xxfxxxx.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010TTCTRF0/download/htb12ifsofxxxxcraxxxq6xxfxxxx.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010TTCTRF0-907aba1388/htb12ifsofxxxxcraxxxq6xxfxxxx_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010TTCTRF0-907aba1388/htb12ifsofxxxxcraxxxq6xxfxxxx_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010TTCTRF0-907aba1388/htb12ifsofxxxxcraxxxq6xxfxxxx_360.jpg",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010TTCTRF0-907aba1388/htb12ifsofxxxxcraxxxq6xxfxxxx_480.jpg",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010TTCTRF0-907aba1388/htb12ifsofxxxxcraxxxq6xxfxxxx_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010TTCTRF0-907aba1388/htb12ifsofxxxxcraxxxq6xxfxxxx_720.jpg",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010TTCTRF0-907aba1388/htb12ifsofxxxxcraxxxq6xxfxxxx_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010TTCTRF0-907aba1388/htb12ifsofxxxxcraxxxq6xxfxxxx_960.jpg",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "image_exif_rotation": 1,
+                "original_w": 1000,
+                "original_h": 1000,
+                "thumb_tiny": "AwAwADCaZ3U/Jn6badC0jMQ4wAPSpRTqq2ocytawmKMUp4FQtKFbucdcdqLk2JcUlKCGGRyKDTEApRTGYqQBj8TTJnYR/MAATikxoZcT7ZAq8kjoe1Vck85zz1PenSkAnjJ71ET6/kKkotQSlSq5GM9auGstGAbHI+tXrc5U00JknHpTZk3x4HY5xTqXNMlGbL9454qOtV0WRcMAab5EP/PNfypWKuZq8kVoW6lUJIxmn+XGBwij8KdTSE2f/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010NBXJN06/F010TTCTRF0/htb12ifsofxxxxcraxxxq6xxfxxxx.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010TTCTRF0-e5388b4438",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CS=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as you can see, a reusable mask where only the filter is changed is be ideal, and this mask seals to the face so air doesn't get in through gaps in the mask, as in cloth masks. What I'm proposing is making the structure of the mask out of leather, but that would not solve the problem of the replaceable filter material. However, something more structured like that + a face shield may be enough."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010NBXJN06",
+        "display_as_bot": false,
+        "ts": "1585159743.006400",
+        "client_msg_id": "f094e39d-463e-4dfc-877f-8d7f1625d63b",
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107AXNR4Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73d8fd99-7a4b-46d9-b8a7-93f8bceef52a",
+        "type": "message",
+        "text": "This makes so much sense to me. Thank you <@U010NBXJN06> - I wonder if creating, testing and getting approval for this would be possible in a reasonable time.",
+        "user": "U0107JERE9L",
+        "ts": "1585162315.006900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ZuXN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This makes so much sense to me. Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010NBXJN06"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I wonder if creating, testing and getting approval for this would be possible in a reasonable time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "client_msg_id": "ac9b91b6-ade8-45d2-bfad-9b2569366f28",
+        "type": "message",
+        "text": "So because there are already files for 3D Printing, what we would need is a leather pattern maker--like someone who makes shoes. We (myself and maybe <@U0107AXNR4Z> since he's physically there) could work with someone like that to convert the components into patterns to cut and sew. However, we'd have to seal the seams so air does not enter--the same glue used for shoes would likely be enough. \n\nWorking right now, but I'll try and put together some documents by tomorrow! That's a way to manufacture quickly without 3D Printing, and use resources the country has plenty of :blush:",
+        "user": "U010NBXJN06",
+        "ts": "1585162557.007100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010NBXJN06",
+            "ts": "1585162588.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q+yq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So because there are already files for 3D Printing, what we would need is a leather pattern maker--like someone who makes shoes. We (myself and maybe "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107AXNR4Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " since he's physically there) could work with someone like that to convert the components into patterns to cut and sew. However, we'd have to seal the seams so air does not enter--the same glue used for shoes would likely be enough. \n\nWorking right now, but I'll try and put together some documents by tomorrow! That's a way to manufacture quickly without 3D Printing, and use resources the country has plenty of "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "client_msg_id": "1c0cc31a-ae6f-4e52-942c-4b82b23605a7",
+        "type": "message",
+        "text": "filters for car air conditioning is widely available <@U010NBXJN06>. you think that would work?",
+        "user": "U0107AXNR4Z",
+        "ts": "1585170264.007400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gte",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "filters for car air conditioning is widely available "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010NBXJN06"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". you think that would work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "client_msg_id": "b3fa431d-099e-477a-8aac-fea2813d83b3",
+        "type": "message",
+        "text": "and more than willing to help out <@U010NBXJN06>! and the super glue we use here is no joke. I've glued glass together with it and it held pretty sturdily :slightly_smiling_face:",
+        "user": "U0107AXNR4Z",
+        "ts": "1585170330.007600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=V4E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and more than willing to help out "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010NBXJN06"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! and the super glue we use here is no joke. I've glued glass together with it and it held pretty sturdily "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "client_msg_id": "efc7c34b-d215-4d2f-8a44-2f9cad30c51c",
+        "type": "message",
+        "text": "<@U0107AXNR4Z> that's a good question--it might, we'd just need to find out if it has a rating and what the rating says.",
+        "user": "U010NBXJN06",
+        "ts": "1585171173.008000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xiooG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107AXNR4Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that's a good question--it might, we'd just need to find out if it has a rating and what the rating says."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "client_msg_id": "6b72b093-f6bf-4c40-beb4-25f5b37ca749",
+        "type": "message",
+        "text": "Lol its less about whether it would hold and more that there should be no air bubbles or way for air to escape--probably a strip of leather glued on either side would be enough though!\n\nWill mess around with flat patterns in a few different CAD programs tonight :slightly_smiling_face:",
+        "user": "U010NBXJN06",
+        "ts": "1585171284.008200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gVgr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lol its less about whether it would hold and more that there should be no air bubbles or way for air to escape--probably a strip of leather glued on either side would be enough though!\n\nWill mess around with flat patterns in a few different CAD programs tonight "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    }
+]

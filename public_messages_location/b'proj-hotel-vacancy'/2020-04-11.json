@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "4F73D253-708E-498C-A1AB-238F9CF00F22",
+        "type": "message",
+        "text": "<!channel> - good morning. Do you have an everything to be successful during this weekend\u2019s sprint? If not, please ping me so that I can help facilitate. ",
+        "user": "UV8B0679P",
+        "ts": "1586624196.003200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7Ei",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - good morning. Do you have an everything to be successful during this weekend\u2019s sprint? If not, please ping me so that I can help facilitate. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

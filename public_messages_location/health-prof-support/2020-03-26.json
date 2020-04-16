@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "010799d1-6b2a-4191-8a8e-784cb2934a8f",
+        "type": "message",
+        "text": "This crossed my mind: I am assuming since Corona is very contagious, Ethiopia should think about the Funneral side of it. How can tech help? And there should be a clear process/procedure/guidance for that from MOH. Our social side of funneral can be a challenge for containing it.",
+        "user": "UV81AMFSP",
+        "ts": "1585209097.011100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A53iI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This crossed my mind: I am assuming since Corona is very contagious, Ethiopia should think about the Funneral side of it. How can tech help? And there should be a clear process/procedure/guidance for that from MOH. Our social side of funneral can be a challenge for containing it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585209097.011100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585228958.014300",
+        "reply_users": [
+            "U010SPW4HJB"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D6603F96-6D95-423A-9701-BB3EBF3F11CC",
+        "type": "message",
+        "text": "This is a great point. Even with social distancing directives in the US, a lot of Habesha people have been attending funerals and burials which has put people in potential risk, especially our older population. I think this is something MOH should consider &amp; perhaps we can help them in some aspects of messaging. ",
+        "user": "U010SPW4HJB",
+        "ts": "1585228958.014300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oOUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a great point. Even with social distancing directives in the US, a lot of Habesha people have been attending funerals and burials which has put people in potential risk, especially our older population. I think this is something MOH should consider & perhaps we can help them in some aspects of messaging. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585209097.011100",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "0b9d37f4-3370-47e6-ae43-6f2cafc63e0f",
+        "type": "message",
+        "text": "<https://www.surveymonkey.com/r/PHH8ZYT>",
+        "user": "U01007VTP8A",
+        "ts": "1585249416.014900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "COVID-19 Interactive skills training for health workers",
+                "title_link": "https://www.surveymonkey.com/r/PHH8ZYT",
+                "text": "Take this survey powered by <http://surveymonkey.com|surveymonkey.com>. Create your own surveys for free.",
+                "fallback": "COVID-19 Interactive skills training for health workers",
+                "image_url": "https://www.surveymonkey.com/collect/images/default_custom_meta_image.jpg",
+                "from_url": "https://www.surveymonkey.com/r/PHH8ZYT",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 251248,
+                "service_icon": "https://www.surveymonkey.com/favicon1.ico",
+                "service_name": "surveymonkey.com",
+                "id": 1,
+                "original_url": "https://www.surveymonkey.com/r/PHH8ZYT"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ta",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.surveymonkey.com/r/PHH8ZYT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585249416.014900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585305108.019900",
+        "reply_users": [
+            "U010B22ESES",
+            "U01007VTP8A"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E5C55054-39A6-4E05-9CBD-5D3688D36158",
+        "type": "message",
+        "text": "Is it official?",
+        "user": "U010B22ESES",
+        "ts": "1585249829.015500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E00O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it official?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585249416.014900",
+        "parent_user_id": "U01007VTP8A"
+    }
+]

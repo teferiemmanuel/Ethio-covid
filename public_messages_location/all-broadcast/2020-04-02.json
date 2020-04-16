@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "0748c747-0531-4d83-866b-3fdd0a97f8c4",
+        "type": "message",
+        "text": "<!channel>, do we have anyone from <https://www.etpha.org|Ethiopian Public Health Association (EPHA)> in here?!? If so, please DM me.",
+        "user": "U0106M26108",
+        "ts": "1585864213.146500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xoql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", do we have anyone from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.etpha.org",
+                                "text": "Ethiopian Public Health Association (EPHA)"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in here?!? If so, please DM me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_up::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U0107A7161E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "UV8B0679P",
+                    "U010Z23J5CL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

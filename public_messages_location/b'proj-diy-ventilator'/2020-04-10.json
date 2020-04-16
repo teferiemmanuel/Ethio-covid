@@ -1,0 +1,1739 @@
+[
+    {
+        "client_msg_id": "7cd936e7-54a8-4f30-9b53-f20428607372",
+        "type": "message",
+        "text": "<!channel> Reminder: project kick-off meeting at 9:00AM PDT, on Friday, 8th 2020.\u00a0\nPlease add it to your calendar.\u00a0\nLink to Join Zoom Meeting:\n<https://us04web.zoom.us/j/203593775>",
+        "user": "U010986778X",
+        "ts": "1586476845.037600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GIr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Reminder: project kick-off meeting at 9:00AM PDT, on Friday, 8th 2020.\u00a0\nPlease add it to your calendar.\u00a0\nLink to Join Zoom Meeting:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/203593775"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586476845.037600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586496398.047300",
+        "reply_users": [
+            "UV8F3SRGA",
+            "U011BGST4BG"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U011FFME1PD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33bd5933-7f38-474a-854e-94ef2b226d30",
+        "type": "message",
+        "text": "<@U010986778X> Thank you for scheduling. I'll try to join unless there is an unexpected meeting for work",
+        "user": "UV8F3SRGA",
+        "ts": "1586477527.037900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EA8lK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you for scheduling. I'll try to join unless there is an unexpected meeting for work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586476845.037600",
+        "parent_user_id": "U010986778X",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010986778X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae295903-053e-4c8d-968d-8c74b013afc9",
+        "type": "message",
+        "text": "Great article on open source ventilators: <https://hackaday.com/2020/04/09/what-does-a-dependable-open-source-ventilator-look-like/>",
+        "user": "U010L2CFYUW",
+        "ts": "1586480490.038500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Hackaday",
+                "title": "What Does A Dependable Open Source Ventilator Look Like?",
+                "title_link": "https://hackaday.com/2020/04/09/what-does-a-dependable-open-source-ventilator-look-like/",
+                "text": "Ventilators are key in the treating the most dire cases of coronavirus. The exponential growth of infections, and the number of patients in respiratory distress, has outpaced the number of availabl\u2026",
+                "fallback": "Hackaday: What Does A Dependable Open Source Ventilator Look Like?",
+                "image_url": "https://hackaday.com/wp-content/uploads/2020/04/BVM-ventilator-article-featured.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1586440800,
+                "from_url": "https://hackaday.com/2020/04/09/what-does-a-dependable-open-source-ventilator-look-like/",
+                "image_bytes": 1937338,
+                "service_icon": "https://hackaday.com/wp-content/themes/hackaday-2/favicon.ico",
+                "id": 1,
+                "original_url": "https://hackaday.com/2020/04/09/what-does-a-dependable-open-source-ventilator-look-like/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0kHv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great article on open source ventilators: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://hackaday.com/2020/04/09/what-does-a-dependable-open-source-ventilator-look-like/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586480490.038500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586491820.046600",
+        "reply_users": [
+            "U010986778X"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JERE9L",
+                    "U010986778X"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010RM5TX1R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c1ef4b9-0f18-429b-9979-b4d1dc504b95",
+        "type": "message",
+        "text": "Key challenges include robust software, sourcing parts and training operators.",
+        "user": "U010L2CFYUW",
+        "ts": "1586480568.039700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TzK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Key challenges include robust software, sourcing parts and training operators."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cb9f2ce-5325-44cd-81a3-60add68fb98e",
+        "type": "message",
+        "text": "Given that most of these designs will be completed after the initial surge in western countries, I think it makes sense to partner with a car manufacturer or similar sized company. Their supply chains are orthogonal to the ventilator industry and their home markets will probably be fully stocked.",
+        "user": "U010L2CFYUW",
+        "ts": "1586481837.043700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kDHG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Given that most of these designs will be completed after the initial surge in western countries, I think it makes sense to partner with a car manufacturer or similar sized company. Their supply chains are orthogonal to the ventilator industry and their home markets will probably be fully stocked."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586481837.043700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586487575.046000",
+        "reply_users": [
+            "U0107JERE9L",
+            "U010986778X"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0e41cc1a-0cbb-43d8-b595-1cb43fb6bdf0",
+        "type": "message",
+        "text": "Local manufacturing can probably focus on replacement parts and PPE.",
+        "user": "U010L2CFYUW",
+        "ts": "1586481892.044400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GenUC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Local manufacturing can probably focus on replacement parts and PPE."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6a8b6b4-0ea9-45da-a5fd-cda8ae3c84fc",
+        "type": "message",
+        "text": "Agree with this suggestion -\nLooks like Tesla does too...\n<https://www.youtube.com/watch?v=zZbDg24dfN0>",
+        "user": "U0107JERE9L",
+        "ts": "1586481949.044500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Tesla Ventilator",
+                "title_link": "https://www.youtube.com/watch?v=zZbDg24dfN0",
+                "author_name": "Tesla",
+                "author_link": "https://www.youtube.com/user/TeslaMotors",
+                "thumb_url": "https://i.ytimg.com/vi/zZbDg24dfN0/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Tesla Ventilator",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/zZbDg24dfN0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=zZbDg24dfN0",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=zZbDg24dfN0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9M9IZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agree with this suggestion -\nLooks like Tesla does too...\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=zZbDg24dfN0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586481837.043700",
+        "parent_user_id": "U010L2CFYUW",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U010986778X"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U011FFME1PD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010RM5TX1R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40a30bf0-1b2c-4d31-8386-a0484cdd51ec",
+        "type": "message",
+        "text": "This is a great idea. <@U011FFME1PD> <@U010L2CFYUW> maybe we can reach out to these companies to <https://addisbiz.com/business-directory/automotive/vehicle-assembly> to transfer our design and go into production.",
+        "user": "U010986778X",
+        "ts": "1586486692.045300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010986778X",
+            "ts": "1586486816.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MjjV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a great idea. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011FFME1PD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L2CFYUW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " maybe we can reach out to these companies to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://addisbiz.com/business-directory/automotive/vehicle-assembly"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to transfer our design and go into production."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586481837.043700",
+        "parent_user_id": "U010L2CFYUW",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U011FFME1PD",
+                    "U0101KKMPFC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0631c1e9-816e-4ee6-a7de-2f83a684f0b1",
+        "type": "message",
+        "text": "<@U010RM5TX1R>",
+        "user": "U010986778X",
+        "ts": "1586487575.046000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FIwmm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010RM5TX1R"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586481837.043700",
+        "parent_user_id": "U010L2CFYUW",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010RM5TX1R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65050814-50b1-4f2a-9667-56470672e3e4",
+        "type": "message",
+        "text": "it looks like manufacturing supply chain has been more of a problem than ventilator design.",
+        "user": "U010986778X",
+        "ts": "1586491820.046600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010986778X",
+            "ts": "1586492038.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XnbAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it looks like manufacturing supply chain has been more of a problem than ventilator design."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586480490.038500",
+        "parent_user_id": "U010L2CFYUW"
+    },
+    {
+        "client_msg_id": "60E2EFE3-0808-4357-B71E-CCCEB5211FB2",
+        "type": "message",
+        "text": "<https://youtu.be/IDeeQiZt1po|https://youtu.be/IDeeQiZt1po>",
+        "user": "U010986778X",
+        "ts": "1586494636.047100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Nurse reacts to Tesla's ventilator &amp; what's with those resuscitators?",
+                "title_link": "https://youtu.be/IDeeQiZt1po",
+                "author_name": "Chris Vanderstock",
+                "author_link": "https://www.youtube.com/user/chrisvanderstock",
+                "thumb_url": "https://i.ytimg.com/vi/IDeeQiZt1po/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Nurse reacts to Tesla's ventilator & what's with those resuscitators?",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/IDeeQiZt1po?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/IDeeQiZt1po",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/IDeeQiZt1po"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JX+8j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/IDeeQiZt1po",
+                                "text": "https://youtu.be/IDeeQiZt1po"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586494636.047100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586615348.074700",
+        "reply_users": [
+            "U0106M26108",
+            "U010986778X"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ac20957f-97f6-4f9c-b816-28333ff58de5",
+        "type": "message",
+        "text": "Friday, 10th*.",
+        "user": "U011BGST4BG",
+        "ts": "1586496398.047300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nbYic",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Friday, 10th*."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586476845.037600",
+        "parent_user_id": "U010986778X"
+    },
+    {
+        "client_msg_id": "7cb943ad-d07b-47c3-8968-f20300e2f2c7",
+        "type": "message",
+        "text": "<!channel> sending a reminder for our kickoff meeting in 10 minutes:\nPlease join zoom meeting:\u00a0\n<https://us04web.zoom.us/j/203593775>\n\nWe are also happy to have Minas, co-founder of\u00a0<@U011VKB18NM> join the discussion today! His R&amp;D team has a ventilator prototype in Ethiopia. Welcome!\u00a0\n\n<@U011BGST4BG> great work for getting hold off\u00a0@N.E.R.D Team and other talented engineers who have been working on ventilators in Ethiopia.",
+        "user": "U010986778X",
+        "ts": "1586533668.048500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9vVcZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sending a reminder for our kickoff meeting in 10 minutes:\nPlease join zoom meeting:\u00a0\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/203593775"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe are also happy to have Minas, co-founder of\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011VKB18NM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " join the discussion today! His R&D team has a ventilator prototype in Ethiopia. Welcome!\u00a0\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011BGST4BG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " great work for getting hold off\u00a0@N.E.R.D Team and other talented engineers who have been working on ventilators in Ethiopia."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0107JERE9L",
+        "ts": "1586534174.048600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[April 10th, 2020 10:42 AM] samantab17: Harvard is offering for free a course that will help prepare licensed non-ICU hospital clinicians to assist in the operation of a ventilator: <https://online-learning.harvard.edu/course/mechanical-ventilation-covid-19?delta=0>",
+                "ts": "1586529723.485800",
+                "author_id": "U0111A9R6JK",
+                "author_subname": "Bezawit",
+                "channel_id": "C0104D5J3T2",
+                "channel_name": "all-general",
+                "is_msg_unfurl": true,
+                "text": "Harvard is offering for free a course that will help prepare licensed non-ICU hospital clinicians to assist in the operation of a ventilator: <https://online-learning.harvard.edu/course/mechanical-ventilation-covid-19?delta=0>",
+                "author_name": "Bezawit",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0111A9R6JK",
+                "author_icon": "https://secure.gravatar.com/avatar/25f9820052e863fe88e8efbdc77d8fe3.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1586529723485800",
+                "is_share": true,
+                "footer": "Posted in #all-general"
+            }
+        ],
+        "thread_ts": "1586534174.048600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586629912.078000",
+        "reply_users": [
+            "UV8F3SRGA",
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ad9d10e6-ddca-410d-a6a3-0b1c47fdbaf0",
+        "type": "message",
+        "text": "Heeey <@U010986778X>, <@U0106M27EKS> mentioned you asked if we knew anyone at Tesla. We do! We got a few actually! In fact one of my friends, who\u2019s habesha just left from there! What\u2019s the ask?",
+        "user": "U0106M26108",
+        "ts": "1586534265.048700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VMu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heeey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M27EKS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mentioned you asked if we knew anyone at Tesla. We do! We got a few actually! In fact one of my friends, who\u2019s habesha just left from there! What\u2019s the ask?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586494636.047100",
+        "parent_user_id": "U010986778X"
+    },
+    {
+        "client_msg_id": "2c080596-da21-4160-9544-14c2cdb00923",
+        "type": "message",
+        "text": "<@U010986778X> is there a zoom number to join? the link is not connecting",
+        "user": "UV8F3SRGA",
+        "ts": "1586534571.049400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2t9q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is there a zoom number to join? the link is not connecting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57b6e659-dfd1-4558-a6f4-4eb9b0fadfa5",
+        "type": "message",
+        "text": "<https://us04web.zoom.us/j/203593775|203593775> <@UV8F3SRGA>",
+        "user": "U010986778X",
+        "ts": "1586534608.049600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yRCBT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/203593775",
+                                "text": "203593775"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8F3SRGA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "755983BD-89D2-4766-B3F8-F75FA9EC5780",
+        "type": "message",
+        "text": "<@U011URTQR0R> ",
+        "user": "U011FFME1PD",
+        "ts": "1586536120.050000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/Raqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011URTQR0R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010986778X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586536125.050200",
+        "user": "U011URTQR0R",
+        "text": "<@U011URTQR0R> has joined the channel",
+        "inviter": "U011FFME1PD"
+    },
+    {
+        "client_msg_id": "183C034E-EC76-49F9-9B1A-04EB02CB1013",
+        "type": "message",
+        "text": "<@U011PK7R8NQ> ",
+        "user": "U011FFME1PD",
+        "ts": "1586536136.050400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EIo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011PK7R8NQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010986778X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586536138.050600",
+        "user": "U011PK7R8NQ",
+        "text": "<@U011PK7R8NQ> has joined the channel",
+        "inviter": "U011FFME1PD"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010TEL4ZDM",
+                "created": 1585149666,
+                "timestamp": 1585149666,
+                "name": "Guideline for Registration of Medical devices 2014(1).pdf",
+                "title": "Guideline for Registration of Medical devices 2014(1).pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0101KKMPFC",
+                "editable": false,
+                "size": 1038057,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010TEL4ZDM/guideline_for_registration_of_medical_devices_2014_1_.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010TEL4ZDM/download/guideline_for_registration_of_medical_devices_2014_1_.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F010TEL4ZDM-8bf3eb2b8e/guideline_for_registration_of_medical_devices_2014_1__thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0101KKMPFC/F010TEL4ZDM/guideline_for_registration_of_medical_devices_2014_1_.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010TEL4ZDM-b10b65a494",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0101KKMPFC",
+        "display_as_bot": false,
+        "ts": "1586538610.050800",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010RM5TX1R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05319084-3222-40c9-8458-5446660ea211",
+        "type": "message",
+        "text": "z guidelines for Ethiopian FDA with regards to medical devices <!channel> <@U0107JERE9L>",
+        "user": "U0101KKMPFC",
+        "ts": "1586538682.052400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jo2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "z guidelines for Ethiopian FDA with regards to medical devices "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011BGST4BG",
+                    "U0109CA9ZU6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hi all, this FDA policy for COVID-19 provides flexibility for modifications to existing approved devices and new manufacturers to guide them through the Emergency Use Authorization (EUA).\u00a0\nEven though the NERD team indicated doctors in Addis aren\u2019t concerned about approvals, I think it might a good guide to ensure the safety of the device.",
+        "files": [
+            {
+                "id": "F011UEJKVD2",
+                "created": 1586539279,
+                "timestamp": 1586539279,
+                "name": "Ventilators-Enforcement-Guidance.pdf",
+                "title": "Ventilators-Enforcement-Guidance.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0109CA9ZU6",
+                "editable": false,
+                "size": 182570,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011UEJKVD2/ventilators-enforcement-guidance.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011UEJKVD2/download/ventilators-enforcement-guidance.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011UEJKVD2-b1e66200a7/ventilators-enforcement-guidance_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0109CA9ZU6/F011UEJKVD2/ventilators-enforcement-guidance.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011UEJKVD2-83d5d267b8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KK9OS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, this FDA policy for COVID-19 provides flexibility for modifications to existing approved devices and new manufacturers to guide them through the Emergency Use Authorization (EUA).\u00a0\nEven though the NERD team indicated doctors in Addis aren\u2019t concerned about approvals, I think it might a good guide to ensure the safety of the device."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0109CA9ZU6",
+        "display_as_bot": false,
+        "ts": "1586539283.052800",
+        "client_msg_id": "afdb8c1d-9994-4c5a-947d-2bb4dd22c4e5",
+        "thread_ts": "1586539283.052800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586633867.078600",
+        "reply_users": [
+            "U010986778X",
+            "UV8F3SRGA"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U010986778X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d16544a-926b-4273-95b4-ff0c31496553",
+        "type": "message",
+        "text": "Yes we can!!\n<https://twitter.com/DanielM62021892/status/1248528554280783874?s=19>",
+        "user": "U0107JERE9L",
+        "ts": "1586539422.053400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/DanielM62021892|@DanielM62021892>: KEMRI innovates COVID-19 testing kits, makes Kenya first African country to kick off mass testing <https://kenyanreport.com/2020/04/08/kemri-innovates-covid-19-testing-kits-makes-kenya-first-african-country-to-kick-off-mass-testing/> via <https://twitter.com/Kenyan_Report|@Kenyan_Report>",
+                "ts": 1586507378,
+                "author_name": "Daniel Mekonnen",
+                "author_link": "https://twitter.com/DanielM62021892/status/1248528554280783874",
+                "author_icon": "https://pbs.twimg.com/profile_images/987253754545233920/z15cMEGG_normal.jpg",
+                "author_subname": "@DanielM62021892",
+                "text": "KEMRI innovates COVID-19 testing kits, makes Kenya first African country to kick off mass testing <https://kenyanreport.com/2020/04/08/kemri-innovates-covid-19-testing-kits-makes-kenya-first-african-country-to-kick-off-mass-testing/> via <https://twitter.com/Kenyan_Report|@Kenyan_Report>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/DanielM62021892/status/1248528554280783874?s=19",
+                "id": 1,
+                "original_url": "https://twitter.com/DanielM62021892/status/1248528554280783874?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nPf+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes we can!!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/DanielM62021892/status/1248528554280783874?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0100NR1PDY",
+                    "U010986778X",
+                    "U011BGST4BG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32ea43dc-6e6e-414d-8f1d-7e57e623039b",
+        "type": "message",
+        "text": "Thank you for sharing this! Extremely helpful. I will read through it and adjust the project plan accordingly!",
+        "user": "U010986778X",
+        "ts": "1586539777.053600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yWbc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for sharing this! Extremely helpful. I will read through it and adjust the project plan accordingly!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586539283.052800",
+        "parent_user_id": "U0109CA9ZU6"
+    },
+    {
+        "client_msg_id": "7a5db3c6-9c5b-46b5-b275-2e06bd4aecdc",
+        "type": "message",
+        "text": "<@U0106M26108> we are looking for someone in manufacturing/supply chain to guide us in our efforts to mass produce ventilators at a non-medical device manufacturer. We are looking to transfer our designs to these different facilities without compromising quality.  We are looking to model what medtronic/tesla are doing.",
+        "user": "U010986778X",
+        "ts": "1586540135.053900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/Qvu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are looking for someone in manufacturing/supply chain to guide us in our efforts to mass produce ventilators at a non-medical device manufacturer. We are looking to transfer our designs to these different facilities without compromising quality.  We are looking to model what medtronic/tesla are doing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586494636.047100",
+        "parent_user_id": "U010986778X"
+    },
+    {
+        "client_msg_id": "A38ADE4B-8E9F-40D2-8163-BD1D87018E01",
+        "type": "message",
+        "text": "Glad to see this channel &amp; coordination. Also saw the prototype vdo by NERD earlier, it's a great start. Looks I just missed a mtg, got 2 remarks\n\n\u2022 Believe it's good to get collabs &amp; manufacture at least one actual sample of the prototype. Helps to really see the efficiency &amp; then facilitate the approval process. Local small scale machine shops can be one option.\n\n\u2022 Good if this channel also sees testing kit design/production options. Feel they are among the higher priorities.\n\nMy area is Power/Electrical Design (LV/MV). Can help when needed.",
+        "user": "U0100NR1PDY",
+        "ts": "1586540256.054700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L63+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Glad to see this channel & coordination. Also saw the prototype vdo by NERD earlier, it's a great start. Looks I just missed a mtg, got 2 remarks\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Believe it's good to get collabs & manufacture at least one actual sample of the prototype. Helps to really see the efficiency & then facilitate the approval process. Local small scale machine shops can be one option."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Good if this channel also sees testing kit design/production options. Feel they are among the higher priorities."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "My area is Power/Electrical Design (LV/MV). Can help when needed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586541305.054900",
+        "user": "U011JPFU7PG",
+        "text": "<@U011JPFU7PG> has joined the channel",
+        "inviter": "U010986778X",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2e4b7a4-ba39-48e5-b900-4ffb0d073f79",
+        "type": "message",
+        "text": "<mailto:ezedin.technology@gmail.com|ezedin.technology@gmail.com>",
+        "user": "U011JPFU7PG",
+        "ts": "1586541451.055400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6QV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:ezedin.technology@gmail.com",
+                                "text": "ezedin.technology@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21562690-5b9b-4388-934c-2e3a0bcbda95",
+        "type": "message",
+        "text": "<mailto:ezedin.technology@gmail.com|ezedin.technology@gmail.com>",
+        "user": "U011JPFU7PG",
+        "ts": "1586541484.055600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MiUhv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:ezedin.technology@gmail.com",
+                                "text": "ezedin.technology@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06459fda-99ef-45ab-bf33-9020918d20d2",
+        "type": "message",
+        "text": "Everyone, we also have <@U011JPFU7PG>  from Ethiopia here join the channel. He has done some amazing work around ventilators. Welcome! <https://www.youtube.com/watch?v=zJSTNDvd4dY&amp;feature=youtu.be>",
+        "user": "U010986778X",
+        "ts": "1586541628.056700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "\u12a2\u12d8\u12f2\u1295 \u12a8\u12f5\u122d \u12f5\u130b\u134d \u12ab\u1308\u1298 \u1260\u1240\u1295 800 \u126c\u1295\u1275\u120c\u1270\u122d \u1218\u1235\u122b\u1275 \u12a5\u1295\u12f0\u121a\u127d\u120d \u12a0\u1233\u12c8\u1240  innovator Ezedin Kedir  | Ethiopia  | EthioInfo.",
+                "title_link": "https://www.youtube.com/watch?v=zJSTNDvd4dY&amp;feature=youtu.be",
+                "author_name": "EthioInfo",
+                "author_link": "https://www.youtube.com/channel/UCn-x-TvMDW28zgDM6SNXAiA",
+                "thumb_url": "https://i.ytimg.com/vi/zJSTNDvd4dY/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: \u12a2\u12d8\u12f2\u1295 \u12a8\u12f5\u122d \u12f5\u130b\u134d \u12ab\u1308\u1298 \u1260\u1240\u1295 800 \u126c\u1295\u1275\u120c\u1270\u122d \u1218\u1235\u122b\u1275 \u12a5\u1295\u12f0\u121a\u127d\u120d \u12a0\u1233\u12c8\u1240  innovator Ezedin Kedir  | Ethiopia  | EthioInfo.",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/zJSTNDvd4dY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=zJSTNDvd4dY&amp;feature=youtu.be",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=zJSTNDvd4dY&amp;feature=youtu.be"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e2T4p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Everyone, we also have "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011JPFU7PG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  from Ethiopia here join the channel. He has done some amazing work around ventilators. Welcome! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=zJSTNDvd4dY&feature=youtu.be"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586541628.056700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586543513.058600",
+        "reply_users": [
+            "U0107JERE9L",
+            "U011BGST4BG"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0100NR1PDY",
+                    "U011BGST4BG",
+                    "U011JPFU7PG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010RM5TX1R",
+                    "U010874LAQJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18fdaba2-59f5-4f2c-bb04-fb9c1e97f4f2",
+        "type": "message",
+        "text": "Dear Jerusalem Thank you",
+        "user": "U011JPFU7PG",
+        "ts": "1586541691.057400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0c6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear Jerusalem Thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98fac8d8-dd5f-4058-b577-d14a9090de72",
+        "type": "message",
+        "text": "Thank you for joining us <@U011JPFU7PG>",
+        "user": "U0107JERE9L",
+        "ts": "1586542713.058200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yAY0T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for joining us "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011JPFU7PG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586541628.056700",
+        "parent_user_id": "U010986778X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586542730.058500",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "cd6e64da-a1e1-4ccb-b0ca-2ff7ca7f48af",
+        "type": "message",
+        "text": "Welcome <@U011JPFU7PG>!",
+        "user": "U011BGST4BG",
+        "ts": "1586543513.058600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JnK/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011JPFU7PG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586541628.056700",
+        "parent_user_id": "U010986778X"
+    },
+    {
+        "client_msg_id": "80b5023a-f604-4936-a11a-afaeb6dd6eaa",
+        "type": "message",
+        "text": "Here\u2019s a couple of alternative designs I just came across. Might give you some ideas :\n<https://www.linkedin.com/posts/menuka-gamage-74a23256_smartdesign-greatdesign-industrialdesigner-activity-6650932456176304128-Bv0s>\n<https://www.ventcore.health/>",
+        "user": "U011BGST4BG",
+        "ts": "1586546392.059500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Menuka Gamage on LinkedIn: #smartdesign #greatdesign #industrialdesigner | 55 comments",
+                "title_link": "https://www.linkedin.com/posts/menuka-gamage-74a23256_smartdesign-greatdesign-industrialdesigner-activity-6650932456176304128-Bv0s",
+                "text": "My minimum part mechanical ventilator design . I\u2019m using easy to source nema23 ( 280oz torque or higher) motor and 50lb fishing line . No need CNC parts... 55 comments on LinkedIn",
+                "fallback": "Menuka Gamage on LinkedIn: #smartdesign #greatdesign #industrialdesigner | 55 comments",
+                "thumb_url": "https://media-exp1.licdn.com/dms/image/C4E05AQHmPWljjG3PzA/feedshare-thumbnail_720_1280/0?e=1586635200&v=beta&t=cUN3gsibyrsYqZ9fq0b5GclFzYeuXxdVPxdv68KP39A",
+                "from_url": "https://www.linkedin.com/posts/menuka-gamage-74a23256_smartdesign-greatdesign-industrialdesigner-activity-6650932456176304128-Bv0s",
+                "thumb_width": 405,
+                "thumb_height": 720,
+                "service_icon": "https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico",
+                "service_name": "linkedin.com",
+                "id": 1,
+                "original_url": "https://www.linkedin.com/posts/menuka-gamage-74a23256_smartdesign-greatdesign-industrialdesigner-activity-6650932456176304128-Bv0s"
+            },
+            {
+                "title": "VentCore by Formon \u2013 An open source ventilator for COVID-19 patients",
+                "title_link": "https://www.ventcore.health/",
+                "fallback": "VentCore by Formon \u2013 An open source ventilator for COVID-19 patients",
+                "image_url": "https://www.formon3d.com/ventcore.jpg",
+                "from_url": "https://www.ventcore.health/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 182654,
+                "service_name": "ventcore.health",
+                "id": 2,
+                "original_url": "https://www.ventcore.health/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bc+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here\u2019s a couple of alternative designs I just came across. Might give you some ideas :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.linkedin.com/posts/menuka-gamage-74a23256_smartdesign-greatdesign-industrialdesigner-activity-6650932456176304128-Bv0s"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.ventcore.health/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010RM5TX1R",
+                    "U010986778X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f51aa7f6-e538-401a-b936-3e100e1a3e31",
+        "type": "message",
+        "text": "Thank you <@U010986778X> for your leadership and holding the Zoom meeting. Very impressed what NERD team have done so far and for allowing us to work along with them and support them. While we are supporting NERD, I strongly believe that we should have a group of people including NERED, our <@U011JPFU7PG> (so proud of your work) and of course the rest of us to own the Medtronic's design and turn it to a product by Ethiopians not only to Ethiopians but to Africa and who knows with the kind of expertise that we have we can even give it back to the rest of the world. I think we have well qualified, brilliant and dedicated people to put all our knowhow and turn it into a \"breathing machine, life saving tools...\" to humanity. I live in New Jersey close to NY and I have family members and church members who are the front fighters right in the midst of what is now looked as the epicenter. It is such a difficult thing to hear what humanity is going through.",
+        "user": "U010RM5TX1R",
+        "ts": "1586548180.069100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X2yoh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for your leadership and holding the Zoom meeting. Very impressed what NERD team have done so far and for allowing us to work along with them and support them. While we are supporting NERD, I strongly believe that we should have a group of people including NERED, our "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011JPFU7PG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (so proud of your work) and of course the rest of us to own the Medtronic's design and turn it to a product by Ethiopians not only to Ethiopians but to Africa and who knows with the kind of expertise that we have we can even give it back to the rest of the world. I think we have well qualified, brilliant and dedicated people to put all our knowhow and turn it into a \"breathing machine, life saving tools...\" to humanity. I live in New Jersey close to NY and I have family members and church members who are the front fighters right in the midst of what is now looked as the epicenter. It is such a difficult thing to hear what humanity is going through."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586548180.069100",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1586705059.090700",
+        "reply_users": [
+            "UV8F3SRGA",
+            "U010986778X",
+            "U010RM5TX1R",
+            "U010874LAQJ"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U010986778X",
+                    "U011BGST4BG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011BGST4BG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "U011BGST4BG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586549205.069500",
+        "user": "U011UNT5UAY",
+        "text": "<@U011UNT5UAY> has joined the channel",
+        "inviter": "U010986778X"
+    },
+    {
+        "client_msg_id": "dc78bee1-e7b7-45ef-9cc3-a49195a5fb4e",
+        "type": "message",
+        "text": "<!channel> We have <@U011UNT5UAY> , Co-Founder and Managing Partner of Kudu Ventures, Ethiopia's first impact-driven venture capital firm join this channel. Welcome!",
+        "user": "U010986778X",
+        "ts": "1586549303.070900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010986778X",
+            "ts": "1586549329.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XEp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We have "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011UNT5UAY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , Co-Founder and Managing Partner of Kudu Ventures, Ethiopia's first impact-driven venture capital firm join this channel. Welcome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011BGST4BG",
+                    "UVAL943JP",
+                    "U011FFME1PD",
+                    "U011GAJPJAG",
+                    "UV8B0679P"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cba4792a-7d7f-42f0-8b72-6d0a85a0fff1",
+        "type": "message",
+        "text": "Oh, by the way, check out this brilliance : <https://www.youtube.com/watch?v=DOi91oIHYig>",
+        "user": "U011BGST4BG",
+        "ts": "1586553294.072800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "30 \u12e8\u121a\u1206\u1291 \u12e8\u1348\u1320\u122b \u1225\u122b\u12ce\u127d\u1295 \u1328\u121d\u122e 7 \u12e8\u121a\u1206\u1291 \u12e8\u12a0\u1295\u12f5\u122e\u12ed\u12f5 \u1218\u1270\u130d\u1260\u122a\u12eb\u12ce\u127d  \u1348\u1320\u122b  \u1263\u1208\u1264\u1275 \u12a2\u12d8\u12f2\u1295 \u12ab\u121a\u120d #\u1260\u134b\u1293 90",
+                "title_link": "https://www.youtube.com/watch?v=DOi91oIHYig",
+                "author_name": "Fana Television",
+                "author_link": "https://www.youtube.com/user/fanabroadcasting",
+                "thumb_url": "https://i.ytimg.com/vi/DOi91oIHYig/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 30 \u12e8\u121a\u1206\u1291 \u12e8\u1348\u1320\u122b \u1225\u122b\u12ce\u127d\u1295 \u1328\u121d\u122e 7 \u12e8\u121a\u1206\u1291 \u12e8\u12a0\u1295\u12f5\u122e\u12ed\u12f5 \u1218\u1270\u130d\u1260\u122a\u12eb\u12ce\u127d  \u1348\u1320\u122b  \u1263\u1208\u1264\u1275 \u12a2\u12d8\u12f2\u1295 \u12ab\u121a\u120d #\u1260\u134b\u1293 90",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/DOi91oIHYig?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=DOi91oIHYig",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=DOi91oIHYig"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x0EeY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, by the way, check out this brilliance : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=DOi91oIHYig"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U011JC1RXGE",
+                    "U010986778X"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

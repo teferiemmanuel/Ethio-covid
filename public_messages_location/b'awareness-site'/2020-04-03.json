@@ -1,0 +1,1143 @@
+[
+    {
+        "client_msg_id": "b7d65e45-7c2f-4536-98a5-82ec95749009",
+        "type": "message",
+        "text": "<!here> I have got the basics up...views, components and routing. Content and CSS, per design, would be applied once design is complete i.e. when I have the html and css files. However, I can't push my changes. `Permission\u00a0to\u00a0Ethiopia-COVID19/covid-19-homepage.git\u00a0denied`  <@UV6JHDP0S> please check my permissions.",
+        "user": "U01085512G5",
+        "ts": "1585922100.018200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01085512G5",
+            "ts": "1585933945.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vtv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have got the basics up...views, components and routing. Content and CSS, per design, would be applied once design is complete i.e. when I have the html and css files. However, I can't push my changes. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Permission\u00a0to\u00a0Ethiopia-COVID19/covid-19-homepage.git\u00a0denied",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please check my permissions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76a83b7e-d292-42eb-9fc8-b2e2e086be19",
+        "type": "message",
+        "text": "Let\u2019s try again, what time is best today for everyone?",
+        "user": "U0106M26108",
+        "ts": "1585925175.018400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1585925210.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ps4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let\u2019s try again, what time is best today for everyone?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585865564.015800",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "85045140-cdcf-4245-82c1-4ea81a8712da",
+        "type": "message",
+        "text": "around 8:00 or 8:30 PM Eastern",
+        "user": "U01085512G5",
+        "ts": "1585927117.018800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KO1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "around 8:00 or 8:30 PM Eastern"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585865564.015800",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "24b3d9f0-cd01-472a-b719-12d6fca37285",
+        "type": "message",
+        "text": "<!here> github permission issue has been resolved (thanks <@UV6JHDP0S> :pray:)  and I have merged my commit to master. Next update would be after conversation with the designer <@U0115055LQP>",
+        "user": "U01085512G5",
+        "ts": "1585929306.020700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kl3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " github permission issue has been resolved (thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")  and I have merged my commit to master. Next update would be after conversation with the designer "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "reply_count": 16,
+        "reply_users_count": 2,
+        "latest_reply": "1585931696.024200",
+        "reply_users": [
+            "UV8B0679P",
+            "U01085512G5"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "107d8747-9a3d-408d-982c-bd7f24109250",
+        "type": "message",
+        "text": "Dope!",
+        "user": "UV8B0679P",
+        "ts": "1585930534.021000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1e1+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dope!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "ffcc2f48-a1d6-45b3-84a3-28b7c047ccaa",
+        "type": "message",
+        "text": "Looks good - can I suggest one thing and re-org the project directory?",
+        "user": "UV8B0679P",
+        "ts": "1585930552.021200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "enRKK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks good - can I suggest one thing and re-org the project directory?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "e4c69c4b-5029-492e-9065-849da5d36b85",
+        "type": "message",
+        "text": "Would you mind, <@U01085512G5>?",
+        "user": "UV8B0679P",
+        "ts": "1585930558.021400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acdUw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you mind, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "1349a1f3-f824-4d5a-8d43-144eaee194a0",
+        "type": "message",
+        "text": "Absolutely not. Go for it <@UV8B0679P>",
+        "user": "U01085512G5",
+        "ts": "1585930610.021600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fz=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely not. Go for it "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "e7a748b1-c65b-4ad9-a41f-9bcef42734cb",
+        "type": "message",
+        "text": "Eshi - one second",
+        "user": "UV8B0679P",
+        "ts": "1585930659.021900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nnR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eshi - one second"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "187aea33-daa9-4342-8776-62cea9e054b9",
+        "type": "message",
+        "text": "Done - all you have to do is (assuming you dont have changes locally that you have not pushed yet) is: `git fetch origin &amp;&amp; git reset --hard origin/master`",
+        "user": "UV8B0679P",
+        "ts": "1585930783.022100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done - all you have to do is (assuming you dont have changes locally that you have not pushed yet) is: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "git fetch origin && git reset --hard origin/master",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "72c3825e-c5c8-46ef-ad08-2e1dc01bbe8b",
+        "type": "message",
+        "text": "That will align the new org director for you",
+        "user": "UV8B0679P",
+        "ts": "1585930793.022300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FRpp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That will align the new org director for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "75d6ca04-c919-471f-95eb-4ac8593cb5e7",
+        "type": "message",
+        "text": "Let me know if you have any issues",
+        "user": "UV8B0679P",
+        "ts": "1585930800.022500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Ollm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me know if you have any issues"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "45c6ffc0-499d-45d7-bce1-451769d6c0a0",
+        "type": "message",
+        "text": "I should be good...don't have anything pending.",
+        "user": "U01085512G5",
+        "ts": "1585930834.022700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9DQh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I should be good...don't have anything pending."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "5b3e87b5-5ec1-4fda-b09e-687201e62b0a",
+        "type": "message",
+        "text": "Great",
+        "user": "UV8B0679P",
+        "ts": "1585930860.023000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XnE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "8d7694b0-7455-4857-a5f7-b08d4ee80d96",
+        "type": "message",
+        "text": "just run the git command",
+        "user": "UV8B0679P",
+        "ts": "1585930881.023200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xTTf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just run the git command"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "d09a825c-e16b-4f20-9b24-df109d8a7742",
+        "type": "message",
+        "text": "to align your local repo",
+        "user": "UV8B0679P",
+        "ts": "1585930887.023400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uOvqG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to align your local repo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "e186d4a2-094a-4312-acb8-87241993a834",
+        "type": "message",
+        "text": "and you\u2019ll be good to go",
+        "user": "UV8B0679P",
+        "ts": "1585930890.023600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PTK2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and you\u2019ll be good to go"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "bea402b2-93a1-405f-9a77-33e013472286",
+        "type": "message",
+        "text": "yep...I'm good.",
+        "user": "U01085512G5",
+        "ts": "1585931262.023800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4/C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep...I'm good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "f3978cb0-a80c-4808-bd12-633793ebf8d3",
+        "type": "message",
+        "text": "that is better org...thanks!",
+        "user": "U01085512G5",
+        "ts": "1585931279.024000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DPs9n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that is better org...thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "c20ae046-0e5e-450c-b108-18d347bd7e8f",
+        "type": "message",
+        "text": "np",
+        "user": "UV8B0679P",
+        "ts": "1585931696.024200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g6C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "np"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585929306.020700",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585946797.024900",
+        "user": "U010K3X390E",
+        "text": "<@U010K3X390E> has joined the channel",
+        "inviter": "UV6JHDP0S"
+    },
+    {
+        "client_msg_id": "d4562ee2-900a-4f8b-846b-02cace0d567a",
+        "type": "message",
+        "text": "Hi <@U010K3X390E>, this group is working on creating the `homepage` for the covid19 site. Will be great if you can be involved to add the automated bots feature to the website too.",
+        "user": "UV6JHDP0S",
+        "ts": "1585946888.026500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZSX4O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010K3X390E"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", this group is working on creating the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "homepage",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the covid19 site. Will be great if you can be involved to add the automated bots feature to the website too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585946888.026500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585951502.033400",
+        "reply_users": [
+            "U0106M26108"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7030f405-3d18-41f5-832c-83ce8f885e74",
+        "type": "message",
+        "text": "I think <@U0115055LQP> has shared 6pm EST might be best in the past. Will let him hop in to confirm.\n\nIf so, would that work for you guys?",
+        "user": "U0106M26108",
+        "ts": "1585949612.027700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pEA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has shared 6pm EST might be best in the past. Will let him hop in to confirm.\n\nIf so, would that work for you guys?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585865564.015800",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "cfd3b82e-c47e-4351-86e3-910e9ea29bea",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585948909027600>",
+        "user": "U0106M26108",
+        "ts": "1585951366.030100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585948909027600",
+                "fallback": "[April 3rd, 2020 2:21 PM] yosef.semegn: <@U0115055LQP> Let's please connect to apply your designs on the components and views I have created",
+                "ts": "1585948909.027600",
+                "author_id": "U01085512G5",
+                "author_subname": "yosef",
+                "channel_id": "C0110VDA0HM",
+                "channel_name": "awareness-site",
+                "is_msg_unfurl": true,
+                "text": "<@U0115055LQP> Let's please connect to apply your designs on the components and views I have created",
+                "author_name": "yosef",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U01085512G5",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-18/996048830738_01da2253de81472e3141_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585948909027600",
+                "footer": "Posted in #awareness-site"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XP8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585948909027600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585865564.015800",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "a9727531-f2af-4d26-b76d-a673fbac39ca",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951201029400>",
+        "user": "U0106M26108",
+        "ts": "1585951378.030600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951201029400",
+                "fallback": "[April 3rd, 2020 3:00 PM] info032: <@U01085512G5>  can we do it by 9:00 CST  today I have a meeting with offshore team ",
+                "ts": "1585951201.029400",
+                "author_id": "U0115055LQP",
+                "author_subname": "Messay denbel",
+                "channel_id": "C0110VDA0HM",
+                "channel_name": "awareness-site",
+                "is_msg_unfurl": true,
+                "text": "<@U01085512G5>  can we do it by 9:00 CST  today I have a meeting with offshore team ",
+                "author_name": "Messay denbel",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0115055LQP",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-30/1039006930935_7353ffe1d0852a35c355_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951201029400",
+                "footer": "Posted in #awareness-site"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PGA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951201029400"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585865564.015800",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "c2885a05-7809-4bd0-ac97-59743ac7dabe",
+        "type": "message",
+        "text": "<@U0115055LQP> &amp; <@U01085512G5>, 7pm PST / 9pm CST / 10 EST works for me! I\u2019ll be on it briefly to answer any additional questions! Then yall can take it away!",
+        "user": "U0106M26108",
+        "ts": "1585951435.031400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1585957040.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QTMS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", 7pm PST / 9pm CST / 10 EST works for me! I\u2019ll be on it briefly to answer any additional questions! Then yall can take it away!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585865564.015800",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "9c88cf4d-246d-4e86-8836-7ea60b08b602",
+        "type": "message",
+        "text": "cc <@U01085512G5> &amp; <@U0106MECUD9>",
+        "user": "U0106M26108",
+        "ts": "1585951502.033400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6rj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106MECUD9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585946888.026500",
+        "parent_user_id": "UV6JHDP0S"
+    },
+    {
+        "client_msg_id": "df9cf6b3-686e-46c2-b24e-c266e40dd0fa",
+        "type": "message",
+        "text": "10 CST is best for me",
+        "user": "U01085512G5",
+        "ts": "1585952697.034200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0U=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10 CST is best for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585865564.015800",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "eeaaabcb-3546-482b-8efc-2e80fbcd724d",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951514033800>",
+        "user": "U0106M26108",
+        "ts": "1585957402.034500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951514033800",
+                "fallback": "[April 3rd, 2020 3:05 PM] yosef.semegn: <@U0115055LQP>  if possible I would prefer 10 CST...11AM my time....after the kids are knocked out :-)",
+                "ts": "1585951514.033800",
+                "author_id": "U01085512G5",
+                "author_subname": "yosef",
+                "channel_id": "C0110VDA0HM",
+                "channel_name": "awareness-site",
+                "is_msg_unfurl": true,
+                "text": "<@U0115055LQP>  if possible I would prefer 10 CST...11AM my time....after the kids are knocked out :-)",
+                "author_name": "yosef",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U01085512G5",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-18/996048830738_01da2253de81472e3141_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951514033800",
+                "footer": "Posted in #awareness-site"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r3Nb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951514033800"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585865564.015800",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "7a4334a9-249f-4ab9-9908-205af8a581fb",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951593034000>",
+        "user": "U0106M26108",
+        "ts": "1585957408.034800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951593034000",
+                "fallback": "[April 3rd, 2020 3:06 PM] info032: Sure we can ",
+                "ts": "1585951593.034000",
+                "author_id": "U0115055LQP",
+                "author_subname": "Messay denbel",
+                "channel_id": "C0110VDA0HM",
+                "channel_name": "awareness-site",
+                "is_msg_unfurl": true,
+                "text": "Sure we can ",
+                "author_name": "Messay denbel",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0115055LQP",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-30/1039006930935_7353ffe1d0852a35c355_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951593034000",
+                "footer": "Posted in #awareness-site"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LCD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1585951593034000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585865564.015800",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Awesome! Sending a gcal invite for 8pm PST / 10pm CST / 11pm EST, &amp; we\u2019ll just make it a slack call :sunglasses:\n\ncc <@UV8B0679P> <@U0107AYF16H>",
+        "user": "U0106M26108",
+        "ts": "1585958256.035100",
+        "thread_ts": "1585865564.015800",
+        "root": {
+            "client_msg_id": "e1852d06-7884-43c6-b2dc-1f310d80d8c8",
+            "type": "message",
+            "text": "<@U0115055LQP> down for a quick call with <@U01085512G5> &amp; <@U0106MECUD9> right after your design call? Thinking in an hour?",
+            "user": "U0106M26108",
+            "ts": "1585865564.015800",
+            "team": "TV5KELEUS",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Mn3u",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U0115055LQP"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " down for a quick call with "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U01085512G5"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " & "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U0106MECUD9"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " right after your design call? Thinking in an hour?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1585865564.015800",
+            "reply_count": 22,
+            "reply_users_count": 5,
+            "latest_reply": "1585970053.040200",
+            "reply_users": [
+                "U0106M26108",
+                "U01085512G5",
+                "U0115055LQP",
+                "UV6JHDP0S",
+                "U0107AYF16H"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SG81",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome! Sending a gcal invite for 8pm PST / 10pm CST / 11pm EST, & we\u2019ll just make it a slack call "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\ncc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6f077b62-2a80-4313-8f65-1d920b249852",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UV8B0679P",
+                    "U0107AYF16H"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "3d853c53-9d07-49c3-bd55-44cbe750d363",
+        "type": "message",
+        "text": "<https://www.youtube.com/watch?v=BtN-goy9VOY>",
+        "user": "U01075FCUE4",
+        "ts": "1584639822.000900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "The Coronavirus Explained &amp; What You Should Do",
+                "title_link": "https://www.youtube.com/watch?v=BtN-goy9VOY",
+                "author_name": "Kurzgesagt \u2013 In a Nutshell",
+                "author_link": "https://www.youtube.com/user/Kurzgesagt",
+                "thumb_url": "https://i.ytimg.com/vi/BtN-goy9VOY/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The Coronavirus Explained & What You Should Do",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/BtN-goy9VOY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=BtN-goy9VOY",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=BtN-goy9VOY"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f6PJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=BtN-goy9VOY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584641158.001200",
+        "user": "U010BQSN3EK",
+        "text": "<@U010BQSN3EK> has joined the channel"
+    }
+]

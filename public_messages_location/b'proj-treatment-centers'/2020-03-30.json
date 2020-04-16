@@ -1,0 +1,190 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585545773.013300",
+        "user": "U010H9HHT4M",
+        "text": "<@U010H9HHT4M> has joined the channel"
+    },
+    {
+        "client_msg_id": "6FCFA96D-0AFF-4C83-BEE0-9FE73F84E1D4",
+        "type": "message",
+        "text": "Hi all! I\u2019d love to get plugged into the architecture project and offer my support. I\u2019ve been doing research on other response efforts successful and so w/ regards to quarantine centers.",
+        "user": "U0107A7161E",
+        "ts": "1585592163.013600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MO6H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! I\u2019d love to get plugged into the architecture project and offer my support. I\u2019ve been doing research on other response efforts successful and so w/ regards to quarantine centers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A6C85640-00E6-4ADC-AA9D-82EF772C69CA",
+        "type": "message",
+        "text": "I\u2019m an urban planner and of guidance is coming out of the field in terms of design and policy",
+        "user": "U0107A7161E",
+        "ts": "1585592188.013700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5RnOZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019m an urban planner and of guidance is coming out of the field in terms of design and policy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B8D585F1-00ED-416E-973A-131F03C85AA5",
+        "type": "message",
+        "text": "<@U0107A7161E> will do ",
+        "user": "UVB9ZSPCH",
+        "ts": "1585600408.014200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uZFw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will do "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8800002F-4B90-41CD-A272-DA46FC09F966",
+        "type": "message",
+        "text": "Thank you <@U0107A7161E> right now we are helping the team in Addis by providing resources such as guidelines and other countries best practices. If you have any specifications or BOD please share it on this channel. I will keep you and team posted on any updates.\n:pray:",
+        "user": "UVB9ZSPCH",
+        "ts": "1585603290.018800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w=gl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " right now we are helping the team in Addis by providing resources such as guidelines and other countries best practices. If you have any specifications or BOD please share it on this channel. I will keep you and team posted on any updates.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60F5AD0E-DCEC-4ABC-8BFA-3340A238CAEA",
+        "type": "message",
+        "text": "COVID 19 resources for Architects \n\n<https://www.aia.org/pages/6280670-covid-19-member-resources|https://www.aia.org/pages/6280670-covid-19-member-resources>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585608074.019700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "COVID-19 resources for architects",
+                "title_link": "https://www.aia.org/pages/6280670-covid-19-member-resources",
+                "text": "As we navigate this unprecedented crisis in our global community, AIA is committed to equipping our members with the information they need to help navigate these uncertain times. This page is intended provide guidelines, policies, and tools for our members and will be updated frequently as new resources are made available.",
+                "fallback": "COVID-19 resources for architects",
+                "image_url": "https://res.cloudinary.com/dpcbzfiye/image/upload/w_1080,c_fill,dpr_auto,f_auto,q_auto,fl_progressive/v1584986481/ipwbwyephcdca865lgs0.jpg",
+                "from_url": "https://www.aia.org/pages/6280670-covid-19-member-resources",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 75465,
+                "service_icon": "https://www.aia.org/favicon.ico",
+                "service_name": "aia.org",
+                "id": 1,
+                "original_url": "https://www.aia.org/pages/6280670-covid-19-member-resources"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fa2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "COVID 19 resources for Architects \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.aia.org/pages/6280670-covid-19-member-resources",
+                                "text": "https://www.aia.org/pages/6280670-covid-19-member-resources"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,1163 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445311.000200",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584445311.000300",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> set the channel purpose: Introduce yourself",
+        "purpose": "Introduce yourself"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445316.001300",
+        "user": "UV6JJDDKL",
+        "text": "<@UV6JJDDKL> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445316.001900",
+        "user": "UV7TX15LK",
+        "text": "<@UV7TX15LK> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445317.002900",
+        "user": "UV9A3SXC1",
+        "text": "<@UV9A3SXC1> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445319.004500",
+        "user": "U0105C83BPA",
+        "text": "<@U0105C83BPA> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445319.005000",
+        "user": "U0105C8NJU8",
+        "text": "<@U0105C8NJU8> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445319.005200",
+        "user": "U0105CS9G93",
+        "text": "<@U0105CS9G93> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445320.005500",
+        "user": "U0105CSMP8D",
+        "text": "<@U0105CSMP8D> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445320.006100",
+        "user": "U0107886BLP",
+        "text": "<@U0107886BLP> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445320.006300",
+        "user": "U010788JDQF",
+        "text": "<@U010788JDQF> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445321.007200",
+        "user": "U0107898C9M",
+        "text": "<@U0107898C9M> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584445322.008100",
+        "user": "U0107JEBUDU",
+        "text": "<@U0107JEBUDU> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "492f950a-8809-4668-93bd-52c2c5e8c992",
+        "type": "message",
+        "text": "Hi <!channel>, I am Eyob and I do backend development using Python (Django and Flask) with some experience in DevOps. I do not have any past experience in disaster response but I am ready to help in any way I can.",
+        "user": "U0107JEBUDU",
+        "ts": "1584445422.010300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107JEBUDU",
+            "ts": "1584446101.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U82q8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I am Eyob and I do backend development using Python (Django and Flask) with some experience in DevOps. I do not have any past experience in disaster response but I am ready to help in any way I can."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ecc7f46-bab9-4358-950d-cbc2f6dc2ba3",
+        "type": "message",
+        "text": "<!channel> - 3 questions;\n\u2022 What is your name?\n\u2022 What do you do?\n\u2022 Do you have any experience working on open source disaster response teams?",
+        "user": "UV8B0679P",
+        "ts": "1584445533.012200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fBoP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - 3 questions;\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What is your name?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What do you do?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do you have any experience working on open source disaster response teams?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F7941513-BFEC-4219-B27C-0B5F7F8E0D00",
+        "type": "message",
+        "text": "Hey guy, I\u2019m Salim, I\u2019m backend, a little on frontend Also on hardware developer so if you need anything I\u2019m here.\n\nI don\u2019t have an experience working on open source disaster response teams, but I know I can manage ",
+        "user": "U0107898C9M",
+        "ts": "1584445629.014500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+6sah",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guy, I\u2019m Salim, I\u2019m backend, a little on frontend Also on hardware developer so if you need anything I\u2019m here.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I don\u2019t have an experience working on open source disaster response teams, but I know I can manage "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d33dbe1c-e162-4e2c-96f0-558a95235ad1",
+        "type": "message",
+        "text": "Hey Guys , <@UV8B0679P>\nMy name is Daniel Adenew,\nLead and PM of software projects ( lots of back-end tech knowledge, front-end too not  excited for front-end techs )\nNope",
+        "user": "UV6JJDDKL",
+        "ts": "1584445888.020400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV6JJDDKL",
+            "ts": "1584446179.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wIs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Guys , "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMy name is Daniel Adenew,\nLead and PM of software projects ( lots of back-end tech knowledge, front-end too not  excited for front-end techs )\nNope"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab1a518b-e9ed-470a-88c7-f706a9371483",
+        "type": "message",
+        "text": "Hello I am Hana, mainly front-end developer (Angular) with little experience in Back-end (C#) and i have no experience working in a disaster response team but i'm so ready to help with whatever i can do",
+        "user": "U0105C83BPA",
+        "ts": "1584445949.021300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R0W2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello I am Hana, mainly front-end developer (Angular) with little experience in Back-end (C#) and i have no experience working in a disaster response team but i'm so ready to help with whatever i can do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3c65241-b75d-4046-99e8-10f0a01dc897",
+        "type": "message",
+        "text": "<!here> Responding to <@UV8B0679P> questions: \n* Name is listed on my profile. \n* Tech Lead \n* Nope, first time participating.",
+        "user": "U0107JEHBEJ",
+        "ts": "1584446122.026000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z46NB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Responding to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " questions: \n* Name is listed on my profile. \n* Tech Lead \n* Nope, first time participating."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F5326ACE-13A6-4679-941B-B65BDD6A8BCE",
+        "type": "message",
+        "text": "Hello I\u2019m Yonas , experienced .net and JavaScript developer. \nWell versed in angularjs and angular...\nNot experienced in disaster response but the question is not clear can you give an example <@UV8B0679P> ",
+        "user": "UV9A3SXC1",
+        "ts": "1584446200.028300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qoGfc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello I\u2019m Yonas , experienced .net and JavaScript developer. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Well versed in angularjs and angular...\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Not experienced in disaster response but the question is not clear can you give an example "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19799d37-fb33-49d8-a4de-2ea84cf168e9",
+        "type": "message",
+        "text": "Hey My name is Fitsum Ayalew, I have experience in Mostly backend technologies such as NodeJS and GraphQL and a little knowledge in data analysis and Mobile app development. I have never worked on open source disaster teams but I'm happy to help in any way I can.",
+        "user": "U0104U7NVSQ",
+        "ts": "1584446388.032100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iEPA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey My name is Fitsum Ayalew, I have experience in Mostly backend technologies such as NodeJS and GraphQL and a little knowledge in data analysis and Mobile app development. I have never worked on open source disaster teams but I'm happy to help in any way I can."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3e7f693-0061-4984-95df-99446bd9a7ea",
+        "type": "message",
+        "text": "Hello I'm Abdulaziz, Not really an expert in any frameworks. I do VueJs for the front-end and Django and PHP. I also know a bit flutter.",
+        "user": "U0105C8NJU8",
+        "ts": "1584446492.034400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KRj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello I'm Abdulaziz, Not really an expert in any frameworks. I do VueJs for the front-end and Django and PHP. I also know a bit flutter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e52e3d01-310b-44c6-9570-ecfb284aad23",
+        "type": "message",
+        "text": "Hi, I am freadam abebe, I've experience in C# backend and little react frontend. No experience in open source disaster response team",
+        "user": "UV9A3UBA5",
+        "ts": "1584446568.035700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aJdL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I am freadam abebe, I've experience in C# backend and little react frontend. No experience in open source disaster response team"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1690ab8b-b02f-4a98-99b5-dc84f9256c2e",
+        "type": "message",
+        "text": "Hey! I have experience in android app development and PHP with good understanding of JS including SQL Server DB configuration and setup.  I don\u2019t have an experience working on open source disaster response teams, but I think it is manageable.",
+        "user": "UV9A33A5P",
+        "ts": "1584446958.036800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV9A33A5P",
+            "ts": "1584448352.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c+NoU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! I have experience in android app development and PHP with good understanding of JS including SQL Server DB configuration and setup.  I don\u2019t have an experience working on open source disaster response teams, but I think it is manageable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39b6870d-17f5-45f5-9ebb-c7933799af24",
+        "type": "message",
+        "text": "Hi , I am nahom a full stack developer i prefer nodejs , angular ,  laravel . I have no experience working on open source disaster response . i am here if you want to use me",
+        "user": "U010788SY2K",
+        "ts": "1584447609.040700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V5fP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi , I am nahom a full stack developer i prefer nodejs , angular ,  laravel . I have no experience working on open source disaster response . i am here if you want to use me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79795377-6709-42f7-9a64-676c1067150a",
+        "type": "message",
+        "text": "Hello, My name is Brook. I mostly work on mobile development especially Android. I also do backend development with node, postgres and redis. I have experience working on opensource projects but not in a large scale nor as a disaster response mechanism",
+        "user": "U0107JE2S94",
+        "ts": "1584448574.045100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kgkk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, My name is Brook. I mostly work on mobile development especially Android. I also do backend development with node, postgres and redis. I have experience working on opensource projects but not in a large scale nor as a disaster response mechanism"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09F39965-1AD9-49E9-90E7-77BBFD886A5A",
+        "type": "message",
+        "text": "Hello I am Tesfaye, never worked in open source disaster projects\nPast projects in C#, MS SQL DB, angularJs, angular, React, TS, Bootstrap UI, Azure cloud and O365. If there is any spot I can fill in to help, am here ",
+        "user": "U0104U9BMKN",
+        "ts": "1584449922.049500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n=NY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello I am Tesfaye, never worked in open source disaster projects\nPast projects in C#, MS SQL DB, angularJs, angular, React, TS, Bootstrap UI, Azure cloud and O365. If there is any spot I can fill in to help, am here "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010KAWB407"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a77ebe2d-7880-4b28-bd5e-c7b01fe9483b",
+        "type": "message",
+        "text": "Hello I am Bemhreth I am a student and I have an experience on android development and some machine learning stuff and I have never done a disaster open source project.",
+        "user": "U0105J5H25B",
+        "ts": "1584450248.052100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "23k3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello I am Bemhreth I am a student and I have an experience on android development and some machine learning stuff and I have never done a disaster open source project."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JE2S94"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1dc98f9a-ceff-409c-86d6-c30b7889a720",
+        "type": "message",
+        "text": "Hello, my name is Yirga am full stack developer I have experience in angular, jquery, Spring boot, .net core and little bit of android.  Not the same tho but I have worked on some similar project called Emergency Locator(not open source + it was my final year project which uses android as a client side and spring as back-end).",
+        "user": "U0107898Z39",
+        "ts": "1584452375.057900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mbT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, my name is Yirga am full stack developer I have experience in angular, jquery, Spring boot, .net core and little bit of android.  Not the same tho but I have worked on some similar project called Emergency Locator(not open source + it was my final year project which uses android as a client side and spring as back-end)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09b03c0e-c4fb-437a-bb7e-82dcd6a33805",
+        "type": "message",
+        "text": "hey guys. Im Michael. Anything you need help on Java or Elasticsearch...I'm here",
+        "user": "U0105CT5DM3",
+        "ts": "1584456148.058600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=0zS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey guys. Im Michael. Anything you need help on Java or Elasticsearch...I'm here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce52f91a-70c8-4399-832a-4b5721f82ed3",
+        "type": "message",
+        "text": "Hello my name is Farfama. I'm a fourth year computer science student in Winnipeg, Manitoba Canada. I have experience in android development, UI/UX (prototyping, wireframing, usability testing), and web development. I haven't worked on any disaster relief projects but I'm willing to learn and help in any way I can.",
+        "user": "U0105C8EU2U",
+        "ts": "1584456901.065700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J5q1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello my name is Farfama. I'm a fourth year computer science student in Winnipeg, Manitoba Canada. I have experience in android development, UI/UX (prototyping, wireframing, usability testing), and web development. I haven't worked on any disaster relief projects but I'm willing to learn and help in any way I can."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d80f7c07-15e1-4434-8564-0203fa08c513",
+        "type": "message",
+        "text": "hello everyone my name  is gelan ahmed  im freelancer with  experience  in back-end nodejs and android development never participated in this type of disaster response and mitigation  mechanism but ready to help in anyway",
+        "user": "U0105CTK2JH",
+        "ts": "1584462428.068900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6um",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello everyone my name  is gelan ahmed  im freelancer with  experience  in back-end nodejs and android development never participated in this type of disaster response and mitigation  mechanism but ready to help in anyway"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7e289eb-1141-418b-a8cd-51f9cb6a0b9b",
+        "type": "message",
+        "text": "Hello. I'm Tamrat Assefa. I'm a full stack developer. No experience in working in an open source disaster response team but ready to help with what I can.",
+        "user": "U0105CSK4DB",
+        "ts": "1584467917.071600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kyx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello. I'm Tamrat Assefa. I'm a full stack developer. No experience in working in an open source disaster response team but ready to help with what I can."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JE2S94"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2297e545-301d-4d10-926e-6d073ea24878",
+        "type": "message",
+        "text": "Hello, I am Yabe,\nJava developer\nNo experience working on open source disaster response teams",
+        "user": "U0108BK2FPZ",
+        "ts": "1584468937.071900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0108BK2FPZ",
+            "ts": "1584468981.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vety",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, I am Yabe,\nJava developer\nNo experience working on open source disaster response teams"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac11cc2a-c62e-46b6-86f7-0f59f9a80664",
+        "type": "message",
+        "text": "Hello, I'm Dawit , full stack developer  . No experience working in an open source disaster response team",
+        "user": "U0106RLS77S",
+        "ts": "1584473873.074000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106RLS77S",
+            "ts": "1584486814.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TpNx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, I'm Dawit , full stack developer  . No experience working in an open source disaster response team"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "346ef163-b483-4d73-a41a-c2f1fae370c5",
+        "type": "message",
+        "text": "Hey am Nebiyu, currently working as a full stack engineer. Have experience with django, angular and a bit of flutter but no experience with open source disaster response.",
+        "user": "U0106EBH7N0",
+        "ts": "1584475792.081900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LMz1=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey am Nebiyu, currently working as a full stack engineer. Have experience with django, angular and a bit of flutter but no experience with open source disaster response."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "206cc1a4-ac72-43b7-8244-2b82f2c6b51f",
+        "type": "message",
+        "text": "Hey folks \u2014\nI'm Robel. Tech Lead at the day job. UI/UX, Frontend (React and some Angular), and product management.",
+        "user": "UV9A3J397",
+        "ts": "1584475820.082100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV9A3J397",
+            "ts": "1584477148.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iOoAY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks \u2014\nI'm Robel. Tech Lead at the day job. UI/UX, Frontend (React and some Angular), and product management."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584475820.082100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586030781.162200",
+        "reply_users": [
+            "U01084NU2NL"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e2f8c472-a14c-4051-aad4-ea856b9e4741",
+        "type": "message",
+        "text": "Hey guys, I\u2019m Nathan,\nsoftware developer, knowledge in backend (Django, little Node), Frontend (VueJs), little flutter, and Telegram bot with Node\nand never participated in disaster response projects",
+        "user": "U0106UVNZV3",
+        "ts": "1584477503.086200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4aft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys, I\u2019m Nathan,\nsoftware developer, knowledge in backend (Django, little Node), Frontend (VueJs), little flutter, and Telegram bot with Node\nand never participated in disaster response projects"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd8d2bae-848d-4757-87d4-b6d2aabce6ef",
+        "type": "message",
+        "text": "Hi All, Nati here!\nAWS Cloud Infrastructure Architecure. Can help with any DevOps or Infrastructure thing on AWS",
+        "user": "UV6JHDP0S",
+        "ts": "1584478579.087700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOaf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All, Nati here!\nAWS Cloud Infrastructure Architecure. Can help with any DevOps or Infrastructure thing on AWS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dbf5c3f7-1f4d-44e8-9816-a905f16306d8",
+        "type": "message",
+        "text": "Hello, I am Afomia am full stack developer, primarily I work on React and java script and Front end. This is my first time working on open source disaster but am hoping i can help in anyway i can.",
+        "user": "U0105C80EP2",
+        "ts": "1584479049.090300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "irKbf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, I am Afomia am full stack developer, primarily I work on React and java script and Front end. This is my first time working on open source disaster but am hoping i can help in anyway i can."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584479049.090300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586030905.163000",
+        "reply_users": [
+            "U01084NU2NL"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9be5fb5d-9ed1-4701-b1d8-c02350e225df",
+        "type": "message",
+        "text": "Hi my people, Amanuel here, I am studying Data Science (MSc) and I primarily work on IT infrastructure, data analytics and visualization.",
+        "user": "U01076XHPC0",
+        "ts": "1584483075.092300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7gE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi my people, Amanuel here, I am studying Data Science (MSc) and I primarily work on IT infrastructure, data analytics and visualization."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba502796-5701-4ad6-9807-999f41251c31",
+        "type": "message",
+        "text": "Hi, Nebiue here, Work with React, Node, Vue and first time on an open source diaster response team",
+        "user": "U01077MN7QQ",
+        "ts": "1584483816.094700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01077MN7QQ",
+            "ts": "1584492916.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7bMS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, Nebiue here, Work with React, Node, Vue and first time on an open source diaster response team"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584483816.094700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586030881.162700",
+        "reply_users": [
+            "U01084NU2NL"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8a8c01c4-3acc-4287-b4ba-7ee1b76accf3",
+        "type": "message",
+        "text": "Hi All, Metasebya here. biomedical engineer (PhD) and currently part of the team collecting information regarding this pandemic",
+        "user": "UV8F3SRGA",
+        "ts": "1584485501.096800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvF1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All, Metasebya here. biomedical engineer (PhD) and currently part of the team collecting information regarding this pandemic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DD5BC122-88CA-432D-B102-7198BBC9C613",
+        "type": "message",
+        "text": "Hi all, I\u2019m Shashay. I work in data analytics and visualization with Google Search and have previous experience consulting with FEMA on threat and hazard analysis to include analysis, visualization, and GIS. ",
+        "user": "U0106SC3L0L",
+        "ts": "1584487022.105900",
+        "team": "TV5KELEUS",
+        "thread_ts": "1584487022.105900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584911808.191500",
+        "reply_users": [
+            "UVB9ZSPCH"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108",
+                    "U01076XHPC0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98EB27E8-13E5-47F1-B909-1BC3CEB8AABA",
+        "type": "message",
+        "text": "Hey everyone! I\u2019m Pomi Tefera. I work in product operations. Likely most helpful for this in a project management / marketing capacity. Happy to help dig into early requirement scoping as well. ",
+        "user": "U0107AYF16H",
+        "ts": "1584487767.111100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r8F3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! I\u2019m Pomi Tefera. I work in product operations. Likely most helpful for this in a project management / marketing capacity. Happy to help dig into early requirement scoping as well. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bef4d816-e378-4462-9974-c892a0017de0",
+        "type": "message",
+        "text": "Hi All, I'm Daniel. I have experience working on MongoDB, Node, React and Express Applications. I'm can also work on building predictive models if we are able gather good data about the situation on the ground.\nI don't have prior experience working on an open source disaster response team, but ready to help out in any way I can.",
+        "user": "U01079G9DQQ",
+        "ts": "1584487894.111900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01079G9DQQ",
+            "ts": "1584497722.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ixyw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All, I'm Daniel. I have experience working on MongoDB, Node, React and Express Applications. I'm can also work on building predictive models if we are able gather good data about the situation on the ground.\nI don't have prior experience working on an open source disaster response team, but ready to help out in any way I can."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7356b0dd-a6ac-4d0d-acf3-e5bdc7deb9e0",
+        "type": "message",
+        "text": "Hi, I'm (another) Daniel!\n\n*What do you do?* I work as a Software Engineering Manager. Previous technical experience in -- Python, C++ (ML performance and computer vision), iOS, Android and web(GCP configuration, Node and React).\n\n*Do you have any experience working on open source disaster response teams?* No.",
+        "user": "U0107JDFH1U",
+        "ts": "1584488438.113300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BVw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I'm (another) Daniel!\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "What do you do? ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "I work as a Software Engineering Manager. Previous technical experience in -- Python, C++ (ML performance and computer vision), iOS, Android and web(GCP configuration, Node and React).\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Do you have any experience working on open source disaster response teams? ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "No."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

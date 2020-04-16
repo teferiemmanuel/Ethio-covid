@@ -1,0 +1,2602 @@
+[
+    {
+        "client_msg_id": "5e10ddcc-00e5-4946-84cd-992180f34aa0",
+        "type": "message",
+        "text": "Will do. Thank you!",
+        "user": "U01085512G5",
+        "ts": "1586045139.058500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QUdzr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586035628.053900",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "805c6d4e-f158-4979-b4e5-ada915d90529",
+        "type": "message",
+        "text": "<!here> Hey Guys, how are things going here?",
+        "user": "UV6JHDP0S",
+        "ts": "1586056776.059300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "braTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey Guys, how are things going here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586056776.059300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586056938.059700",
+        "reply_users": [
+            "U010059R6BT",
+            "UV6JHDP0S"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "71af955d-014e-41f5-ac81-6d717ef2a2de",
+        "type": "message",
+        "text": "I'm working on last finishing touches. Planning to make a pr in an hour or so.",
+        "user": "U010059R6BT",
+        "ts": "1586056876.059500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LdO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm working on last finishing touches. Planning to make a pr in an hour or so."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586056776.059300",
+        "parent_user_id": "UV6JHDP0S",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01085512G5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "009d4d1d-193e-441a-81ee-cb42c73d0c1c",
+        "type": "message",
+        "text": "<@U010059R6BT> awesome!!! Thanks bro.",
+        "user": "UV6JHDP0S",
+        "ts": "1586056938.059700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cImPE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010059R6BT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " awesome!!! Thanks bro."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586056776.059300",
+        "parent_user_id": "UV6JHDP0S",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U010059R6BT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "edb20fd2-935b-4528-b5ad-ffa6fed36be9",
+        "type": "message",
+        "text": "<!here> Created a new issue: Organize and plug in resource URLs that we want to link to.\n\n<https://github.com/Ethiopia-COVID19/covid-19-homepage/issues/5|https://github.com/Ethiopia-COVID19/covid-19-homepage/issues/5>\n\n<@U0106M26108> can you help with this? If you can collect and organize the links, <@U010059R6BT> or I can place them in.",
+        "user": "U01085512G5",
+        "ts": "1586059598.064100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01085512G5",
+            "ts": "1586059643.000000"
+        },
+        "attachments": [
+            {
+                "author_name": "faithwins",
+                "fallback": "[Ethiopia-COVID19/covid-19-homepage] #5 Organize and plug in external resource URLs that we want to link to",
+                "text": "There are several external resources that we would like to link to on this site. We want to organize those and plug them in per the design and requirement specs. Probably going to take two folks...one would collect and organize the resource links, another would put them in the appropriate place within this Vue app.",
+                "title": "#5 Organize and plug in external resource URLs that we want to link to",
+                "footer": "<https://github.com/Ethiopia-COVID19/covid-19-homepage|Ethiopia-COVID19/covid-19-homepage>",
+                "id": 1,
+                "title_link": "https://github.com/Ethiopia-COVID19/covid-19-homepage/issues/5",
+                "author_link": "https://github.com/faithwins",
+                "author_icon": "https://avatars3.githubusercontent.com/u/30636223?v=4",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1586059285,
+                "color": "36a64f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/covid-19-homepage/issues/5",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UMPeR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Created a new issue: Organize and plug in resource URLs that we want to link to.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/covid-19-homepage/issues/5",
+                                "text": "https://github.com/Ethiopia-COVID19/covid-19-homepage/issues/5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you help with this? If you can collect and organize the links, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010059R6BT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or I can place them in."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a82f484-9e9d-4ccc-afe0-a835f5698f17",
+        "type": "message",
+        "text": "<!here> I've created the pr <https://github.com/Ethiopia-COVID19/covid-19-homepage/pull/6>.\nI've also updated <http://covid-19-homepage.ngrok.io/>",
+        "user": "U010059R6BT",
+        "ts": "1586060797.065000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "author_name": "gedion",
+                "fallback": "[Ethiopia-COVID19/covid-19-homepage] #6 Ux uplift",
+                "text": "Apply design specs as documented here <https://github.com/Ethiopia-COVID19/covid-19-homepage/issues/4|#4>\n\nYou can test it here. <http://covid-19-homepage.ngrok.io/|http://covid-19-homepage.ngrok.io/>",
+                "title": "#6 Ux uplift",
+                "footer": "<https://github.com/Ethiopia-COVID19/covid-19-homepage|Ethiopia-COVID19/covid-19-homepage>",
+                "id": 1,
+                "title_link": "https://github.com/Ethiopia-COVID19/covid-19-homepage/pull/6",
+                "author_link": "https://github.com/gedion",
+                "author_icon": "https://avatars3.githubusercontent.com/u/1224206?v=4",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1586060712,
+                "color": "36a64f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/covid-19-homepage/pull/6",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MGKut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I've created the pr "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/covid-19-homepage/pull/6"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nI've also updated "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://covid-19-homepage.ngrok.io/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586060797.065000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586104018.065700",
+        "reply_users": [
+            "U01085512G5",
+            "UV6JHDP0S"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U010059R6BT> I have merged your changes. Great job! \n<@UV6JHDP0S> I don't think CI/CD is setup for this project or I didn't see it. My merge has not triggered anything so far. If you are doing it manually, can you push these latest changes please so QA team can test it.",
+        "user": "U01085512G5",
+        "ts": "1586081507.065200",
+        "thread_ts": "1586060797.065000",
+        "root": {
+            "client_msg_id": "5a82f484-9e9d-4ccc-afe0-a835f5698f17",
+            "type": "message",
+            "text": "<!here> I've created the pr <https://github.com/Ethiopia-COVID19/covid-19-homepage/pull/6>.\nI've also updated <http://covid-19-homepage.ngrok.io/>",
+            "user": "U010059R6BT",
+            "ts": "1586060797.065000",
+            "team": "TV5KELEUS",
+            "attachments": [
+                {
+                    "author_name": "gedion",
+                    "fallback": "[Ethiopia-COVID19/covid-19-homepage] #6 Ux uplift",
+                    "text": "Apply design specs as documented here <https://github.com/Ethiopia-COVID19/covid-19-homepage/issues/4|#4>\n\nYou can test it here. <http://covid-19-homepage.ngrok.io/|http://covid-19-homepage.ngrok.io/>",
+                    "title": "#6 Ux uplift",
+                    "footer": "<https://github.com/Ethiopia-COVID19/covid-19-homepage|Ethiopia-COVID19/covid-19-homepage>",
+                    "id": 1,
+                    "title_link": "https://github.com/Ethiopia-COVID19/covid-19-homepage/pull/6",
+                    "author_link": "https://github.com/gedion",
+                    "author_icon": "https://avatars3.githubusercontent.com/u/1224206?v=4",
+                    "footer_icon": "https://github.githubassets.com/favicon.ico",
+                    "ts": 1586060712,
+                    "color": "36a64f",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "bot_id": "B0105CLFLTA",
+                    "app_unfurl_url": "https://github.com/Ethiopia-COVID19/covid-19-homepage/pull/6",
+                    "is_app_unfurl": true
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "MGKut",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " I've created the pr "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/Ethiopia-COVID19/covid-19-homepage/pull/6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ".\nI've also updated "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "http://covid-19-homepage.ngrok.io/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1586060797.065000",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1586104018.065700",
+            "reply_users": [
+                "U01085512G5",
+                "UV6JHDP0S"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "683A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010059R6BT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have merged your changes. Great job! \n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I don't think CI/CD is setup for this project or I didn't see it. My merge has not triggered anything so far. If you are doing it manually, can you push these latest changes please so QA team can test it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a29241d9-3120-42d6-8791-0868a06a80b8",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U010059R6BT",
+                    "UV6JHDP0S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3561d3a-6881-473c-a4ab-f4eccbd559a8",
+        "type": "message",
+        "text": "<@U01085512G5> Done. We added an approval step to the pipeline, that's why it didn't deploy",
+        "user": "UV6JHDP0S",
+        "ts": "1586104018.065700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z/s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Done. We added an approval step to the pipeline, that's why it didn't deploy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586060797.065000",
+        "parent_user_id": "U010059R6BT"
+    },
+    {
+        "client_msg_id": "38BB5AB6-34CA-43A4-8B8A-74E71F274EA3",
+        "type": "message",
+        "text": "<!channel> can you guys do a quick call? Have more news to share",
+        "user": "UV8B0679P",
+        "ts": "1586105553.066900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+V=Hm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you guys do a quick call? Have more news to share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "reply_count": 14,
+        "reply_users_count": 5,
+        "latest_reply": "1586111128.078900",
+        "reply_users": [
+            "UV6JHDP0S",
+            "UV8B0679P",
+            "U0115055LQP",
+            "U010A0N4N0P",
+            "U0107AYF16H"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "89e2504a-c047-42ea-8393-6cd442026844",
+        "type": "message",
+        "text": "<@UV8B0679P> about to jump on another call, how's 10:30am PT?",
+        "user": "UV6JHDP0S",
+        "ts": "1586105755.067000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "odRPK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about to jump on another call, how's 10:30am PT?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "D001B131-A49D-4D9D-A8FC-FDEC2E5EF8AF",
+        "type": "message",
+        "text": "Sure",
+        "user": "UV8B0679P",
+        "ts": "1586105824.067300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Ea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "8C198B14-7F7A-4B13-9D31-87DFFDE786B9",
+        "type": "message",
+        "text": "<@U01085512G5> and <@U010059R6BT> can you guys do a call at 10:30am PT?",
+        "user": "UV8B0679P",
+        "ts": "1586105862.068200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9DY3Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010059R6BT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you guys do a call at 10:30am PT?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "B252DFC8-356E-4B31-BBB4-0FFD5A8BCC65",
+        "type": "message",
+        "text": "Also, <@U0107AYF16H> and <@U0115055LQP> ",
+        "user": "UV8B0679P",
+        "ts": "1586105882.068800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hUJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "C2EE8E6A-D65E-440C-9F19-1FC06C0C0246",
+        "type": "message",
+        "text": "Sure let me know ",
+        "user": "U0115055LQP",
+        "ts": "1586105912.069200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JRao",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure let me know "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U010059R6BT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "reminder_add",
+        "text": " set up a reminder \u201ctouch up call on Mike\u2019s zoom\u201d in this channel at 1:30PM today, Eastern Daylight Time.",
+        "user": "UV8B0679P",
+        "ts": "1586106134.069600"
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "Reminder: touch up call on Mike\u2019s zoom.",
+        "user": "USLACKBOT",
+        "ts": "1586107828.070000",
+        "team": "TV5KELEUS",
+        "thread_ts": "1586107828.070000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586107851.070300",
+        "reply_users": [
+            "UV6JHDP0S"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "86f98ed2-197f-4bff-9d41-0c30fa41ceaf",
+        "type": "message",
+        "text": "<@UV8B0679P> whats your link",
+        "user": "UV6JHDP0S",
+        "ts": "1586107851.070300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oVk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " whats your link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586107828.070000",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "0473C704-0C18-4384-8F09-3ECFC5DA88CF",
+        "type": "message",
+        "text": "<@U010A0N4N0P> do you think you can join us on this call?",
+        "user": "UV8B0679P",
+        "ts": "1586107858.070700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010A0N4N0P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you think you can join us on this call?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010A0N4N0P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "mike has started a meeting",
+        "ts": "1586107875.071000",
+        "bot_id": "B0113BDBA2G",
+        "blocks": [
+            {
+                "type": "call",
+                "call_id": "R011DFSDBB8",
+                "block_id": "M=bV0",
+                "api_decoration_available": false,
+                "call": {
+                    "v1": {
+                        "id": "R011DFSDBB8",
+                        "app_id": "A5GE9BMQC",
+                        "app_icon_urls": {
+                            "image_32": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_32.png",
+                            "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_36.png",
+                            "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_48.png",
+                            "image_64": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_64.png",
+                            "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_72.png",
+                            "image_96": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_96.png",
+                            "image_128": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_128.png",
+                            "image_192": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_192.png",
+                            "image_512": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_512.png",
+                            "image_1024": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_1024.png",
+                            "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_original.png"
+                        },
+                        "date_start": 1586107875,
+                        "active_participants": [],
+                        "all_participants": [
+                            {
+                                "slack_id": "UV8B0679P"
+                            },
+                            {
+                                "external_id": "eWyoSnAjTJmAMm88zd2UKw",
+                                "avatar_url": "",
+                                "display_name": "Nati Abebe"
+                            },
+                            {
+                                "external_id": "16780288",
+                                "avatar_url": "",
+                                "display_name": "Selam"
+                            },
+                            {
+                                "external_id": "16781312",
+                                "avatar_url": "",
+                                "display_name": "messaydenbel"
+                            },
+                            {
+                                "external_id": "33555456",
+                                "avatar_url": "",
+                                "display_name": "Y"
+                            },
+                            {
+                                "external_id": "33556480",
+                                "avatar_url": "",
+                                "display_name": "gedionwoldeselassie"
+                            }
+                        ],
+                        "display_id": "984-332-470",
+                        "join_url": "https://applications.zoom.us/event/callback/slack/984332470?startUrl=N9U1pgb7fmOQGAor04MgwftbMWH6apyirX8COMtNDuvr3mCVG8i8rvEAWsKvKtMH3CbV&state=JIM1sxSsGCjHURhL8tMJqs1xC1_2M83-qzFYa6oNWKuWjXLdJdPXJsPfbfeKZOP7gJNSD7l3IcRkkz5wuBOG55nktgag1K1k6Rd5QyeQprQQoc_rh4vllecbD8WexYw_moYg0uJrHyPEx861csFOHbLTwZT3BM04aqNsc3zxqzYc1HS3c-xgFGYNLbWztoxW6dyh0TfL-QOhRULfSdwH1qLWDBJpjwA9z_JSgHVD0kVdJeCYYLLuLStSN9kTU0nEyNJOqMlG",
+                        "name": "Zoom meeting started by mike",
+                        "created_by": "U010G2AU7M2",
+                        "date_end": 1586107935,
+                        "channels": [
+                            "C0110VDA0HM"
+                        ],
+                        "is_dm_call": false,
+                        "was_rejected": false,
+                        "was_missed": false,
+                        "was_accepted": false,
+                        "has_ended": true
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84816668-002D-42E5-9E4D-5E1AE3D0F399",
+        "type": "message",
+        "text": "Hop on",
+        "user": "UV8B0679P",
+        "ts": "1586107880.071200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aCo9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hop on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00FFB615-6830-4497-965B-AE3425D3EC41",
+        "type": "message",
+        "text": "<!channel> :point_up::skin-tone-5: ",
+        "user": "UV8B0679P",
+        "ts": "1586107928.071700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p0LF7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2878fb36-a2aa-44ea-b946-c6291052935c",
+        "type": "message",
+        "text": "Sorry, sorry",
+        "user": "UV8B0679P",
+        "ts": "1586108092.072600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nl1n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "mike has started a meeting",
+        "ts": "1586108097.072700",
+        "bot_id": "B0113BDBA2G",
+        "blocks": [
+            {
+                "type": "call",
+                "call_id": "R011AEM5DPB",
+                "block_id": "kri",
+                "api_decoration_available": false,
+                "call": {
+                    "v1": {
+                        "id": "R011AEM5DPB",
+                        "app_id": "A5GE9BMQC",
+                        "app_icon_urls": {
+                            "image_32": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_32.png",
+                            "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_36.png",
+                            "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_48.png",
+                            "image_64": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_64.png",
+                            "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_72.png",
+                            "image_96": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_96.png",
+                            "image_128": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_128.png",
+                            "image_192": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_192.png",
+                            "image_512": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_512.png",
+                            "image_1024": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_1024.png",
+                            "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_original.png"
+                        },
+                        "date_start": 1586108097,
+                        "active_participants": [],
+                        "all_participants": [
+                            {
+                                "external_id": "16779264",
+                                "avatar_url": "",
+                                "display_name": "messaydenbel"
+                            },
+                            {
+                                "slack_id": "UV8B0679P"
+                            },
+                            {
+                                "external_id": "eWyoSnAjTJmAMm88zd2UKw",
+                                "avatar_url": "",
+                                "display_name": "Nati Abebe"
+                            },
+                            {
+                                "external_id": "16781312",
+                                "avatar_url": "",
+                                "display_name": "gedionwoldeselassie"
+                            },
+                            {
+                                "external_id": "16782336",
+                                "avatar_url": "",
+                                "display_name": "Selam"
+                            },
+                            {
+                                "external_id": "33555456",
+                                "avatar_url": "",
+                                "display_name": "Y"
+                            },
+                            {
+                                "external_id": "16783360",
+                                "avatar_url": "",
+                                "display_name": "Yosef"
+                            },
+                            {
+                                "external_id": "16784384",
+                                "avatar_url": "",
+                                "display_name": "NDM"
+                            },
+                            {
+                                "external_id": "qJFUyZZGQR2MVF690rkp5w",
+                                "avatar_url": "",
+                                "display_name": "dawit mekonnen"
+                            },
+                            {
+                                "external_id": "TZm4enD6QFCfFStVTTO38w",
+                                "avatar_url": "",
+                                "display_name": "Pomi Tefera"
+                            }
+                        ],
+                        "display_id": "824-123-856",
+                        "join_url": "https://applications.zoom.us/event/callback/slack/824123856?startUrl=N9U1pgb7fmOQGAor04MgwftbMWH6apyirX8DMstPD-rn3GYNw6iJ3v0hjcsZQft-DX7U&state=JIM1sxSsGCjHURhL8tMJqs1xC1_2M83-qzFYa6oNWKuWjXLdJdPXJsPfbfeKZOP7gJNSD7l3IcRkkz5wuBOG55nktgag1K1k6Rd5QyeQprQQoc_rh4vltOhTVNn2xPE6xbgl2f0zbwLr5Mi7csFOHbLTwZT3BMIwZKFhe3zxqzYc1HS3c-xgFGYNLbWztoxW6dyh0TfL-QOhRULfSdwH1qLWDBJpjwA9z_JSgX9D0ERcKeKeYLLvTr-_A7iGqQXrM-R3NatZ",
+                        "name": "Zoom meeting started by mike",
+                        "created_by": "U010G2AU7M2",
+                        "date_end": 1586108157,
+                        "channels": [
+                            "C0110VDA0HM"
+                        ],
+                        "is_dm_call": false,
+                        "was_rejected": false,
+                        "was_missed": false,
+                        "was_accepted": false,
+                        "has_ended": true
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f722f01-df30-4d98-9c1e-ea9892ba5f91",
+        "type": "message",
+        "text": "Yikirta",
+        "user": "UV8B0679P",
+        "ts": "1586108099.072900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d=2T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yikirta"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0cb43cfc-1a9e-433d-b525-7ed6326248a9",
+        "type": "message",
+        "text": "<@U01085512G5> - are you able to join us?",
+        "user": "UV8B0679P",
+        "ts": "1586108199.073800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Urd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - are you able to join us?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "244d03ae-2d25-42ef-87e9-07efd275bec4",
+        "type": "message",
+        "text": "Joining...",
+        "user": "U01085512G5",
+        "ts": "1586108615.074100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aoP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Joining..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5d82aca-de51-4b86-9f8c-b7628a3a48bc",
+        "type": "message",
+        "text": "<https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/>",
+        "user": "UV8B0679P",
+        "ts": "1586109446.074400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Covid-Eth",
+                "title_link": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/",
+                "text": "6 Screens, Last modified on Apr 04, 2020 19:52 GMT",
+                "fallback": "Covid-Eth",
+                "thumb_url": "https://public-v2links.adobecc.com/7f29a9fe-14b8-4eff-7528-878e1ec9a9da/component?params=component_id%3Ab92895c1-1fe6-4517-ac18-631bf920ac42&params=version%3A36&token=1586195847_da39a3ee_71aeb8d85325b12b8b31f5d2d79ea90d3cff414e&api_key=CometServer1",
+                "from_url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/",
+                "thumb_width": 960,
+                "thumb_height": 540,
+                "service_icon": "https://xd.adobe.com/static/images/xd_ios_webclip_192-b67df6d35882dc7f14c35c8a072b648cb164e4b6.png",
+                "service_name": "xd.adobe.com",
+                "id": 1,
+                "original_url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cb8U3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C0110VDA0HM"
+        ],
+        "pinned_info": {
+            "channel": "C0110VDA0HM",
+            "pinned_by": "UV8B0679P",
+            "pinned_ts": 1586109456
+        }
+    },
+    {
+        "client_msg_id": "4298f4f1-7208-4c3a-8a4c-6a3f97d5ccd2",
+        "type": "message",
+        "text": "Yeah I can do that.",
+        "user": "U010A0N4N0P",
+        "ts": "1586109763.075000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I can do that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "7ddb14ff-2e0f-49dd-a5d8-e6572a71aeb7",
+        "type": "message",
+        "text": "Let me when it happens...",
+        "user": "U010A0N4N0P",
+        "ts": "1586109848.075300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j7Pc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me when it happens..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "2e321c94-717a-4419-a674-9ff7df831b11",
+        "type": "message",
+        "text": "hi, sorry ive been on another call",
+        "user": "U0107AYF16H",
+        "ts": "1586110098.075500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yp/ny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi, sorry ive been on another call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "79475b5c-e7f4-4f4c-9c11-657b213bbc3a",
+        "type": "message",
+        "text": "<@U010A0N4N0P> hop on <https://us04web.zoom.us/j/824123856>",
+        "user": "UV8B0679P",
+        "ts": "1586110098.075700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IxC0e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010A0N4N0P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hop on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/824123856"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "c5b1990a-524b-4ce1-93d3-531533cf8d5c",
+        "type": "message",
+        "text": "<@U0107AYF16H> - can you hop on too?",
+        "user": "UV8B0679P",
+        "ts": "1586110289.076000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XKv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - can you hop on too?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "7664bf6a-62a7-4d6b-8458-b5437c9cdd2a",
+        "type": "message",
+        "text": "im getting off another call still",
+        "user": "U0107AYF16H",
+        "ts": "1586110371.076700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ad9Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im getting off another call still"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "a620ca35-265b-42c6-b129-05768072f7a8",
+        "type": "message",
+        "text": "eshi",
+        "user": "UV8B0679P",
+        "ts": "1586110476.077500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JanfZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eshi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "47eaa5af-93a5-4277-ac8d-4cb8c8b32a01",
+        "type": "message",
+        "text": "Links to things!!\n1. <https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg/edit|Link to the Content Doc >\n2. <https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/|Live Design Doc>\n3. <http://ethiopia-covid19.com/|Dev Website>\n4. <https://github.com/Ethiopia-COVID19/covid-19-homepage|Git Repo >",
+        "user": "UV6JHDP0S",
+        "ts": "1586110588.078300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV6JHDP0S",
+            "ts": "1586110598.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ifI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Links to things!!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg/edit",
+                                        "text": "Link to the Content Doc "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/",
+                                        "text": "Live Design Doc"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http://ethiopia-covid19.com/",
+                                        "text": "Dev Website"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https://github.com/Ethiopia-COVID19/covid-19-homepage",
+                                        "text": "Git Repo "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C0110VDA0HM"
+        ],
+        "pinned_info": {
+            "channel": "C0110VDA0HM",
+            "pinned_by": "UV6JHDP0S",
+            "pinned_ts": 1586110605
+        }
+    },
+    {
+        "client_msg_id": "c2dd7c9f-f003-436a-b2be-896cc782e32f",
+        "type": "message",
+        "text": "imon",
+        "user": "U0107AYF16H",
+        "ts": "1586111128.078900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ykj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "imon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586105553.066900",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "a6aa88f3-d8ee-423c-9820-933788db1e1a",
+        "type": "message",
+        "text": "<!channel> The home page is coming along. But we just had a team wide call regarding some updates we need to do. Design folks are working on updating the specs per that conversation right now. We need 1 or 2 folks to help out apply these changes to the site. Folks with Vue, Bootstrap CSS skills",
+        "user": "U01085512G5",
+        "ts": "1586113380.083500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jas",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The home page is coming along. But we just had a team wide call regarding some updates we need to do. Design folks are working on updating the specs per that conversation right now. We need 1 or 2 folks to help out apply these changes to the site. Folks with Vue, Bootstrap CSS skills"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107AYF16H",
+                    "UV8B0679P",
+                    "U0106M26108"
+                ],
+                "count": 3
+            },
+            {
+                "name": "woman-running::skin-tone-5",
+                "users": [
+                    "U0107AYF16H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cbcd3790-52e1-4eef-93c3-6cec4dd14f30",
+        "type": "message",
+        "text": "<!here>: Thanks everyone for the call. Here is a quick recap of what we just discussed:\n\n1. <@U0115055LQP> and <@U011870MD54> to chat and give us some design direction 4 PM EST\n2. <@U01085512G5> and <@U010059R6BT> will recruit a couple of folks that can help hammer out the site in the next few hours\n3. <@U010A0N4N0P> will help liason the conversation with INSA\n4. Content comes from the Google Doc <@U0107AYF16H> put together (if there is any translation needed, <@UVB9ZSPCH> from <#CV8HM0HDY|language-translate> team said she can help)",
+        "user": "UV8B0679P",
+        "ts": "1586113405.084100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kw4c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Thanks everyone for the call. Here is a quick recap of what we just discussed:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0115055LQP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U011870MD54"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to chat and give us some design direction 4 PM EST"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01085512G5"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U010059R6BT"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " will recruit a couple of folks that can help hammer out the site in the next few hours"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U010A0N4N0P"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " will help liason the conversation with INSA"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Content comes from the Google Doc "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0107AYF16H"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " put together (if there is any translation needed, "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "UVB9ZSPCH"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " from "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "CV8HM0HDY"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " team said she can help)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586113405.084100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586113573.085200",
+        "reply_users": [
+            "UV8B0679P",
+            "U0107AYF16H"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "84ba22a9-d4ef-41b4-81f1-47c03ebb53fc",
+        "type": "message",
+        "text": "Let me know if I\u2019m missing anything?",
+        "user": "UV8B0679P",
+        "ts": "1586113421.084300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1x2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me know if I\u2019m missing anything?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586113405.084100",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "text": "thanks, aligned.\n\nThe <http://covid19.et|covid19.et> landing page content is *<https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg/edit|here>.*\n \n*<@UVB9ZSPCH>,* can you please ask each translator to make a copy of the doc for each language, using the same format for the content &amp; title?",
+        "files": [
+            {
+                "id": "F01180RG71V",
+                "created": 1585699490,
+                "timestamp": 1585699490,
+                "name": "covid19",
+                "title": "@Hewan2",
+                "mimetype": "application/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "GSuite Document",
+                "user": "U0107AYF16H",
+                "editable": false,
+                "size": 3,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg/edit?usp=sharing",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_360.png",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_480.png",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_720.png",
+                "thumb_720_w": 557,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_960.png",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_1024.png",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 1035,
+                "thumb_tiny": "AwAwACXSLYNGSeg/WkJOe9Lg+poAWigfWigAooooAYykt0oCtTjjPOaMccfzoATBpcN60DI7D86WgAFFFFAAelMp5pMe5oAb+VL+VOx70mKAFHSiiigD/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107AYF16H/F01180RG71V/covid19",
+                "is_starred": false,
+                "external_id": "1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg",
+                "external_url": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SPYe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks, aligned.\n\nThe covid19.et landing page content is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg/edit",
+                                "text": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "can you please ask each translator to make a copy of the doc for each language, using the same format for the content & title?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107AYF16H",
+        "display_as_bot": false,
+        "x_files": [
+            "F01180RG71V"
+        ],
+        "ts": "1586113573.085200",
+        "edited": {
+            "user": "U0107AYF16H",
+            "ts": "1586113597.000000"
+        },
+        "client_msg_id": "ae1c8ca5-f92d-440f-868b-1e8d8b3d9f67",
+        "thread_ts": "1586113405.084100",
+        "parent_user_id": "UV8B0679P",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "cbcd3790-52e1-4eef-93c3-6cec4dd14f30",
+            "type": "message",
+            "text": "<!here>: Thanks everyone for the call. Here is a quick recap of what we just discussed:\n\n1. <@U0115055LQP> and <@U011870MD54> to chat and give us some design direction 4 PM EST\n2. <@U01085512G5> and <@U010059R6BT> will recruit a couple of folks that can help hammer out the site in the next few hours\n3. <@U010A0N4N0P> will help liason the conversation with INSA\n4. Content comes from the Google Doc <@U0107AYF16H> put together (if there is any translation needed, <@UVB9ZSPCH> from <#CV8HM0HDY|language-translate> team said she can help)",
+            "user": "UV8B0679P",
+            "ts": "1586113405.084100",
+            "team": "TV5KELEUS",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Kw4c",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ": Thanks everyone for the call. Here is a quick recap of what we just discussed:\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "user",
+                                            "user_id": "U0115055LQP"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U011870MD54"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to chat and give us some design direction 4 PM EST"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "user",
+                                            "user_id": "U01085512G5"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U010059R6BT"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " will recruit a couple of folks that can help hammer out the site in the next few hours"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "user",
+                                            "user_id": "U010A0N4N0P"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " will help liason the conversation with INSA"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Content comes from the Google Doc "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U0107AYF16H"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " put together (if there is any translation needed, "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "UVB9ZSPCH"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " from "
+                                        },
+                                        {
+                                            "type": "channel",
+                                            "channel_id": "CV8HM0HDY"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " team said she can help)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1586113405.084100",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1586113573.085200",
+            "reply_users": [
+                "UV8B0679P",
+                "U0107AYF16H"
+            ],
+            "subscribed": false
+        },
+        "pinned_to": [
+            "C0110VDA0HM"
+        ],
+        "pinned_info": {
+            "channel": "C0110VDA0HM",
+            "pinned_by": "U0107AYF16H",
+            "pinned_ts": 1586113660
+        }
+    },
+    {
+        "client_msg_id": "81b24bcd-829d-4920-936f-c2c2ba053670",
+        "type": "message",
+        "text": "<@UV6JHDP0S> I got one more dev. Please give <@U010D321H28> permissions to the repo.",
+        "user": "U01085512G5",
+        "ts": "1586116768.087400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01085512G5",
+            "ts": "1586116795.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WB3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I got one more dev. Please give "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010D321H28"
+                            },
+                            {
+                                "type": "text",
+                                "text": " permissions to the repo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586116768.087400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586119195.089600",
+        "reply_users": [
+            "UV6JHDP0S",
+            "U010D321H28"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U010059R6BT",
+                    "U0107A7161E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0107A7161E",
+                    "UV6JHDP0S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23ef297a-74f0-4bc1-b5ae-bb844f0fc1a0",
+        "type": "message",
+        "text": "Let us know what you think. Feel free to leave comments in the file.",
+        "user": "U011870MD54",
+        "ts": "1586118449.088600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/19mS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let us know what you think. Feel free to leave comments in the file."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d54e42f-bf19-43fa-96d2-2e2375cbeb0f",
+        "type": "message",
+        "text": "<https://www.figma.com/file/wwlhFFelViZnk02nKo9aYM/COVID-19.et?node-id=0%3A1>",
+        "user": "U011870MD54",
+        "ts": "1586118451.088800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Figma",
+                "title": "COVID-19.et",
+                "title_link": "https://www.figma.com/file/wwlhFFelViZnk02nKo9aYM/COVID-19.et?node-id=0%3A1",
+                "text": "Created with Figma",
+                "fallback": "Figma: COVID-19.et",
+                "thumb_url": "https://www.figma.com/file/wwlhFFelViZnk02nKo9aYM/thumbnail?ver=thumbnails/bde5cbc4-ef93-41c3-b5de-994b8efd51eb",
+                "from_url": "https://www.figma.com/file/wwlhFFelViZnk02nKo9aYM/COVID-19.et?node-id=0%3A1",
+                "thumb_width": 800,
+                "thumb_height": 559,
+                "service_icon": "https://static.figma.com/app/icon/1/touch-76.png",
+                "id": 1,
+                "original_url": "https://www.figma.com/file/wwlhFFelViZnk02nKo9aYM/COVID-19.et?node-id=0%3A1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F3t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.figma.com/file/wwlhFFelViZnk02nKo9aYM/COVID-19.et?node-id=0%3A1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C0110VDA0HM"
+        ],
+        "pinned_info": {
+            "channel": "C0110VDA0HM",
+            "pinned_by": "UV8B0679P",
+            "pinned_ts": 1586123684
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U010059R6BT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01085512G5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2985fc5-e6ba-42db-b37c-0a56b9076343",
+        "type": "message",
+        "text": "<@U010D321H28> what's your git handle",
+        "user": "UV6JHDP0S",
+        "ts": "1586118902.089300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DqX5g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010D321H28"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what's your git handle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586116768.087400",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "a99ff9f6-4050-488b-bd78-b14f3a82be2c",
+        "type": "message",
+        "text": "Hi Nati, it is @tgd-oss, I should be part of the org but may need extra permissions for the repo, thanks",
+        "user": "U010D321H28",
+        "ts": "1586119195.089600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ya2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Nati, it is @tgd-oss, I should be part of the org but may need extra permissions for the repo, thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586116768.087400",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "6e942bdc-70ae-464b-aed3-3cb094a63a90",
+        "type": "message",
+        "text": "What time are we meeting?",
+        "user": "U011870MD54",
+        "ts": "1586122375.090500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RZa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What time are we meeting?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "394255a7-3357-45e5-9cda-1496c2acab5a",
+        "type": "message",
+        "text": "Not sure...but <!here> we all need to comment on the newly proposed design changes so devs can resume work",
+        "user": "U01085512G5",
+        "ts": "1586122497.091500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1m1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure...but "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we all need to comment on the newly proposed design changes so devs can resume work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ccc01a72-4e17-4dfc-b492-ddf29100368e",
+        "type": "message",
+        "text": "Devs are standing ready to move on",
+        "user": "U01085512G5",
+        "ts": "1586122511.091800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Kt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Devs are standing ready to move on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "737451df-d195-4720-a0fb-a00164add201",
+        "type": "message",
+        "text": "Should we do a quick call so we're all on the same page? <!here> is everyone from the previous call available?",
+        "user": "U011870MD54",
+        "ts": "1586122629.093000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "byA8Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should we do a quick call so we're all on the same page? "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is everyone from the previous call available?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "mike has started a meeting",
+        "ts": "1586123253.093300",
+        "bot_id": "B0113BDBA2G",
+        "blocks": [
+            {
+                "type": "call",
+                "call_id": "R011AL9AVPB",
+                "block_id": "zyR=",
+                "api_decoration_available": false,
+                "call": {
+                    "v1": {
+                        "id": "R011AL9AVPB",
+                        "app_id": "A5GE9BMQC",
+                        "app_icon_urls": {
+                            "image_32": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_32.png",
+                            "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_36.png",
+                            "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_48.png",
+                            "image_64": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_64.png",
+                            "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_72.png",
+                            "image_96": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_96.png",
+                            "image_128": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_128.png",
+                            "image_192": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_192.png",
+                            "image_512": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_512.png",
+                            "image_1024": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_1024.png",
+                            "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_original.png"
+                        },
+                        "date_start": 1586123253,
+                        "active_participants": [],
+                        "all_participants": [
+                            {
+                                "slack_id": "UV8B0679P"
+                            },
+                            {
+                                "external_id": "16779264",
+                                "avatar_url": "",
+                                "display_name": "Selam"
+                            },
+                            {
+                                "external_id": "33555456",
+                                "avatar_url": "",
+                                "display_name": "Haileab"
+                            },
+                            {
+                                "external_id": "33556480",
+                                "avatar_url": "",
+                                "display_name": "Messayff"
+                            },
+                            {
+                                "external_id": "33557504",
+                                "avatar_url": "",
+                                "display_name": "messay den"
+                            }
+                        ],
+                        "display_id": "559-577-474",
+                        "join_url": "https://applications.zoom.us/event/callback/slack/559577474?startUrl=N9U1pgb7fmOQGAor04MgwftbMWH6apyirX8ONcZLCu7r3mStNjRsaKisNJpnCLcHVc8n&state=JIM1sxSsGCjHURhL8tMJqs1xC1_2M83-qzFYa6oNWKuWjXLdJdPXJsPfbfeKZOP7gJNSD7l3IcRkkz5wuBOG55nktgag1K1k6Rd5QyeQprQQoc_rh4vlsONRUsTyo7g_vcAP78URGhDP3MmFRMFOHbLTwZT3BskyaKVpeXnxqzYc1HS3c-xgFGYNLbWztoxW6dyh0TfL-QOhRULfSdwH1qLWDBJpjwA9z_JSjHhO1EFYJeCcYLKVL_ekBgKvDa6p7PKacPOb",
+                        "name": "Zoom meeting started by mike",
+                        "created_by": "U010G2AU7M2",
+                        "date_end": 1586123313,
+                        "channels": [
+                            "C0110VDA0HM"
+                        ],
+                        "is_dm_call": false,
+                        "was_rejected": false,
+                        "was_missed": false,
+                        "was_accepted": false,
+                        "has_ended": true
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f28d448c-8daa-4c59-b41f-3fb09a54587c",
+        "type": "message",
+        "text": "<!here> hop on",
+        "user": "UV8B0679P",
+        "ts": "1586123257.093500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cix1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hop on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cc7adbd-fc62-4471-934e-495ffb7f0198",
+        "type": "message",
+        "text": "let\u2019s talk about it",
+        "user": "UV8B0679P",
+        "ts": "1586123259.093700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xx/Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let\u2019s talk about it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "901fe32a-bae5-41bf-8290-e8a4fb614d05",
+        "type": "message",
+        "text": "if you\u2019re not already",
+        "user": "UV8B0679P",
+        "ts": "1586123273.094000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p4NK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you\u2019re not already"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2cab5887-1651-49e7-a973-40ec503f921c",
+        "type": "message",
+        "text": "Not yet",
+        "user": "U011870MD54",
+        "ts": "1586123281.094200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=80",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not yet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0630a9a-ca07-4e81-972c-8b6e928fedab",
+        "type": "message",
+        "text": "<@U0115055LQP> Wanna hop on?",
+        "user": "U011870MD54",
+        "ts": "1586123295.094700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1FDUP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Wanna hop on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82164a66-2cc7-4048-92fe-9d0a1c00e327",
+        "type": "message",
+        "text": "okay - hop on my zoom \u2014 <@U010059R6BT> <@U01085512G5> <@U0115055LQP> :point_up::skin-tone-5:",
+        "user": "UV8B0679P",
+        "ts": "1586123356.095700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QpB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay - hop on my zoom \u2014 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010059R6BT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7364890-72cd-40b3-b1c7-2197504bb182",
+        "type": "message",
+        "text": "<!channel> - hopping on?",
+        "user": "UV8B0679P",
+        "ts": "1586123647.096000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rAv4r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - hopping on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e2fe7a3-270f-4e53-8fb6-78237ebb6907",
+        "type": "message",
+        "text": "Sorry missed that call...wasn't able to join. Anything new? Are the designs finalized?",
+        "user": "U01085512G5",
+        "ts": "1586130256.098100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BM+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry missed that call...wasn't able to join. Anything new? Are the designs finalized?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

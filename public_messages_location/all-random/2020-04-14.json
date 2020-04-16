@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "543a9f45-612c-4334-8169-5ffe32117fa8",
+        "type": "message",
+        "text": "Is anyone here working on a tracking application to make contact tracing easier ?",
+        "user": "U012BUFFQRE",
+        "ts": "1586848296.276500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IP25",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is anyone here working on a tracking application to make contact tracing easier ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f12f9378-4851-461b-8c11-d3674e1806c7",
+        "type": "message",
+        "text": "I read about an application called GreenPass. Couldn\u2019t try it myself because Android.",
+        "user": "U012BUFFQRE",
+        "ts": "1586848581.277200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7irl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I read about an application called GreenPass. Couldn\u2019t try it myself because Android."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "108c8236-56e9-44ac-8c3c-738b7d4a01cd",
+        "type": "message",
+        "text": "<https://github.blog/2020-04-14-github-is-now-free-for-teams/>",
+        "user": "U01085512G5",
+        "ts": "1586888422.278300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "The GitHub Blog",
+                "title": "GitHub is now free for teams",
+                "title_link": "https://github.blog/2020-04-14-github-is-now-free-for-teams/",
+                "text": "Every developer and team can now get private repositories with unlimited collaborators at no cost with GitHub Free, and we reduced prices for some of our paid plans.",
+                "fallback": "The GitHub Blog: GitHub is now free for teams",
+                "image_url": "https://github.blog/wp-content/uploads/2020/04/Facebook_1200-x-630_Option1@2x.png?resize=1024,538",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1586880022,
+                "from_url": "https://github.blog/2020-04-14-github-is-now-free-for-teams/",
+                "image_bytes": 315507,
+                "service_icon": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+                "id": 1,
+                "original_url": "https://github.blog/2020-04-14-github-is-now-free-for-teams/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "suBGr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.blog/2020-04-14-github-is-now-free-for-teams/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105CS9G93"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0105CS9G93",
+                    "UV9A3J397",
+                    "U01088D7UTH"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

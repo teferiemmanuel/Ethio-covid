@@ -1,0 +1,281 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584970213.000200",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584970252.000400",
+        "user": "U010L2CFYUW",
+        "text": "<@U010L2CFYUW> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584970872.000600",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584970872.000800",
+        "user": "U0107JERE9L",
+        "text": "<@U0107JERE9L> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584970872.001000",
+        "user": "U0107AYF16H",
+        "text": "<@U0107AYF16H> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584981654.001200",
+        "user": "U010KLXDR1B",
+        "text": "<@U010KLXDR1B> has joined the channel"
+    },
+    {
+        "client_msg_id": "53b594fe-b2f7-492d-bb5c-f180c4690281",
+        "type": "message",
+        "text": "Hi all, I'll try to stand up the website in a few hours",
+        "user": "U010L2CFYUW",
+        "ts": "1584987753.001700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K6i=E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, I'll try to stand up the website in a few hours"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "For context :point_down::skin-tone-4:",
+        "user": "U0106M26108",
+        "ts": "1584987790.002500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 23rd, 2020 2:13 AM] babraham42: Build a robust, html-only website for emergency notifications: <https://mxb.dev/blog/emergency-website-kit/>",
+                "ts": "1584954808.478500",
+                "author_id": "U010L2CFYUW",
+                "author_subname": "Bereket Abraham",
+                "channel_id": "C0106LZBVCY",
+                "channel_name": "all-project-ideas",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Build a robust, html-only website for emergency notifications: <https://mxb.dev/blog/emergency-website-kit/>",
+                "author_name": "Bereket Abraham",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010L2CFYUW",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-22/1019664117607_deef81f3b5bfa6d2f961_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1584954808478500?thread_ts=1584954808478500&cid=C0106LZBVCY",
+                "is_share": true,
+                "footer": "Thread in #all-project-ideas"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vC1=S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For context "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_down",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1058306d-0e37-4c2e-b162-0615907c5031",
+        "type": "message",
+        "text": "Last night I found a nice template for a text-only website",
+        "user": "U010L2CFYUW",
+        "ts": "1584987796.002600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sR2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last night I found a nice template for a text-only website"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e27dadc-d04b-45cc-8695-02be0fb16a3e",
+        "type": "message",
+        "text": "The content is also cached during brief internet outages",
+        "user": "U010L2CFYUW",
+        "ts": "1584987874.003600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The content is also cached during brief internet outages"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68989fd1-090f-450a-8c78-38145344727e",
+        "type": "message",
+        "text": "Once I get it going we will need to decide on the content",
+        "user": "U010L2CFYUW",
+        "ts": "1584987898.004000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5qer4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Once I get it going we will need to decide on the content"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584988056.004100",
+        "user": "U010L2CFYUW",
+        "text": "<@U010L2CFYUW> set the channel purpose: Build a robust, text-only website for emergency notifications: <https://mxb.dev/blog/emergency-website-kit/>",
+        "purpose": "Build a robust, text-only website for emergency notifications: <https://mxb.dev/blog/emergency-website-kit/>"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584993143.004300",
+        "user": "U0107JEHBEJ",
+        "text": "<@U0107JEHBEJ> has joined the channel"
+    },
+    {
+        "client_msg_id": "a834ed89-73a7-48d1-883b-8e6fd54f87a9",
+        "type": "message",
+        "text": "What should we pick for the website url?",
+        "user": "U010L2CFYUW",
+        "ts": "1585006436.005000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ACv+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What should we pick for the website url?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585006436.005000",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1585075360.014900",
+        "reply_users": [
+            "UV8B0679P",
+            "U010L2CFYUW",
+            "U010K3X390E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0ab52448-cb34-4beb-b394-519768dd5240",
+        "type": "message",
+        "text": "<http://status.covid19.et|status.covid19.et>",
+        "user": "UV8B0679P",
+        "ts": "1585006619.005100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV8B0679P",
+            "ts": "1585006631.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Ea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "status.covid19.et"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585006436.005000",
+        "parent_user_id": "U010L2CFYUW"
+    }
+]

@@ -1,0 +1,243 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586344349.003100",
+        "user": "U011BRW40NB",
+        "text": "<@U011BRW40NB> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    },
+    {
+        "client_msg_id": "384493da-01bb-4681-990a-567b5186035c",
+        "type": "message",
+        "text": "<https://www.theguardian.com/artanddesign/2020/apr/07/how-to-build-a-hospital-in-nine-days-emergency-architecture-in-a-pandemic-coronavirus-outbreak?fbclid=IwAR2Phvjh2pcGTt52buN398l_wJWo3Fd1b3b0MwQ_tTOUhvqgCJJWioyqOFo>",
+        "user": "U01017GFFB4",
+        "ts": "1586356902.003400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "the Guardian",
+                "title": "How to build a hospital in nine days: emergency architecture in a pandemic",
+                "title_link": "https://www.theguardian.com/artanddesign/2020/apr/07/how-to-build-a-hospital-in-nine-days-emergency-architecture-in-a-pandemic-coronavirus-outbreak?fbclid=IwAR2Phvjh2pcGTt52buN398l_wJWo3Fd1b3b0MwQ_tTOUhvqgCJJWioyqOFo",
+                "text": "From mobile morgues to pop-up intensive care wards, Britain is responding to coronavirus with a new kind of elemental architecture \u2013 and it needs lots of it",
+                "fallback": "the Guardian: How to build a hospital in nine days: emergency architecture in a pandemic",
+                "image_url": "https://i.guim.co.uk/img/media/eebd305c80cd7f7ca8ac16e9471c84891600fb40/0_37_1800_1080/master/1800..jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1dfbe124b78a5ce5a19337c0043ed6f",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1586269277,
+                "from_url": "https://www.theguardian.com/artanddesign/2020/apr/07/how-to-build-a-hospital-in-nine-days-emergency-architecture-in-a-pandemic-coronavirus-outbreak?fbclid=IwAR2Phvjh2pcGTt52buN398l_wJWo3Fd1b3b0MwQ_tTOUhvqgCJJWioyqOFo",
+                "image_bytes": 166983,
+                "service_icon": "https://assets.guim.co.uk/images/favicons/fee5e2d638d1c35f6d501fa397e53329/152x152.png",
+                "id": 1,
+                "original_url": "https://www.theguardian.com/artanddesign/2020/apr/07/how-to-build-a-hospital-in-nine-days-emergency-architecture-in-a-pandemic-coronavirus-outbreak?fbclid=IwAR2Phvjh2pcGTt52buN398l_wJWo3Fd1b3b0MwQ_tTOUhvqgCJJWioyqOFo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QmV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.theguardian.com/artanddesign/2020/apr/07/how-to-build-a-hospital-in-nine-days-emergency-architecture-in-a-pandemic-coronavirus-outbreak?fbclid=IwAR2Phvjh2pcGTt52buN398l_wJWo3Fd1b3b0MwQ_tTOUhvqgCJJWioyqOFo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011Z1PBM32",
+                "created": 1586361432,
+                "timestamp": 1586361432,
+                "name": "nhsnightingale_instructionmanual_revc.pdf",
+                "title": "nhsnightingale_instructionmanual_revc.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01017GFFB4",
+                "editable": false,
+                "size": 2311002,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011Z1PBM32/nhsnightingale_instructionmanual_revc.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011Z1PBM32/download/nhsnightingale_instructionmanual_revc.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011Z1PBM32-5585ca643c/nhsnightingale_instructionmanual_revc_thumb_pdf.png",
+                "thumb_pdf_w": 3642,
+                "thumb_pdf_h": 2572,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01017GFFB4/F011Z1PBM32/nhsnightingale_instructionmanual_revc.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011Z1PBM32-dc632c59df",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U01017GFFB4",
+        "display_as_bot": false,
+        "ts": "1586361436.003600",
+        "client_msg_id": "ef214f02-392b-4f8c-a58b-f43ba948cf42",
+        "pinned_to": [
+            "C010VNXB4H2"
+        ],
+        "pinned_info": {
+            "channel": "C010VNXB4H2",
+            "pinned_by": "U0106M26108",
+            "pinned_ts": 1586367726
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "If anyone has time to review and forward comments and suggestions please go ahead and do so. You can send your comments to <mailto:covid19aea@gmail.com|covid19aea@gmail.com>",
+        "user": "U01017GFFB4",
+        "ts": "1586361574.003900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[April 6th, 2020 4:29 PM] killyishere: Draft guidelines under preparation at the Association of Ethiopian Architects",
+                "ts": "1586183378.000100",
+                "author_id": "U01017GFFB4",
+                "author_subname": "Anteneh",
+                "channel_id": "C010VNXB4H2",
+                "channel_name": "proj-treatment-centers",
+                "is_msg_unfurl": true,
+                "text": "Draft guidelines under preparation at the Association of Ethiopian Architects",
+                "author_name": "Anteneh",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U01017GFFB4",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-20/1014086406405_47cc6295a7e2af611fea_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F011PA7EZG8",
+                        "created": 1586183372,
+                        "timestamp": 1586183372,
+                        "name": "06.04.20 GUIDELINES FOR COVID-19 1400.pdf",
+                        "title": "06.04.20 GUIDELINES FOR COVID-19 1400.pdf",
+                        "mimetype": "application/pdf",
+                        "filetype": "pdf",
+                        "pretty_type": "PDF",
+                        "user": "U01017GFFB4",
+                        "editable": false,
+                        "size": 19964174,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011PA7EZG8/06.04.20_guidelines_for_covid-19_1400.pdf",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011PA7EZG8/download/06.04.20_guidelines_for_covid-19_1400.pdf",
+                        "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011PA7EZG8-76a7660687/06.04.20_guidelines_for_covid-19_1400_thumb_pdf.png",
+                        "thumb_pdf_w": 935,
+                        "thumb_pdf_h": 1210,
+                        "permalink": "https://ethiopia-covid19.slack.com/files/U01017GFFB4/F011PA7EZG8/06.04.20_guidelines_for_covid-19_1400.pdf",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F011PA7EZG8-5a4294c333",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010VNXB4H2/p1586183378000100",
+                "is_share": true,
+                "footer": "Posted in #proj-treatment-centers"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NyM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If anyone has time to review and forward comments and suggestions please go ahead and do so. You can send your comments to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:covid19aea@gmail.com",
+                                "text": "covid19aea@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C010VNXB4H2"
+        ],
+        "pinned_info": {
+            "channel": "C010VNXB4H2",
+            "pinned_by": "U0106M26108",
+            "pinned_ts": 1586367745
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f46fbd7e-2d38-4a8c-bc4e-4479049f15ca",
+        "type": "message",
+        "text": "you can as well forward it to those who would like to do the same, or just have it",
+        "user": "U01017GFFB4",
+        "ts": "1586361621.004500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lwH4w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can as well forward it to those who would like to do the same, or just have it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "client_msg_id": "c1d5c707-ef8a-45b8-909f-54c1acff8902",
+        "type": "message",
+        "text": "<@U010K7Q2K2A> what can you help here?",
+        "user": "U01007VTP8A",
+        "ts": "1586507552.192800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MvPlO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010K7Q2K2A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what can you help here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586458107.184700",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586507556.193100",
+        "user": "U010K7Q2K2A",
+        "text": "<@U010K7Q2K2A> has joined the channel",
+        "inviter": "U01007VTP8A"
+    },
+    {
+        "client_msg_id": "7F0163CE-F982-4B8C-8C08-0BF17D0AD4B9",
+        "type": "message",
+        "text": "<@U010L1RJMUN> I have a background in epidemiology and data analysis and would love to be involved here. Also have python coding experience (better at R though). ",
+        "user": "U010YC7MX2Q",
+        "ts": "1586539805.194500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gmg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have a background in epidemiology and data analysis and would love to be involved here. Also have python coding experience (better at R though). "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586458107.184700",
+        "parent_user_id": "U010L1RJMUN",
+        "reactions": [
+            {
+                "name": "github",
+                "users": [
+                    "U01076XHPC0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28e59973-22e4-44d2-8f4d-398b6ec19224",
+        "type": "message",
+        "text": "<@U010YC7MX2Q> wonderful. Could we arrange a talk to priorities what we could work together? I am collecting some data <https://docs.google.com/spreadsheets/d/1EiA3Q2f6OdSFkCqaSLTSKDcJ2AgLYUgqI1VLYww8sB4/edit?usp=sharing|here> from published papers, and I really need a hand",
+        "user": "U010L1RJMUN",
+        "ts": "1586540193.194700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010L1RJMUN",
+            "ts": "1586540208.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SUd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010YC7MX2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " wonderful. Could we arrange a talk to priorities what we could work together? I am collecting some data "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1EiA3Q2f6OdSFkCqaSLTSKDcJ2AgLYUgqI1VLYww8sB4/edit?usp=sharing",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from published papers, and I really need a hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586458107.184700",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "bcb05bbc-94b3-47e4-9e1c-809d1e9b75bf",
+        "type": "message",
+        "text": "This is the kind of projection we need for ethiopia <https://covid19.healthdata.org/italy>",
+        "user": "U010L1RJMUN",
+        "ts": "1586553938.195600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Institute for Health Metrics and Evaluation",
+                "title": "IHME | COVID-19 Projections",
+                "title_link": "https://covid19.healthdata.org/italy",
+                "text": "Explore hospital bed use, need for intensive care beds, and ventilator use due to COVID-19 based on projected deaths",
+                "fallback": "Institute for Health Metrics and Evaluation: IHME | COVID-19 Projections",
+                "image_url": "https://covid19.healthdata.org/dist/images/COVID-19_projections.png",
+                "from_url": "https://covid19.healthdata.org/italy",
+                "image_width": 470,
+                "image_height": 250,
+                "image_bytes": 140158,
+                "service_icon": "https://covid19.healthdata.org/dist/images/favicon-32x32.png",
+                "id": 1,
+                "original_url": "https://covid19.healthdata.org/italy"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vpGZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the kind of projection we need for ethiopia "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://covid19.healthdata.org/italy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586553938.195600",
+        "reply_count": 10,
+        "reply_users_count": 5,
+        "latest_reply": "1586711604.221800",
+        "reply_users": [
+            "UV8B0679P",
+            "U010L1RJMUN",
+            "U0102QX78GH",
+            "U011680TZL5",
+            "U010YC7MX2Q"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "67285F13-F092-4DD9-854E-483B0D953F31",
+        "type": "message",
+        "text": "I completely agree",
+        "user": "UV8B0679P",
+        "ts": "1586554767.196000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+3n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I completely agree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586553938.195600",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "99C3634F-1464-4DE5-8CFB-7A2A60A35B87",
+        "type": "message",
+        "text": "And IMEI will be able to help with giving the code, I think if we have the data",
+        "user": "UV8B0679P",
+        "ts": "1586554790.196900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A5N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And IMEI will be able to help with giving the code, I think if we have the data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586553938.195600",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "5EEE1979-B8F7-4B9D-B428-FB699224A10B",
+        "type": "message",
+        "text": "May be the Gates Foundation has already given it to MoH since they funded them",
+        "user": "UV8B0679P",
+        "ts": "1586554807.197600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1yho1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "May be the Gates Foundation has already given it to MoH since they funded them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586553938.195600",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "45c5683a-2fce-4d5a-b56a-c71648e5f924",
+        "type": "message",
+        "text": "How can we find out that? If the MoH has already such a prediction, it is better we put our energy somewhere else.",
+        "user": "U010L1RJMUN",
+        "ts": "1586557342.197800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kPjF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How can we find out that? If the MoH has already such a prediction, it is better we put our energy somewhere else."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586553938.195600",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "5f452a2e-266f-4a46-8749-66d5ee3e4304",
+        "type": "message",
+        "text": "At the moment, I managed to get some useful data from <https://moh-public.ehdap.com/dashboard/arm|MoH Open Data portal>",
+        "user": "U010L1RJMUN",
+        "ts": "1586557702.198000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5mF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At the moment, I managed to get some useful data from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://moh-public.ehdap.com/dashboard/arm",
+                                "text": "MoH Open Data portal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586553938.195600",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "db476bf9-fb7a-4e28-b164-89633a128545",
+        "type": "message",
+        "text": "This &lt;file:///Users/yabebal/My-Works/SocialAnalysis/HospitalEthiopiaPapers/Inequalities_in_healthcare_resources_and_outcomes_.pdf|paper&gt; is another resource about medical facilities capacity and outcome in ethiopia",
+        "user": "U010L1RJMUN",
+        "ts": "1586558235.198200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fiPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This "
+                            },
+                            {
+                                "type": "link",
+                                "url": "file:///Users/yabebal/My-Works/SocialAnalysis/HospitalEthiopiaPapers/Inequalities_in_healthcare_resources_and_outcomes_.pdf",
+                                "text": "paper"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is another resource about medical facilities capacity and outcome in ethiopia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586553938.195600",
+        "parent_user_id": "U010L1RJMUN"
+    }
+]

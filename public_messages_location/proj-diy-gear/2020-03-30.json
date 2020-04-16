@@ -1,0 +1,759 @@
+[
+    {
+        "client_msg_id": "45ea4cc4-a0bc-4558-9b42-da0158ba6ae5",
+        "type": "message",
+        "text": "registered and was able to view the downloads! Just do that if you're interested in viewing--the downloads are just DXF files, there's a comment section too",
+        "user": "U010NBXJN06",
+        "ts": "1585526539.039800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "registered and was able to view the downloads! Just do that if you're interested in viewing--the downloads are just DXF files, there's a comment section too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585524035.033400",
+        "parent_user_id": "U010ZJYV6AU"
+    },
+    {
+        "client_msg_id": "73526e73-45b0-4698-b62a-fa4b41c9c634",
+        "type": "message",
+        "text": "Second guide I made for this \"hackathon\" : 2D manufacturing guide &amp; example: <https://docs.google.com/document/d/1ZEWqKeWGOVt4ChKCiw07z7hj2J5yFg4BabQRtmi0Xa4/edit>",
+        "user": "U010NBXJN06",
+        "ts": "1585527259.040700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r=/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Second guide I made for this \"hackathon\" : 2D manufacturing guide & example: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1ZEWqKeWGOVt4ChKCiw07z7hj2J5yFg4BabQRtmi0Xa4/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50bd26cb-ccd9-49d5-8184-3888e19ab7bc",
+        "type": "message",
+        "text": "<https://www.bbc.com/news/health-52087002|https://www.bbc.com/news/health-52087002>",
+        "user": "UV81AMFSP",
+        "ts": "1585541522.041000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "BBC News",
+                "title": "F1 team helps to create coronavirus breathing aid",
+                "title_link": "https://www.bbc.com/news/health-52087002",
+                "text": "Thousands of the devices, which deliver oxygen to the lungs without needing a ventilator, could be made.",
+                "fallback": "BBC News: F1 team helps to create coronavirus breathing aid",
+                "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/D404/production/_111467245_1.jpg",
+                "from_url": "https://www.bbc.com/news/health-52087002",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 74934,
+                "service_icon": "https://static.bbc.co.uk/news/1.311.03563/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https://www.bbc.com/news/health-52087002"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IR6jC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.bbc.com/news/health-52087002",
+                                "text": "https://www.bbc.com/news/health-52087002"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010QD3N7QR",
+                "created": 1585545778,
+                "timestamp": 1585545778,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010LGW2A5A",
+                "editable": false,
+                "size": 1524968,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010QD3N7QR/image_from_ios.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010QD3N7QR/download/image_from_ios.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010QD3N7QR-3d6d5b38ea/image_from_ios_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010QD3N7QR-3d6d5b38ea/image_from_ios_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010QD3N7QR-3d6d5b38ea/image_from_ios_360.png",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010QD3N7QR-3d6d5b38ea/image_from_ios_480.png",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010QD3N7QR-3d6d5b38ea/image_from_ios_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010QD3N7QR-3d6d5b38ea/image_from_ios_720.png",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010QD3N7QR-3d6d5b38ea/image_from_ios_800.png",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010QD3N7QR-3d6d5b38ea/image_from_ios_960.png",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010QD3N7QR-3d6d5b38ea/image_from_ios_1024.png",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "thumb_tiny": "AwAwABqUwiL/AFnz56YzUqwIVB2Dn3NS/NlssMZ4x6Uv/Av1p3FYrvbA42YX86abRyfvj9atgjuRTqOZhZEZAyeaNvv+lZu+Rm+V2P8AwKlDyeYVLtjGetTcqxphPenVmRO5cZdvzoEkpH3m/wC+qLhYityMoCcZb9KsOimRmU4+XoaaljKjAh0+U+9Tm1Yl+Vw449qYimr7efQVHvbHU1a+wybT86dKb/Zsv99P1oVgZ//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010LGW2A5A/F010QD3N7QR/image_from_ios.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010QD3N7QR-8398f49038",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qT1FR",
+                "elements": []
+            }
+        ],
+        "user": "U010LGW2A5A",
+        "display_as_bot": false,
+        "ts": "1585545785.041200",
+        "client_msg_id": "0F63FD00-C0AA-4847-962F-2E4683D70C70"
+    },
+    {
+        "client_msg_id": "513D8B69-BF85-4636-9B04-7C35A2313673",
+        "type": "message",
+        "text": "Maybe we can adapt this large scale ",
+        "user": "U010LGW2A5A",
+        "ts": "1585545827.041900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rTpYC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe we can adapt this large scale "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4b28765-1e24-4d03-b10e-35487df61ec5",
+        "type": "message",
+        "text": "<https://twitter.com/EthiopiaPE/status/1244545386561163265?s=19|https://twitter.com/EthiopiaPE/status/1244545386561163265?s=19>",
+        "user": "UV81AMFSP",
+        "ts": "1585557794.042200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/EthiopiaPE|@EthiopiaPE>: #Covid19 #DIY #Ethiopia <https://pbs.twimg.com/ext_tw_video_thumb/1244544649840275456/pu/img/qHsNM4LtIRRUkC_O.jpg>",
+                "ts": 1585557717,
+                "author_name": "Ethiopia PE- Inv.",
+                "author_link": "https://twitter.com/EthiopiaPE/status/1244545386561163265",
+                "author_icon": "https://pbs.twimg.com/profile_images/310287782/ethiopia_normal.jpg",
+                "author_subname": "@EthiopiaPE",
+                "text": "#Covid19 #DIY #Ethiopia",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/EthiopiaPE/status/1244545386561163265?s=19",
+                "thumb_url": "https://pbs.twimg.com/ext_tw_video_thumb/1244544649840275456/pu/img/qHsNM4LtIRRUkC_O.jpg",
+                "thumb_width": 540,
+                "thumb_height": 960,
+                "video_html_width": 540,
+                "video_html_height": 960,
+                "video_html": "<video controls poster=\"https://pbs.twimg.com/ext_tw_video_thumb/1244544649840275456/pu/img/qHsNM4LtIRRUkC_O.jpg\" width=\"540\" height=\"960\"><source type=\"video/mp4\" src=\"https://video.twimg.com/ext_tw_video/1244544649840275456/pu/vid/540x960/17a5xuUjjxY1RcBf.mp4?tag=10\"></video>",
+                "id": 1,
+                "original_url": "https://twitter.com/EthiopiaPE/status/1244545386561163265?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uU+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/EthiopiaPE/status/1244545386561163265?s=19",
+                                "text": "https://twitter.com/EthiopiaPE/status/1244545386561163265?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a15d4a0-0c97-4018-9ec4-ad1c13780993",
+        "type": "message",
+        "text": "3D printed ventilator for $45\n<https://twitter.com/DrIanWeissman/status/1244285755805048833?s=19|https://twitter.com/DrIanWeissman/status/1244285755805048833?s=19>",
+        "user": "UV81AMFSP",
+        "ts": "1585572212.043300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/DrIanWeissman|@DrIanWeissman>: ...And a company <https://twitter.com/AidVentil|@AidVentil> in Poland has developed a ventilator that can be #3Dprinted for $45. We can do anything if we work together to solve problems, but we must work together, worldwide, as a united front. <https://twitter.com/RasuShrestha|@RasuShrestha> <https://twitter.com/evankirstel|@evankirstel> <https://twitter.com/Vilavaite|@Vilavaite> <https://twitter.com/DrPascalMeier|@DrPascalMeier> <https://twitter.com/drchrysopoulo|@drchrysopoulo> <https://twitter.com/visegrad24/status/1242152214396895232>",
+                "ts": 1585495816,
+                "author_name": "Ian Weissman, DO",
+                "author_link": "https://twitter.com/DrIanWeissman/status/1244285755805048833",
+                "author_icon": "https://pbs.twimg.com/profile_images/1136797900556685312/3fOR30UR_normal.png",
+                "author_subname": "@DrIanWeissman",
+                "text": "...And a company <https://twitter.com/AidVentil|@AidVentil> in Poland has developed a ventilator that can be #3Dprinted for $45. We can do anything if we work together to solve problems, but we must work together, worldwide, as a united front. <https://twitter.com/RasuShrestha|@RasuShrestha> <https://twitter.com/evankirstel|@evankirstel> <https://twitter.com/Vilavaite|@Vilavaite> <https://twitter.com/DrPascalMeier|@DrPascalMeier> <https://twitter.com/drchrysopoulo|@drchrysopoulo> <https://twitter.com/visegrad24/status/1242152214396895232>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/DrIanWeissman/status/1244285755805048833?s=19",
+                "id": 1,
+                "original_url": "https://twitter.com/DrIanWeissman/status/1244285755805048833?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            },
+            {
+                "fallback": "<https://twitter.com/visegrad24|@visegrad24>: Polish respirator <https://twitter.com/AidVentil|@AidVentil> can be 3D printed and the combined cost of the components is roughly 45 USD.\n\nThis can be a game changer in responding to the challenges hospitals face with the COVID-19 pandemic. \n\n:flag-pl:\n<https://pbs.twimg.com/ext_tw_video_thumb/1242140437168750594/pu/img/_IbqLrJagyQfYu7T.jpg>",
+                "ts": 1584987140,
+                "author_name": "Visegrad 24 \ud83c\udde8\ud83c\uddff\ud83c\udded\ud83c\uddfa\ud83c\uddf5\ud83c\uddf1\ud83c\uddf8\ud83c\uddf0",
+                "author_link": "https://twitter.com/visegrad24/status/1242152214396895232",
+                "author_icon": "https://pbs.twimg.com/profile_images/1223053187881500673/_MJBR1MD_normal.jpg",
+                "author_subname": "@visegrad24",
+                "text": "Polish respirator <https://twitter.com/AidVentil|@AidVentil> can be 3D printed and the combined cost of the components is roughly 45 USD.\n\nThis can be a game changer in responding to the challenges hospitals face with the COVID-19 pandemic. \n\n:flag-pl:",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/visegrad24/status/1242152214396895232",
+                "thumb_url": "https://pbs.twimg.com/ext_tw_video_thumb/1242140437168750594/pu/img/_IbqLrJagyQfYu7T.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https://pbs.twimg.com/ext_tw_video_thumb/1242140437168750594/pu/img/_IbqLrJagyQfYu7T.jpg\" width=\"1200\" height=\"675\"><source type=\"video/mp4\" src=\"https://video.twimg.com/ext_tw_video/1242140437168750594/pu/vid/1280x720/EURaOmIqGLqkaCbF.mp4?tag=10\"></video>",
+                "indent": true,
+                "color": "32BBF3",
+                "id": 2,
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "61I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3D printed ventilator for $45\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/DrIanWeissman/status/1244285755805048833?s=19",
+                                "text": "https://twitter.com/DrIanWeissman/status/1244285755805048833?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12b5b6c2-df30-4290-86f0-8ebf86e12b26",
+        "type": "message",
+        "text": "Thansk Tsega for connecting",
+        "user": "UV81AMFSP",
+        "ts": "1585573289.043500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "688GQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thansk Tsega for connecting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585432920.026100",
+        "parent_user_id": "UV81AMFSP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVAL943JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1BADF8F8-34BF-4445-A777-97750AB46B63",
+        "type": "message",
+        "text": "As a Luxury bag designer am familiar with leather......in our company we have a capacity of producing mass production but am worried about is that ..... I was thinking of making it so I asked for an advice from doctors they said it\u2019s not advisable .... so we stopped developing the leather one and started the 100 % cotton ones",
+        "user": "U010LGFKWFK",
+        "ts": "1585581209.050300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pcya",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As a Luxury bag designer am familiar with leather......in our company we have a capacity of producing mass production but am worried about is that ..... I was thinking of making it so I asked for an advice from doctors they said it\u2019s not advisable .... so we stopped developing the leather one and started the 100 % cotton ones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "client_msg_id": "C9C0ED83-25C1-4EA9-A5FA-B1633571D663",
+        "type": "message",
+        "text": "But if you want it to be a leather one we have got Japan export standard high quality soft leather and it\u2019s chrome 9 free ",
+        "user": "U010LGFKWFK",
+        "ts": "1585581348.052700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EHe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But if you want it to be a leather one we have got Japan export standard high quality soft leather and it\u2019s chrome 9 free "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06"
+    },
+    {
+        "client_msg_id": "203AC2C5-9B62-4945-BE44-86AB700B04FD",
+        "type": "message",
+        "text": "<https://www.instagram.com/p/B-XJJe2nKXs/?igshid=18ynkm3xcyu68|https://www.instagram.com/p/B-XJJe2nKXs/?igshid=18ynkm3xcyu68>",
+        "user": "U0107AYF16H",
+        "ts": "1585582625.053000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Instagram",
+                "title": "AGirlHasNoPresident on Instagram: \u201cThese are some guidelines for masks that hospitals will accept. #MakingMasks #DonatingMasks #Help #Donate #VolunteeryourTime\u201d",
+                "title_link": "https://www.instagram.com/p/B-XJJe2nKXs/?igshid=18ynkm3xcyu68",
+                "text": "367 Likes, 6 Comments - AGirlHasNoPresident (@agirlhasnopresident) on Instagram: \u201cThese are some guidelines for masks that hospitals will accept. #MakingMasks #DonatingMasks #Help\u2026\u201d",
+                "fallback": "Instagram: AGirlHasNoPresident on Instagram: \u201cThese are some guidelines for masks that hospitals will accept. #MakingMasks #DonatingMasks #Help #Donate #VolunteeryourTime\u201d",
+                "image_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/91278422_214637356312039_6080222275972052804_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=uQEeebE6lj4AX-Ttl8-&oh=64397bee8b3d870b9ece63cddbe8b0a4&oe=5EAAA4E0",
+                "from_url": "https://www.instagram.com/p/B-XJJe2nKXs/?igshid=18ynkm3xcyu68",
+                "image_width": 235,
+                "image_height": 250,
+                "image_bytes": 127123,
+                "service_icon": "https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png",
+                "id": 1,
+                "original_url": "https://www.instagram.com/p/B-XJJe2nKXs/?igshid=18ynkm3xcyu68"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wABzv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.instagram.com/p/B-XJJe2nKXs/?igshid=18ynkm3xcyu68",
+                                "text": "https://www.instagram.com/p/B-XJJe2nKXs/?igshid=18ynkm3xcyu68"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "We NEED innovating engineers to step up and see if the attached Personal Protection Equipment (PPE) could be assembled in Ethiopia. We will raise the money (we have started:\u00a0<https://slack-redir.net/link?url=http%3A%2F%2Fwww.gf.me%2Fu%2Fxsgra9|Support Ethiopia Health Workers Combat COVID-19>) to buy locally unavailable and ship from here (US to get the PPEs assembled in Ethiopia.\u00a0\n\nThe PPE was originally made by biomedical engineers at Southampton University in the UK for use at their tuberculosis lab. It runs for over 8 hours on 5x AA rechargeable batteries.\u00a0It is reusable if properly cleaned. It is claimed by Southampton that it removes 99.95% of particles because you create a positive air pressure inside the hood. You have a built-in visor to prevent accidental face touching.\n\nThey are not sharing the dimensions (we asked) but I am sure ingenious engineers will figure to assemble the PPE. It needs to be tested and then we can move to mass production. We need to videotape the assembly process.\n\nThe Addis Ababa University Engineering department, working with the Ministry of Science and Technology, will be working on this on the other end. If we can get the private sector in Ethiopia (e.g., garment factory) to assist (the hood, etc.) that would be great.\n\nAttached is the write up on this, a hand sketch and list of components.",
+        "files": [
+            {
+                "id": "F0112B5PE3W",
+                "created": 1585605765,
+                "timestamp": 1585605765,
+                "name": "PeRSo_DW_280320_brief.pdf",
+                "title": "PeRSo_DW_280320_brief.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010VLD0G2H",
+                "editable": false,
+                "size": 265754,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0112B5PE3W/perso_dw_280320_brief.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0112B5PE3W/download/perso_dw_280320_brief.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F0112B5PE3W-ed18049b50/perso_dw_280320_brief_thumb_pdf.png",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010VLD0G2H/F0112B5PE3W/perso_dw_280320_brief.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0112B5PE3W-795321a330",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F0114SF6CP9",
+                "created": 1585605765,
+                "timestamp": 1585605765,
+                "name": "Perso DW_280320_c.pdf",
+                "title": "Perso DW_280320_c.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010VLD0G2H",
+                "editable": false,
+                "size": 353040,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0114SF6CP9/perso_dw_280320_c.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0114SF6CP9/download/perso_dw_280320_c.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F0114SF6CP9-7a761a6b0a/perso_dw_280320_c_thumb_pdf.png",
+                "thumb_pdf_w": 1210,
+                "thumb_pdf_h": 935,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010VLD0G2H/F0114SF6CP9/perso_dw_280320_c.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0114SF6CP9-8719e27d8f",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F010RBM7HUK",
+                "created": 1585605765,
+                "timestamp": 1585605765,
+                "name": "PeRSo_Components[1].pdf",
+                "title": "PeRSo_Components[1].pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010VLD0G2H",
+                "editable": false,
+                "size": 38643,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010RBM7HUK/perso_components_1_.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010RBM7HUK/download/perso_components_1_.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F010RBM7HUK-32c4e89af8/perso_components_1__thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010VLD0G2H/F010RBM7HUK/perso_components_1_.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010RBM7HUK-8185c30d7c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9XXY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We NEED innovating engineers to step up and see if the attached Personal Protection Equipment (PPE) could be assembled in Ethiopia. We will raise the money (we have started:\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://slack-redir.net/link?url=http%3A%2F%2Fwww.gf.me%2Fu%2Fxsgra9",
+                                "text": "Support Ethiopia Health Workers Combat COVID-19"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") to buy locally unavailable and ship from here (US to get the PPEs assembled in Ethiopia.\u00a0\n\nThe PPE was originally made by biomedical engineers at Southampton University in the UK for use at their tuberculosis lab. It runs for over 8 hours on 5x AA rechargeable batteries.\u00a0It is reusable if properly cleaned. It is claimed by Southampton that it removes 99.95% of particles because you create a positive air pressure inside the hood. You have a built-in visor to prevent accidental face touching.\n\nThey are not sharing the dimensions (we asked) but I am sure ingenious engineers will figure to assemble the PPE. It needs to be tested and then we can move to mass production. We need to videotape the assembly process.\n\nThe Addis Ababa University Engineering department, working with the Ministry of Science and Technology, will be working on this on the other end. If we can get the private sector in Ethiopia (e.g., garment factory) to assist (the hood, etc.) that would be great.\n\nAttached is the write up on this, a hand sketch and list of components."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010VLD0G2H",
+        "ts": "1585605767.054200",
+        "client_msg_id": "10d51195-21b6-4441-a412-56428320df09"
+    },
+    {
+        "client_msg_id": "4e9ae21c-f261-41a3-ba25-8ff7a8abe642",
+        "type": "message",
+        "text": "Only thing we were asked by Southhampton University is to call it PeRSo. These are the type of items that are used by the engineering group in the university (it is not the exact copy but it will work)\n\n3Pcs Motor Cotton Filter+2Pcs HEPA Filter For Philips Electrolux Vacuum Cleaner\n12cm High Speed Computer DC 12V 2Pin PC Case System Hydraulic Cooling Fan 12025 MIS\nSleep Apnea Air Breathing CPAP Circuits Tube 22mm\nAdjustable Clear Face Visor Mask Face Shield Safety Workwear Eye Protection UK\nDUPONT Tyvek 14 / White Disposable Hood Balaclava Pack Of 10. Elasticated Face",
+        "user": "U010VLD0G2H",
+        "ts": "1585605899.055700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uCm+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Only thing we were asked by Southhampton University is to call it PeRSo. These are the type of items that are used by the engineering group in the university (it is not the exact copy but it will work)\n\n3Pcs Motor Cotton Filter+2Pcs HEPA Filter For Philips Electrolux Vacuum Cleaner\n12cm High Speed Computer DC 12V 2Pin PC Case System Hydraulic Cooling Fan 12025 MIS\nSleep Apnea Air Breathing CPAP Circuits Tube 22mm\nAdjustable Clear Face Visor Mask Face Shield Safety Workwear Eye Protection UK\nDUPONT Tyvek 14 / White Disposable Hood Balaclava Pack Of 10. Elasticated Face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9fb1dd8e-da92-447f-b073-1682f15a3c9a",
+        "type": "message",
+        "text": "An team of Anesthesiologists from University Of Florida have developed a respirator mask made out disposable Surgical Instrument Wrappers. The Manufacturer  that makes this Surgical Instrument wrapping sheets is called HAYLARD, you can check out their site for their product information. The UF team says you can make 10 masks out one Sterilizing Sheet(1m*1m). It requires lower skill set and knowledge to make it. i will post the link to both the article and the manufacturers website link. Any Comment is Appreciated.                                                                                                   <https://ufhealth.org/news/2020/uf-health-anesthesiology-team-devises-respirator-mask-made-existing-hospital-materials>                                                                                                                                 <https://products.halyardhealth.com/surgical-solutions/sterilization-solutions/sterilization-wraps/halyard-kimguard-one-step-sterilization-wrap.html#wrap_fabric_weight_246>",
+        "user": "U010P2VU7ND",
+        "ts": "1585607748.065400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010P2VU7ND",
+            "ts": "1585607870.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "UF Health, University of Florida Health",
+                "title": "UF Health anesthesiology team devises respirator mask made from existing hospital materials",
+                "title_link": "https://ufhealth.org/news/2020/uf-health-anesthesiology-team-devises-respirator-mask-made-existing-hospital-materials",
+                "text": "With respiratory masks used by health workers battling the coronavirus in short supply, the University of Florida Health\u2019s department of anesthesiology has developed masks that can be produced in large quantities using materials already found in hospitals and medical facilities.",
+                "fallback": "UF Health, University of Florida Health: UF Health anesthesiology team devises respirator mask made from existing hospital materials",
+                "image_url": "https://ufhealth.org/sites/default/files/styles/large/public/mask-prototypes.jpg?itok=1msYpHHa",
+                "ts": 1585254124,
+                "from_url": "https://ufhealth.org/news/2020/uf-health-anesthesiology-team-devises-respirator-mask-made-existing-hospital-materials",
+                "image_width": 369,
+                "image_height": 250,
+                "image_bytes": 323624,
+                "service_icon": "https://ufhealth.org/sites/default/files/favicon-ufhealth.ico",
+                "id": 1,
+                "original_url": "https://ufhealth.org/news/2020/uf-health-anesthesiology-team-devises-respirator-mask-made-existing-hospital-materials"
+            },
+            {
+                "title": "HALYARD* KIMGUARD* ONE-STEP* Sterilization Wrap | Halyard Health",
+                "title_link": "https://products.halyardhealth.com/surgical-solutions/sterilization-solutions/sterilization-wraps/halyard-kimguard-one-step-sterilization-wrap.html#wrap_fabric_weight_246",
+                "text": "HALYARD* ONE-STEP* Sterilization Wraps features two layers of wrap, thermally sealed along the sides.",
+                "fallback": "HALYARD* KIMGUARD* ONE-STEP* Sterilization Wrap | Halyard Health",
+                "from_url": "https://products.halyardhealth.com/surgical-solutions/sterilization-solutions/sterilization-wraps/halyard-kimguard-one-step-sterilization-wrap.html#wrap_fabric_weight_246",
+                "service_icon": "https://products.halyardhealth.com/skin/frontend/kc2013/modern/favicon.ico",
+                "service_name": "products.halyardhealth.com",
+                "id": 2,
+                "original_url": "https://products.halyardhealth.com/surgical-solutions/sterilization-solutions/sterilization-wraps/halyard-kimguard-one-step-sterilization-wrap.html#wrap_fabric_weight_246"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oOeC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An team of Anesthesiologists from University Of Florida have developed a respirator mask made out disposable Surgical Instrument Wrappers. The Manufacturer  that makes this Surgical Instrument wrapping sheets is called HAYLARD, you can check out their site for their product information. The UF team says you can make 10 masks out one Sterilizing Sheet(1m*1m). It requires lower skill set and knowledge to make it. i will post the link to both the article and the manufacturers website link. Any Comment is Appreciated.                                                                                                   "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ufhealth.org/news/2020/uf-health-anesthesiology-team-devises-respirator-mask-made-existing-hospital-materials"
+                            },
+                            {
+                                "type": "text",
+                                "text": "                                                                                                                                 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://products.halyardhealth.com/surgical-solutions/sterilization-solutions/sterilization-wraps/halyard-kimguard-one-step-sterilization-wrap.html#wrap_fabric_weight_246"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43adf3a5-5993-4e4f-8c89-6b4ee3a67fe3",
+        "type": "message",
+        "text": "Hello Everyone\nHere is an article talking about using widow wiper motors to build ventilators and referring to it as a \"Last resort\"",
+        "user": "U010ZJYV6AU",
+        "ts": "1585612529.067800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TvG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Everyone\nHere is an article talking about using widow wiper motors to build ventilators and referring to it as a \"Last resort\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4ccc0ae-dfc6-4085-9646-5491c3766571",
+        "type": "message",
+        "text": "<https://sifted.eu/articles/coronavirus-windscreen-ventilator/>",
+        "user": "U010ZJYV6AU",
+        "ts": "1585612548.068100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Sifted",
+                "title": "Turning windscreen wiper motors into emergency ventilators | Sifted",
+                "title_link": "https://sifted.eu/articles/coronavirus-windscreen-ventilator/",
+                "text": "A group of Spanish engineers are teaming up with Seat and local hospitals to create an emergency breathing aid out of simple materials.",
+                "fallback": "Sifted: Turning windscreen wiper motors into emergency ventilators | Sifted",
+                "image_url": "https://content.sifted.eu/wp-content/uploads/2020/03/23191510/Protofy-emergency-ventilator-model.png",
+                "image_width": 486,
+                "image_height": 250,
+                "from_url": "https://sifted.eu/articles/coronavirus-windscreen-ventilator/",
+                "image_bytes": 2865188,
+                "service_icon": "https://sifted.eu/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https://sifted.eu/articles/coronavirus-windscreen-ventilator/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7H5w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://sifted.eu/articles/coronavirus-windscreen-ventilator/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2731cbb-ec61-4a7d-9b6e-2bee5df91a84",
+        "type": "message",
+        "text": "This article also refers to other open source ventilator projects.",
+        "user": "U010ZJYV6AU",
+        "ts": "1585612628.068700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X3aKg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This article also refers to other open source ventilator projects."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

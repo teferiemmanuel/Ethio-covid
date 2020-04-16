@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584767976.000200",
+        "user": "U010JMN7DNJ",
+        "text": "<@U010JMN7DNJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584767978.000300",
+        "user": "U010JMN7DNJ",
+        "text": "<@U010JMN7DNJ> set the channel purpose: Integration for github notifications so we can monitor changes from slack",
+        "purpose": "Integration for github notifications so we can monitor changes from slack"
+    },
+    {
+        "type": "message",
+        "subtype": "app_conversation_join",
+        "ts": "1584767998.000500",
+        "user": "UV9AG9PLH",
+        "text": "<@UV9AG9PLH> was added to this conversation",
+        "inviter": "U010JMN7DNJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584768222.000700",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel",
+        "inviter": "U010JMN7DNJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584768222.000900",
+        "user": "U0106M27EKS",
+        "text": "<@U0106M27EKS> has joined the channel",
+        "inviter": "U010JMN7DNJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584797299.000200",
+        "user": "U0107JE2S94",
+        "text": "<@U0107JE2S94> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584812136.000200",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    }
+]

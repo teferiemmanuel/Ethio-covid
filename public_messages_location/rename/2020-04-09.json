@@ -1,0 +1,292 @@
+[
+    {
+        "client_msg_id": "1E205DD4-B684-45B5-A13E-856B1942E8B9",
+        "type": "message",
+        "text": "\n\n\n\nFor those building analysis platforms for the emergency:\n\nData Inventory and CODs | HumanitarianResponse\n<https://www.humanitarianresponse.info/en/applications/tools/toolbox-item/data-inventory-and-cods|https://www.humanitarianresponse.info/en/applications/tools/toolbox-item/data-inventory-and-cods>\n\n\nCommon Operational Datasets\n\nSee also the COD/FOD Registry.\nThe most critical datasets to be identified, cleaned, and shared with the humanitarian community are the common and fundamental operational datasets (CODs/FODs). The Inter-Agency Standing Committee (IASC) has outlined the CODs/FODs needed in disaster preparedness and response:\n\nCODs are predictable, core sets of data needed to support operations and decision-making for all actors in a humanitarian response. \nFODs are datasets required to support multiple cluster/sector operations and complement the common operational datasets. These datasets are characterized by thematic areas such as education or health facilities, or other operationally relevant datasets such as security incidents, damage assessments, etc.",
+        "user": "U0116DL92E9",
+        "ts": "1586417253.467100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OlwJj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n\n\nFor those building analysis platforms for the emergency:\n\nData Inventory and CODs | HumanitarianResponse\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.humanitarianresponse.info/en/applications/tools/toolbox-item/data-inventory-and-cods",
+                                "text": "https://www.humanitarianresponse.info/en/applications/tools/toolbox-item/data-inventory-and-cods"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nCommon Operational Datasets\n\nSee also the COD/FOD Registry.\nThe most critical datasets to be identified, cleaned, and shared with the humanitarian community are the common and fundamental operational datasets (CODs/FODs). The Inter-Agency Standing Committee (IASC) has outlined the CODs/FODs needed in disaster preparedness and response:\n\nCODs are predictable, core sets of data needed to support operations and decision-making for all actors in a humanitarian response. \nFODs are datasets required to support multiple cluster/sector operations and complement the common operational datasets. These datasets are characterized by thematic areas such as education or health facilities, or other operationally relevant datasets such as security incidents, damage assessments, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed514cd5-14a5-4fd9-acf2-5223927bd5dd",
+        "type": "message",
+        "text": "Hi everyone! I'm working with a group of Harvard data analytics students on a project with the IMF to construct a high frequency leading indicator index of economic activity for Sub-Saharan Africa.\u00a0We are currently focused on the largest 10 economies, including Ethiopia.\u00a0*Looking for any leads on real-time (or weekly) data that could help build a nowcast for economic activity, p*articularly interested in datasets for country-level mobile payments, trade/capital flows, satellite imagery, air quality, electricity usage, etc. Thanks in advance for your help!",
+        "user": "U010QC056GJ",
+        "ts": "1586437949.468900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yGoMX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! I'm working with a group of Harvard data analytics students on a project with the IMF to construct a high frequency leading indicator index of economic activity for Sub-Saharan Africa.\u00a0We are currently focused on the largest 10 economies, including Ethiopia.\u00a0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Looking for any leads on real-time (or weekly) data that could help build a nowcast for economic activity, p",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "articularly interested in datasets for country-level mobile payments, trade/capital flows, satellite imagery, air quality, electricity usage, etc. Thanks in advance for your help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea16d5bf-dd98-49ef-b243-a678746d8f20",
+        "type": "message",
+        "text": "Contact tracing with privacy features and GSP/Bluetooth tracking - <http://privatekit.mit.edu/>",
+        "user": "UVB595TCJ",
+        "ts": "1586450246.471100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rpF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Contact tracing with privacy features and GSP/Bluetooth tracking - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://privatekit.mit.edu/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586450246.471100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586451544.471400",
+        "reply_users": [
+            "U0107AG9U8Z"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "There is also the protocol which seems valid, and is explained in the following page. I am not an expert so Schneier's Law applies <https://ncase.me/contact-tracing/>",
+        "user": "U0107AG9U8Z",
+        "ts": "1586451544.471400",
+        "thread_ts": "1586450246.471100",
+        "root": {
+            "client_msg_id": "ea16d5bf-dd98-49ef-b243-a678746d8f20",
+            "type": "message",
+            "text": "Contact tracing with privacy features and GSP/Bluetooth tracking - <http://privatekit.mit.edu/>",
+            "user": "UVB595TCJ",
+            "ts": "1586450246.471100",
+            "team": "TV5KELEUS",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rpF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Contact tracing with privacy features and GSP/Bluetooth tracking - "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "http://privatekit.mit.edu/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1586450246.471100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1586451544.471400",
+            "reply_users": [
+                "U0107AG9U8Z"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z2b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is also the protocol which seems valid, and is explained in the following page. I am not an expert so Schneier's Law applies "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ncase.me/contact-tracing/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d4479a04-0b5f-42b5-8ce2-340879ee3402"
+    },
+    {
+        "client_msg_id": "CE27AF00-A219-41C0-93C0-02E5AEA51883",
+        "type": "message",
+        "text": "@here Tableau software offers FREE 90 days eLearning. It is great resource for any dataviz \n\n<https://www.tableau.com/learn/training/elearning|https://www.tableau.com/learn/training/elearning>",
+        "user": "U01052GPMA6",
+        "ts": "1586451948.473800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Tableau Software",
+                "title": "Tableau eLearning",
+                "title_link": "https://www.tableau.com/learn/training/elearning",
+                "text": "Tableau eLearning: Self-paced web-based training for Tableau users. Onboard your team through consistent training using web-based learning modules.",
+                "fallback": "Tableau Software: Tableau eLearning",
+                "from_url": "https://www.tableau.com/learn/training/elearning",
+                "service_icon": "https://www.tableau.com/favicon.ico",
+                "id": 1,
+                "original_url": "https://www.tableau.com/learn/training/elearning"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zlg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tableau software offers FREE 90 days eLearning. It is great resource for any dataviz \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.tableau.com/learn/training/elearning",
+                                "text": "https://www.tableau.com/learn/training/elearning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce7f069d-e4c3-42fa-b223-5247b5814e6d",
+        "type": "message",
+        "text": "<https://www.youtube.com/watch?v=cM5KKikAEVY>",
+        "user": "U0104U85DJQ",
+        "ts": "1586457218.474300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "\u1208\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1273\u121b\u121a\u12ce\u127d \u126c\u1295\u1275\u120c\u1270\u122d \u12e8\u1230\u1229\u1275 \u12a2\u1275\u12ee\u1335\u12eb\u12ca\u12eb\u1295  | Ethiopia",
+                "title_link": "https://www.youtube.com/watch?v=cM5KKikAEVY",
+                "author_name": "Andafta",
+                "author_link": "https://www.youtube.com/channel/UCwMHDoJO6cHO6LN1BItFsPQ",
+                "thumb_url": "https://i.ytimg.com/vi/cM5KKikAEVY/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: \u1208\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1273\u121b\u121a\u12ce\u127d \u126c\u1295\u1275\u120c\u1270\u122d \u12e8\u1230\u1229\u1275 \u12a2\u1275\u12ee\u1335\u12eb\u12ca\u12eb\u1295  | Ethiopia",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/cM5KKikAEVY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=cM5KKikAEVY",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=cM5KKikAEVY"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4KI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=cM5KKikAEVY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011BGST4BG",
+                    "U0107JEKN0N",
+                    "U010EQU5E6N",
+                    "U0105C7GP08",
+                    "U011G6KGR0E",
+                    "U011D4973UN"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

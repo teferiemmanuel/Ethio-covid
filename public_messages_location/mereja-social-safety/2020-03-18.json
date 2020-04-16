@@ -1,0 +1,338 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584492141.000600",
+        "user": "U01075FCUE4",
+        "text": "<@U01075FCUE4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584507351.000800",
+        "user": "UVA8BCCBV",
+        "text": "<@UVA8BCCBV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584515047.001000",
+        "user": "U0109MQ1ZFH",
+        "text": "<@U0109MQ1ZFH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584524941.001200",
+        "user": "UV9AWATK4",
+        "text": "<@UV9AWATK4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584527028.001400",
+        "user": "UVC59H10R",
+        "text": "<@UVC59H10R> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584555175.001600",
+        "user": "U0105C7GP08",
+        "text": "<@U0105C7GP08> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584571060.001800",
+        "user": "UVALABD6F",
+        "text": "<@UVALABD6F> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1584571681.001900",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has renamed the channel from \"social-media-folks\" to \"mereja-social-safety\"",
+        "old_name": "social-media-folks",
+        "name": "mereja-social-safety"
+    },
+    {
+        "client_msg_id": "fedea6e9-6e64-4c92-b0d8-0146bfd12770",
+        "type": "message",
+        "text": "Heeey, <!channel>! Repurposing this channel since it\u2019s inactive. We can totally whip up another pertaining to social if that\u2019s even needed. And of course, please remove yourself if this project isn\u2019t something you can help with it.\n\nRegarding social:",
+        "user": "U0106M26108",
+        "ts": "1584573023.012000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "noN83",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heeey, "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Repurposing this channel since it\u2019s inactive. We can totally whip up another pertaining to social if that\u2019s even needed. And of course, please remove yourself if this project isn\u2019t something you can help with it.\n\nRegarding social:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2357926c-b53f-4e44-aa58-8bae75015108",
+        "type": "message",
+        "text": "&gt; 1) Currently we have this <#CV8HJ2KSN|mereja-social-safety> channel, which caters to the SOS messages you see via localized Google search. Will also be looking into what Facebook\u2019s version of this is, along with Instagram &amp; Twitter.",
+        "user": "U0106M26108",
+        "ts": "1584573044.012400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1584573121.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IDnux",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1) Currently we have this "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CV8HJ2KSN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel, which caters to the SOS messages you see via localized Google search. Will also be looking into what Facebook\u2019s version of this is, along with Instagram & Twitter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e85f1418-ef24-4d43-b684-1bf197dd6eff",
+        "type": "message",
+        "text": "\u2022 Google work-stream will be lead by <@U0106SC3L0L>.\n",
+        "user": "U0106M26108",
+        "ts": "1584573058.012800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oYLN",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Google work-stream will be lead by "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0106SC3L0L"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d96b2bff-bee3-41ff-86cb-390f8ecdbb34",
+        "type": "message",
+        "text": "\u2022 Facebook = TBD",
+        "user": "U0106M26108",
+        "ts": "1584573070.013000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C1mxa",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Facebook = TBD"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8126db52-b9fe-473a-9e9b-c2a8f03201b1",
+        "type": "message",
+        "text": "\u2022 Instagram = TBD",
+        "user": "U0106M26108",
+        "ts": "1584573078.013200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HdUGg",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Instagram = TBD"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6543bfc7-d07b-422b-b4c0-499435a660f4",
+        "type": "message",
+        "text": "\u2022 Twitter = TBD",
+        "user": "U0106M26108",
+        "ts": "1584573083.013400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JvcI",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Twitter = TBD"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1151af1a-e4aa-4163-bc4c-e2a41f88c56b",
+        "type": "message",
+        "text": "&gt; 2) In addition, we have <#CVBEW057U|mereja-ads>, which is where we will be discussing ad sponsorships from Google (led by <@U0107AYF16H>), Facebook, Instagram &amp; Twitter. Along with the ad\u2019s development &amp; it\u2019s distribution.",
+        "user": "U0106M26108",
+        "ts": "1584573109.013800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1584573243.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28t0a",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2) In addition, we have "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CVBEW057U"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", which is where we will be discussing ad sponsorships from Google (led by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), Facebook, Instagram & Twitter. Along with the ad\u2019s development & it\u2019s distribution."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584573181.014200",
+        "user": "U0106SC3L0L",
+        "text": "<@U0106SC3L0L> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584573181.014400",
+        "user": "U0107AYF16H",
+        "text": "<@U0107AYF16H> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584575317.014700",
+        "user": "U0107JERE9L",
+        "text": "<@U0107JERE9L> has joined the channel"
+    }
+]

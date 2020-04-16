@@ -1,0 +1,463 @@
+[
+    {
+        "client_msg_id": "794a99db-12ba-4474-961b-35b8dc85fc20",
+        "type": "message",
+        "text": "<https://twitter.com/chibuike_afam/status/1244910068946124801?s=20>",
+        "user": "U010PF746SY",
+        "ts": "1586057871.116600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/chibuike_afam|@chibuike_afam>: #IPC BEWARE AND STAY AT HOME <https://pbs.twimg.com/media/EUbPFfbUEAIFrBy.jpg>",
+                "ts": 1585644664,
+                "author_name": "Okafor Afam Chibuike",
+                "author_link": "https://twitter.com/chibuike_afam/status/1244910068946124801",
+                "author_icon": "https://pbs.twimg.com/profile_images/989470246208720896/8gUT1l39_normal.jpg",
+                "author_subname": "@chibuike_afam",
+                "text": "#IPC BEWARE AND STAY AT HOME <https://pbs.twimg.com/media/EUbPFfbUEAIFrBy.jpg>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/chibuike_afam/status/1244910068946124801?s=20",
+                "image_url": "https://pbs.twimg.com/media/EUbPFfbUEAIFrBy.jpg",
+                "image_width": 1080,
+                "image_height": 756,
+                "image_bytes": 103915,
+                "id": 1,
+                "original_url": "https://twitter.com/chibuike_afam/status/1244910068946124801?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EcZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/chibuike_afam/status/1244910068946124801?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8cdc984-9dba-4ba9-b9e2-c923da707454",
+        "type": "message",
+        "text": "A University in Nigeria",
+        "user": "U010PF746SY",
+        "ts": "1586057891.117000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yy07",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A University in Nigeria"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Grabbed this from a story on Sudan ... <https://abcnews.go.com/International/wireStory/south-sudan-1st-virus-case-51st-country-africa-69983626>",
+        "files": [
+            {
+                "id": "F011ACVG8SD",
+                "created": 1586103797,
+                "timestamp": 1586103797,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UVALAR52P",
+                "editable": false,
+                "size": 1547617,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011ACVG8SD/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011ACVG8SD/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011ACVG8SD-3d43a4ad35/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011ACVG8SD-3d43a4ad35/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011ACVG8SD-3d43a4ad35/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011ACVG8SD-3d43a4ad35/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011ACVG8SD-3d43a4ad35/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011ACVG8SD-3d43a4ad35/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 541,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011ACVG8SD-3d43a4ad35/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 601,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011ACVG8SD-3d43a4ad35/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 721,
+                "image_exif_rotation": 1,
+                "original_w": 984,
+                "original_h": 739,
+                "thumb_tiny": "AwAkADCJpXV2zI3U8ZNMeSVWBMh+gao3z5rAdcnk0+Ibn55AouImBlc8Fvpmk8yRe7E/71JNuViU5z6VGHkLDI6e1AAZzk5eX8GqW3nLTIu9/vDqahYAvhhjPelgGLiLjBDii4xhX96w9WNP3rGcDrV/7DFvLHcTnjmkawhYkkvz70gKkc2WOMHHNK8xDcjqM1aWwhVsgv8AnTnsonAB3cdwaAM/zBIcHoafC2J41bkhhz+NWv7Og9X/ADqRLGLzFfL5UgjmiwFrAowPSlopgGB6UYHpRRQAmB6UtFFAH//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/UVALAR52P/F011ACVG8SD/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011ACVG8SD-cee632f889",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UbJV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Grabbed this from a story on Sudan ... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://abcnews.go.com/International/wireStory/south-sudan-1st-virus-case-51st-country-africa-69983626"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UVALAR52P",
+        "display_as_bot": false,
+        "ts": "1586103802.118000",
+        "client_msg_id": "f288bc93-aac9-429d-aa70-c801a7350220",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0706da6-8e92-4a3d-97c9-f68d6203e54e",
+        "type": "message",
+        "text": "In South Africa ... <https://www.businesslive.co.za/bd/national/2020-04-05-da-launches-portal-to-connect-makers-of-health-equipment-with-government/>",
+        "user": "UVALAR52P",
+        "ts": "1586105300.118800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "BusinessLIVE",
+                "title": "DA launches portal to connect makers of health equipment with government",
+                "title_link": "https://www.businesslive.co.za/bd/national/2020-04-05-da-launches-portal-to-connect-makers-of-health-equipment-with-government/",
+                "text": "The party aims to boost the supply of masks, gowns, gloves and ventilators in the coronavirus fight",
+                "fallback": "BusinessLIVE: DA launches portal to connect makers of health equipment with government",
+                "image_url": "https://lh3.googleusercontent.com/Yg7OXWFmqznOgmxWvVAc7EwN9HVP9i5QUTa18ZSMXu-j1mfKTaWh61W0GW6ykaphvSeJx_5JPje1Ij5J2J-UXS0Pie7unlUlEg",
+                "from_url": "https://www.businesslive.co.za/bd/national/2020-04-05-da-launches-portal-to-connect-makers-of-health-equipment-with-government/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 48506,
+                "service_icon": "https://www.businesslive.co.za/favicon.ico",
+                "id": 1,
+                "original_url": "https://www.businesslive.co.za/bd/national/2020-04-05-da-launches-portal-to-connect-makers-of-health-equipment-with-government/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cloew",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In South Africa ... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.businesslive.co.za/bd/national/2020-04-05-da-launches-portal-to-connect-makers-of-health-equipment-with-government/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f2525df-c39e-4700-82d3-2a8fb16cc802",
+        "type": "message",
+        "text": "<https://www.reuters.com/article/us-health-coronavirus-ireland-varadkar-idUSKBN21N0SG?utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=facebook&amp;fbclid=IwAR3LdUq0eriYMJrczvisTXGyQQPSpHHtFLMUcQDuKp9le6Cw25gXcTa6TuA>",
+        "user": "U010P2VU7ND",
+        "ts": "1586116541.120200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "U.S.",
+                "title": "Ireland's PM returns to medical practice to help in coronavirus crisis",
+                "title_link": "https://www.reuters.com/article/us-health-coronavirus-ireland-varadkar-idUSKBN21N0SG?utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR3LdUq0eriYMJrczvisTXGyQQPSpHHtFLMUcQDuKp9le6Cw25gXcTa6TuA",
+                "text": "Ireland's prime minister Leo Varadkar has re-registered as a medical practitioner and will work one shift a week to help out during the coronavirus crisis, his office said on Sunday.",
+                "fallback": "U.S.: Ireland's PM returns to medical practice to help in coronavirus crisis",
+                "image_url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200405&t=2&i=1512795334&w=1200&r=LYNXMPEG340I7",
+                "from_url": "https://www.reuters.com/article/us-health-coronavirus-ireland-varadkar-idUSKBN21N0SG?utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR3LdUq0eriYMJrczvisTXGyQQPSpHHtFLMUcQDuKp9le6Cw25gXcTa6TuA",
+                "image_width": 362,
+                "image_height": 250,
+                "image_bytes": 80958,
+                "id": 1,
+                "original_url": "https://www.reuters.com/article/us-health-coronavirus-ireland-varadkar-idUSKBN21N0SG?utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=facebook&amp;fbclid=IwAR3LdUq0eriYMJrczvisTXGyQQPSpHHtFLMUcQDuKp9le6Cw25gXcTa6TuA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cnpv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.reuters.com/article/us-health-coronavirus-ireland-varadkar-idUSKBN21N0SG?utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR3LdUq0eriYMJrczvisTXGyQQPSpHHtFLMUcQDuKp9le6Cw25gXcTa6TuA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41d5619d-b596-4c51-b366-ab9a01e392a1",
+        "type": "message",
+        "text": "<https://www.reuters.com/article/us-health-coronavirus-india-modi-idUSKBN21N0RX?utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=facebook&amp;fbclid=IwAR2KgHsChT2okW4XZRMG1CpvYONODQFUgGQtsinPGIMv3Ad5YisPCoZSWGI>",
+        "user": "U010P2VU7ND",
+        "ts": "1586116790.120500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "U.S.",
+                "title": "Indians light lamps to challenge darkness of coronavirus crisis",
+                "title_link": "https://www.reuters.com/article/us-health-coronavirus-india-modi-idUSKBN21N0RX?utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR2KgHsChT2okW4XZRMG1CpvYONODQFUgGQtsinPGIMv3Ad5YisPCoZSWGI",
+                "text": "Millions of Indians switched off their lights and came out onto their balconies and doorsteps with lamps, candles and flashlights on Sunday, responding to Prime Minister Narendra Modi's call to \"challenge the darkness\" of the coronavirus crisis.",
+                "fallback": "U.S.: Indians light lamps to challenge darkness of coronavirus crisis",
+                "image_url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200405&t=2&i=1512792737&w=1200&r=LYNXMPEG340HI",
+                "from_url": "https://www.reuters.com/article/us-health-coronavirus-india-modi-idUSKBN21N0RX?utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR2KgHsChT2okW4XZRMG1CpvYONODQFUgGQtsinPGIMv3Ad5YisPCoZSWGI",
+                "image_width": 392,
+                "image_height": 250,
+                "image_bytes": 93979,
+                "service_icon": "https://www.reuters.com/favicon.ico",
+                "id": 1,
+                "original_url": "https://www.reuters.com/article/us-health-coronavirus-india-modi-idUSKBN21N0RX?utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=facebook&amp;fbclid=IwAR2KgHsChT2okW4XZRMG1CpvYONODQFUgGQtsinPGIMv3Ad5YisPCoZSWGI"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BbV1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.reuters.com/article/us-health-coronavirus-india-modi-idUSKBN21N0RX?utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR2KgHsChT2okW4XZRMG1CpvYONODQFUgGQtsinPGIMv3Ad5YisPCoZSWGI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e05703e8-6af3-4caa-b0e0-9d852bc64ca6",
+        "type": "message",
+        "text": "<https://www.newsweek.com/social-distancing-cut-coronavirus-cases-oregon-70-percent-health-official-says-1495964?fbclid=IwAR09eTFhYWYhhHEnxdRSRVukmy_ZH2b6dB_DHo29Lxcz6O5tRg3ay6_rIPs>",
+        "user": "U010P2VU7ND",
+        "ts": "1586122169.121500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Newsweek",
+                "title": "Social distancing cut coronavirus cases in Oregon by up to 70 percent, health official says",
+                "title_link": "https://www.newsweek.com/social-distancing-cut-coronavirus-cases-oregon-70-percent-health-official-says-1495964?fbclid=IwAR09eTFhYWYhhHEnxdRSRVukmy_ZH2b6dB_DHo29Lxcz6O5tRg3ay6_rIPs",
+                "text": "The state health officer cautioned that confirmed cases will continue to grow before coming back down.",
+                "fallback": "Newsweek: Social distancing cut coronavirus cases in Oregon by up to 70 percent, health official says",
+                "image_url": "https://d.newsweek.com/en/full/1578901/coronavirus-pandemic-causes-climate-anxiety-changing-routines-america.jpg",
+                "ts": 1585920892,
+                "from_url": "https://www.newsweek.com/social-distancing-cut-coronavirus-cases-oregon-70-percent-health-official-says-1495964?fbclid=IwAR09eTFhYWYhhHEnxdRSRVukmy_ZH2b6dB_DHo29Lxcz6O5tRg3ay6_rIPs",
+                "image_width": 376,
+                "image_height": 250,
+                "image_bytes": 1299153,
+                "service_icon": "https://g.newsweek.com/themes/newsweek/favicons/apple-touch-icon-152x152.png",
+                "id": 1,
+                "original_url": "https://www.newsweek.com/social-distancing-cut-coronavirus-cases-oregon-70-percent-health-official-says-1495964?fbclid=IwAR09eTFhYWYhhHEnxdRSRVukmy_ZH2b6dB_DHo29Lxcz6O5tRg3ay6_rIPs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NPDCt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.newsweek.com/social-distancing-cut-coronavirus-cases-oregon-70-percent-health-official-says-1495964?fbclid=IwAR09eTFhYWYhhHEnxdRSRVukmy_ZH2b6dB_DHo29Lxcz6O5tRg3ay6_rIPs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "This article was submitted during the first week of March  !!",
+        "files": [
+            {
+                "id": "F011B8EU7SB",
+                "created": 1586125100,
+                "timestamp": 1586125100,
+                "name": "HK Surgical mask study.pdf",
+                "title": "HK Surgical mask study.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010PF746SY",
+                "editable": false,
+                "size": 453425,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011B8EU7SB/hk_surgical_mask_study.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011B8EU7SB/download/hk_surgical_mask_study.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011B8EU7SB-c3f49f216e/hk_surgical_mask_study_thumb_pdf.png",
+                "thumb_pdf_w": 1210,
+                "thumb_pdf_h": 935,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010PF746SY/F011B8EU7SB/hk_surgical_mask_study.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011B8EU7SB-472fcffed1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5iNm1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This article was submitted during the first week of March  !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010PF746SY",
+        "display_as_bot": false,
+        "ts": "1586125107.122100",
+        "client_msg_id": "0bbc4462-c065-4b4e-8722-d7c54cde88a3"
+    },
+    {
+        "client_msg_id": "fb731fb6-f51e-433c-bd7a-8c304c2d5085",
+        "type": "message",
+        "text": "Because of the material and how it's built, But then again recent posts are suggesting any type of mask is better than nothing.",
+        "user": "U010JB58NSC",
+        "ts": "1586125725.122400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DOMhm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because of the material and how it's built, But then again recent posts are suggesting any type of mask is better than nothing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585933408.109700",
+        "parent_user_id": "U0105C7GP08"
+    },
+    {
+        "client_msg_id": "6339D2BE-5C53-4C2D-86F0-2D352B3CC1F3",
+        "type": "message",
+        "text": "<https://www.lshtm.ac.uk/research/centres/health-humanitarian-crises-centre/news/102976|https://www.lshtm.ac.uk/research/centres/health-humanitarian-crises-centre/news/102976>",
+        "user": "U010U8HF7PY",
+        "ts": "1586126897.122700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yvHr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.lshtm.ac.uk/research/centres/health-humanitarian-crises-centre/news/102976",
+                                "text": "https://www.lshtm.ac.uk/research/centres/health-humanitarian-crises-centre/news/102976"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011BGST4BG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

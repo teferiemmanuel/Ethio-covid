@@ -1,0 +1,486 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584922544.090800",
+        "user": "U0106EP76EP",
+        "text": "<@U0106EP76EP> has joined the channel",
+        "inviter": "U010EDFHFGU"
+    },
+    {
+        "client_msg_id": "CD078D27-2CBE-4187-83B6-C8F781AB1DF9",
+        "type": "message",
+        "text": "<@U0107A7161E> we're mostly done with Amharic. May need more hands on other languages.",
+        "user": "U0100NR1PDY",
+        "ts": "1584984941.094400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vJcp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we're mostly done with Amharic. May need more hands on other languages."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584916399.090100",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d15cb4d5-27b1-4c53-9f47-236d548b3a7e",
+        "type": "message",
+        "text": "thank you so much!",
+        "user": "U0107A7161E",
+        "ts": "1584984994.094700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jlu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584916399.090100",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584999125.095900",
+        "user": "U0107EMK8UD",
+        "text": "<@U0107EMK8UD> has joined the channel",
+        "inviter": "U010747H997"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584999154.096100",
+        "user": "U0107DX4VNU",
+        "text": "<@U0107DX4VNU> has joined the channel",
+        "inviter": "U010747H997"
+    },
+    {
+        "client_msg_id": "c93403e7-bb24-4c16-b3a4-88433df71bac",
+        "type": "message",
+        "text": "<!here> Hi Everyone, we still need translators for the following languages---please reach out to your  friends or family to see if there's anyone that can help: Languages are Sidamo, Wulyata, Afar, Gamotho and Argoba",
+        "user": "U010747H997",
+        "ts": "1584999249.097500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GEo86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi Everyone, we still need translators for the following languages---please reach out to your  friends or family to see if there's anyone that can help: Languages are Sidamo, Wulyata, Afar, Gamotho and Argoba"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a4d562e-b7fb-4818-8898-d13a87f0e48c",
+        "type": "message",
+        "text": "<!here>: Pls jot down the names in the spreadsheet: <https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=1198048956>",
+        "user": "U010747H997",
+        "ts": "1584999308.099100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L9UN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Pls jot down the names in the spreadsheet: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=1198048956"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a02cf3d-ba9b-4819-a39a-15f173371042",
+        "type": "message",
+        "text": "I am getting some friends who can translate to Afar, Somali, Harer and Argobba languages",
+        "user": "U010AAT0414",
+        "ts": "1584999338.099700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u4Io",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am getting some friends who can translate to Afar, Somali, Harer and Argobba languages"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10292b33-253c-4c1b-8139-4214f875d746",
+        "type": "message",
+        "text": "I'm also working to get someone to translate Oromo",
+        "user": "U0107DX4VNU",
+        "ts": "1584999690.103300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lby",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm also working to get someone to translate Oromo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U010747H997"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89a6672c-6332-4095-be2f-68f0e6806f1f",
+        "type": "message",
+        "text": "Working on Guragigna translation",
+        "user": "U0107EMK8UD",
+        "ts": "1584999710.103600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zpl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Working on Guragigna translation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U010747H997"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23697160-98ec-44bf-adaf-09788c40ccac",
+        "type": "message",
+        "text": "got some friends and working to get more on Somali, Afar, Harar and Argobba",
+        "user": "U010AAT0414",
+        "ts": "1585000000.104400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1r3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "got some friends and working to get more on Somali, Afar, Harar and Argobba"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585000000.104400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585000275.105000",
+        "reply_users": [
+            "U010747H997",
+            "U010AAT0414"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U010747H997"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00ba68f2-10dc-446d-9874-c9e284868fd9",
+        "type": "message",
+        "text": "Awesome! Thanks--pls add their names to the worksheet",
+        "user": "U010747H997",
+        "ts": "1585000205.104500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qvs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome! Thanks--pls add their names to the worksheet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585000000.104400",
+        "parent_user_id": "U010AAT0414"
+    },
+    {
+        "client_msg_id": "dcc564fa-7ef5-46e0-81ab-d9926311857a",
+        "type": "message",
+        "text": "Sure, I will",
+        "user": "U010AAT0414",
+        "ts": "1585000275.105000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=2jf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, I will"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585000000.104400",
+        "parent_user_id": "U010AAT0414"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01087HHNPL",
+                "created": 1585007690,
+                "timestamp": 1585007690,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0109V4EW30",
+                "editable": false,
+                "size": 875455,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F01087HHNPL/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F01087HHNPL/download/image_from_ios.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F01087HHNPL-b3c126af39/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F01087HHNPL-b3c126af39/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F01087HHNPL-b3c126af39/image_from_ios_360.jpg",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F01087HHNPL-b3c126af39/image_from_ios_480.jpg",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F01087HHNPL-b3c126af39/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F01087HHNPL-b3c126af39/image_from_ios_720.jpg",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F01087HHNPL-b3c126af39/image_from_ios_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F01087HHNPL-b3c126af39/image_from_ios_960.jpg",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F01087HHNPL-b3c126af39/image_from_ios_1024.jpg",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAwACSI8CnKrHGCvNMc/LRHcRrjJPA9KcUrO4SbVrEqh17L+dPBJ6jBqL7TESfm/SnK4Ylh0NE0ktAi3cfRUbzBWx1/Gk88en61nYsgdwV61XxWmLGP3/Onixi7gn8apEmTirVuwWPk45q59ihH8H6moLmFIdpRcZJBoYIruVLZwfypPk/yKdtz0o2+1TcqxqZ46mgn3NN3L0yKQyxDq4oe4ltqO/iFRXg/cA+jCg3UPXfUVxcxvCVU5JxinYCoSM9SKTI9TTiATkijaPT9aQz/2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0109V4EW30/F01087HHNPL/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F01087HHNPL-5ea902be76",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K9t",
+                "elements": []
+            }
+        ],
+        "user": "U0109V4EW30",
+        "display_as_bot": false,
+        "ts": "1585007705.105400",
+        "client_msg_id": "5D356980-9E92-4900-981B-78E62ECEE4EE",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E",
+                    "UVAL943JP",
+                    "U010747H997",
+                    "U0106M27EKS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U010EDFHFGU",
+                    "U0106M27EKS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8A0FA046-C91C-4D72-A962-ACED690CF274",
+        "type": "message",
+        "text": "Having Tigrigna translation party with my family :) ",
+        "user": "U0109V4EW30",
+        "ts": "1585007714.105900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7lvA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Having Tigrigna translation party with my family :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585007714.105900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585063575.109700",
+        "reply_users": [
+            "U010747H997",
+            "U0109V4EW30"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0100NR1PDY",
+                    "U0105C870AC",
+                    "UV6JJDDKL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "smile",
+                "users": [
+                    "U01076XHPC0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

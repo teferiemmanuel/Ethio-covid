@@ -1,0 +1,1176 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584850714.000200",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584850714.000300",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> set the channel purpose: Research material to create Personal Protection Equipment alternatives in Ethiopia.",
+        "purpose": "Research material to create Personal Protection Equipment alternatives in Ethiopia."
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584850718.000500",
+        "user": "U0107JERE9L",
+        "text": "<@U0107JERE9L> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584850737.000700",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584850737.000900",
+        "user": "U0107AYF16H",
+        "text": "<@U0107AYF16H> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584850737.001100",
+        "user": "U0106M27EKS",
+        "text": "<@U0106M27EKS> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584872127.001300",
+        "user": "U0107AXNR4Z",
+        "text": "<@U0107AXNR4Z> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584887719.001500",
+        "user": "U010EDFHFGU",
+        "text": "<@U010EDFHFGU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584889373.001700",
+        "user": "UV8F3SRGA",
+        "text": "<@UV8F3SRGA> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584891796.001900",
+        "user": "U010HB2R9PF",
+        "text": "<@U010HB2R9PF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1584896956.003700",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has renamed the channel from \"proj-diy-masks\" to \"proj-diy-gear\"",
+        "old_name": "proj-diy-masks",
+        "name": "proj-diy-gear"
+    },
+    {
+        "client_msg_id": "1eeb5088-d15b-4de5-aa70-7b6cf20f6114",
+        "type": "message",
+        "text": "Good morning/afternoon <!here>\n\nUpdate:\nThese are the action items that we need to complete for this project.\n\n1. Research currently WHO/CDC approved protective gear alternatives \n2. Document how-to PDFs and videos with source information included\n3. Create spreadsheet with the list of materials needed with link to how-to\n4. Check with experts for feasibility in Ethiopia\n5. Identify funding requirements and sources\n6. Identify 2 or more manufacturing POCs\n7. Get approval for funding, manufacturing and distribution\n8. Create work order and submit to teams in Ethiopia\n",
+        "user": "U0107JERE9L",
+        "ts": "1584896987.003900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b5cFr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good morning/afternoon "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nUpdate:\nThese are the action items that we need to complete for this project.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Research currently WHO/CDC approved protective gear alternatives "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Document how-to PDFs and videos with source information included"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create spreadsheet with the list of materials needed with link to how-to"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Check with experts for feasibility in Ethiopia"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Identify funding requirements and sources"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Identify 2 or more manufacturing POCs"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get approval for funding, manufacturing and distribution"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create work order and submit to teams in Ethiopia"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C010GQUEBSQ"
+        ],
+        "pinned_info": {
+            "channel": "C010GQUEBSQ",
+            "pinned_by": "U0107JERE9L",
+            "pinned_ts": 1584908476
+        }
+    },
+    {
+        "client_msg_id": "b194dee6-8e69-485f-83f4-d38f74d3baa2",
+        "type": "message",
+        "text": "Hey <@U0107JERE9L>! 4th year meche student, in Ethiopia right now, looking to get involved. is there a spreadsheet tracking who's doing what for these actionables?",
+        "user": "U0107AXNR4Z",
+        "ts": "1584899279.005500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RcEI5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! 4th year meche student, in Ethiopia right now, looking to get involved. is there a spreadsheet tracking who's doing what for these actionables?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584899279.005500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584900249.006100",
+        "reply_users": [
+            "U0107JERE9L",
+            "U0107AXNR4Z"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584899437.005700",
+        "user": "U0107JYJYD7",
+        "text": "<@U0107JYJYD7> has joined the channel",
+        "inviter": "U0107AXNR4Z"
+    },
+    {
+        "client_msg_id": "98038c8d-567e-4e5b-9224-90964a948c40",
+        "type": "message",
+        "text": "Hello <@U0107AXNR4Z> - Thank you for joining us. Yes we have created two spreadsheets to track the work -\n\n<https://drive.google.com/drive/folders/1ExKZocP4wmRfNCQF9chKWypMLOEsVMYe?usp=sharing>",
+        "user": "U0107JERE9L",
+        "ts": "1584899660.005800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107AXNR4Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Thank you for joining us. Yes we have created two spreadsheets to track the work -\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1ExKZocP4wmRfNCQF9chKWypMLOEsVMYe?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584899279.005500",
+        "parent_user_id": "U0107AXNR4Z",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107AXNR4Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd1b70e9-a60e-47f7-a678-9cc98696c2a6",
+        "type": "message",
+        "text": "thank you!",
+        "user": "U0107AXNR4Z",
+        "ts": "1584900249.006100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fZEN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584899279.005500",
+        "parent_user_id": "U0107AXNR4Z"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584903490.006400",
+        "user": "UV81AMFSP",
+        "text": "<@UV81AMFSP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Hey all, this information was shared with me. It has some important info. about latest research on covid-19. Of relevance here is how long the virus can survive on different surfaces.",
+        "files": [
+            {
+                "id": "F010HPLKLHK",
+                "created": 1584904625,
+                "timestamp": 1584904625,
+                "name": "20200321_212235.jpg",
+                "title": "20200321_212235.jpg",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010EDFHFGU",
+                "editable": false,
+                "size": 634179,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010HPLKLHK/20200321_212235.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010HPLKLHK/download/20200321_212235.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010HPLKLHK-8e50235535/20200321_212235_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010HPLKLHK-8e50235535/20200321_212235_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010HPLKLHK-8e50235535/20200321_212235_360.jpg",
+                "thumb_360_w": 233,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010HPLKLHK-8e50235535/20200321_212235_480.jpg",
+                "thumb_480_w": 310,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010HPLKLHK-8e50235535/20200321_212235_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010HPLKLHK-8e50235535/20200321_212235_720.jpg",
+                "thumb_720_w": 465,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010HPLKLHK-8e50235535/20200321_212235_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1239,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010HPLKLHK-8e50235535/20200321_212235_960.jpg",
+                "thumb_960_w": 620,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010HPLKLHK-8e50235535/20200321_212235_1024.jpg",
+                "thumb_1024_w": 661,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1080,
+                "original_h": 1672,
+                "thumb_tiny": "AwAwAB/QLkMaPM9qQqcnA70m045UmgB3mH0FOByKbs9v1pVXHb9aAGMeT8ooDY5CgUN940lAXHb2PQU8bu+Kip8Z+lAXEI+Y8ikwP7wpG+8eaT8TQA/JH8Qp46dc1EOen5VKowOmKAP/2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010EDFHFGU/F010HPLKLHK/20200321_212235.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010HPLKLHK-1e74b91161",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F010KG9DLTH",
+                "created": 1584904631,
+                "timestamp": 1584904631,
+                "name": "20200321_212333.jpg",
+                "title": "20200321_212333.jpg",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010EDFHFGU",
+                "editable": false,
+                "size": 716316,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010KG9DLTH/20200321_212333.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010KG9DLTH/download/20200321_212333.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010KG9DLTH-8b3bb83402/20200321_212333_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010KG9DLTH-8b3bb83402/20200321_212333_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010KG9DLTH-8b3bb83402/20200321_212333_360.jpg",
+                "thumb_360_w": 209,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010KG9DLTH-8b3bb83402/20200321_212333_480.jpg",
+                "thumb_480_w": 278,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010KG9DLTH-8b3bb83402/20200321_212333_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010KG9DLTH-8b3bb83402/20200321_212333_720.jpg",
+                "thumb_720_w": 417,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010KG9DLTH-8b3bb83402/20200321_212333_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1380,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010KG9DLTH-8b3bb83402/20200321_212333_960.jpg",
+                "thumb_960_w": 557,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010KG9DLTH-8b3bb83402/20200321_212333_1024.jpg",
+                "thumb_1024_w": 594,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1080,
+                "original_h": 1863,
+                "thumb_tiny": "AwAwABu6xO480ZPrTyGGTkYpm4+ooHYcuSe/4U4k5pq7jghhinkZoEMbccjBx7UgU5zj86DnceSOaP8AgZoCw9VA5wM+wp1RdP4jUoOaAIW+8frR2p5QknpQI/egBg4OcVMORTPL96eBgUAf/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010EDFHFGU/F010KG9DLTH/20200321_212333.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010KG9DLTH-6ff8c1ddad",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U010EDFHFGU",
+        "ts": "1584905065.009800",
+        "edited": {
+            "user": "U010EDFHFGU",
+            "ts": "1584905148.000000"
+        },
+        "client_msg_id": "f304fbb9-0647-4dcd-b743-9f837b554ae4",
+        "thread_ts": "1584905065.009800",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1584914433.020200",
+        "reply_users": [
+            "U0107JERE9L",
+            "U010EDFHFGU",
+            "U0106M26108"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a9a0ab87-72df-4d2b-914f-1e1fe6cb9ec4",
+        "type": "message",
+        "text": "Hello <@U010EDFHFGU> - Could you take the lead to get the information in this image from either WHO/NIH or CDC? In order for us to use this information to share with folks in Ethiopia, we have to have to provide the source.\nBut this is important information, so please gather the research behind it and let us know.\nThank you",
+        "user": "U0107JERE9L",
+        "ts": "1584905563.010400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+G5r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010EDFHFGU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Could you take the lead to get the information in this image from either WHO/NIH or CDC? In order for us to use this information to share with folks in Ethiopia, we have to have to provide the source.\nBut this is important information, so please gather the research behind it and let us know.\nThank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584905065.009800",
+        "parent_user_id": "U010EDFHFGU"
+    },
+    {
+        "client_msg_id": "45d5ca52-4791-4cc4-9b7b-d5b002d43924",
+        "type": "message",
+        "text": "Hi <@U0107JERE9L>, I will work on that and give updates. Thanks!",
+        "user": "U010EDFHFGU",
+        "ts": "1584905799.010600",
+        "team": "TV5KELEUS",
+        "thread_ts": "1584905065.009800",
+        "parent_user_id": "U010EDFHFGU"
+    },
+    {
+        "client_msg_id": "7652f3aa-a329-4e21-a992-872aeb57299f",
+        "type": "message",
+        "text": "what is the current plan in terms of protective gear?",
+        "user": "U0107JYJYD7",
+        "ts": "1584908249.011800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Iw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what is the current plan in terms of protective gear?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "reply_count": 11,
+        "reply_users_count": 2,
+        "latest_reply": "1584912171.019000",
+        "reply_users": [
+            "U0107JERE9L",
+            "U0107JYJYD7"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b65b555d-d48b-4e14-a84a-eeabedc968d8",
+        "type": "message",
+        "text": "Hello <@U0107JYJYD7> - We are working on getting protective gear alternatives. We are gathering research on the types of material that can be used for this and working on having it manufactured in Ethiopia. The project steps are pinned to this channel. What step would you be  able to assist with?",
+        "user": "U0107JERE9L",
+        "ts": "1584908582.014300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JYeh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JYJYD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - We are working on getting protective gear alternatives. We are gathering research on the types of material that can be used for this and working on having it manufactured in Ethiopia. The project steps are pinned to this channel. What step would you be  able to assist with?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "d8d29f3d-bc1e-4ffa-8640-11d9c52c425b",
+        "type": "message",
+        "text": "Great!!",
+        "user": "U0107JERE9L",
+        "ts": "1584908599.014500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=9TU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584905065.009800",
+        "parent_user_id": "U010EDFHFGU"
+    },
+    {
+        "client_msg_id": "1e8684ee-6cf4-4539-b2f6-adeaf5172c82",
+        "type": "message",
+        "text": "in my opinion i think that resources dedicated towards developing protective gear should be directed to other projects that require engineering expertise",
+        "user": "U0107JYJYD7",
+        "ts": "1584908673.014700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in my opinion i think that resources dedicated towards developing protective gear should be directed to other projects that require engineering expertise"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "068d2ae9-e41b-475c-8b83-ae7be32704df",
+        "type": "message",
+        "text": "is the gear meant for health professionals or the general public?",
+        "user": "U0107JYJYD7",
+        "ts": "1584908760.014900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VU06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is the gear meant for health professionals or the general public?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "75b361a6-de18-4742-be7f-7e6cfd2557d1",
+        "type": "message",
+        "text": "I dont follow. You mean, we should have engineers working towards this project or we shouldn't work on this project at all?",
+        "user": "U0107JERE9L",
+        "ts": "1584908762.015100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CJH4h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I dont follow. You mean, we should have engineers working towards this project or we shouldn't work on this project at all?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "6c08ce74-cdbe-4e7e-9dc3-18ce1c1f9154",
+        "type": "message",
+        "text": "i guess that would give me a better idea for the goals of the projects",
+        "user": "U0107JYJYD7",
+        "ts": "1584908778.015300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r7y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i guess that would give me a better idea for the goals of the projects"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "aa86ee0e-ae5e-426b-b113-10fdd819a834",
+        "type": "message",
+        "text": "It is for the healthcare workers first",
+        "user": "U0107JERE9L",
+        "ts": "1584908781.015500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FOf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is for the healthcare workers first"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "a6a7bfaf-149f-410b-b150-22448863481a",
+        "type": "message",
+        "text": "ah i see",
+        "user": "U0107JYJYD7",
+        "ts": "1584908786.015700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mz/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah i see"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "c5de537e-fb30-4677-8686-c47e3aff380c",
+        "type": "message",
+        "text": "i had originally thought the goal was to give these to the general public",
+        "user": "U0107JYJYD7",
+        "ts": "1584908804.015900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tuBEt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i had originally thought the goal was to give these to the general public"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "cc7ad149-f1fe-474a-b090-98755a1d11d2",
+        "type": "message",
+        "text": "Oh it would be nice if we had that type of surplus.. Some countries have given their public protective masks but we are focused on supporting the healthcare folks first.",
+        "user": "U0107JERE9L",
+        "ts": "1584908862.016100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "89q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh it would be nice if we had that type of surplus.. Some countries have given their public protective masks but we are focused on supporting the healthcare folks first."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "c7b1f4d3-8bad-4197-85f1-6cbe25371da9",
+        "type": "message",
+        "text": "I believe this sort of post is best fit for <#C010AAKGXDL|awareness-research>. Can we please move this there, <@U010EDFHFGU>?\n\nThis channel is about Do It Yourself (DIY) Gear, like masks on the ground.",
+        "user": "U0106M26108",
+        "ts": "1584909468.016300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WSUfj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe this sort of post is best fit for "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010AAKGXDL"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Can we please move this there, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010EDFHFGU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\n\nThis channel is about Do It Yourself (DIY) Gear, like masks on the ground."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584905065.009800",
+        "parent_user_id": "U010EDFHFGU"
+    },
+    {
+        "client_msg_id": "c5c1c22c-c276-4e12-a814-16c12fe6742e",
+        "type": "message",
+        "text": "Hey <@U0106M26108> - I believe it is also there in that channel. But looking at the information, some of it is also useful for the DIY gear because it explains which material is best to use to minimize the risk of spreading the virus by the healthcare workers.",
+        "user": "U0107JERE9L",
+        "ts": "1584909774.016500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rYALK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I believe it is also there in that channel. But looking at the information, some of it is also useful for the DIY gear because it explains which material is best to use to minimize the risk of spreading the virus by the healthcare workers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584905065.009800",
+        "parent_user_id": "U010EDFHFGU"
+    },
+    {
+        "client_msg_id": "bb0bb35b-b39a-442a-8ca4-e63044051439",
+        "type": "message",
+        "text": "Ahhh! Was a little confused as that wasn\u2019t mentioned in the note above. So many people are posting pictures, videos &amp; links with no context lol.",
+        "user": "U0106M26108",
+        "ts": "1584910204.016700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XmyB4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahhh! Was a little confused as that wasn\u2019t mentioned in the note above. So many people are posting pictures, videos & links with no context lol."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584905065.009800",
+        "parent_user_id": "U010EDFHFGU"
+    },
+    {
+        "client_msg_id": "76fd5616-1aef-48df-a5d5-54d4c1d71fa5",
+        "type": "message",
+        "text": "But noted nonetheless lol. Disregard :sunglasses:.",
+        "user": "U0106M26108",
+        "ts": "1584910220.016900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rBl=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But noted nonetheless lol. Disregard "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584905065.009800",
+        "parent_user_id": "U010EDFHFGU"
+    },
+    {
+        "client_msg_id": "57BED99D-096E-4980-B107-155C9747D3E1",
+        "type": "message",
+        "text": "I guess the only thing that I was wondering is that are we aligning potential projects with what the MoH needs? ",
+        "user": "U0107JYJYD7",
+        "ts": "1584910841.018700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s4vI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess the only thing that I was wondering is that are we aligning potential projects with what the MoH needs? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "8027ec6f-3d5c-4a4b-ae09-960803b97242",
+        "type": "message",
+        "text": "We have several projects going on and close to 700 people trying to help out.\nThis project is only one out of many.\nWe created these projects after aligning with what MOH asked for.",
+        "user": "U0107JERE9L",
+        "ts": "1584912171.019000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/lJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have several projects going on and close to 700 people trying to help out.\nThis project is only one out of many.\nWe created these projects after aligning with what MOH asked for."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584908249.011800",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "7cca09f5-5c4a-43c4-a258-572e227a7705",
+        "type": "message",
+        "text": "Hey <@U0107JERE9L> here is the link for the research recently published in the New England journal of medicine (Authors are NIH virologists) regarding the life of the virus on certain surfaces and aerosol <https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home>",
+        "user": "U010EDFHFGU",
+        "ts": "1584913146.019600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EsF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here is the link for the research recently published in the New England journal of medicine (Authors are NIH virologists) regarding the life of the virus on certain surfaces and aerosol "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584905065.009800",
+        "parent_user_id": "U010EDFHFGU"
+    },
+    {
+        "client_msg_id": "327d87d0-e676-4ca4-992e-92e89ef305a8",
+        "type": "message",
+        "text": "Here is the link for a research about covid-19 shedding periods published in The Lancet based on Chinese data <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext>",
+        "user": "U010EDFHFGU",
+        "ts": "1584913232.019800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/s1Cn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is the link for a research about covid-19 shedding periods published in The Lancet based on Chinese data "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584905065.009800",
+        "parent_user_id": "U010EDFHFGU"
+    },
+    {
+        "client_msg_id": "e19c22f7-b2db-46d7-83a5-0ce607bff405",
+        "type": "message",
+        "text": "This is gold. Just what we need to transfer information into action.\n This is also good info for the <#C010AAKGXDL|awareness-research> and <#CVBQ5H16D|awareness-content> teams so please post it there as well.\nAwesome work <@U010EDFHFGU> !",
+        "user": "U0107JERE9L",
+        "ts": "1584913744.020000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B9nIy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is gold. Just what we need to transfer information into action.\n This is also good info for the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010AAKGXDL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CVBQ5H16D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " teams so please post it there as well.\nAwesome work "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010EDFHFGU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584905065.009800",
+        "parent_user_id": "U010EDFHFGU"
+    },
+    {
+        "client_msg_id": "e96a1fb7-cf5b-494e-99ea-3c4f1a6fbb59",
+        "type": "message",
+        "text": "Got it, will do <@U0107JERE9L>!",
+        "user": "U010EDFHFGU",
+        "ts": "1584914433.020200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gAlY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it, will do "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584905065.009800",
+        "parent_user_id": "U010EDFHFGU"
+    }
+]

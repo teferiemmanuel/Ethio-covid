@@ -1,0 +1,328 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586546895.000200",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586546908.000400",
+        "user": "U0107A7161E",
+        "text": "<@U0107A7161E> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586547439.000600",
+        "user": "U010SKPP7CJ",
+        "text": "<@U010SKPP7CJ> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586547440.000800",
+        "user": "U0116DL92E9",
+        "text": "<@U0116DL92E9> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586547440.001000",
+        "user": "U010L27MB25",
+        "text": "<@U010L27MB25> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586547440.001200",
+        "user": "U011F7L4G8L",
+        "text": "<@U011F7L4G8L> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1586550059.001300",
+        "user": "U0107A7161E",
+        "text": "<@U0107A7161E> set the channel purpose: Create, populate, and moderate a discovery platform to match efforts on the ground with organizations that can provide resources they need.\n\noverview doc: <https://docs.google.com/document/d/1FCpv8WKU3x3guRBll8brF0DdKYtEBGsVz6XB2CoOPyU/edit>",
+        "purpose": "Create, populate, and moderate a discovery platform to match efforts on the ground with organizations that can provide resources they need.\n\noverview doc: <https://docs.google.com/document/d/1FCpv8WKU3x3guRBll8brF0DdKYtEBGsVz6XB2CoOPyU/edit>",
+        "pinned_to": [
+            "C011MH24XK5"
+        ],
+        "pinned_info": {
+            "channel": "C011MH24XK5",
+            "pinned_by": "U0107A7161E",
+            "pinned_ts": 1586550069
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586550228.001600",
+        "user": "U01087PJBNG",
+        "text": "<@U01087PJBNG> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586550240.002000",
+        "user": "U0107JERE9L",
+        "text": "<@U0107JERE9L> has joined the channel"
+    },
+    {
+        "client_msg_id": "eb7ec521-b518-4809-a596-31bbc05f87f8",
+        "type": "message",
+        "text": "So there\u2019s no duplicate efforts, <@U01087PJBNG> has been leading funding efforts for all workstreams &amp; projects under ECRT. She has also been curating a list of initiatives outside of ours that are soliciting funds.\n\n<@U01087PJBNG>, might be best to share that list here so both teams can work off of it.",
+        "user": "U0106M26108",
+        "ts": "1586550474.004700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1586551278.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nBZ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So there\u2019s no duplicate efforts, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01087PJBNG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has been leading funding efforts for all workstreams & projects under ECRT. She has also been curating a list of initiatives outside of ours that are soliciting funds.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01087PJBNG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", might be best to share that list here so both teams can work off of it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586550474.004700",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1586775867.050900",
+        "reply_users": [
+            "U0107A7161E",
+            "U0116DL92E9",
+            "U0106M26108",
+            "U010SKPP7CJ",
+            "U01087PJBNG"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ed061631-09c0-4b7c-b916-d0ac38b15de0",
+        "type": "message",
+        "text": "<@U010SKPP7CJ> <@U0116DL92E9>",
+        "user": "U0107A7161E",
+        "ts": "1586550526.004800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/pvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010SKPP7CJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0116DL92E9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586550474.004700",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "403B8FBF-9057-44E4-89D0-DBA4AD9D4B73",
+        "type": "message",
+        "text": "Hi Sefanit. From what I\u2019ve experienced Duplicate efforts may not be in this workspace, but there are many on the ground. I\u2019ll reach out to selam to check and give the initiatives I know. ",
+        "user": "U0116DL92E9",
+        "ts": "1586550917.007100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oqi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Sefanit. From what I\u2019ve experienced Duplicate efforts may not be in this workspace, but there are many on the ground. I\u2019ll reach out to selam to check and give the initiatives I know. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586550474.004700",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "cd5514ee-c581-4a19-87e6-62f9c697e79e",
+        "type": "message",
+        "text": "Only talking about listing other initiatives that are soliciting money, usually in the form of GoFundMe. That\u2019s the only aspect. Everything else is why we all agree this project needs to exist &amp; be maintained.",
+        "user": "U0106M26108",
+        "ts": "1586551203.007300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8sY5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Only talking about listing other initiatives that are soliciting money, usually in the form of GoFundMe. That\u2019s the only aspect. Everything else is why we all agree this project needs to exist & be maintained."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586550474.004700",
+        "parent_user_id": "U0106M26108",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0116DL92E9",
+                    "U01087PJBNG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc687276-cfb2-4d3a-a2d0-d71cb81ff5a4",
+        "type": "message",
+        "text": "Oh &amp; lastly, another component the ops team has discussed since our work force <!here> is rather tech heavy. Is that we\u2019d reach out to partners in our tech ecosystem on the ground to see if they need any technical help. This could easily be included in the proposed form for the site, or it can have it\u2019s own form. Either or.",
+        "user": "U0106M26108",
+        "ts": "1586552630.011800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Id+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh & lastly, another component the ops team has discussed since our work force "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is rather tech heavy. Is that we\u2019d reach out to partners in our tech ecosystem on the ground to see if they need any technical help. This could easily be included in the proposed form for the site, or it can have it\u2019s own form. Either or."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586552630.011800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586554004.012000",
+        "reply_users": [
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5b081aa3-3393-4b83-80a8-37cf38ee2710",
+        "type": "message",
+        "text": "good idea! for reference <@U010L27MB25> is currently setting up an airable and form to receive information and <@U011F7L4G8L> and <@UV6JHDP0S> are working ont he ECRT site where this will housed",
+        "user": "U0107A7161E",
+        "ts": "1586554004.012000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Ze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good idea! for reference "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L27MB25"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is currently setting up an airable and form to receive information and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011F7L4G8L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are working ont he ECRT site where this will housed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586552630.011800",
+        "parent_user_id": "U0106M26108"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585117218.000200",
+        "user": "U0106H0H5AQ",
+        "text": "<@U0106H0H5AQ> has joined the channel"
+    },
+    {
+        "client_msg_id": "015996e3-4f73-4970-a113-d38de65682bf",
+        "type": "message",
+        "text": "<https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age|https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age>",
+        "user": "UV81AMFSP",
+        "ts": "1585134188.000500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "The Covid-19 risks for different age groups, explained",
+                "title_link": "https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age",
+                "fallback": "The Covid-19 risks for different age groups, explained",
+                "image_url": "https://cdn.vox-cdn.com/thumbor/D6bZCXkbXADXM2kdEyGSY5dCnrM=/0x0:4527x3018/1400x1050/filters:focal(1902x1147:2626x1871):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66540345/GettyImages_1213377890.0.jpg",
+                "from_url": "https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 203867,
+                "service_icon": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png",
+                "service_name": "vox.com",
+                "id": 1,
+                "original_url": "https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "poD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age",
+                                "text": "https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

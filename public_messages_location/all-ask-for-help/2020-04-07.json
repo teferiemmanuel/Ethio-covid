@@ -1,0 +1,1281 @@
+[
+    {
+        "client_msg_id": "99839af9-d07f-4a66-994b-1221bcf367c9",
+        "type": "message",
+        "text": "issue resolved",
+        "user": "U0115DWP9T9",
+        "ts": "1586248788.239100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJwg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "issue resolved"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585588875.088500",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "5D6ABB8A-A0F9-436C-B557-D9AC97640D5A",
+        "type": "message",
+        "text": "\"Everyday\" may be exaggerated. Power was down once this week for maintenance",
+        "user": "U010LJ2BUCW",
+        "ts": "1586249675.240400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ChvTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Everyday\" may be exaggerated. Power was down once this week for maintenance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586150718.219400",
+        "parent_user_id": "U0112B1TNQ7"
+    },
+    {
+        "client_msg_id": "1BFCD91C-8505-4ABB-A87C-52495FD8670E",
+        "type": "message",
+        "text": "<@U0105CS9G93> ",
+        "user": "U010LJ2BUCW",
+        "ts": "1586249766.240700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UnJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105CS9G93"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585567644.081300",
+        "parent_user_id": "U010N2S4RUJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586249772.241000",
+        "user": "U0105CS9G93",
+        "text": "<@U0105CS9G93> has joined the channel",
+        "inviter": "U010LJ2BUCW"
+    },
+    {
+        "client_msg_id": "23631b45-308c-4448-a6d3-634122782d64",
+        "type": "message",
+        "text": "Dear all, Hannicha in Addis Ababa  Ethiopia  has managed to sew 100.000  masks within few days with her equipe. She is running out of coton fabric, preferable, thick  cotton, tea towel cotton.  Would you know of any manufactures who could provide this ? If you can supply, please contact me  or her  by mail:  <mailto:hananext@gmail.com|hananext@gmail.com>",
+        "user": "U011CUU89U5",
+        "ts": "1586251315.242100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kjV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear all, Hannicha in Addis Ababa  Ethiopia  has managed to sew 100.000  masks within few days with her equipe. She is running out of coton fabric, preferable, thick  cotton, tea towel cotton.  Would you know of any manufactures who could provide this ? If you can supply, please contact me  or her  by mail:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hananext@gmail.com",
+                                "text": "hananext@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586251315.242100",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1586344914.265700",
+        "reply_users": [
+            "U011F7L4G8L",
+            "U010T6L6LEL",
+            "U010GR02K4L"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0106M27EKS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e564b548-d6a3-40b2-b5ef-ea503fe71922",
+        "type": "message",
+        "text": "Hello <!channel>\n\nWe have a few people here who are interested in working on a Ventilator using the open source information provided by <https://www.medtronic.com/us-en/e/open-files.html?cmpid=vanity_url_medtronic_com_openventilator_Corp_US_Covid19_FY20|Medtronic>.\nWe already have 2 very qualified people who have expressed interest in executing this project. We need folks who have expertise in the following areas and are interested in being part of this project.\n\nA team of people will be excellent to start.\n1. Biomedical Engineer and or Hardware Engineer\n2. Software Engineer\n3. Mechanical Engineer\n4. Electrical engineer\n5. Project manager.\n\nWe would especially like to have team members based in Ethiopia so that the execution can happen quickly.\nPlease reach out to me, <@U010RM5TX1R> or any of the other leads here if you want to be a part of this project.",
+        "user": "U0107JERE9L",
+        "ts": "1586281570.246600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107JERE9L",
+            "ts": "1586282816.000000"
+        },
+        "attachments": [
+            {
+                "title": "Register to Download Ventilator Files",
+                "title_link": "https://www.medtronic.com/us-en/e/open-files.html?cmpid=vanity_url_medtronic_com_openventilator_Corp_US_Covid19_FY20",
+                "text": "Register to download the design specification for the PB560 ventilator system from Medtronic. Manufacturers and innovators may consult these files as part of the larger effort to confront and overcome the impact of COVID-19.",
+                "fallback": "Register to Download Ventilator Files",
+                "from_url": "https://www.medtronic.com/us-en/e/open-files.html?cmpid=vanity_url_medtronic_com_openventilator_Corp_US_Covid19_FY20",
+                "service_icon": "https://www.medtronic.com/content/dam/medtronic-com/apple-touch-icon-precomposed.png",
+                "service_name": "medtronic.com",
+                "id": 1,
+                "original_url": "https://www.medtronic.com/us-en/e/open-files.html?cmpid=vanity_url_medtronic_com_openventilator_Corp_US_Covid19_FY20"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZT2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe have a few people here who are interested in working on a Ventilator using the open source information provided by "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.medtronic.com/us-en/e/open-files.html?cmpid=vanity_url_medtronic_com_openventilator_Corp_US_Covid19_FY20",
+                                "text": "Medtronic"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nWe already have 2 very qualified people who have expressed interest in executing this project. We need folks who have expertise in the following areas and are interested in being part of this project.\n\nA team of people will be excellent to start.\n1. Biomedical Engineer and or Hardware Engineer\n2. Software Engineer\n3. Mechanical Engineer\n4. Electrical engineer\n5. Project manager.\n\nWe would especially like to have team members based in Ethiopia so that the execution can happen quickly.\nPlease reach out to me, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010RM5TX1R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or any of the other leads here if you want to be a part of this project."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "reply_count": 28,
+        "reply_users_count": 12,
+        "latest_reply": "1586344525.265400",
+        "reply_users": [
+            "U010ZJYV6AU",
+            "U0107JERE9L",
+            "U010RM5TX1R",
+            "U010L1RJMUN",
+            "UV6JHDP0S",
+            "UV8F3SRGA",
+            "U010986778X",
+            "UV8B0679P",
+            "U011BGST4BG",
+            "UVAL943JP",
+            "U0104F8P8US",
+            "U011BC5SY80"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U010ZJYV6AU",
+                    "UV8B0679P",
+                    "U0106M26108",
+                    "U0105C7GP08",
+                    "U0106M27EKS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1::skin-tone-6",
+                "users": [
+                    "UVALAR52P",
+                    "U0106M27EKS",
+                    "U010RM5TX1R"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA",
+                    "U0106M27EKS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b96be171-e877-4c48-a069-f5f96867ce7e",
+        "type": "message",
+        "text": "<@U0107JERE9L> I just sent you a message",
+        "user": "U010ZJYV6AU",
+        "ts": "1586281873.247400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sa9iC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I just sent you a message"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "593e60dd-4dc3-425f-93ea-0d181c211274",
+        "type": "message",
+        "text": "just for curiosity sake who are the masks getting distributed to?",
+        "user": "U011F7L4G8L",
+        "ts": "1586281910.247600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RzE9C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just for curiosity sake who are the masks getting distributed to?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586251315.242100",
+        "parent_user_id": "U011CUU89U5"
+    },
+    {
+        "client_msg_id": "fd2cf7cb-fa94-4c61-9a34-25e2f3e0becc",
+        "type": "message",
+        "text": "Just replied! Thank you",
+        "user": "U0107JERE9L",
+        "ts": "1586281959.247800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O=V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just replied! Thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "abe5f00a-f046-4077-8bfb-49c00095353a",
+        "type": "message",
+        "text": "<@U0107JERE9L> do we have a git hub? <@U011D9WUJMU> should we go ahead and download from the provided link or would you provide us the data file?",
+        "user": "U010RM5TX1R",
+        "ts": "1586282813.248500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z3+T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do we have a git hub? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011D9WUJMU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " should we go ahead and download from the provided link or would you provide us the data file?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "872c2308-1024-4c6a-932c-30a0fe0ed82e",
+        "type": "message",
+        "text": "<@UV8B0679P> - could we have a github?\n<@U010986778X> is a biomedical engineer with medtronic and will be heading this project.",
+        "user": "U0107JERE9L",
+        "ts": "1586282883.248800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ilF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - could we have a github?\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a biomedical engineer with medtronic and will be heading this project."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "1bcc1eaf-fa76-41fc-bdbe-1e0d0db84d51",
+        "type": "message",
+        "text": "<@U011BC5SY80>",
+        "user": "U010L1RJMUN",
+        "ts": "1586283151.249000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vIhsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011BC5SY80"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "309c5805-ba1e-4976-b724-a61c84583c16",
+        "type": "message",
+        "text": "<https://github.com/Ethiopia-COVID19>",
+        "user": "UV6JHDP0S",
+        "ts": "1586283192.249200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia COVID-19 Response Task Force",
+                "text": "Army of tech volunteers to help the Ethiopian Ministry of Health respond to COVID-19",
+                "title": "Ethiopia COVID-19 Response Task Force",
+                "footer": "<https://github.com/Ethiopia-COVID19|@Ethiopia-COVID19>",
+                "id": 1,
+                "thumb_height": 342,
+                "thumb_width": 342,
+                "thumb_url": "https://avatars3.githubusercontent.com/u/62272683?v=4",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1584413370,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "URL",
+                        "value": "<https://forms.gle/ZV9rtNEfYumHhAzj9>",
+                        "short": true
+                    },
+                    {
+                        "title": "Repositories",
+                        "value": "23",
+                        "short": true
+                    }
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r0FWs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "580c3e3b-3dc1-453c-a065-820fd0a949e3",
+        "type": "message",
+        "text": "Thats this groups github <@U0107JERE9L>",
+        "user": "UV6JHDP0S",
+        "ts": "1586283214.249600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XRVB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thats this groups github "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "47a4ea8b-fa10-4975-ba65-b48698688c49",
+        "type": "message",
+        "text": "Eshi .. thank you <@UV6JHDP0S>... <@U010RM5TX1R> and <@U010986778X> ^^^^",
+        "user": "U0107JERE9L",
+        "ts": "1586283415.249800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wHpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eshi .. thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": "... "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010RM5TX1R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "2780e9aa-d46c-43b0-9090-3e1992590173",
+        "type": "message",
+        "text": "<@U0107JERE9L> I can help as biomedical engineer",
+        "user": "UV8F3SRGA",
+        "ts": "1586283417.250000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Qos",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can help as biomedical engineer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010RM5TX1R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586283420.250300",
+        "user": "U010986778X",
+        "text": "<@U010986778X> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "1788a28f-929a-45e9-a98f-8a3e324bc764",
+        "type": "message",
+        "text": "Excellent thank you <@UV8F3SRGA>!!",
+        "user": "U0107JERE9L",
+        "ts": "1586283441.250400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OUdh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excellent thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8F3SRGA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "e34becac-710d-4020-a9a6-f00eb328b4f3",
+        "type": "message",
+        "text": "Hi Everyone! I am a biomedical engineer working in regulatory/quality at Medtronic supporting airway products and ventilators.",
+        "user": "U010986778X",
+        "ts": "1586283663.250600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T/Bx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everyone! I am a biomedical engineer working in regulatory/quality at Medtronic supporting airway products and ventilators."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "08704c66-9efb-4719-a95c-6649e949b00a",
+        "type": "message",
+        "text": "<@U010L4E6BK9> is also trying to build Ambu bag.",
+        "user": "U010986778X",
+        "ts": "1586283708.250800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PHx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010L4E6BK9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is also trying to build Ambu bag."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "abd581b1-2690-4340-96c5-c476bebafa9c",
+        "type": "message",
+        "text": "Belew \u2014 the talent pool on this thread is just :boom:",
+        "user": "UV8B0679P",
+        "ts": "1586285479.251300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vkya1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Belew \u2014 the talent pool on this thread is just "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "boom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "2f36b3e3-59c6-41cf-8812-9d3401cd5924",
+        "type": "message",
+        "text": "Mechanical engineer here! I'm based in France and my work revolves almost exclusively on automotive engines, but I'm happy to assist in any way possible!",
+        "user": "U011BGST4BG",
+        "ts": "1586288179.251800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l0xEO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mechanical engineer here! I'm based in France and my work revolves almost exclusively on automotive engines, but I'm happy to assist in any way possible!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "9b9159a5-fd22-4f53-a16e-e57d11d1071c",
+        "type": "message",
+        "text": "<@U011BGST4BG> *proj-diy-ventilator please join slack channel.* ",
+        "user": "U010986778X",
+        "ts": "1586288229.252000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QnJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011BGST4BG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "proj-diy-ventilator please join slack channel. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011BGST4BG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa5d1588-c134-481c-9403-0f7fcd0c456d",
+        "type": "message",
+        "text": "Hi <@UV6JHDP0S> I am not a git user so I will need your support :slightly_smiling_face: Can we create the folder structure just like the way gitlab has it? <https://gitlab.com/openventilator> Also who will give us access to the folders? We are going to upload the files we download from Medtronic's link <https://www.medtronic.com/us-en/e/open-files/thank-you.html>  Thank you!",
+        "user": "U010RM5TX1R",
+        "ts": "1586292728.252400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "GitLab",
+                "title": "openventilator",
+                "title_link": "https://gitlab.com/openventilator",
+                "text": "Collection of files for the Open Ventilator project",
+                "fallback": "GitLab: openventilator",
+                "thumb_url": "https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+                "from_url": "https://gitlab.com/openventilator",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https://assets.gitlab-static.net/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+                "id": 1,
+                "original_url": "https://gitlab.com/openventilator"
+            },
+            {
+                "title": "Download PB560 Ventilator Files",
+                "title_link": "https://www.medtronic.com/us-en/e/open-files/thank-you.html",
+                "text": "Download the design specifications for the Medtronic PB560 ventilator system. We invite manufacturers, engineers, and other innovators to use these files as inspiration for their own innovations in response to the COVID-19 pandemic.",
+                "fallback": "Download PB560 Ventilator Files",
+                "image_url": "https://www.medtronic.com/content/dam/medtronic-com/brand-images/open-graph-default.png",
+                "from_url": "https://www.medtronic.com/us-en/e/open-files/thank-you.html",
+                "image_width": 469,
+                "image_height": 250,
+                "image_bytes": 40758,
+                "service_icon": "https://www.medtronic.com/content/dam/medtronic-com/apple-touch-icon-precomposed.png",
+                "service_name": "medtronic.com",
+                "id": 2,
+                "original_url": "https://www.medtronic.com/us-en/e/open-files/thank-you.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ggJb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am not a git user so I will need your support "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can we create the folder structure just like the way gitlab has it? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://gitlab.com/openventilator"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Also who will give us access to the folders? We are going to upload the files we download from Medtronic's link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.medtronic.com/us-en/e/open-files/thank-you.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "861da786-6119-4446-827a-ade43f52099e",
+        "type": "message",
+        "text": "<@U010RM5TX1R> whats you Github handle?",
+        "user": "UV6JHDP0S",
+        "ts": "1586292911.252800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dOH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010RM5TX1R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " whats you Github handle?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "fd1ad914-276a-44c9-a91e-41a3429c10b4",
+        "type": "message",
+        "text": "<https://github.com/Ethiopia-COVID19/openventilator.git>",
+        "user": "UV6JHDP0S",
+        "ts": "1586292922.253000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vp7VQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/openventilator.git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "794b73f8-ecc0-4db1-96b1-a9eee3bd72a1",
+        "type": "message",
+        "text": "Thank you <@UV6JHDP0S> I will go ahead and start uploading the files there.",
+        "user": "U010RM5TX1R",
+        "ts": "1586293182.253200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zs+lc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I will go ahead and start uploading the files there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "6f604a55-d835-4c11-8ec8-9a1f0fb2689a",
+        "type": "message",
+        "text": "<@U010RM5TX1R> If you send me your Github account username I will give you permission to upload",
+        "user": "UV6JHDP0S",
+        "ts": "1586293228.253400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fa7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010RM5TX1R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " If you send me your Github account username I will give you permission to upload"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "085a474e-2114-4e9a-bb7d-33af7b33ec61",
+        "type": "message",
+        "text": "<@UV6JHDP0S> here is my user name - <mailto:Gobena.merga@addispcb.com|Gobena.merga@addispcb.com>",
+        "user": "U010RM5TX1R",
+        "ts": "1586293361.253600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Wn9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here is my user name - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:Gobena.merga@addispcb.com",
+                                "text": "Gobena.merga@addispcb.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "bbbcb613-e09e-47f1-acf7-cdadd4d8f415",
+        "type": "message",
+        "text": "<@U011VGSHRDE> :point_up_2:",
+        "user": "UVAL943JP",
+        "ts": "1586294233.253800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LkK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011VGSHRDE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "40c565b0-1fa6-4224-b805-2e8340c80be7",
+        "type": "message",
+        "text": "<@U010RM5TX1R> <@UV6JHDP0S> I've uploaded all files downloaded from Medtronic to google drive <https://drive.google.com/open?id=1Z8b4nUj_uTjQpMyq04ukxybMPMAEGVc4> should we move everything to Github? I also added additional documents that are not available on the Medtronic site.",
+        "user": "U010986778X",
+        "ts": "1586295665.254000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010986778X",
+            "ts": "1586295695.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zd4=j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010RM5TX1R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I've uploaded all files downloaded from Medtronic to google drive "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/open?id=1Z8b4nUj_uTjQpMyq04ukxybMPMAEGVc4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " should we move everything to Github? I also added additional documents that are not available on the Medtronic site."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "86aa77df-62fd-4ad4-ae96-923efce62093",
+        "type": "message",
+        "text": "Hi! Is anyone here familiar with the approval process <http://www.fmhaca.gov.et/|Ethiopian Food and Drug Administration: EFDA> for medical devices? If so please let me know what guidance and mechanisms to consider during product development. Thanks.",
+        "user": "U010986778X",
+        "ts": "1586299238.257200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TK=5T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Is anyone here familiar with the approval process "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.fmhaca.gov.et/",
+                                "text": "Ethiopian Food and Drug Administration: EFDA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for medical devices? If so please let me know what guidance and mechanisms to consider during product development. Thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586299238.257200",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1586401316.277800",
+        "reply_users": [
+            "U0116DL92E9",
+            "U010SKPP7CJ",
+            "U010986778X"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2b47e6d4-e20f-4d30-ba41-3d4e431ba0de",
+        "type": "message",
+        "text": "can someone, admins maybe, please create a channel here to track and facilitate donations in cash and kind? also funding requests.",
+        "user": "U010EQU5E6N",
+        "ts": "1586301706.258200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2b0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can someone, admins maybe, please create a channel here to track and facilitate donations in cash and kind? also funding requests."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586301706.258200",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1586463876.285300",
+        "reply_users": [
+            "UV8B0679P",
+            "U010EQU5E6N",
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7fd019fa-deb1-4725-9b09-5d58c99bbb40",
+        "type": "message",
+        "text": "<@U010986778X> please go ahead and I will start working on my part. We need the Electrical Engineer (EE) role to be taken as that is the first step of the process of the design that has to start right away.",
+        "user": "U010RM5TX1R",
+        "ts": "1586302550.258300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v3vZC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please go ahead and I will start working on my part. We need the Electrical Engineer (EE) role to be taken as that is the first step of the process of the design that has to start right away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586281570.246600",
+        "parent_user_id": "U0107JERE9L"
+    }
+]

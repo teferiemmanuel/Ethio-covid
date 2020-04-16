@@ -1,0 +1,469 @@
+[
+    {
+        "client_msg_id": "E0968340-9E54-4806-B809-DE2A87E83590",
+        "type": "message",
+        "text": "So happy to have you in here, <@U010YSN9GSK>! :fist::skin-tone-4:",
+        "user": "U0106M26108",
+        "ts": "1585356719.007600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YhA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So happy to have you in here, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010YSN9GSK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fist",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585308378.003800",
+        "parent_user_id": "U010YSN9GSK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010YSN9GSK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c3d339e-c085-4449-9b83-65ce455c9409",
+        "type": "message",
+        "text": "rought draft of a proposal here to get additional partners on board: <https://docs.google.com/document/d/11Qut-EEyMK5WG1XiJt0zvLPmjEpwzkAhYCSIfKBa-8U/edit>",
+        "user": "U010B7Q6XE0",
+        "ts": "1585362750.008300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Yc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rought draft of a proposal here to get additional partners on board: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/11Qut-EEyMK5WG1XiJt0zvLPmjEpwzkAhYCSIfKBa-8U/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e7e5dce-f868-47ab-9c4b-521f15ce0d67",
+        "type": "message",
+        "text": "would love to hear people's thoughts",
+        "user": "U010B7Q6XE0",
+        "ts": "1585362861.008800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010B7Q6XE0",
+            "ts": "1585362899.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kB6k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would love to hear people's thoughts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "236ec587-127c-4875-b98d-01c19a7ef73e",
+        "type": "message",
+        "text": "once finalized, we will be sharing with potential partners like RIDE, Eshi Express, and other food/goods/grocery delivery services to get buy in from those partners. this is a rough idea of what we'd like to accomplish, but I understand that this will need to be flexible as we begin to better understand the landscape of this industry and what they are willing/capable of doing in support",
+        "user": "U010B7Q6XE0",
+        "ts": "1585362987.010500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010B7Q6XE0",
+            "ts": "1585363050.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rgPu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "once finalized, we will be sharing with potential partners like RIDE, Eshi Express, and other food/goods/grocery delivery services to get buy in from those partners. this is a rough idea of what we'd like to accomplish, but I understand that this will need to be flexible as we begin to better understand the landscape of this industry and what they are willing/capable of doing in support"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585363009.010700",
+        "user": "U010RJ59L0M",
+        "text": "<@U010RJ59L0M> has joined the channel",
+        "inviter": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "2214be13-af78-456d-8628-774a70fc8eda",
+        "type": "message",
+        "text": "Thanks for sharing Yonas,",
+        "user": "U010BJRJPJT",
+        "ts": "1585363315.011000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lTm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for sharing Yonas,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585363695.011200",
+        "user": "U0108MNRFSL",
+        "text": "<@U0108MNRFSL> has joined the channel"
+    },
+    {
+        "client_msg_id": "8a12e18d-88be-4418-b161-3aa504841c80",
+        "type": "message",
+        "text": "ok, guys  i have read Yonas's draft. first thing <@U010YSN9GSK> <@U010B7Q6XE0>... do you have a zone/woreda/kebele/household breadkown / map that we can use for our purpose?",
+        "user": "U010BJRJPJT",
+        "ts": "1585367025.013000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Gsn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, guys  i have read Yonas's draft. first thing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010YSN9GSK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "... do you have a zone/woreda/kebele/household breadkown / map that we can use for our purpose?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585367025.013000",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1585754757.055700",
+        "reply_users": [
+            "U010YSN9GSK",
+            "U010B7Q6XE0",
+            "U010VJ6A17W",
+            "U010W32U9B2"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9a5b9951-c0bc-42cd-91ad-5dc85ceeaec2",
+        "type": "message",
+        "text": "We haven't had the need to break up the city into formal zones at a granular level since it's not too vast when on a motorbike and our focus has traditionally been on smaller quantities of items with extreme urgency. With that in mind, I think we'd be better suited for distribution of pharmaceuticals and other temperature-sensitive items to homes and smaller clinics.",
+        "user": "U010YSN9GSK",
+        "ts": "1585369845.013600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G6Rov",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We haven't had the need to break up the city into formal zones at a granular level since it's not too vast when on a motorbike and our focus has traditionally been on smaller quantities of items with extreme urgency. With that in mind, I think we'd be better suited for distribution of pharmaceuticals and other temperature-sensitive items to homes and smaller clinics."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585367025.013000",
+        "parent_user_id": "U010BJRJPJT"
+    },
+    {
+        "client_msg_id": "76a86671-50a0-4b5d-b8b8-9d1c0d3c1058",
+        "type": "message",
+        "text": "thanks for the comment on the doc, <@U010BJRJPJT> - I get why that portion isn't necessary/should be self evident.\n\nWith regards to geographical breakdown, that's something I hope to discuss when I get on the phone with the ride sharing partners. We'll need to better understand where each partner can service and then figure out how we can coordinate logistics across the services, if necessary, to ensure we can dispatch the right service accordingly. In my mind, the ideal solution would be a central call center that triages orders based on the goods necessary/the locations. If this requires too much coordination or isn't feasible for any reason, Plan B is to have each service work separately and to lean on a network of couriers for more precise location-based delivery. I'm not familiar w/ delivery logistics, so I'll need to speak with those involved to better understand what is feasible. <@U010YSN9GSK> feel free to chime in here",
+        "user": "U010B7Q6XE0",
+        "ts": "1585371727.014100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mOXKK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks for the comment on the doc, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BJRJPJT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I get why that portion isn't necessary/should be self evident.\n\nWith regards to geographical breakdown, that's something I hope to discuss when I get on the phone with the ride sharing partners. We'll need to better understand where each partner can service and then figure out how we can coordinate logistics across the services, if necessary, to ensure we can dispatch the right service accordingly. In my mind, the ideal solution would be a central call center that triages orders based on the goods necessary/the locations. If this requires too much coordination or isn't feasible for any reason, Plan B is to have each service work separately and to lean on a network of couriers for more precise location-based delivery. I'm not familiar w/ delivery logistics, so I'll need to speak with those involved to better understand what is feasible. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010YSN9GSK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " feel free to chime in here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585367025.013000",
+        "parent_user_id": "U010BJRJPJT"
+    },
+    {
+        "client_msg_id": "c48d5ca0-d880-47b9-8412-e9c6b5eceff3",
+        "type": "message",
+        "text": "also <@U010W32U9B2> <@U010VJ6A17W>",
+        "user": "U010B7Q6XE0",
+        "ts": "1585371747.014300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ipdU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010W32U9B2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010VJ6A17W"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585367025.013000",
+        "parent_user_id": "U010BJRJPJT"
+    },
+    {
+        "client_msg_id": "fbc77994-fc92-4a24-9c91-e997d281205b",
+        "type": "message",
+        "text": "Sure, I just had a chat with <@U010BJRJPJT> about some of this. I think, from a private sector perspective, some of this is going to take a great deal of pivoting without a great deal of time.\n\nIf the goal is to serve as many people as possible, I have doubts as to whether or not all of us can serve such a large number of people in the timeframe we need to without potentially cutting corners when it comes to the precautions we should all be taking to keep each other safe (PPE and the like) and convincing people to sign up\n\nAfter my chat with Robel, he mentioned that's he's built up a group of ~200 volunteers in Ethiopia. My feeling is that those volunteers are best positioned to serve the households around them and already know where the closest fruit/vegetable stands and souqs are in their neighborhoods.\n\nThey also likely have existing relationships with their neighbors that they can tap into rather than private sector companies trying to convince people to use their service. They can also likely come up with better ways to gain compensation from their neighbors for those that might not be able to afford it and have more flexibility also. (E.g neighbors can provide in-kind contributions to those individuals instead of cash and we can help incentivize through donations to send them phone credit and such)\n\nI suggested to Robel that he ask these volunteers to send them GPS pins of where they are so we can see what areas may be over or under-represented and see what kind of coverage they can already provide.",
+        "user": "U010YSN9GSK",
+        "ts": "1585373200.014500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bZ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, I just had a chat with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BJRJPJT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about some of this. I think, from a private sector perspective, some of this is going to take a great deal of pivoting without a great deal of time.\n\nIf the goal is to serve as many people as possible, I have doubts as to whether or not all of us can serve such a large number of people in the timeframe we need to without potentially cutting corners when it comes to the precautions we should all be taking to keep each other safe (PPE and the like) and convincing people to sign up\n\nAfter my chat with Robel, he mentioned that's he's built up a group of ~200 volunteers in Ethiopia. My feeling is that those volunteers are best positioned to serve the households around them and already know where the closest fruit/vegetable stands and souqs are in their neighborhoods.\n\nThey also likely have existing relationships with their neighbors that they can tap into rather than private sector companies trying to convince people to use their service. They can also likely come up with better ways to gain compensation from their neighbors for those that might not be able to afford it and have more flexibility also. (E.g neighbors can provide in-kind contributions to those individuals instead of cash and we can help incentivize through donations to send them phone credit and such)\n\nI suggested to Robel that he ask these volunteers to send them GPS pins of where they are so we can see what areas may be over or under-represented and see what kind of coverage they can already provide."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585367025.013000",
+        "parent_user_id": "U010BJRJPJT"
+    },
+    {
+        "client_msg_id": "2f248bfa-69fc-4526-8d4e-f91660d3d9c3",
+        "type": "message",
+        "text": "On that note, I'm talking to some organizations that have access to locally-produced PPE (facemasks) and may be able to help equip them properly",
+        "user": "U010YSN9GSK",
+        "ts": "1585374652.014700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ADvXM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On that note, I'm talking to some organizations that have access to locally-produced PPE (facemasks) and may be able to help equip them properly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585367025.013000",
+        "parent_user_id": "U010BJRJPJT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585375644.015000",
+        "user": "U0108FPHTEF",
+        "text": "<@U0108FPHTEF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585405200.015200",
+        "user": "U01084LG140",
+        "text": "<@U01084LG140> has joined the channel"
+    },
+    {
+        "client_msg_id": "84dddc7d-c1ef-4f59-9f3f-b13015300e59",
+        "type": "message",
+        "text": "<@U010B7Q6XE0> We need to get the different partners together to understand how we want to take orders and organize operations. Know you created the project summary, I will talk to <@U010W32U9B2>  about the contacts he is going to make.",
+        "user": "U010VJ6A17W",
+        "ts": "1585406623.015300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GkX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We need to get the different partners together to understand how we want to take orders and organize operations. Know you created the project summary, I will talk to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010W32U9B2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  about the contacts he is going to make."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585367025.013000",
+        "parent_user_id": "U010BJRJPJT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585430435.015700",
+        "user": "U0103PNQJ8J",
+        "text": "<@U0103PNQJ8J> has joined the channel",
+        "inviter": "U010B7Q6XE0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585437816.015900",
+        "user": "U010UJ2C1FS",
+        "text": "<@U010UJ2C1FS> has joined the channel"
+    }
+]

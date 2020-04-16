@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "47B15C7F-91A2-409A-BBBD-02A86B9DC697",
+        "type": "message",
+        "text": "<@U01084NU2NL> I\u2019m a full stack js guy. Hero of react and mode. Love to help ",
+        "user": "U0103EHQLEM",
+        "ts": "1586110246.214700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0103EHQLEM",
+            "ts": "1586110355.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=reY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I\u2019m a full stack js guy. Hero of react and mode. Love to help "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585971785.202400",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1586128902.220500",
+        "thread_ts": "1586128902.220500",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1586274911.266800",
+        "reply_users": [
+            "U01051X26HJ",
+            "U01078QCG2C"
+        ],
+        "subscribed": false,
+        "pinned_to": [
+            "C010695DKMM"
+        ],
+        "pinned_info": {
+            "channel": "C010695DKMM",
+            "pinned_by": "U0106M26108",
+            "pinned_ts": 1586180857
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U0106M27EKS",
+                    "U01051X26HJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "UV8B0679P",
+                    "U0103EHQLEM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

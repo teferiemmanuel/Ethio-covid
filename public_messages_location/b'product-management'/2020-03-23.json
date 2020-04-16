@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "889eeb11-31ab-42a4-90bc-d591429cbe2d",
+        "type": "message",
+        "text": "thanks <@UVAL943JP>, I messaged Tigabu on LinkedIn",
+        "user": "U010B7Q6XE0",
+        "ts": "1584971713.004900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010B7Q6XE0",
+            "ts": "1584971734.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GcZr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVAL943JP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I messaged Tigabu on LinkedIn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVAL943JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "918C7E59-6EE0-4A00-BC32-A13D930FF447",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584974174266100|https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584974174266100>",
+        "user": "UVAL943JP",
+        "ts": "1584974390.005500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584974174266100",
+                "fallback": "[March 23rd, 2020 7:36 AM] kiersten: Hi team, Kiersten here. I work for Kidame Mart an Ethiopian social enterprise that runs the largest female led rural distribution channel. We recruit rural women to become agents selling high impact products to their communities (soap, water filters, fortified nutrition products). We currently have 2,000 women across 7 regions reaching up to 1 million rural Ethiopians. We are looking for help to scale up our distribution of soap and use this channel to deliver Covid-19 information campaigns (how to wash hands, preventative measures etc.) We need financial support, training materials, and partners to make this happen ASAP.",
+                "ts": "1584974174.266100",
+                "author_id": "U0106DA1LGJ",
+                "author_subname": "Kiersten DeHaven",
+                "channel_id": "CV6K393C2",
+                "channel_name": "all-introductions",
+                "is_msg_unfurl": true,
+                "text": "Hi team, Kiersten here. I work for Kidame Mart an Ethiopian social enterprise that runs the largest female led rural distribution channel. We recruit rural women to become agents selling high impact products to their communities (soap, water filters, fortified nutrition products). We currently have 2,000 women across 7 regions reaching up to 1 million rural Ethiopians. We are looking for help to scale up our distribution of soap and use this channel to deliver Covid-19 information campaigns (how to wash hands, preventative measures etc.) We need financial support, training materials, and partners to make this happen ASAP.",
+                "author_name": "Kiersten DeHaven",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0106DA1LGJ",
+                "author_icon": "https://secure.gravatar.com/avatar/7792277b7e033d5c009aca7dc41c519a.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584974174266100",
+                "footer": "Posted in #all-introductions"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cuy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584974174266100",
+                                "text": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584974174266100"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    }
+]

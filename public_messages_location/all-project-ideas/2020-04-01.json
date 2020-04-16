@@ -1,0 +1,577 @@
+[
+    {
+        "client_msg_id": "ff22a817-bfd3-4e5e-a889-9a79cfb66dcb",
+        "type": "message",
+        "text": "The World Health Organisation (WHO) has advised people to use contactless payments instead of cash to reduce the risk of COVID-19 transmission. I have made a mobile application that lets you perform payments contact-free. it's a QR code-based app that is built on the top of CBE Birr. I've also included COVID-19 case statistics in the app.  The app is tested and is ready to be launched. All I need is CBE's acceptance and I need help on that",
+        "user": "U0112B1TNQ7",
+        "ts": "1585735471.209900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zXjG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The World Health Organisation (WHO) has advised people to use contactless payments instead of cash to reduce the risk of COVID-19 transmission. I have made a mobile application that lets you perform payments contact-free. it's a QR code-based app that is built on the top of CBE Birr. I've also included COVID-19 case statistics in the app.  The app is tested and is ready to be launched. All I need is CBE's acceptance and I need help on that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585735471.209900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585752248.213300",
+        "reply_users": [
+            "UVAL943JP",
+            "U010B7Q6XE0"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "E1F6E5FF-723E-4ACB-828A-52E2F6F26AE0",
+        "type": "message",
+        "text": "Where is the app link ? We can test it for u",
+        "user": "UV9A3SXC1",
+        "ts": "1585738997.211900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fcG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where is the app link ? We can test it for u"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab5769cd-770f-4a97-b7b5-3c9c1a37136c",
+        "type": "message",
+        "text": "<@U010B7Q6XE0> ^",
+        "user": "UVAL943JP",
+        "ts": "1585749463.212800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UVAL943JP",
+            "ts": "1585749486.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9E86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585735471.209900",
+        "parent_user_id": "U0112B1TNQ7"
+    },
+    {
+        "client_msg_id": "9c47a73e-a811-40c1-b0ec-85fbe9c2f934",
+        "type": "message",
+        "text": "<@U010YSN9GSK>",
+        "user": "U010B7Q6XE0",
+        "ts": "1585752248.213300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ItaY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010YSN9GSK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585735471.209900",
+        "parent_user_id": "U0112B1TNQ7"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "yap! with the right equipments..",
+        "user": "U01162LH5D4",
+        "ts": "1585752844.213500",
+        "thread_ts": "1585661124.192800",
+        "root": {
+            "client_msg_id": "baa906ea-a224-4993-b43e-4f7d2ce86316",
+            "type": "message",
+            "text": "<https://e-vent.mit.edu/|https://e-vent.mit.edu/>",
+            "user": "U01162LH5D4",
+            "ts": "1585661124.192800",
+            "team": "TV5KELEUS",
+            "attachments": [
+                {
+                    "service_name": "MIT E-Vent | MIT Emergency Ventilator",
+                    "title": "MIT E-VENT | Emergency ventilator design toolbox",
+                    "title_link": "https://e-vent.mit.edu/",
+                    "text": "The MIT Emergency Ventilator (E-Vent) is a toolkit created for rapid response in a crisis. It is offered as open source, and will evolve as we learn more.",
+                    "fallback": "MIT E-Vent | MIT Emergency Ventilator: MIT E-VENT | Emergency ventilator design toolbox",
+                    "image_url": "https://e-vent.mit.edu/wp-content/uploads/2020/03/002-testing-1024x768.jpg",
+                    "from_url": "https://e-vent.mit.edu/",
+                    "image_width": 333,
+                    "image_height": 250,
+                    "image_bytes": 168942,
+                    "service_icon": "https://e-vent.mit.edu/wp-content/uploads/2020/03/cropped-mit-square-180x180.png",
+                    "id": 1,
+                    "original_url": "https://e-vent.mit.edu/"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2k4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https://e-vent.mit.edu/",
+                                    "text": "https://e-vent.mit.edu/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1585661124.192800",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1585766683.218600",
+            "reply_users": [
+                "U0105C870AC",
+                "U01162LH5D4"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m2Ok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yap! with the right equipments.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f41cef5d-78a4-497e-98f2-edd09267654c",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "113c9fef-72cd-466a-a4ad-889112841451",
+        "type": "message",
+        "text": "Hi all - Thinking a video or maybe a how-to with images showing how to 1) properly wear a face mask and 2) how to make a face mask using netela (something a lot of ppl likely have access to).  \n\nand additionally highlighting CROSS-CONTAMINATION",
+        "user": "U010V5314P4",
+        "ts": "1585759069.216700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IERZd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all - Thinking a video or maybe a how-to with images showing how to 1) properly wear a face mask and 2) how to make a face mask using netela (something a lot of ppl likely have access to).  \n\nand additionally highlighting CROSS-CONTAMINATION"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585759069.216700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585760717.217200",
+        "reply_users": [
+            "U010JB58NSC",
+            "U010V5314P4"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d38c6a0a-c320-4ac4-827f-98439486eb05",
+        "type": "message",
+        "text": "<@U010V5314P4> This is interesting especially the netela ... Share your thoughts on <#CVBQ5H16D|awareness-content> + <#C010GQUEBSQ|proj-diy-gear> for netela masks",
+        "user": "U010JB58NSC",
+        "ts": "1585759745.216800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8PXSa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010V5314P4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This is interesting especially the netela ... Share your thoughts on "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CVBQ5H16D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " + "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010GQUEBSQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for netela masks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585759069.216700",
+        "parent_user_id": "U010V5314P4"
+    },
+    {
+        "client_msg_id": "a32c05a7-a5a8-4b63-b626-b010892a6308",
+        "type": "message",
+        "text": "Thanks <@U010JB58NSC> Will do.",
+        "user": "U010V5314P4",
+        "ts": "1585760717.217200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ngP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JB58NSC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Will do."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585759069.216700",
+        "parent_user_id": "U010V5314P4"
+    },
+    {
+        "client_msg_id": "FAB3F965-E227-4F6B-A5D6-4D7DEB0B2742",
+        "type": "message",
+        "text": "Is there anyone at home with the resources to organize this?",
+        "user": "U0105C870AC",
+        "ts": "1585766683.218600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NBWIe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there anyone at home with the resources to organize this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585661124.192800",
+        "parent_user_id": "U01162LH5D4"
+    },
+    {
+        "client_msg_id": "0704d425-7ed3-46b4-ace7-0b728e70b31b",
+        "type": "message",
+        "text": "Hey <@U01150H1NF8> this is a bit unrelated, but per an <#C010695DKMM|all-broadcast> note there is a need to create telegram bot for the hotel vacancy project lead by <@U010MHWSRPH> -- would you be able to contribute there?",
+        "user": "U010N7HGNNR",
+        "ts": "1585767187.218800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cgwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01150H1NF8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is a bit unrelated, but per an "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010695DKMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " note there is a need to create telegram bot for the hotel vacancy project lead by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010MHWSRPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -- would you be able to contribute there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585617952.169400",
+        "parent_user_id": "U01150H1NF8"
+    },
+    {
+        "client_msg_id": "6b806f94-38a9-40aa-8021-8437a2775dd3",
+        "type": "message",
+        "text": "Also more than happy to provide Amharic translations!",
+        "user": "U010N7HGNNR",
+        "ts": "1585767234.219000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oXIIE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also more than happy to provide Amharic translations!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585617952.169400",
+        "parent_user_id": "U01150H1NF8"
+    },
+    {
+        "client_msg_id": "3aea66b1-c309-4930-a780-bebcd42c3d7a",
+        "type": "message",
+        "text": "Pb 500 ventilator specs are being released daily what can we do about it?",
+        "user": "U010857NG21",
+        "ts": "1585768114.220600",
+        "team": "TV5KELEUS"
+    },
+    {
+        "client_msg_id": "aaa838a2-1896-4223-b6eb-9b7d093082ee",
+        "type": "message",
+        "text": "Here is the link\n<https://www.medtronic.com/us-en/e/open-files.html?cmpid=vanity_url_medtronic_com_openventilator_Corp_US_Covid19_FY20>",
+        "user": "U010857NG21",
+        "ts": "1585768125.221000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Register to Download Ventilator Files",
+                "title_link": "https://www.medtronic.com/us-en/e/open-files.html?cmpid=vanity_url_medtronic_com_openventilator_Corp_US_Covid19_FY20",
+                "text": "Register to download the design specification for the PB560 ventilator system from Medtronic. Manufacturers and innovators may consult these files as part of the larger effort to confront and overcome the impact of COVID-19.",
+                "fallback": "Register to Download Ventilator Files",
+                "from_url": "https://www.medtronic.com/us-en/e/open-files.html?cmpid=vanity_url_medtronic_com_openventilator_Corp_US_Covid19_FY20",
+                "service_icon": "https://www.medtronic.com/content/dam/medtronic-com/apple-touch-icon-precomposed.png",
+                "service_name": "medtronic.com",
+                "id": 1,
+                "original_url": "https://www.medtronic.com/us-en/e/open-files.html?cmpid=vanity_url_medtronic_com_openventilator_Corp_US_Covid19_FY20"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9f2f279-7da8-4ff6-b8ab-b67fe1704570",
+        "type": "message",
+        "text": "Sure, its <#C010YCACFKN|proj-hotel-vacancy>  right? And yes once I get the testing done I'll add Amharic so that more people benefit from it.",
+        "user": "U01150H1NF8",
+        "ts": "1585768719.222800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0p4zG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, its "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010YCACFKN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  right? And yes once I get the testing done I'll add Amharic so that more people benefit from it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585617952.169400",
+        "parent_user_id": "U01150H1NF8"
+    },
+    {
+        "client_msg_id": "2f9c6994-790d-437d-9749-b31bd811ea2c",
+        "type": "message",
+        "text": "Hey everyone, this may have already been covered, but I can't find any info in regards to it in the channel: is it worth building a \"corona virus rumours control\" type of website in line with what other govt. are doing? multiple languages and simple interface? -\n<https://www.fema.gov/coronavirus-rumor-control>\n\nI keep receiving multiple WhatsApp and telegram messages of fake info that is apparently \"valid and true info\" sent by the ministry, or embassy, or a doctor. It would be great if one could answer with just 1 link that points to how these infos have been dispelled.",
+        "user": "U0116DL92E9",
+        "ts": "1585770433.226500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Coronavirus Rumor Control | FEMA.gov",
+                "title_link": "https://www.fema.gov/coronavirus-rumor-control",
+                "text": "The purpose of this FEMA page is to help the public distinguish between rumors and facts regarding the response to coronavirus (COVID-19) pandemic. Rumors can easily circulate within communities during a crisis.\u00a0Do your part to the stop the spread of disinformation by doing three easy things:",
+                "fallback": "Coronavirus Rumor Control | FEMA.gov",
+                "from_url": "https://www.fema.gov/coronavirus-rumor-control",
+                "service_icon": "http://www.fema.gov/profiles/fema_gov/themes/unicorn/favicon.ico",
+                "service_name": "fema.gov",
+                "id": 1,
+                "original_url": "https://www.fema.gov/coronavirus-rumor-control"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AF2Ca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, this may have already been covered, but I can't find any info in regards to it in the channel: is it worth building a \"corona virus rumours control\" type of website in line with what other govt. are doing? multiple languages and simple interface? -\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.fema.gov/coronavirus-rumor-control"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI keep receiving multiple WhatsApp and telegram messages of fake info that is apparently \"valid and true info\" sent by the ministry, or embassy, or a doctor. It would be great if one could answer with just 1 link that points to how these infos have been dispelled."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVALAR52P",
+                    "U010BFECDT4",
+                    "U011870MD54"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "256DCA85-6BCF-469A-BC9B-54700B6CE2D7",
+        "type": "message",
+        "text": "Second this  - there is apparently a message going around telling ppl supermarkets will be closed within 48hrs - and it could lead ppl to panic and hoard ",
+        "user": "U010729GXR7",
+        "ts": "1585771335.228500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kFpK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Second this  - there is apparently a message going around telling ppl supermarkets will be closed within 48hrs - and it could lead ppl to panic and hoard "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

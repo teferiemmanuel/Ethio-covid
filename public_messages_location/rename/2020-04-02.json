@@ -1,0 +1,484 @@
+[
+    {
+        "client_msg_id": "883b1d8e-8b6e-43ec-98a4-88262fa44d21",
+        "type": "message",
+        "text": "So does that mean you have a scheduled meeting with CBE officials coming up?",
+        "user": "U0104F8P8US",
+        "ts": "1585789914.334700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SGEF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So does that mean you have a scheduled meeting with CBE officials coming up?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585735461.307300",
+        "parent_user_id": "U0112B1TNQ7"
+    },
+    {
+        "client_msg_id": "fc2686b3-6b35-4245-8a9d-5ead7b4bb818",
+        "type": "message",
+        "text": "Coronavirus Tech Handbook\u00a0is an open-source library pooling technologies and new organisational models for beating the pandemic\n<https://coronavirustechhandbook.com/home|https://coronavirustechhandbook.com/home>",
+        "user": "U010SKPP7CJ",
+        "ts": "1585791648.335200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Contents | Coronavirus Tech Handbook",
+                "title_link": "https://coronavirustechhandbook.com/home",
+                "text": "A crowdsourced set of tech, tools and data relating to the Coronavirus Pandemic",
+                "fallback": "Contents | Coronavirus Tech Handbook",
+                "image_url": "https://res.cloudinary.com/gived/image/upload/v1585313942/handbookpls/1585313942239.png",
+                "from_url": "https://coronavirustechhandbook.com/home",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 85032,
+                "service_name": "coronavirustechhandbook.com",
+                "id": 1,
+                "original_url": "https://coronavirustechhandbook.com/home"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+cDN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coronavirus Tech Handbook\u00a0is an open-source library pooling technologies and new organisational models for beating the pandemic\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://coronavirustechhandbook.com/home",
+                                "text": "https://coronavirustechhandbook.com/home"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585791648.335200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585841344.343000",
+        "reply_users": [
+            "UV6JHDP0S"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010EQU5E6N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U010WD6EW2V>  thank you for sharing the story here. And its a matured decision to not avail it on other social media ...coz it will degrade the trust of the ppl.. hopefully we we have guys from MOH in this slak to pick the info. I heard that the National Lab already noticed some issues on the current methods (PCR) and they are tooking QA measures .\nThere are also some initiatives to start Gene expert method ....hopefully that will strengthen the quality of the result. Btw PCR also one of the trusted methods for viral detection.",
+        "user": "U0100658QEP",
+        "ts": "1585792350.335500",
+        "thread_ts": "1585766225.323800",
+        "root": {
+            "type": "message",
+            "text": "",
+            "user": "U0106M26108",
+            "ts": "1585766225.323800",
+            "team": "TV5KELEUS",
+            "attachments": [
+                {
+                    "fallback": "[April 1st, 2020 11:26 AM] eseteg0: Good afternoon, my name is Dr.Esete Getachew. The 29th case the MOH announced today she is my close friend. She was quarantined on Monday at the Arabasa site. She was told yesterday that result was negative after less than 24 hours of taking sample and running the test and was sent home. Now today they called her and told her it was the wrong result. After they took her to Kotebe, five hours later the second test becomes positive. This kind of mistakes will cost us dearly. What if they didn't get the results early , what if she went to see her mother who is an Astmatic, diabetic person. How many people have e being sent back to the public with this kind of results. More measures should be taken.",
+                    "ts": "1585765599.125900",
+                    "author_id": "U010WD6EW2V",
+                    "author_subname": "Dr.Esete Getachew",
+                    "channel_id": "C010FQ25NES",
+                    "channel_name": "all-ask-for-help",
+                    "is_msg_unfurl": true,
+                    "text": "Good afternoon, my name is Dr.Esete Getachew. The 29th case the MOH announced today she is my close friend. She was quarantined on Monday at the Arabasa site. She was told yesterday that result was negative after less than 24 hours of taking sample and running the test and was sent home. Now today they called her and told her it was the wrong result. After they took her to Kotebe, five hours later the second test becomes positive. This kind of mistakes will cost us dearly. What if they didn't get the results early , what if she went to see her mother who is an Astmatic, diabetic person. How many people have e being sent back to the public with this kind of results. More measures should be taken.",
+                    "author_name": "Dr.Esete Getachew",
+                    "author_link": "https://ethiopia-covid19.slack.com/team/U010WD6EW2V",
+                    "author_icon": "https://secure.gravatar.com/avatar/ac821a5def38e2baa27043a9b149a06e.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://ethiopia-covid19.slack.com/archives/C010FQ25NES/p1585765599125900",
+                    "is_share": true,
+                    "footer": "Posted in #all-ask-for-help"
+                }
+            ],
+            "thread_ts": "1585766225.323800",
+            "reply_count": 18,
+            "reply_users_count": 6,
+            "latest_reply": "1585792350.335500",
+            "reply_users": [
+                "U0106M26108",
+                "U0107JERE9L",
+                "U010WD6EW2V",
+                "U0101KKMPFC",
+                "U010CLFURT8",
+                "U0100658QEP"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zgj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010WD6EW2V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  thank you for sharing the story here. And its a matured decision to not avail it on other social media ...coz it will degrade the trust of the ppl.. hopefully we we have guys from MOH in this slak to pick the info. I heard that the National Lab already noticed some issues on the current methods (PCR) and they are tooking QA measures .\nThere are also some initiatives to start Gene expert method ....hopefully that will strengthen the quality of the result. Btw PCR also one of the trusted methods for viral detection."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "691b3134-3917-4dd2-8af4-d08bebc85a91",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0100NR1PDY",
+                    "U010WD6EW2V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b62131de-a835-430d-9de0-0cd155547d3a",
+        "type": "message",
+        "text": "Good morning ,I got hold of Dr.Ebba and he said there was error on documentation and they are trying to solve it.",
+        "user": "U010WD6EW2V",
+        "ts": "1585810282.338100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KqYQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good morning ,I got hold of Dr.Ebba and he said there was error on documentation and they are trying to solve it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9bdde7dd-483b-413c-a5df-25ff64203900",
+        "type": "message",
+        "text": "Hi All, FYI Covid19 donations for Ethiopia Response via airtime can happen through these options <https://www.ethioremit.com/>. Service is from Ethio Telecom <@U010B7Q6XE0>",
+        "user": "UV81AMFSP",
+        "ts": "1585816999.339200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV81AMFSP",
+            "ts": "1585817144.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D3D8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All, FYI Covid19 donations for Ethiopia Response via airtime can happen through these options "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.ethioremit.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Service is from Ethio Telecom "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA",
+                    "UVB9ZSPCH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17f437ee-98ba-4eaa-b641-dc67149e1056",
+        "type": "message",
+        "text": "Pluralsight is going free for the month of April...A good opportunity for us in the industry and maybe for those who are staying home, out of work and looking to switch career.\n\n<https://www.pluralsight.com/offer/2020/free-april-month>",
+        "user": "U01085512G5",
+        "ts": "1585834535.340600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Free April Month",
+                "title_link": "https://www.pluralsight.com/offer/2020/free-april-month",
+                "fallback": "Free April Month",
+                "image_url": "https://www.pluralsight.com/content/pluralsight/en/offer/2020/free-april-month/jcr:content/image-res/file.transform/share-image/image.img.503c811c-4df2-4b19-bcbb-3ebd0e6004b9.jpg",
+                "from_url": "https://www.pluralsight.com/offer/2020/free-april-month",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 28955,
+                "service_icon": "https://www.pluralsight.com/etc/clientlibs/pluralsight/main/images/favicons/apple-touch-icon-57x57.png",
+                "service_name": "pluralsight.com",
+                "id": 1,
+                "original_url": "https://www.pluralsight.com/offer/2020/free-april-month"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=qy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pluralsight is going free for the month of April...A good opportunity for us in the industry and maybe for those who are staying home, out of work and looking to switch career.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.pluralsight.com/offer/2020/free-april-month"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U0103EHQLEM",
+                    "UVB9ZSPCH",
+                    "U010Z23J5CL",
+                    "UV6JHDP0S"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UVAL943JP",
+                    "U010EQU5E6N",
+                    "U0104F8P8US"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6afb13cf-b9e5-44a7-94b1-cb53d487dfa6",
+        "type": "message",
+        "text": "#\u12ae\u126a\u12f519 \u120b\u12ed \u1324\u1293 \u121a\u1292\u1235\u1274\u122d \u12e8\u121a\u12eb\u12c8\u1323\u1278\u12cd\u1295 \u12c8\u1245\u1273\u12ca \u1218\u1228\u1303\u12ce\u127d \u1208\u1218\u12a8\u1273\u1270\u120d \u1260\u121a\u12a8\u1270\u1208\u12cd \u121b\u1235\u1348\u1295\u1320\u122a\u12eb \u12ed\u1320\u1240\u1219\u1361 <http://www.covid19.et|http://www.covid19.et>\n\nKeep up to date with the latest information on #COVID19 through the Ministry of Health updates platform: <http://www.covid19.et|http://www.covid19.et>\n\n#PMOEthiopia",
+        "user": "U010Z23J5CL",
+        "ts": "1585839258.342000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3NApm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#\u12ae\u126a\u12f519 \u120b\u12ed \u1324\u1293 \u121a\u1292\u1235\u1274\u122d \u12e8\u121a\u12eb\u12c8\u1323\u1278\u12cd\u1295 \u12c8\u1245\u1273\u12ca \u1218\u1228\u1303\u12ce\u127d \u1208\u1218\u12a8\u1273\u1270\u120d \u1260\u121a\u12a8\u1270\u1208\u12cd \u121b\u1235\u1348\u1295\u1320\u122a\u12eb \u12ed\u1320\u1240\u1219\u1361 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.covid19.et",
+                                "text": "http://www.covid19.et"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nKeep up to date with the latest information on #COVID19 through the Ministry of Health updates platform: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.covid19.et",
+                                "text": "http://www.covid19.et"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n#PMOEthiopia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585839258.342000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585840046.342200",
+        "reply_users": [
+            "U01085512G5"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "afd58076-805e-400e-8702-f6d8b1011574",
+        "type": "message",
+        "text": "Maybe not a big deal but the favicon on the community registration site (<https://community.covid19.et/>)  has VueJS's logo.  Probably better to switch to what the other sites are using (<https://passengers.covid19.et/favicon.ico>)",
+        "user": "U01085512G5",
+        "ts": "1585840046.342200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2hv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe not a big deal but the favicon on the community registration site ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://community.covid19.et/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")  has VueJS's logo.  Probably better to switch to what the other sites are using ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://passengers.covid19.et/favicon.ico"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585839258.342000",
+        "parent_user_id": "U010Z23J5CL"
+    },
+    {
+        "client_msg_id": "3e4fa32f-ba66-4fd8-8269-022979e1c468",
+        "type": "message",
+        "text": "Open source ventilation design DIY  <https://news.vanderbilt.edu/2020/03/27/vu-engineers-and-vumc-doctors-team-up-for-open-source-ventilator-design/?fbclid=IwAR35rACRD2ll1WSfil8Dk6cy3rHJNA-qL5YFXuqheH33XneJY6daXMYccYc|https://news.vanderbilt.edu/2020/03/27/vu-engineers-and-vumc-doctors-team-up-for-open-source-ventilator-design/?fbclid=IwAR35rACRD2ll1WSfil8Dk6cy3rHJNA-qL5YFXuqheH33XneJY6daXMYccYc>",
+        "user": "U010Z23J5CL",
+        "ts": "1585841231.342800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Vanderbilt University",
+                "title": "VU engineers and VUMC doctors team up for open-source ventilator design",
+                "title_link": "https://news.vanderbilt.edu/2020/03/27/vu-engineers-and-vumc-doctors-team-up-for-open-source-ventilator-design/?fbclid=IwAR35rACRD2ll1WSfil8Dk6cy3rHJNA-qL5YFXuqheH33XneJY6daXMYccYc",
+                "text": "As COVID-19 continues to push unprecedented challenges on medical communities, one of the most pressing threats for hospital staff across the country is a dwindling supply of ventilators. Now, an interdisciplinary team of Vanderbilt University and Vanderbilt University Medical Center faculty is taking on the challenge by way of a fabricated, open-source ventilator design.",
+                "fallback": "Vanderbilt University: VU engineers and VUMC doctors team up for open-source ventilator design",
+                "image_url": "https://cdn.vanderbilt.edu/vu-news/files/20200327125431/20200325JH009_Medium_res_comp.png",
+                "from_url": "https://news.vanderbilt.edu/2020/03/27/vu-engineers-and-vumc-doctors-team-up-for-open-source-ventilator-design/?fbclid=IwAR35rACRD2ll1WSfil8Dk6cy3rHJNA-qL5YFXuqheH33XneJY6daXMYccYc",
+                "image_width": 489,
+                "image_height": 250,
+                "image_bytes": 484250,
+                "service_icon": "https://www.vanderbilt.edu/favicon.ico",
+                "id": 1,
+                "original_url": "https://news.vanderbilt.edu/2020/03/27/vu-engineers-and-vumc-doctors-team-up-for-open-source-ventilator-design/?fbclid=IwAR35rACRD2ll1WSfil8Dk6cy3rHJNA-qL5YFXuqheH33XneJY6daXMYccYc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FV5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Open source ventilation design DIY  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://news.vanderbilt.edu/2020/03/27/vu-engineers-and-vumc-doctors-team-up-for-open-source-ventilator-design/?fbclid=IwAR35rACRD2ll1WSfil8Dk6cy3rHJNA-qL5YFXuqheH33XneJY6daXMYccYc",
+                                "text": "https://news.vanderbilt.edu/2020/03/27/vu-engineers-and-vumc-doctors-team-up-for-open-source-ventilator-design/?fbclid=IwAR35rACRD2ll1WSfil8Dk6cy3rHJNA-qL5YFXuqheH33XneJY6daXMYccYc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a41488d6-0e45-4425-af29-f818a6432420",
+        "type": "message",
+        "text": "<@U0107A7161E>",
+        "user": "UV6JHDP0S",
+        "ts": "1585841344.343000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q3lfl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585791648.335200",
+        "parent_user_id": "U010SKPP7CJ"
+    }
+]

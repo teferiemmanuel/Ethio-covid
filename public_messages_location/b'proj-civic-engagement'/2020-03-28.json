@@ -1,0 +1,233 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585390015.000200",
+        "user": "U010SBSQC9K",
+        "text": "<@U010SBSQC9K> has joined the channel"
+    },
+    {
+        "client_msg_id": "bfc2be0f-4928-4a70-b5af-2ffb1a1bb6bc",
+        "type": "message",
+        "text": "Hello everyone, my name is Jaroslav and I would love to join the efforts here cause I believe that is essential to stay organized and scale the best practices here to other worthwhile initiatives worldwide. A quick intro about me - 2+ yrs of consulting / business experience (Google, Hilti, Startups), Currently associate product manager in a B2B Valley startup. My timezone is CET (Amsterdam, Prague).",
+        "user": "U010SBSQC9K",
+        "ts": "1585390925.008200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, my name is Jaroslav and I would love to join the efforts here cause I believe that is essential to stay organized and scale the best practices here to other worthwhile initiatives worldwide. A quick intro about me - 2+ yrs of consulting / business experience (Google, Hilti, Startups), Currently associate product manager in a B2B Valley startup. My timezone is CET (Amsterdam, Prague)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c5582b4-6522-4755-bae9-46e2e3712839",
+        "type": "message",
+        "text": "<@U0107A7161E> or <@U0106M26108> can you please maybe add to the group description (Or add automated message) with how/when you communicate + link to the drive/wiki/notion or wherever you operate? It would help the newly incoming volunteers such as me get quickly up to speed since I cannot find anything about this group neither on the drive nor on github.",
+        "user": "U010SBSQC9K",
+        "ts": "1585391187.010300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=q3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you please maybe add to the group description (Or add automated message) with how/when you communicate + link to the drive/wiki/notion or wherever you operate? It would help the newly incoming volunteers such as me get quickly up to speed since I cannot find anything about this group neither on the drive nor on github."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585412738.010700",
+        "user": "U010KKKAAKW",
+        "text": "<@U010KKKAAKW> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585414820.011700",
+        "user": "U01022PTXA7",
+        "text": "<@U01022PTXA7> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "1749459d-c5fc-4913-8d40-6d69d8a30112",
+        "type": "message",
+        "text": "<@U010SBSQC9K> thanks for joining! This is actually a new effort so there is no previous work done in this area",
+        "user": "U0107A7161E",
+        "ts": "1585414838.012100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R5ygV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010SBSQC9K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for joining! This is actually a new effort so there is no previous work done in this area"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https://docs.google.com/spreadsheets/d/15hkhdtGNzx7oHkO8Y2MOiY83JsHjqxL4MhMGvlA_J6I/edit#gid=579623365>",
+        "files": [
+            {
+                "id": "F010P4F7SGY",
+                "created": 1585070741,
+                "timestamp": 1585070741,
+                "name": "Coronavirus Solutions (Responses)",
+                "title": "Coronavirus Solutions (Responses)",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0107A7161E",
+                "editable": false,
+                "size": 135954,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/15hkhdtGNzx7oHkO8Y2MOiY83JsHjqxL4MhMGvlA_J6I/edit#gid=579623365",
+                "thumb_64": "https://a.slack-edge.com/80588/img/files/gsheet_64.png",
+                "thumb_360": "https://a.slack-edge.com/80588/img/files/gsheet_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107A7161E/F010P4F7SGY/coronavirus_solutions__responses_",
+                "is_starred": false,
+                "external_id": "15hkhdtGNzx7oHkO8Y2MOiY83JsHjqxL4MhMGvlA_J6I",
+                "external_url": "https://docs.google.com/spreadsheets/d/15hkhdtGNzx7oHkO8Y2MOiY83JsHjqxL4MhMGvlA_J6I/edit#gid=579623365",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vy6h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/15hkhdtGNzx7oHkO8Y2MOiY83JsHjqxL4MhMGvlA_J6I/edit#gid=579623365"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "x_files": [
+            "F010P4F7SGY"
+        ],
+        "ts": "1585415175.012500",
+        "client_msg_id": "2419e294-e2a2-4bc5-960f-d664e2cdb8dd"
+    },
+    {
+        "client_msg_id": "792cce17-35b2-4570-8acd-6d1d6abf1a44",
+        "type": "message",
+        "text": "who is already out there?\nwhat is being shared? how are they sharing it?\nwhat resources are still is needed? and by whom?",
+        "user": "U0107A7161E",
+        "ts": "1585415311.013200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1585415334.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A10",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "who is already out there?\nwhat is being shared? how are they sharing it?\nwhat resources are still is needed? and by whom?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0107A7161E",
+        "ts": "1585416613.014300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Harvard Business Review",
+                "title": "Lessons from Italy\u2019s Response to Coronavirus",
+                "title_link": "https://hbr.org/2020/03/lessons-from-italys-response-to-coronavirus",
+                "text": "Policymakers around the world can avoid making the same mistakes while there\u2019s still time.",
+                "fallback": "Harvard Business Review: Lessons from Italy\u2019s Response to Coronavirus",
+                "image_url": "https://hbr.org/resources/images/article_assets/2020/03/Mar20_30_1207568834.jpg",
+                "ts": 1585349147,
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 441942,
+                "service_icon": "https://hbr.org/resources/images/favicon.ico",
+                "id": 1,
+                "original_url": "https://hbr.org/2020/03/lessons-from-italys-response-to-coronavirus",
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0106S0JS4C/p1585401765052800?thread_ts=1585401765052800&cid=C0106S0JS4C",
+                "is_share": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585125212.000200",
+        "user": "U010EJ90XSM",
+        "text": "<@U010EJ90XSM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Hello <!channel> Do any of you know if these call centers are only to give information about the virus? do they have medical team that could ask people for their symptoms and give suggestions like Tele Health?. Will the IVR system involve medical teams?",
+        "files": [
+            {
+                "id": "F010EGN3U9H",
+                "created": 1585154628,
+                "timestamp": 1585154628,
+                "name": "Screen Shot 2020-03-25 at 12.40.07 PM.png",
+                "title": "Screen Shot 2020-03-25 at 12.40.07 PM.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UVAL943JP",
+                "editable": false,
+                "size": 603259,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010EGN3U9H/screen_shot_2020-03-25_at_12.40.07_pm.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010EGN3U9H/download/screen_shot_2020-03-25_at_12.40.07_pm.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010EGN3U9H-d6147d9ef2/screen_shot_2020-03-25_at_12.40.07_pm_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010EGN3U9H-d6147d9ef2/screen_shot_2020-03-25_at_12.40.07_pm_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010EGN3U9H-d6147d9ef2/screen_shot_2020-03-25_at_12.40.07_pm_360.png",
+                "thumb_360_w": 290,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010EGN3U9H-d6147d9ef2/screen_shot_2020-03-25_at_12.40.07_pm_480.png",
+                "thumb_480_w": 386,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010EGN3U9H-d6147d9ef2/screen_shot_2020-03-25_at_12.40.07_pm_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010EGN3U9H-d6147d9ef2/screen_shot_2020-03-25_at_12.40.07_pm_720.png",
+                "thumb_720_w": 579,
+                "thumb_720_h": 720,
+                "image_exif_rotation": 1,
+                "original_w": 584,
+                "original_h": 726,
+                "thumb_tiny": "AwAwACZ3yZOf50mE9aZ3NKp69PxpWMbjwEHeg7PWk5z0T86TsOBTsUA27uP507j1qJPvU+qsK431oQZJ4B+tHegEDORmkhDsHd9xT+NJjgfL29aUbepxn6GmnHoaqwxqfep9MT71PqrAgywzg4pQxA5yfxpvOWycY9utL26nP0qEMUvk9/zppcnoBQNw/wD1U8Ku1SWwSeeOlVYCNBzUmKaM7yBkj1xTvm9D+VA7H//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/UVAL943JP/F010EGN3U9H/screen_shot_2020-03-25_at_12.40.07_pm.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010EGN3U9H-20e307c7d7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eC2NL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do any of you know if these call centers are only to give information about the virus? do they have medical team that could ask people for their symptoms and give suggestions like Tele Health?. Will the IVR system involve medical teams?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UVAL943JP",
+        "display_as_bot": false,
+        "ts": "1585154632.000800",
+        "edited": {
+            "user": "UVAL943JP",
+            "ts": "1585154664.000000"
+        },
+        "client_msg_id": "d30e500f-9ec6-47d4-b209-87dfb0fdb3a2",
+        "thread_ts": "1585154632.000800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585863873.007800",
+        "reply_users": [
+            "U0105ALMEKU",
+            "UVAL943JP"
+        ],
+        "subscribed": false
+    }
+]

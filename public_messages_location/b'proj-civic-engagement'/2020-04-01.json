@@ -1,0 +1,997 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585707697.007800",
+        "user": "U0115KDPTQC",
+        "text": "<@U0115KDPTQC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585735583.008100",
+        "user": "U010SKPP7CJ",
+        "text": "<@U010SKPP7CJ> has joined the channel"
+    },
+    {
+        "client_msg_id": "a4e7e043-1692-47d9-861d-46481ce09f39",
+        "type": "message",
+        "text": "<!here> this is the link to the form for project leads to fill out on their work and their progress: <https://forms.gle/z4cvytvNKt8M8q5E8>",
+        "user": "U0107A7161E",
+        "ts": "1585755191.009100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "Master Project List",
+                "title_link": "https://forms.gle/z4cvytvNKt8M8q5E8",
+                "text": "This form is for all team leads please fill out this form if you are pursuing a project related to Ethiopia COVID19 Response effort.",
+                "fallback": "Google Docs: Master Project List",
+                "image_url": "https://lh6.googleusercontent.com/EY4HEceDH7zzsFKqIGIui5OTogMC4qhihAa5zC9D8mSvendRNHPEYhtwpJiK6Dn2uSKg5TQ",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https://forms.gle/z4cvytvNKt8M8q5E8",
+                "image_bytes": 81318,
+                "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+                "id": 1,
+                "original_url": "https://forms.gle/z4cvytvNKt8M8q5E8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1q/=7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is the link to the form for project leads to fill out on their work and their progress: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://forms.gle/z4cvytvNKt8M8q5E8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1585762395.022600",
+        "reply_users": [
+            "U0107A7161E",
+            "U0106M26108",
+            "U0107JERE9L"
+        ],
+        "subscribed": false,
+        "pinned_to": [
+            "C010HJ1JF42"
+        ],
+        "pinned_info": {
+            "channel": "C010HJ1JF42",
+            "pinned_by": "U0107A7161E",
+            "pinned_ts": 1585796812
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54891629-8d82-4a94-b2ae-1b60cab51d3b",
+        "type": "message",
+        "text": "<@U0106M26108> can you pls share this in the broadcast channel?",
+        "user": "U0107A7161E",
+        "ts": "1585755205.009300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FTvsm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you pls share this in the broadcast channel?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "3c1179fc-5fa2-464e-a63d-eb8edae60a79",
+        "type": "message",
+        "text": "All I needed was the form.",
+        "user": "U0106M26108",
+        "ts": "1585755230.009500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kn8X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All I needed was the form."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cfa16d7-c05b-4c11-ab99-8657acd195d4",
+        "type": "message",
+        "text": "Can we add that this is to include all members of this task force that have been working on projects that have yet to be shared.",
+        "user": "U0106M26108",
+        "ts": "1585755300.009800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VnFY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we add that this is to include all members of this task force that have been working on projects that have yet to be shared."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "733f216b-65c0-4db3-b52e-8a433c29e691",
+        "type": "message",
+        "text": "Hi, \nLessons learned from  Germany and why there is low death rate \n\n- Early detection , tracing and isolation \n- Preparedness of Helath care institutions \n-Awareness and social distancing\n\n- Patients median age is 47 ( 70% all reported cases are among Younger population compared to older population in Italy)\nPostmortem test tests weren't done for suspected cases while Italy reported so\n\nHow would we project Ethiopia scenario? \nHelath care system preparedness and awareness.\n<https://www.livescience.com/germany-coronavirus-deaths-so-low.html|https://www.livescience.com/germany-coronavirus-deaths-so-low.html>",
+        "user": "U010SKPP7CJ",
+        "ts": "1585756268.019900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "livescience.com",
+                "title": "Why is Germany's COVID-1 death rate so much lower than other countries?",
+                "title_link": "https://www.livescience.com/germany-coronavirus-deaths-so-low.html",
+                "text": "And they are risking infecting their patients along the way.",
+                "fallback": "livescience.com: Why is Germany's COVID-1 death rate so much lower than other countries?",
+                "image_url": "https://cdn.mos.cms.futurecdn.net/Lcz4kTJUrVjWM9nfHfNnhi-1200-80.jpg",
+                "image_width": 444,
+                "from_url": "https://www.livescience.com/germany-coronavirus-deaths-so-low.html",
+                "image_height": 250,
+                "image_bytes": 171187,
+                "service_icon": "https://vanilla.futurecdn.net/livescience/171349/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https://www.livescience.com/germany-coronavirus-deaths-so-low.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0GhP+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, \nLessons learned from  Germany and why there is low death rate \n\n- Early detection , tracing and isolation \n- Preparedness of Helath care institutions \n-Awareness and social distancing\n\n- Patients median age is 47 ( 70% all reported cases are among Younger population compared to older population in Italy)\nPostmortem test tests weren't done for suspected cases while Italy reported so\n\nHow would we project Ethiopia scenario? \nHelath care system preparedness and awareness.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.livescience.com/germany-coronavirus-deaths-so-low.html",
+                                "text": "https://www.livescience.com/germany-coronavirus-deaths-so-low.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee73784a-3ef0-4505-a281-29d0e8ba3297",
+        "type": "message",
+        "text": "<!here> let's meet at 1:30PM EST (35 min from now) <https://mit.zoom.us/j/9235867808>",
+        "user": "U0107A7161E",
+        "ts": "1585759492.020800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zgNG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let's meet at 1:30PM EST (35 min from now) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://mit.zoom.us/j/9235867808"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd471cbe-fc6a-4fbd-a75f-8baa218cde4a",
+        "type": "message",
+        "text": "Hey, <@U0107A7161E>, did you send this out? Still editing the doc.",
+        "user": "U0106M26108",
+        "ts": "1585761910.021000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mPfkV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", did you send this out? Still editing the doc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "e73d9003-db1c-45ed-a41e-1976457db61e",
+        "type": "message",
+        "text": "Looks like <@U0107JERE9L> got to it.",
+        "user": "U0106M26108",
+        "ts": "1585761924.021200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JBga",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " got to it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "fb1ed148-ab70-4c29-b999-90262c62d8b8",
+        "type": "message",
+        "text": "lmk when its ready!",
+        "user": "U0107A7161E",
+        "ts": "1585761954.021400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1585761972.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k7K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lmk when its ready!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "387ee40b-7f6b-446e-bec2-09ee8cb61828",
+        "type": "message",
+        "text": "not sure how she got it",
+        "user": "U0107A7161E",
+        "ts": "1585761957.021600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SiVib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not sure how she got it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "d06bce7c-7a06-4b6a-8123-d9afb2b6a59a",
+        "type": "message",
+        "text": "<@U0107JERE9L> quick nshet lol.",
+        "user": "U0106M26108",
+        "ts": "1585761975.021900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R+0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " quick nshet lol."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "b862172a-7c4b-4af4-865e-88d73192ca1a",
+        "type": "message",
+        "text": "jk she is in this channel",
+        "user": "U0107A7161E",
+        "ts": "1585761997.022100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CpS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jk she is in this channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "a223413f-4e0e-4a13-b1d1-d7ad2d3d5e73",
+        "type": "message",
+        "text": "I saw this <@U0107A7161E>\n\n<https://app.slack.com/team/U0107A7161E|Samra>\u00a0\u00a0[11:33 AM]\n*@here* this is the link to the form for project leads to fill out on their work and their progress: <https://forms.gle/z4cvytvNKt8M8q5E8>",
+        "user": "U0107JERE9L",
+        "ts": "1585762007.022300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "ECRT Master Project List",
+                "title_link": "https://forms.gle/z4cvytvNKt8M8q5E8",
+                "text": "Please fill out this form if you are a team lead or POC on a project catered to Ethiopia's COVID19 Response. The purpose of this form is to include all members of this task force working on these efforts, which includes projects that have been shared, along with projects that have not or still in development. We want to know how we can all better support.",
+                "fallback": "Google Docs: ECRT Master Project List",
+                "image_url": "https://lh6.googleusercontent.com/EY4HEceDH7zzsFKqIGIui5OTogMC4qhihAa5zC9D8mSvendRNHPEYhtwpJiK6Dn2uSKg5TQ",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https://forms.gle/z4cvytvNKt8M8q5E8",
+                "image_bytes": 81318,
+                "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+                "id": 1,
+                "original_url": "https://forms.gle/z4cvytvNKt8M8q5E8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0nrQQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I saw this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://app.slack.com/team/U0107A7161E",
+                                "text": "Samra"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0\u00a0[11:33 AM]\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "@here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is the link to the form for project leads to fill out on their work and their progress: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://forms.gle/z4cvytvNKt8M8q5E8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "e5b2d287-022c-4287-aafc-a120beac73e9",
+        "type": "message",
+        "text": "Hahaha, she shared this link for THIS team to work on, girl! You in this channel as ops haha. It wasn\u2019t to share. But oh well, we can adjust.",
+        "user": "U0106M26108",
+        "ts": "1585762395.022600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1585762532.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZCU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahaha, she shared this link for THIS team to work on, girl! You in this channel as ops haha. It wasn\u2019t to share. But oh well, we can adjust."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755191.009100",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "9cce34c4-0b8d-44a5-a962-5c3ef2f4d83c",
+        "type": "message",
+        "text": "<@U0107A7161E> Quick summary of steps being taking today by myself and Jaroslav. While we wait for responses to the form to come in: Jaroslav will work the first blog post and a template for different blog posts. I'll layout a simple proposal for how we want the first few page of the website to be structured/linked and draft a framework for how to categorize the different interventions/tools the task force is working on. We should have drafts of all of this by EOD EST today. Then we can review/revise tomorrow and begin to populate with content.",
+        "user": "U010L27MB25",
+        "ts": "1585763485.026000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l4y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Quick summary of steps being taking today by myself and Jaroslav. While we wait for responses to the form to come in: Jaroslav will work the first blog post and a template for different blog posts. I'll layout a simple proposal for how we want the first few page of the website to be structured/linked and draft a framework for how to categorize the different interventions/tools the task force is working on. We should have drafts of all of this by EOD EST today. Then we can review/revise tomorrow and begin to populate with content."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585763485.026000",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1585766967.029700",
+        "reply_users": [
+            "U0107A7161E",
+            "U010SKPP7CJ"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d74d2ebc-ab54-4fbe-a24e-bee695444498",
+        "type": "message",
+        "text": "sounds great! please also update the tasklist",
+        "user": "U0107A7161E",
+        "ts": "1585763605.026300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ieNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sounds great! please also update the tasklist"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585763485.026000",
+        "parent_user_id": "U010L27MB25"
+    },
+    {
+        "client_msg_id": "e22608ce-d225-4322-9fea-49add2b1d86e",
+        "type": "message",
+        "text": "JK I see that you already are :)",
+        "user": "U0107A7161E",
+        "ts": "1585763619.026500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sSwLr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "JK I see that you already are :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585763485.026000",
+        "parent_user_id": "U010L27MB25"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585766675.026900",
+        "user": "U010729GXR7",
+        "text": "<@U010729GXR7> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "602A0464-5430-416B-8515-868601638231",
+        "type": "message",
+        "text": "Hi all! happy to help where I can! Deborah here - live in London and work in development finance/project management ",
+        "user": "U010729GXR7",
+        "ts": "1585766847.028200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0cU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! happy to help where I can! Deborah here - live in London and work in development finance/project management "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8cc6ed73-6e3c-44cd-9b1d-5246644b35ae",
+        "type": "message",
+        "text": "<@U010SKPP7CJ> once this is ready, I'll have more concrete tasks for you",
+        "user": "U0107A7161E",
+        "ts": "1585766886.028300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CJV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010SKPP7CJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " once this is ready, I'll have more concrete tasks for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585763485.026000",
+        "parent_user_id": "U010L27MB25"
+    },
+    {
+        "client_msg_id": "c32d7937-8adf-48e0-8c5d-b5646d5bea2c",
+        "type": "message",
+        "text": "Thanks <@U0107A7161E>  looking forward to it",
+        "user": "U010SKPP7CJ",
+        "ts": "1585766967.029700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j8hj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  looking forward to it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585763485.026000",
+        "parent_user_id": "U010L27MB25"
+    },
+    {
+        "client_msg_id": "0dca21d1-ecdb-4494-89fd-588cedfe0276",
+        "type": "message",
+        "text": "Can we find a time for a standing call starting tomorrow? I am thinking 12:30PM EST -- Lmk what time works best for you <@U010SBSQC9K> <@U010L27MB25> <@U010729GXR7> <@U010SKPP7CJ> <@U011A8DEPL6>",
+        "user": "U0107A7161E",
+        "ts": "1585767391.030300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1585768758.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we find a time for a standing call starting tomorrow? I am thinking 12:30PM EST -- Lmk what time works best for you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010SBSQC9K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L27MB25"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010729GXR7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010SKPP7CJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011A8DEPL6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585767391.030300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585903950.060600",
+        "reply_users": [
+            "U010L27MB25",
+            "U010729GXR7"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010SKPP7CJ",
+                    "U010SBSQC9K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6ffefef-72ef-43a8-932f-c0c7a9cd0156",
+        "type": "message",
+        "text": "It works for me :)",
+        "user": "U010SKPP7CJ",
+        "ts": "1585767431.030700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJ+z7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It works for me :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585769875.031200",
+        "user": "U011A8DEPL6",
+        "text": "<@U011A8DEPL6> has joined the channel"
+    },
+    {
+        "client_msg_id": "5AF4AFB8-2B0D-4F7D-9AB0-C1F950D39B21",
+        "type": "message",
+        "text": "Works for me too",
+        "user": "U010729GXR7",
+        "ts": "1585771213.031700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kfX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Works for me too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585771803.031900",
+        "user": "U010PF746SY",
+        "text": "<@U010PF746SY> has joined the channel"
+    },
+    {
+        "client_msg_id": "F3231A58-E6A7-40BE-8C3F-F2969C3728DB",
+        "type": "message",
+        "text": "I reached out to this group, still waiting to hear from them\n\n\n<https://cchubnigeria.com/africacdc-cchub-educate-africa-covid19/|https://cchubnigeria.com/africacdc-cchub-educate-africa-covid19/>",
+        "user": "U010PF746SY",
+        "ts": "1585772542.033100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Co-Creation Hub Nigeria (CcHUB)",
+                "title": "Africa CDC joins forces with Co-Creation Hub to use Smart ways to Educate and Sensitize the Continent on COVID-19 - Co-Creation Hub Nigeria (CcHUB)",
+                "title_link": "https://cchubnigeria.com/africacdc-cchub-educate-africa-covid19/",
+                "text": "Africa CDC and CcHUB to launch a call, for innovative communication projects on COVID-19 based on indigenous African languages targeted at the semi-urban and rural population across Africa.",
+                "fallback": "Co-Creation Hub Nigeria (CcHUB): Africa CDC joins forces with Co-Creation Hub to use Smart ways to Educate and Sensitize the Continent on COVID-19 - Co-Creation Hub Nigeria (CcHUB)",
+                "image_url": "https://cchubnigeria.com/wp-content/uploads/2018/04/CCHUB-logo.png",
+                "ts": 1585319964,
+                "from_url": "https://cchubnigeria.com/africacdc-cchub-educate-africa-covid19/",
+                "image_width": 964,
+                "image_height": 250,
+                "image_bytes": 107840,
+                "service_icon": "https://cchubnigeria.com/wp-content/uploads/2018/03/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https://cchubnigeria.com/africacdc-cchub-educate-africa-covid19/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mBrnV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I reached out to this group, still waiting to hear from them\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://cchubnigeria.com/africacdc-cchub-educate-africa-covid19/",
+                                "text": "https://cchubnigeria.com/africacdc-cchub-educate-africa-covid19/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585772542.033100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585799814.037500",
+        "reply_users": [
+            "U010L27MB25"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "reminder_add",
+        "text": " set up a reminder \u201cfor daily civic-engagement standup call tomorrow @\u201d in this channel at 12:30PM tomorrow, Eastern Daylight Time.",
+        "user": "U0107A7161E",
+        "ts": "1585773121.033400"
+    }
+]

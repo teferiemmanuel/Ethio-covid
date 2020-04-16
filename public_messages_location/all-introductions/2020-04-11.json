@@ -1,0 +1,494 @@
+[
+    {
+        "client_msg_id": "cf560925-c5b1-440e-9686-80c2f7ea1bcb",
+        "type": "message",
+        "text": "Hi <@U011ASPP6AK>, I would very much like to talk with you. We can provide support by hosting some content on IVR, that way you can reach people without android devices or access to internet.",
+        "user": "U010VSAKD1S",
+        "ts": "1586593247.317400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wSs8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011ASPP6AK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I would very much like to talk with you. We can provide support by hosting some content on IVR, that way you can reach people without android devices or access to internet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585899666.068900",
+        "parent_user_id": "U011ASPP6AK"
+    },
+    {
+        "client_msg_id": "f01e6f4e-cf39-4d30-886d-9b4e60094d2f",
+        "type": "message",
+        "text": "<!here> Hi everyone!\nMy name is Anteneh. I am a software developer living in Milan. I have experience in PHP and Java, worked on projects mainly related to e-commerce and online payments.\nI made this tools weeks ago to monitor the reports integrated with PMO API, and set to automatically update itself.\n<http://covid19-ethiopia.qulph.com/>\n\nI can join any effort related to my experience, I can specifically help on integrating required features from my implementation to  one we build together",
+        "user": "U011CJW7GA3",
+        "ts": "1586643113.322700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dul7u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi everyone!\nMy name is Anteneh. I am a software developer living in Milan. I have experience in PHP and Java, worked on projects mainly related to e-commerce and online payments.\nI made this tools weeks ago to monitor the reports integrated with PMO API, and set to automatically update itself.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://covid19-ethiopia.qulph.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI can join any effort related to my experience, I can specifically help on integrating required features from my implementation to  one we build together"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586643113.322700",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1586879023.367000",
+        "reply_users": [
+            "U010RM5TX1R",
+            "U011CJW7GA3",
+            "U0109ELFV4Y",
+            "UVAL943JP",
+            "UV81AMFSP"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010RM5TX1R",
+                    "UVAL943JP",
+                    "U01076AUPNE",
+                    "U0129DCDU72",
+                    "U0105C7GP08",
+                    "U010K3X390E",
+                    "U011CG5MBC7",
+                    "UV81AMFSP"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "272B6485-AC5E-4E40-8415-8A394D3CE1FD",
+        "type": "message",
+        "text": "<@UV6JHDP0S> ",
+        "user": "U0107A7161E",
+        "ts": "1586644234.322900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xngf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585124660.033400",
+        "parent_user_id": "U010EJ90XSM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e50410c-f3f8-41fa-b4cd-15b40081d99e",
+        "type": "message",
+        "text": "Hi <@U011CJW7GA3> that is really interesting! This is the first graphical report tool that I have seen on Ethiopia. Do you think it will be possible to add the daily test that is being made and where it is done. Especially with the new initiation of doing the door to door testing, it will be really helpful to have some kind of graphical representation of it. I think <@UVALAR52P> is working on a similar tool.",
+        "user": "U010RM5TX1R",
+        "ts": "1586645197.323200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sMDS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011CJW7GA3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that is really interesting! This is the first graphical report tool that I have seen on Ethiopia. Do you think it will be possible to add the daily test that is being made and where it is done. Especially with the new initiation of doing the door to door testing, it will be really helpful to have some kind of graphical representation of it. I think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVALAR52P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is working on a similar tool."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586643113.322700",
+        "parent_user_id": "U011CJW7GA3"
+    },
+    {
+        "client_msg_id": "082b11e0-9cd9-48c2-9ddc-115c215e126e",
+        "type": "message",
+        "text": "Selam <@U010RM5TX1R>\nyea, i intentionally hide it as the data available is only for the past week. When the data is complete or if someone can help me get it, sure it will be available with a graph showing the trend. thanks for the feedback!",
+        "user": "U011CJW7GA3",
+        "ts": "1586645603.323400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EH8Ni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Selam "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010RM5TX1R"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nyea, i intentionally hide it as the data available is only for the past week. When the data is complete or if someone can help me get it, sure it will be available with a graph showing the trend. thanks for the feedback!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586643113.322700",
+        "parent_user_id": "U011CJW7GA3"
+    },
+    {
+        "client_msg_id": "33011833-98bf-42bd-92be-5b6e92091166",
+        "type": "message",
+        "text": "Welcome! Do you have Ruby skills? <@UV6JHDP0S>",
+        "user": "U0107A7161E",
+        "ts": "1586646019.323700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1586646039.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ThTn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome! Do you have Ruby skills? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586529776.312000",
+        "parent_user_id": "U011G6KGR0E"
+    },
+    {
+        "client_msg_id": "e62aaf7f-222c-46dc-9fa3-2c8c4f59a739",
+        "type": "message",
+        "text": "<@U010L1RJMUN>",
+        "user": "U0107A7161E",
+        "ts": "1586646091.324000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "alp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586332899.246100",
+        "parent_user_id": "U011LN8QHNV"
+    },
+    {
+        "client_msg_id": "1da3017a-ad5f-46f7-8027-519c0171abbc",
+        "type": "message",
+        "text": "Hi <@U011CJW7GA3>, awesome work! Can you join the <#C0106BWK8AX|surveillance-viz> team working on visualizations and dashboard? <@U01078QCG2C>",
+        "user": "U0109ELFV4Y",
+        "ts": "1586646219.324200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0109ELFV4Y",
+            "ts": "1586646259.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJ56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011CJW7GA3"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", awesome work! Can you join the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0106BWK8AX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " team working on visualizations and dashboard? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586643113.322700",
+        "parent_user_id": "U011CJW7GA3"
+    },
+    {
+        "client_msg_id": "b28f6945-ffef-49d8-a423-44c6ba51b649",
+        "type": "message",
+        "text": "hello <@U011DKAR6SZ>! <@U010CLFURT8> <@U010R3YB3CL>",
+        "user": "U0107A7161E",
+        "ts": "1586646228.324400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RSPLc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011DKAR6SZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010CLFURT8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010R3YB3CL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586115085.186300",
+        "parent_user_id": "U011DKAR6SZ"
+    },
+    {
+        "client_msg_id": "c810abbb-0ea1-49a7-86c7-bd9df322f1bb",
+        "type": "message",
+        "text": "sure mogishe, i am in there",
+        "user": "U011CJW7GA3",
+        "ts": "1586646593.324700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aB0hT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure mogishe, i am in there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586643113.322700",
+        "parent_user_id": "U011CJW7GA3",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0109ELFV4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3961047c-338b-45ba-8676-f97207ed600e",
+        "type": "message",
+        "text": "<@UV8B0679P>",
+        "user": "UVAL943JP",
+        "ts": "1586647014.325100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5H80n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586643113.322700",
+        "parent_user_id": "U011CJW7GA3"
+    },
+    {
+        "client_msg_id": "c5f528f8-83f1-4106-8823-8aa276e6a6d8",
+        "type": "message",
+        "text": "Hi <@U011DKAR6SZ> thank you! Looking forward to working with you. <@UVALWD1MG> want to loop Neima in translating the copy for the commercial post for early next week. I think David is sending you the English version and we'll need translated copy! <@U011DKAR6SZ> talk to you soon!",
+        "user": "U010CLFURT8",
+        "ts": "1586647298.325300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sa1P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011DKAR6SZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you! Looking forward to working with you. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVALWD1MG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " want to loop Neima in translating the copy for the commercial post for early next week. I think David is sending you the English version and we'll need translated copy! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011DKAR6SZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " talk to you soon!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586115085.186300",
+        "parent_user_id": "U011DKAR6SZ"
+    }
+]

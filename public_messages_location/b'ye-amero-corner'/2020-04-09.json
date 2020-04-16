@@ -1,0 +1,316 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586412506.000200",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1586412507.000300",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> set the channel purpose: Guided meditation by our very own Yogi <@UVALWD1MG>!",
+        "purpose": "Guided meditation by our very own Yogi <@UVALWD1MG>!"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586412545.000500",
+        "user": "UVALWD1MG",
+        "text": "<@UVALWD1MG> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586412545.000700",
+        "user": "U0107A7161E",
+        "text": "<@U0107A7161E> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586412545.000900",
+        "user": "UV6JHDP0S",
+        "text": "<@UV6JHDP0S> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586412545.001100",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586412545.001300",
+        "user": "U010GUEQVPF",
+        "text": "<@U010GUEQVPF> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "client_msg_id": "7CF6385C-1D52-4858-AF58-71030C4AA9B0",
+        "type": "message",
+        "text": ":fire::fire:",
+        "user": "U0107A7161E",
+        "ts": "1586412562.001500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A1uaH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "fire"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "595C4B1E-361A-400E-8908-31D0B3234F58",
+        "type": "message",
+        "text": "Here\u2019s the first share!",
+        "user": "UVALWD1MG",
+        "ts": "1586416870.001800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "99E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here\u2019s the first share!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9FFA6991-366D-4274-91B6-8FDFC6B2CE5F",
+        "type": "message",
+        "text": "<https://youtu.be/inpok4MKVLM|https://youtu.be/inpok4MKVLM>",
+        "user": "UVALWD1MG",
+        "ts": "1586416874.002000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "5-Minute Meditation You Can Do Anywhere",
+                "title_link": "https://youtu.be/inpok4MKVLM",
+                "author_name": "Goodful",
+                "author_link": "https://www.youtube.com/channel/UCEMArgthHuEtX-04qL_8puQ",
+                "thumb_url": "https://i.ytimg.com/vi/inpok4MKVLM/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 5-Minute Meditation You Can Do Anywhere",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/inpok4MKVLM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/inpok4MKVLM",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/inpok4MKVLM"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qfo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/inpok4MKVLM",
+                                "text": "https://youtu.be/inpok4MKVLM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586416874.002000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586452937.000900",
+        "reply_users": [
+            "U0106M26108",
+            "UVALWD1MG"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E",
+                    "U0106M26108"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman_in_lotus_position::skin-tone-4",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23F03C49-4370-484D-89D2-E3FF36BCDA0B",
+        "type": "message",
+        "text": "Only 5mins :) rest your mind ",
+        "user": "UVALWD1MG",
+        "ts": "1586416889.002500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=XIAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Only 5mins :) rest your mind "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CB9BE190-A72A-40F6-B6CC-F4E183E0DBED",
+        "type": "message",
+        "text": ":heart_eyes::heart_eyes::heart_eyes:",
+        "user": "U010GUEQVPF",
+        "ts": "1586438001.000200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JvXb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "UVALWD1MG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd0cb73e-4bb5-41ad-94c4-192bd2999c39",
+        "type": "message",
+        "text": "DONE! :white_check_mark:",
+        "user": "U0106M26108",
+        "ts": "1586450945.000500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "madf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DONE! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586416874.002000",
+        "parent_user_id": "UVALWD1MG"
+    },
+    {
+        "client_msg_id": "aa89197f-b850-4e50-9aef-3759ab486299",
+        "type": "message",
+        "text": "Yes girl!",
+        "user": "UVALWD1MG",
+        "ts": "1586452937.000900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qwKU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes girl!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586416874.002000",
+        "parent_user_id": "UVALWD1MG"
+    }
+]

@@ -1,0 +1,623 @@
+[
+    {
+        "client_msg_id": "8f93c2e2-3282-4746-9eb9-0539c0be2519",
+        "type": "message",
+        "text": "Are there any architecture diagrams or discussions on an interface for unifying the bots?",
+        "user": "U010L4EAWBZ",
+        "ts": "1586669207.089500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uhR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are there any architecture diagrams or discussions on an interface for unifying the bots?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "1b797320-1dc5-4494-bd7e-4cdec06654d0",
+        "type": "message",
+        "text": "Hey <@U010L4EAWBZ>, that's great thinking and it's certainly my hope as well. Having said that, it's clear to me that we're still a couple steps behind that today. More specifically, we have yet to define a common set of features/use-cases that each bot developer has signed off on. As such, I want to first get a sense of what each bot/site does today before solidifying next steps (ex. defining common user-flows, unifying tech across bots/sites, etc...).\n\nWe're essentially working in reverse right now because most of us started developing bots independently and then joined this group with the intent of unifying our approach. This is okay, but we do need to polish up our approach before \"going live\". For ex - we shouldn't have different bots per platform for different purposes. We should have a single bot per platform that addresses multiple use-cases. And, all bots should generally provide the same set of services or at least build towards that. I can confirm that's certainly not the case today.\n\nIn parallel to this effort here, I'm sketching up a requirements doc for all of us to sign-off on as we build these services.",
+        "user": "U0105ALMEKU",
+        "ts": "1586671468.089700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "81C0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L4EAWBZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", that's great thinking and it's certainly my hope as well. Having said that, it's clear to me that we're still a couple steps behind that today. More specifically, we have yet to define a common set of features/use-cases that each bot developer has signed off on. As such, I want to first get a sense of what each bot/site does today before solidifying next steps (ex. defining common user-flows, unifying tech across bots/sites, etc...).\n\nWe're essentially working in reverse right now because most of us started developing bots independently and then joined this group with the intent of unifying our approach. This is okay, but we do need to polish up our approach before \"going live\". For ex - we shouldn't have different bots per platform for different purposes. We should have a single bot per platform that addresses multiple use-cases. And, all bots should generally provide the same set of services or at least build towards that. I can confirm that's certainly not the case today.\n\nIn parallel to this effort here, I'm sketching up a requirements doc for all of us to sign-off on as we build these services."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U010L4EAWBZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31197a8f-546e-4931-ae9f-c451914ddf58",
+        "type": "message",
+        "text": "I think having that clarity/vision would be fantastic. Let me know if you want to collaborate on a broader design/interface, I'm happy to help.",
+        "user": "U010L4EAWBZ",
+        "ts": "1586672588.090000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hTJW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think having that clarity/vision would be fantastic. Let me know if you want to collaborate on a broader design/interface, I'm happy to help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "A8332072-7DA1-4250-B5EC-0BE3540D8CBB",
+        "type": "message",
+        "text": "Sounds great, <@U010L4EAWBZ>! I'll have an initial draft of the doc ready to share with this group within the day. I'll share and early draft with you before sharing with the wider group.",
+        "user": "U0105ALMEKU",
+        "ts": "1586705843.091900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sKzrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds great, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L4EAWBZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I'll have an initial draft of the doc ready to share with this group within the day. I'll share and early draft with you before sharing with the wider group."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "edd416fa-581f-4e10-a48c-b563a8767096",
+        "type": "message",
+        "text": "Great! I m confused with lots of ideas. Most of all what i need is the accpetance of MOH than rocking the boat.",
+        "user": "UV6JJDDKL",
+        "ts": "1586714242.092100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QQ44F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great! I m confused with lots of ideas. Most of all what i need is the accpetance of MOH than rocking the boat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "BE898D77-F8A3-46E6-803D-A34B74E8CF73",
+        "type": "message",
+        "text": "Agreed <@UV6JJDDKL>! Alignment with MoH is essential for these bots. I've called that out in the requirements doc I'm developing.",
+        "user": "U0105ALMEKU",
+        "ts": "1586714498.093600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j342N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JJDDKL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Alignment with MoH is essential for these bots. I've called that out in the requirements doc I'm developing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "2db95624-f292-45e6-8b02-25be975ef18a",
+        "type": "message",
+        "text": "That's it. For example i have two types of work in progress mimiced based onnWHO's and channel's/mine. So if we get the requirements approved we build the wright stuff. <@UV8B0679P> lets put some standard <@U0105ALMEKU> :clap::clap:\n\nEdited: mimicked bot designs",
+        "user": "UV6JJDDKL",
+        "ts": "1586714694.093800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV6JJDDKL",
+            "ts": "1586714757.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ikp=3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's it. For example i have two types of work in progress mimiced based onnWHO's and channel's/mine. So if we get the requirements approved we build the wright stuff. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " lets put some standard "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105ALMEKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEdited: mimicked bot designs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "900C2DE3-B7CC-44AB-9CC0-68D078A002E3",
+        "type": "message",
+        "text": "So to add a little more context to this thread;\n\n\n1. The bots we are building are meant to be generally available to other African countries and not just Ethiopia\n2. The motto here is \u201cspeed over perfection\u201d \u2014 this is a moment that shipping is more important than just about anything. So my suggestion is not to focus too much about that does not get us closer to shipping. A pretty useful product right now is something that\u2019s in people\u2019s hand today.\n3. The data structure of the bots are defined already; please look at the api-gateway repo on our GitHub",
+        "user": "UV8B0679P",
+        "ts": "1586716151.098700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV8B0679P",
+            "ts": "1586716219.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M=/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So to add a little more context to this thread;\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The bots we are building are meant to be generally available to other African countries and not just Ethiopia"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The motto here is \u201cspeed over perfection\u201d \u2014 this is a moment that shipping is more important than just about anything. So my suggestion is not to focus too much about that does not get us closer to shipping. A pretty useful product right now is something that\u2019s in people\u2019s hand today."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The data structure of the bots are defined already; please look at the api-gateway repo on our GitHub"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JJDDKL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f795f2a5-2b9b-4332-8738-4b0dac4d1f4c",
+        "type": "message",
+        "text": "@mike so in any case,i guess its okay with #api ,but for local cosumption local langues are default. Do you suggest default language should be English?\n\nThanks",
+        "user": "UV6JJDDKL",
+        "ts": "1586716609.099400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WXXR/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@mike so in any case,i guess its okay with #api ,but for local cosumption local langues are default. Do you suggest default language should be English?\n\nThanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "7B944FAC-39EB-44C5-AF9C-B6D48F8354CB",
+        "type": "message",
+        "text": "No - so all bots right now use i18n ",
+        "user": "UV8B0679P",
+        "ts": "1586717390.100100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2xw27",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No - so all bots right now use i18n "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "2C176B6C-B32C-40D8-AD3F-26A6C9283CA8",
+        "type": "message",
+        "text": "So it can be translated and defaulted to any language the local community want",
+        "user": "UV8B0679P",
+        "ts": "1586717411.100800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1an9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So it can be translated and defaulted to any language the local community want"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "b7789010-3fcd-4ee3-aee7-621f0dc0fc2a",
+        "type": "message",
+        "text": "Copied.",
+        "user": "UV6JJDDKL",
+        "ts": "1586717459.101000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mkw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Copied."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "8cce51c4-f008-4ea7-8a90-0bcc0966d2c8",
+        "type": "message",
+        "text": "Hey <@UV8B0679P>,\n\nJust wanted to respond to your points:",
+        "user": "U0105ALMEKU",
+        "ts": "1586722179.101300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B5Gi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nJust wanted to respond to your points:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "1da9d989-73e0-4dc7-af08-3151fb6e78aa",
+        "type": "message",
+        "text": "1. Sounds good.\n2. Agreed, but we need to make sure that people understand what's getting into their hands. That's the idea behind the tracker. The requirements doc is about what should we strive for going forward.\n3. Hoping you could point me to the specific bot section within the <https://github.com/Ethiopia-COVID19/api-gateway|api-gateway GitHub>. I can't find bot-specific matierls there.",
+        "user": "U0105ALMEKU",
+        "ts": "1586722392.101500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/api-gateway",
+                "text": "Ethiopia CoVID-19 API Gateway",
+                "title": "Ethiopia-COVID19/api-gateway",
+                "footer": "<https://github.com/Ethiopia-COVID19/api-gateway|Ethiopia-COVID19/api-gateway>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585073210,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "5",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/api-gateway",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yJJu",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sounds good."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Agreed, but we need to make sure that people understand what's getting into their hands. That's the idea behind the tracker. The requirements doc is about what should we strive for going forward."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hoping you could point me to the specific bot section within the "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://github.com/Ethiopia-COVID19/api-gateway",
+                                        "text": "api-gateway GitHub"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". I can't find bot-specific matierls there."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "4506DB0F-ABF1-4FC1-AD71-F93D3B14A315",
+        "type": "message",
+        "text": "<@U0105ALMEKU> - check out the data structure: <https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure|https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure> section",
+        "user": "UV8B0679P",
+        "ts": "1586724442.102500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[Ethiopia-COVID19/api-gateway] README.md",
+                "text": "```\n&lt;!--\ntitle: 'Ethiopia COVID-19 API Gateway'\ndescription: 'This API will be utilised by all applications that need to write/retrieve Ethiopia Covid19 data. E.g. covid19.et project will use it to retrieve data for dashboard and write data.'\nlayout: Doc\nframework: v1\nplatform: AWS\nlanguage: nodeJS\n--&gt;\n# API for writing/retrieving COVID-19 data\n\nThis API will be utilised by all applications that need to write/retrieve Ethiopia Covid19 data. E.g. [<http://covid19.et|covid19.et>](<https://github.com/Ethiopia-COVID19/Covid19.ET>) project will use it to retrieve data for dashboard and write data\n\n\n## Serverless REST API\n\nThis example demonstrates how to setup a [RESTful Web Services](<https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services>) allowing you to create, list, get, update and delete Community. DynamoDB is used to store the data. This is just an example and of course you could use any data storage as a backend.\n\n## [Structure](#structure)\n\nThis service has a separate directory for all the community operations. For each operation exactly one file exists e.g. `handler/delete.js`. In each of these files there is exactly one function which is directly attached to `module.exports`.\n\nThe idea behind the `communities` directory is that in case you want to create a service containing multiple resources e.g. users, notes, comments you could do so in the same service. While this is certainly possible you might consider creating a separate service for each resource. It depends on the use-case and your preference.\n\n### Use-cases\n\n- API for a Web Application\n- API for a Mobile Application\n\n### Setup\n\n```bash\nnpm install\n\n# To run locally\n# ----\n# Install MongoDB\nbrew install mongodb\n\n# Start MongoDB daemon (keep this running)\nmongod --dbpath &lt;PROJECT DIRECTORY&gt;mongo-db\n\n# In a new terminal\nnpm run dev\n```\n\n### Debug\nIn VSCODE: Activity Bar &gt; Run &gt; sls debug OR a shortcut is F5\n\n### Deploy\n\nIn order to deploy the endpoint simply run\n\n```bash\nserverless deploy\n```\n\nAPI Documentation\n<https://documenter.getpostman.com/view/370266/SzYW3L6e?version=latest>\n\n\n[![Run in Postman](<https://run.pstmn.io/button.svg>)](<https://app.getpostman.com/run-collection/64e612b7b58fd9352206>)\n\n---\n## [Auth Flow](#auth-flow)\n\n```\nclient_id = {value}\nclient_secret = {value}\n```\n\nPing @Naod on Slack to get the values above\n\nGenerate base64 key by using the `client_id` and `client_secret`\n\n```\n$ echo -n 'client_id:client_secret' | openssl base64\nNode example:\nconst AUTHORIZATION_KEY = Buffer.from('process.env.CLIENT_ID:process.env.CLIENT_SECRET').toString('base64')\n```\n\nSend a request to the auth endpoint to get an access token:\n\n```\ncurl --location --request POST '<https://et-covid20.auth.us-east-2.amazoncognito.com/oauth2/token>' \\\n--header 'Authorization: Basic abc123==' \\\n--header 'Content-Type: application/x-www-form-urlencoded' \\\n--data-urlencode 'grant_type=client_credentials'\n```\n\nresponse body:\n\n```\n{\n    \"access_token\": \"long_token_value\",\n    \"expires_in\": 3600,\n    \"token_type\": \"Bearer\"\n}\n```\n\nMake a request to the API:\n\n```\ncurl --location --request GET '<https://api.ethiopia-covid19.com/gateway/communities>' \\\n--header 'Authorization: Bearer long_string' \\\n--header 'Content-Type: application/json'\n```\n\nOnce you authenticate, use the `Access Token` as a `Bearer` authorization using Postman. \n\nIn case you expect a lot of traffic fluctuation we recommend to checkout this guide on how to auto scale DynamoDB [<https://aws.amazon.com/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/>](<https://aws.amazon.com/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/>)\n\nPlease note: This API supports the following types:\n- `communities`\n- `passengers`\n- `medical-facilities`\n- `surveillance`\n- `community-report`\n- `toll-free`\n---\n\n## [Data Structure](#data-structure)\n\n### Community\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"asdfa\",\n  \"lastName\": \"asdf\",\n  \"age\": \"5\",\n  \"sex\": \"Male\",\n  \"language\": \"\",\n  \"region\": \"Addis Ababa\",\n  \"subcityOrZone\": \"\",\n  \"sefer\": \"\",\n  \"woreda\": \"\",\n  \"kebele\": \"\",\n  \"houseNumber\": \"\",\n  \"phoneNumber\": \"1231231\",\n  \"latitude\": 38.9071923,\n  \"longitude\": -77.0368707,\n  \"fever\": true,\n  \"cough\": true,\n  \"shortnessOfBreath\": true,\n  \"formStatus\": \"Incomplete\",\n  \"travelHx\": true,\n  \"haveSex\": true,\n  \"animalMarket\": true,\n  \"healthFacility\": false,\n  \"occupation\": \"Merchant(Animal)\",\n  \"dataSource\": \"bot\"\n  \"fatigue\": false\n  \"underlyingConditions\": {\n    \"chronicLungDisease\": false,\n    \"heartDisease\": false,\n    \"liverDisease\": false,\n    \"renalDisease\": false,\n    \"autoimmuneDisease\": false,\n    \"cancer\": false,\n    \"diabetes\": false,\n    \"hiv\": false,\n    \"pregnancy\": false,\n  },\n}\n```\n\n### Passengers\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"asdfas\",\n  \"middleName\": \"dasdfas\",\n  \"lastName\": \"dasdfasd\",\n  \"gender\": \"Female\",\n  \"dateOfBirth\": \"0100-01-01\",\n  \"nationality\": \"\u00c5land Islands\",\n  \"passportNo\": \"asdfasdfa\",\n  \"travelFrom\": \"Algeria\",\n  \"phoneNumber\": \"sdfasdfasdfasdf\",\n  \"hotelName\": \"Ghion Hotel\",\n  \"flightNumber\": \"asdfas\",\n  \"seatNumber\": \"dfasdfasdf\",\n  \"transitFrom\": \"Albania\",\n  \"fever\": true,\n  \"shortnessOfBreath\": true,\n  \"cough\": true,\n  \"dependents\": [\n    {\n      \"firstName\": \"asdfasdf\",\n      \"middleName\": \"asdfasd\",\n      \"lastName\": \"fasdfasd\",\n      \"gender\": \"Female\",\n      \"dateOfBirth\": \"\",\n      \"nationality\": \"Albania\",\n      \"passportNo\": \"asdfasdf\",\n      \"seatNumber\": \"asdfasdfasda\",\n      \"fever\": true,\n      \"shortnessOfBreath\": true,\n      \"cough\": true,\n      \"travelFrom\": \"Algeria\",\n      \"transitFrom\": \"Albania\",\n      \"phoneNumber\": \"sdfasdfasdfasdf\",\n      \"flightNumber\": \"asdfas\",\n      \"selectedLanguage\": \"English\"\n    },\n    {\n      \"firstName\": \"asdfa\",\n      \"middleName\": \"sdfasdf\",\n      \"lastName\": \"asdfasdfa\",\n      \"gender\": \"Female\",\n      \"dateOfBirth\": \"3333-03-02\",\n      \"nationality\": \"\u00c5land Islands\",\n      \"passportNo\": \"asdfasdf\",\n      \"seatNumber\": \"asdfasdf\",\n      \"fever\": true,\n      \"shortnessOfBreath\": true,\n      \"cough\": true,\n      \"travelFrom\": \"Algeria\",\n      \"transitFrom\": \"Albania\",\n      \"phoneNumber\": \"sdfasdfasdfasdf\",\n      \"flightNumber\": \"asdfas\",\n      \"selectedLanguage\": \"English\"\n    }\n  ],\n  \"otherHotelName\": \"\",\n  \"email\": \"<mailto:asdfasdf@asdfa.com|asdfasdf@asdfa.com>\",\n  \"language\": \"\"\n  \"fatigue\": false\n  \"underlyingConditions\": {\n    \"chronicLungDisease\": false,\n    \"heartDisease\": false,\n    \"liverDisease\": false,\n    \"renalDisease\": false,\n    \"autoimmuneDisease\": false,\n    \"cancer\": false,\n    \"diabetes\": false,\n    \"hiv\": false,\n    \"pregnancy\": false,\n  }, \n  \"haveSex\": false,\n  \"animalMarket\": false\n  \"healthFacility\": false \n}\n```\n\n### Medical Facilities\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"string\",\n  \"middleName\": \"string\",\n  \"lastName\": \"string\",\n  \"nationality\": \"string\",\n  \"email\": \"string\",\n  \"sex\": \"string\",\n  \"age\": 0,\n  \"region\": \"string\",\n  \"subcity\": \"string\",\n  \"zone\": \"string\",\n  \"woreda\": \"string\",\n  \"kebele\": \"string\",\n  \"houseNumber\": \"string\",\n  \"phoneNumber\": \"string\",\n  \"occupation\": \"string\",\n  \"callDate\": \"2020-03-29T00:52:45.527Z\",\n  \"callerType\": \"string\",\n  \"fever\": true,\n  \"cough\": true,\n  \"headache\": true,\n  \"runnyNose\": true,\n  \"feelingUnwell\": true,\n  \"shortnessOfBreath\": true,\n  \"bodyPain\": true,\n  \"travelHx\": true,\n  \"haveSex\": true,\n  \"animalMarket\": true,\n  \"healthFacility\": true,\n  \"receiverName\": \"string\",\n  \"source\": \"string\",\n  \"formStatus\": \"string\"\n  \"fatigue\": false\n  \"underlyingConditions\": {\n    \"chronicLungDisease\": false,\n    \"heartDisease\": false,\n    \"liverDisease\": false,\n    \"renalDisease\": false,\n    \"autoimmuneDisease\": false,\n    \"cancer\": false,\n    \"diabetes\": false,\n    \"hiv\": false,\n    \"pregnancy\": false,\n  },\n}\n```\n\n### Toll Free\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"string\",\n  \"middleName\": \"string\",\n  \"lastName\": \"string\",\n  \"ag\u2026",
+                "title": "README.md",
+                "footer": "<https://github.com/Ethiopia-COVID19/api-gateway|Ethiopia-COVID19/api-gateway>",
+                "id": 1,
+                "title_link": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5rzT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105ALMEKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - check out the data structure: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure",
+                                "text": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure"
+                            },
+                            {
+                                "type": "text",
+                                "text": " section"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    }
+]

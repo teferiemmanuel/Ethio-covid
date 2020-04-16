@@ -1,0 +1,332 @@
+[
+    {
+        "client_msg_id": "7f46dbf2-b69b-4ea0-a713-2695d1df609a",
+        "type": "message",
+        "text": "Will do. Thx!",
+        "user": "UVALAR52P",
+        "ts": "1585790156.101000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D6cdr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do. Thx!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585770510.100200",
+        "parent_user_id": "UVALAR52P"
+    },
+    {
+        "client_msg_id": "041017e6-3326-493d-9de6-021ada3e9609",
+        "type": "message",
+        "text": "<https://www.africanews.com/2020/03/31/ethiopia-uganda-lead-in-global-searches-for-coronavirus-info-google/>",
+        "user": "UVALAR52P",
+        "ts": "1585824912.101400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Africanews",
+                "title": "Ethiopia, Uganda lead in global searches for coronavirus info: Google | Africanews",
+                "title_link": "https://www.africanews.com/2020/03/31/ethiopia-uganda-lead-in-global-searches-for-coronavirus-info-google/",
+                "text": "As of Monday 30th March 2020, Ethiopia was leading in global searches with a value of 100, which represents the peak popularity of a particular search term.",
+                "fallback": "Africanews: Ethiopia, Uganda lead in global searches for coronavirus info: Google | Africanews",
+                "image_url": "https://static.euronews.com/articles/1063901/1024x538_1063901.jpg?1585663565",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1585663565,
+                "from_url": "https://www.africanews.com/2020/03/31/ethiopia-uganda-lead-in-global-searches-for-coronavirus-info-google/",
+                "image_bytes": 141869,
+                "service_icon": "https://www.africanews.com/apple-touch-icon-57x57.png?v=3",
+                "id": 1,
+                "original_url": "https://www.africanews.com/2020/03/31/ethiopia-uganda-lead-in-global-searches-for-coronavirus-info-google/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z3Bqj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.africanews.com/2020/03/31/ethiopia-uganda-lead-in-global-searches-for-coronavirus-info-google/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0111LGLL9X",
+                "created": 1585837432,
+                "timestamp": 1585837432,
+                "name": "Correlation_between_universal_BCG_vaccination_policy_and_red.pdf",
+                "title": "Correlation_between_universal_BCG_vaccination_policy_and_red.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010P2VU7ND",
+                "editable": false,
+                "size": 376847,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0111LGLL9X/correlation_between_universal_bcg_vaccination_policy_and_red.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0111LGLL9X/download/correlation_between_universal_bcg_vaccination_policy_and_red.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F0111LGLL9X-1bae987e3b/correlation_between_universal_bcg_vaccination_policy_and_red_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010P2VU7ND/F0111LGLL9X/correlation_between_universal_bcg_vaccination_policy_and_red.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0111LGLL9X-3b8a6c71e2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U010P2VU7ND",
+        "display_as_bot": false,
+        "ts": "1585837443.101900",
+        "client_msg_id": "3e16fb23-cccf-4bfd-bab9-f5adb24545d8"
+    },
+    {
+        "client_msg_id": "03ad61b3-9bc0-40f4-9acd-5aceae449fbc",
+        "type": "message",
+        "text": "<http://www.coronavirustechhandbook.com>",
+        "user": "U010P2VU7ND",
+        "ts": "1585837981.102400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Contents | Coronavirus Tech Handbook",
+                "title_link": "http://www.coronavirustechhandbook.com/",
+                "text": "A crowdsourced set of tech, tools and data relating to the Coronavirus Pandemic",
+                "fallback": "Contents | Coronavirus Tech Handbook",
+                "image_url": "https://res.cloudinary.com/gived/image/upload/v1585313942/handbookpls/1585313942239.png",
+                "from_url": "http://www.coronavirustechhandbook.com/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 85032,
+                "service_name": "coronavirustechhandbook.com",
+                "id": 1,
+                "original_url": "http://www.coronavirustechhandbook.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LIof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http://www.coronavirustechhandbook.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd0f3bcd-a8cc-4a0c-b1c4-a12f1057d72a",
+        "type": "message",
+        "text": "<https://youtu.be/54XLXg4fYsc>",
+        "user": "U010P2VU7ND",
+        "ts": "1585838070.102700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "How To Tell If We're Beating COVID-19",
+                "title_link": "https://youtu.be/54XLXg4fYsc",
+                "author_name": "minutephysics",
+                "author_link": "https://www.youtube.com/user/minutephysics",
+                "thumb_url": "https://i.ytimg.com/vi/54XLXg4fYsc/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How To Tell If We're Beating COVID-19",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/54XLXg4fYsc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/54XLXg4fYsc",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/54XLXg4fYsc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j=e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/54XLXg4fYsc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66D8C7C4-1E19-4202-B2EF-BBAFDD30923B",
+        "type": "message",
+        "text": "<https://youtu.be/aaTljxQBDr0|https://youtu.be/aaTljxQBDr0>",
+        "user": "U010UM8QBQA",
+        "ts": "1585849437.103600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Governor Andrew Cuomo talks to his brother Chris Cuomo",
+                "title_link": "https://youtu.be/aaTljxQBDr0",
+                "author_name": "C-SPAN",
+                "author_link": "https://www.youtube.com/user/CSPAN",
+                "thumb_url": "https://i.ytimg.com/vi/aaTljxQBDr0/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Governor Andrew Cuomo talks to his brother Chris Cuomo",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/aaTljxQBDr0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/aaTljxQBDr0",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/aaTljxQBDr0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ybj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/aaTljxQBDr0",
+                                "text": "https://youtu.be/aaTljxQBDr0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "_\u201c$82 million will help\u00a0*Ethiopia*\u00a0address critical needs for COVID-19 preparedness and response, including the provision of vital medical equipment, health system capacity-building, and support to establish treatment centers.\u201d_\n\n<!channel>",
+        "user": "U0106M26108",
+        "ts": "1585863091.105000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1585863151.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "World Bank",
+                "title": "WBG Launches new Coronavirus Response",
+                "title_link": "https://www.worldbank.org/en/news/press-release/2020/04/02/world-bank-group-launches-first-operations-for-covid-19-coronavirus-emergency-health-support-strengthening-developing-country-responses",
+                "text": "The World Bank Group is launching an emergency package to help countries in every region respond to Coronavirus.",
+                "fallback": "World Bank: WBG Launches new Coronavirus Response",
+                "image_url": "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 60725,
+                "service_icon": "https://www.worldbank.org/content/dam/wbr-redesign/logos/wbg-favicon.png",
+                "id": 1,
+                "original_url": "https://www.worldbank.org/en/news/press-release/2020/04/02/world-bank-group-launches-first-operations-for-covid-19-coronavirus-emergency-health-support-strengthening-developing-country-responses",
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CV8GEDED8/p1585861138064600",
+                "is_share": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9=Etb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\u201c$82 million will help\u00a0",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ethiopia",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0address critical needs for COVID-19 preparedness and response, including the provision of vital medical equipment, health system capacity-building, and support to establish treatment centers.\u201d",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA",
+                    "U010EJ90XSM",
+                    "U0105C7GP08",
+                    "U0107A7161E",
+                    "U01161GMBNH"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

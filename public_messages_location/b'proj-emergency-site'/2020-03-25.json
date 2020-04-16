@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "faddd0de-d8eb-45e6-8d57-352a7617b289",
+        "type": "message",
+        "text": "Thanks! Hopefully this can be a useful  aggregator for quick updates, once the larger website goes live. Everything is ready to go, just waiting on content",
+        "user": "U010L2CFYUW",
+        "ts": "1585111592.000100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ioah",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! Hopefully this can be a useful  aggregator for quick updates, once the larger website goes live. Everything is ready to go, just waiting on content"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585087338.015300",
+        "parent_user_id": "U010L2CFYUW",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585112786.000400",
+        "user": "UVA8BCCBV",
+        "text": "<@UVA8BCCBV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585157636.000700",
+        "user": "UVD6SD63D",
+        "text": "<@UVD6SD63D> has joined the channel"
+    }
+]

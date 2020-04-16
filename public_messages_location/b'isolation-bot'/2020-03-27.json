@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585270369.000200",
+        "user": "UV7D89JGJ",
+        "text": "<@UV7D89JGJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585300859.000500",
+        "user": "U010VSALEJY",
+        "text": "<@U010VSALEJY> has joined the channel"
+    },
+    {
+        "client_msg_id": "67a472e7-2685-4e15-b253-b4fc61eed9a2",
+        "type": "message",
+        "text": "here are some ideas of technology that can help in this area. Via app or sms  - regular checkin mechanism?\n- Drip scheduled sms reminders?\n- Contact tracing?",
+        "user": "UV81AMFSP",
+        "ts": "1585322119.001100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qfSTT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here are some ideas of technology that can help in this area. Via app or sms  - regular checkin mechanism?\n- Drip scheduled sms reminders?\n- Contact tracing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,878 @@
+[
+    {
+        "client_msg_id": "557b57a0-3b02-4419-8c78-6585a8f04271",
+        "type": "message",
+        "text": "We\u2019re officially ~23 hours away from the end of the first #ethiohackscovid19 and the beginning of the Weekend Hackathon pitches!\n\nQuick update on the teams and what they need below. If you haven\u2019t gotten involved yet, *it\u2019s not too late*! What better way to spend your Sunday than creating some COVID things?! Head over here to sign up for a team :point_right::skin-tone-5: <http://bit.ly/ethiohackscovid19>. Please DM the team\u2019s lead(s) for more info OR click on the name of the team to join that <!channel>! :sunglasses:\n\n1)<https://ethiopia-covid19.slack.com/archives/C0106BWK8AX| Dashboard> - unified internal dashboard that shows real-time data on COVID-19 cases\n\u2022 Lead: <@U01078QCG2C>\n2) <https://ethiopia-covid19.slack.com/archives/C0104AYA6SX|CI/CD> - creating a streamlined process to deploy code using really cool AWS tooling - containers, Code Build, Code Pipeline, CloudFormation\n\u2022 Lead: <@UV6JHDP0S>\n3) <https://join.slack.com/share/I010YSXSWJU/tN0hka51xaD3TXdH4aFxoPsH/enQtMTAzMjkxNTkxNDY0MC0yNDVmMWI2ZGM5N2E0ZTI1OWZiNzhhMDEzZTI2OGJjMTEzYTI4OTQ0N2VlMTcyODM3MTczM2U5YmU1NGMzN2I5|API> - creating a single beautiful API to rule them all for critical systems to access and push data- forms, dashboards, bots, SMS\n\u2022 Lead: <@U0107JEKN0N> \n\u2022 `*HELP NEEDED:* With creating/tweaking endpoints using Node.js / AWS Lambda / DynamoDB`\n4) <https://ethiopia-covid19.slack.com/archives/C010GQS9HNY|Testing/QA> - ensuring critical forms for travelers and the general public actually work!\n\u2022 Lead: <@UVC2L182V>\n5) <https://join.slack.com/share/I010YCJLM44/rpBSupgCBKsT0vvnHzdz6yAF/enQtMTAzMjQyNjcwMTE0MC00ZGE4OWRlNjFkN2FlOTczYmY1ZjA2M2QwZWYxMDgxOTA3NTM5ZjUyM2IzOWVjOWJhODNjNWVjYzU0YWQzMjIw|Hotel Vacancy Project> - creating a bot to show hotel vacancies for travelers that need to be quarantined\n\u2022 Lead: <@U010MHWSRPH>\n\u2022 `*HELP NEEDED:* To help create a Telegram bot`\n~6) Static Site for COVID-19 Ethiopia info~\n\n7) <https://ethiopia-covid19.slack.com/archives/CVBQ5H16D|Content> - creating MOH-approved content and assets to raise awareness about COVID-19\n\u2022 Leads: <@UVALWD1MG> + <@U010CLFURT8>\n\u2022 `*HELP NEEDED: S*omeone with video/audio experience that can help us create content about COVID-19`\n8) <https://ethiopia-covid19.slack.com/archives/CV8GEDED8|Influencer/Media Marketing> - partnering with influencers to spread MOH-approved content for COVID-19 awareness (fyre fest style)\n\u2022 Lead: <@U0106M26108> \n9) <https://ethiopia-covid19.slack.com/archives/C010GQUEBSQ|DIY Gear> - creating protective gear for medical professionals and the public\n\u2022 Lead: <@U0107JERE9L>\n10) <https://ethiopia-covid19.slack.com/archives/C010W2ZJN6L|Medicine/Grocery Delivery> - partnering with established delivery services in Addis and helping with logistics and project management\n\u2022 Lead: <@U010B7Q6XE0>\n11) <https://ethiopia-covid19.slack.com/archives/C010VNXB4H2|Quarantine Center Development> - retrofitting older existing buildings like schools &amp; hotels to become quarantine centers\n\u2022 Lead: <@UVB9ZSPCH> + Association of Ethiopian Architects\n12) Strategy for sharing what we are producing, to be replicated in other countries\n\u2022 Lead: <@U0107A7161E>\n13) <https://ethiopia-covid19.slack.com/archives/C010P7122SD|Volunteer Training> - mobilizing and training community volunteers on the ground\n\u2022 Lead: <@U010B22ESES>",
+        "user": "U0106M26108",
+        "ts": "1585457882.091300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1585541373.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/pV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We\u2019re officially ~23 hours away from the end of the first #ethiohackscovid19 and the beginning of the Weekend Hackathon pitches!\n\nQuick update on the teams and what they need below. If you haven\u2019t gotten involved yet, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it\u2019s not too late",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "! What better way to spend your Sunday than creating some COVID things?! Head over here to sign up for a team "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://bit.ly/ethiohackscovid19"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Please DM the team\u2019s lead(s) for more info OR click on the name of the team to join that "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n1)"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0106BWK8AX",
+                                "text": " Dashboard"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - unified internal dashboard that shows real-time data on COVID-19 cases\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01078QCG2C"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n2) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0104AYA6SX",
+                                "text": "CI/CD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - creating a streamlined process to deploy code using really cool AWS tooling - containers, Code Build, Code Pipeline, CloudFormation\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "UV6JHDP0S"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n3) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://join.slack.com/share/I010YSXSWJU/tN0hka51xaD3TXdH4aFxoPsH/enQtMTAzMjkxNTkxNDY0MC0yNDVmMWI2ZGM5N2E0ZTI1OWZiNzhhMDEzZTI2OGJjMTEzYTI4OTQ0N2VlMTcyODM3MTczM2U5YmU1NGMzN2I5",
+                                "text": "API"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - creating a single beautiful API to rule them all for critical systems to access and push data- forms, dashboards, bots, SMS\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0107JEKN0N"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HELP NEEDED:",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " With creating/tweaking endpoints using Node.js / AWS Lambda / DynamoDB",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n4) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010GQS9HNY",
+                                "text": "Testing/QA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - ensuring critical forms for travelers and the general public actually work!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "UVC2L182V"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n5) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://join.slack.com/share/I010YCJLM44/rpBSupgCBKsT0vvnHzdz6yAF/enQtMTAzMjQyNjcwMTE0MC00ZGE4OWRlNjFkN2FlOTczYmY1ZjA2M2QwZWYxMDgxOTA3NTM5ZjUyM2IzOWVjOWJhODNjNWVjYzU0YWQzMjIw",
+                                "text": "Hotel Vacancy Project"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - creating a bot to show hotel vacancies for travelers that need to be quarantined\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U010MHWSRPH"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HELP NEEDED:",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " To help create a Telegram bot",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6) Static Site for COVID-19 Ethiopia info",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n7) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/CVBQ5H16D",
+                                "text": "Content"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - creating MOH-approved content and assets to raise awareness about COVID-19\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Leads: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "UVALWD1MG"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " + "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U010CLFURT8"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HELP NEEDED: S",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "omeone with video/audio experience that can help us create content about COVID-19",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n8) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/CV8GEDED8",
+                                "text": "Influencer/Media Marketing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - partnering with influencers to spread MOH-approved content for COVID-19 awareness (fyre fest style)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0106M26108"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n9) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010GQUEBSQ",
+                                "text": "DIY Gear"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - creating protective gear for medical professionals and the public\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0107JERE9L"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n10) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010W2ZJN6L",
+                                "text": "Medicine/Grocery Delivery"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - partnering with established delivery services in Addis and helping with logistics and project management\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U010B7Q6XE0"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n11) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010VNXB4H2",
+                                "text": "Quarantine Center Development"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - retrofitting older existing buildings like schools & hotels to become quarantine centers\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "UVB9ZSPCH"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " + Association of Ethiopian Architects"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n12) Strategy for sharing what we are producing, to be replicated in other countries\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0107A7161E"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n13) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010P7122SD",
+                                "text": "Volunteer Training"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - mobilizing and training community volunteers on the ground\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lead: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U010B22ESES"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C010695DKMM"
+        ],
+        "pinned_info": {
+            "channel": "C010695DKMM",
+            "pinned_by": "U0106M27EKS",
+            "pinned_ts": 1585457965
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M27EKS",
+                    "U01084NCN0G",
+                    "UV8B0679P",
+                    "U0107A7161E",
+                    "UV7D89JGJ",
+                    "U010EQU5E6N",
+                    "U010ZGCMX6Z",
+                    "U01076XHPC0",
+                    "U0107AYF16H",
+                    "U010B22ESES",
+                    "U0107JERE9L",
+                    "U01020VNEE7",
+                    "UVA8BCCBV"
+                ],
+                "count": 13
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0106M27EKS",
+                    "UV8B0679P",
+                    "U0107A7161E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U0106M27EKS",
+                    "UV8B0679P",
+                    "UVC2L182V",
+                    "U010ZGCMX6Z",
+                    "U01020VNEE7"
+                ],
+                "count": 5
+            },
+            {
+                "name": "github",
+                "users": [
+                    "U0106M27EKS",
+                    "UV8B0679P",
+                    "U010H87E9NF",
+                    "U0110RQQGT0",
+                    "U01076XHPC0"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ok_hand::skin-tone-5",
+                "users": [
+                    "U0106M27EKS",
+                    "UV8B0679P",
+                    "U010N3BFN4F",
+                    "U0107JE2S94",
+                    "U010ZGCMX6Z",
+                    "U0103PNQJ8J"
+                ],
+                "count": 6
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "U0106M27EKS",
+                    "UV8B0679P",
+                    "U010Z9NDLHW",
+                    "U010GM0PVTJ",
+                    "U010APHG8Q1",
+                    "U010ZGCMX6Z",
+                    "U01076XHPC0"
+                ],
+                "count": 7
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0106M27EKS",
+                    "UV8B0679P",
+                    "U010ZGCMX6Z",
+                    "U01020VNEE7",
+                    "U0103PNQJ8J"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010BLMU4AX",
+                    "U0103PNQJ8J",
+                    "U010SKPP7CJ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E882F677-DB4B-43EE-98C6-6CCCE337D92E",
+        "type": "message",
+        "text": "<!channel> :rotating_light::rotating_light: URGENT: We are looking for a two PHP developers to help push a product in the next 18 hours. (Must be able to commit at least 4 hours and must be dependable; Laravel PHP experience a plus) :rotating_light::rotating_light:\n\nDM me if you are that person? If not, can you help recruit someone you trust to help and have them DM me.",
+        "user": "UV8B0679P",
+        "ts": "1585504346.103100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mv2O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " URGENT: We are looking for a two PHP developers to help push a product in the next 18 hours. (Must be able to commit at least 4 hours and must be dependable; Laravel PHP experience a plus) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "DM me if you are that person? If not, can you help recruit someone you trust to help and have them DM me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585504346.103100",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1585587905.121100",
+        "reply_users": [
+            "U0106M26108",
+            "U0103EHQLEM",
+            "UV8B0679P",
+            "U010E0XSX4Y",
+            "UVAS4H073",
+            "U010P3WHTBN"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U010L0BFTTQ",
+                    "UVC69QERZ",
+                    "U010JAMHQUC",
+                    "U0106M26108",
+                    "UV9AYBY3C",
+                    "U010A0N4N0P",
+                    "U010JB58NSC",
+                    "U010ABS5JTW",
+                    "U010NURE9T2",
+                    "U0106M27EKS",
+                    "U010L4E6BK9",
+                    "UVB9ZSPCH",
+                    "UVAS4H073",
+                    "U010SKPP7CJ"
+                ],
+                "count": 15
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UV8B0679P",
+                    "U0107AYF16H",
+                    "U01112AP83Y",
+                    "U010H87E9NF",
+                    "U01087PJBNG",
+                    "U0106M27EKS",
+                    "U010MKNP6R2",
+                    "U0108PQ1SRH"
+                ],
+                "count": 8
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "UV8B0679P",
+                    "U0106M27EKS",
+                    "U0105C870AC",
+                    "UVB9ZSPCH"
+                ],
+                "count": 4
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UV8B0679P",
+                    "U0106M27EKS",
+                    "U010L4E6BK9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f3831ad-ad20-4c4e-8f2a-ef983bd254c1",
+        "type": "message",
+        "text": "<@UV8B0679P>, we got <@U01084NU2NL> in here to help!!!!!!",
+        "user": "U0106M26108",
+        "ts": "1585524603.111500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1585524611.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESXk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", we got "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in here to help!!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585504346.103100",
+        "parent_user_id": "UV8B0679P"
+    }
+]

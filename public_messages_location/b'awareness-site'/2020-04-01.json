@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "3d9617e5-6854-47a0-8b83-64817995f542",
+        "type": "message",
+        "text": "WELCOME <@U0115055LQP> looking forward to working with you.",
+        "user": "U010CLFURT8",
+        "ts": "1585701719.006700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IiT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WELCOME "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " looking forward to working with you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585692099.003600",
+        "parent_user_id": "U0106M26108",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0115055LQP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1585701803.006900",
+        "user": "UV6JHDP0S",
+        "text": "<@UV6JHDP0S> set the channel topic: <https://github.com/Ethiopia-COVID19/covid-19-homepage>",
+        "topic": "<https://github.com/Ethiopia-COVID19/covid-19-homepage>"
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "client_msg_id": "d3eb3504-48de-4248-9457-aebe3cc02e79",
+        "type": "message",
+        "text": "Hey <@U010NBXJN06> - Look at this video.\n<https://www.youtube.com/watch?v=8c5_soc6yK0&amp;feature=youtu.be>\n\nThe details of the parts are explained in the website but the part is made with 3D printing and the cloth part could be the HEPA material with high filtration. There is a lot of innovation with DIY gears on the web.",
+        "user": "U0107JERE9L",
+        "ts": "1585193144.008600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Reusable Face Mask with Fabric Seal",
+                "title_link": "https://www.youtube.com/watch?v=8c5_soc6yK0&amp;feature=youtu.be",
+                "author_name": "Chris Stanford",
+                "author_link": "https://www.youtube.com/user/clearlychris",
+                "thumb_url": "https://i.ytimg.com/vi/8c5_soc6yK0/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Reusable Face Mask with Fabric Seal",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/8c5_soc6yK0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=8c5_soc6yK0&amp;feature=youtu.be",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=8c5_soc6yK0&amp;feature=youtu.be"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cR56G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010NBXJN06"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Look at this video.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=8c5_soc6yK0&feature=youtu.be"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe details of the parts are explained in the website but the part is made with 3D printing and the cloth part could be the HEPA material with high filtration. There is a lot of innovation with DIY gears on the web."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078525.045700",
+        "parent_user_id": "U010NBXJN06",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U010NBXJN06"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "012e2b2c-0893-4721-9aab-951c42a2976f",
+        "type": "message",
+        "text": "Gotcha; are any chances to collaborate with other neighboring countries/facilities to maximize production capabilities?",
+        "user": "U0107JYJYD7",
+        "ts": "1585248380.012400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OrU4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gotcha; are any chances to collaborate with other neighboring countries/facilities to maximize production capabilities?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585098596.000500",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "51e56128-4585-42bb-9d84-6fa2368ee486",
+        "type": "message",
+        "text": "We are working on finding all the facilities within Ethiopia at this time. If that is able to work and we get approval to proceed with mass production, it may be a good idea to then expand that.",
+        "user": "U0107JERE9L",
+        "ts": "1585249017.012800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are working on finding all the facilities within Ethiopia at this time. If that is able to work and we get approval to proceed with mass production, it may be a good idea to then expand that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585098596.000500",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "78772cf9-3e43-4623-9ffe-e17ed51d0c99",
+        "type": "message",
+        "text": "I can look into that information and see what potential avenues are; I\u2019m still trying to get my bearings on where human resources are being directed",
+        "user": "U0107JYJYD7",
+        "ts": "1585249197.013000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wAf=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can look into that information and see what potential avenues are; I\u2019m still trying to get my bearings on where human resources are being directed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585098596.000500",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "75e861d1-02a5-4141-a21f-9386dadfc4bd",
+        "type": "message",
+        "text": "That would be great. If you are based in Addis or have contacts that can do this type of research, it would be great.\nThank you <@U0107JYJYD7>",
+        "user": "U0107JERE9L",
+        "ts": "1585263663.013200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BaM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That would be great. If you are based in Addis or have contacts that can do this type of research, it would be great.\nThank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JYJYD7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585098596.000500",
+        "parent_user_id": "U0107JYJYD7"
+    },
+    {
+        "client_msg_id": "73f08e67-199b-4498-9e55-bb299954467d",
+        "type": "message",
+        "text": "im based in the US",
+        "user": "U0107JYJYD7",
+        "ts": "1585263828.013400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQTqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im based in the US"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585098596.000500",
+        "parent_user_id": "U0107JYJYD7"
+    }
+]

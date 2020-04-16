@@ -1,0 +1,377 @@
+[
+    {
+        "client_msg_id": "dec9bbb5-5c18-4fe3-b77f-db254d5f434e",
+        "type": "message",
+        "text": "May want to change the date to Tuesday April 14th. :peace_symbol:",
+        "user": "U010K2675CP",
+        "ts": "1586566533.313900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wu/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "May want to change the date to Tuesday April 14th. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "peace_symbol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586561870.310700",
+        "parent_user_id": "U010N7HGNNR"
+    },
+    {
+        "client_msg_id": "65d93c3b-b0a6-458f-b343-14d92bd942b0",
+        "type": "message",
+        "text": "Yeaaa, this whole text needs editing. Waiting on <@U010N7HGNNR> to do so.",
+        "user": "U0106M26108",
+        "ts": "1586566638.314100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fZi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeaaa, this whole text needs editing. Waiting on "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010N7HGNNR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to do so."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586561870.310700",
+        "parent_user_id": "U010N7HGNNR"
+    },
+    {
+        "client_msg_id": "d6031a4c-4426-4c1d-a0d4-cfead1a73c43",
+        "type": "message",
+        "text": ":+1::heart:",
+        "user": "U010K2675CP",
+        "ts": "1586566673.314300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hV2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586561870.310700",
+        "parent_user_id": "U010N7HGNNR"
+    },
+    {
+        "client_msg_id": "f05e1c79-47f9-4d86-b528-1cf62446df7f",
+        "type": "message",
+        "text": "all-hands happening now--&gt; <https://mit.zoom.us/j/921756948>",
+        "user": "U0107A7161E",
+        "ts": "1586566821.314900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XWw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "all-hands happening now--> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://mit.zoom.us/j/921756948"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_up::skin-tone-5",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22b50189-c2a7-4733-9d76-3ab24e912f4f",
+        "type": "message",
+        "text": "The <#C010HJ1JF42|proj-civic-engagement> team has published our first blog post to our new blog <https://medium.com/africa-covid-19-response-toolkit|Africa COVID-19 Response Toolkit>!\u00a0 Thank you  for making this possible\u00a0\u00a0<@U010SBSQC9K>\u00a0<@U010L27MB25>\u00a0<@U010SKPP7CJ>\u00a0<@U011F7L4G8L>\u00a0<@U010729GXR7> <@U0106M27EKS> :clap::skin-tone-5::clap::skin-tone-5::clap::skin-tone-5::clap::skin-tone-5:\n\nPlease read, share with your networks... more post to follow!",
+        "user": "U0107A7161E",
+        "ts": "1586576296.318000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1586587387.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Africa COVID-19 Response Toolkit \u2013 Medium",
+                "title_link": "https://medium.com/africa-covid-19-response-toolkit",
+                "text": "A place for civic response group across Africa to share learnings, resources, and tools for tackling COVID-19. The goal is to connect people tackling similar challenges across the continent in order to improve and accelerate the response to COVID-19.",
+                "fallback": "Medium: Africa COVID-19 Response Toolkit \u2013 Medium",
+                "image_url": "https://cdn-images-1.medium.com/max/1200/1*qpwHUKu5jR4LKA4ina9LjQ.jpeg",
+                "from_url": "https://medium.com/africa-covid-19-response-toolkit",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 152813,
+                "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*qpwHUKu5jR4LKA4ina9LjQ.jpeg",
+                "id": 1,
+                "original_url": "https://medium.com/africa-covid-19-response-toolkit"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cNw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010HJ1JF42"
+                            },
+                            {
+                                "type": "text",
+                                "text": " team has published our first blog post to our new blog "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://medium.com/africa-covid-19-response-toolkit",
+                                "text": "Africa COVID-19 Response Toolkit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\u00a0 Thank you  for making this possible\u00a0\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010SBSQC9K"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L27MB25"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010SKPP7CJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011F7L4G8L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010729GXR7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M27EKS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPlease read, share with your networks... more post to follow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap::skin-tone-5",
+                "users": [
+                    "U010EQU5E6N",
+                    "U010DA5KZ3M",
+                    "U0106M26108",
+                    "U011ACKE2VD",
+                    "U01076AUPNE",
+                    "UVAL943JP",
+                    "U01069Z58V8",
+                    "UVB9ZSPCH",
+                    "U0105C870AC",
+                    "U0107A7161E",
+                    "U010SKPP7CJ",
+                    "U0106M27EKS",
+                    "U010986778X",
+                    "U0107JC5CCD"
+                ],
+                "count": 14
+            },
+            {
+                "name": "muscle::skin-tone-4",
+                "users": [
+                    "U011DGFS1HU",
+                    "U0106M26108",
+                    "U01069Z58V8",
+                    "UVB9ZSPCH",
+                    "U0106M27EKS",
+                    "U010VJ6A17W",
+                    "U0111JYSE23"
+                ],
+                "count": 7
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108",
+                    "U0103EHQLEM",
+                    "U01023RPHPU",
+                    "U01069Z58V8",
+                    "UVB9ZSPCH",
+                    "U010GUEQVPF",
+                    "U0106M27EKS",
+                    "UVA8BCCBV"
+                ],
+                "count": 8
+            },
+            {
+                "name": "woman-cartwheeling::skin-tone-4",
+                "users": [
+                    "U0106M26108",
+                    "UVB9ZSPCH",
+                    "U0106M27EKS",
+                    "U01087PJBNG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fist::skin-tone-4",
+                "users": [
+                    "U0106M26108",
+                    "UVB9ZSPCH",
+                    "U010E0E9Z19"
+                ],
+                "count": 3
+            },
+            {
+                "name": "earth_africa",
+                "users": [
+                    "U0106M26108",
+                    "UVB9ZSPCH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U010729GXR7",
+                    "U0105C870AC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

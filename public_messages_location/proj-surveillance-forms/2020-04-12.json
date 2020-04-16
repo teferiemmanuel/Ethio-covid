@@ -1,0 +1,776 @@
+[
+    {
+        "client_msg_id": "f802bff2-6e33-45cf-b554-93d20efb18cc",
+        "type": "message",
+        "text": "Hi <@U0109ELFV4Y>,  I have just pushed the implemented of this. Sent a PR and ready to proceed with more tasks? Thanks",
+        "user": "U010DH00BCM",
+        "ts": "1586685619.122100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ED1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",  I have just pushed the implemented of this. Sent a PR and ready to proceed with more tasks? Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586685619.122100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586708527.124700",
+        "reply_users": [
+            "U0109ELFV4Y",
+            "U010DH00BCM"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "caa2606c-47ff-4acb-a276-e065df65ad4e",
+        "type": "message",
+        "text": "Nice work <@U010DH00BCM>. Merged your PR",
+        "user": "U0109ELFV4Y",
+        "ts": "1586706225.122200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4S5Fc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice work "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010DH00BCM"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Merged your PR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586685619.122100",
+        "parent_user_id": "U010DH00BCM"
+    },
+    {
+        "client_msg_id": "4e588583-b9ae-48c3-b83b-7395e50fcb09",
+        "type": "message",
+        "text": "I will dm you about next tasks",
+        "user": "U0109ELFV4Y",
+        "ts": "1586706242.122400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "62r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will dm you about next tasks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586685619.122100",
+        "parent_user_id": "U010DH00BCM"
+    },
+    {
+        "client_msg_id": "7c4d498c-b2de-484a-81b1-f58a61151881",
+        "type": "message",
+        "text": "<!here> we\u2019ve done some refactor of the code to break up the large form components for readability. Shout out to <@U010PBS1H89>! Please update any ongoing work with `master` branch.",
+        "user": "U0109ELFV4Y",
+        "ts": "1586706456.124400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x3sur",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we\u2019ve done some refactor of the code to break up the large form components for readability. Shout out to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010PBS1H89"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Please update any ongoing work with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "master",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " branch."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U010PBS1H89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010A8YEUP9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0977ba5c-58e5-4642-8f96-dbc7d9a242eb",
+        "type": "message",
+        "text": "Thanks <@U0109ELFV4Y>",
+        "user": "U010DH00BCM",
+        "ts": "1586708527.124700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ApQ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586685619.122100",
+        "parent_user_id": "U010DH00BCM"
+    },
+    {
+        "client_msg_id": "c672f6e5-31b1-45fe-9932-166a17371a92",
+        "type": "message",
+        "text": "I've run both the generalized address schema proposal and the changes <@U0107DX4VNU> &amp; <@U0107EMK8UD> suggested by <@U0107JEKN0N>.   He will hit us up once the changes are in.",
+        "user": "U01084NU2NL",
+        "ts": "1586710510.126400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've run both the generalized address schema proposal and the changes "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suggested by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".   He will hit us up once the changes are in."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586710510.126400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586710534.126500",
+        "reply_users": [
+            "U01084NU2NL"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107DX4VNU",
+                    "U0109ELFV4Y",
+                    "UV8B0679P",
+                    "U0107EMK8UD"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee5dd113-371e-43ac-a7fc-b05382754a5c",
+        "type": "message",
+        "text": "Link for address schema proposal:  <https://docs.google.com/document/d/1Bo_BTvOFu6hpJH-gof1ph-VBJZBsLNOWwk73e1PSIWE/edit>",
+        "user": "U01084NU2NL",
+        "ts": "1586710534.126500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nJWu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Link for address schema proposal:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1Bo_BTvOFu6hpJH-gof1ph-VBJZBsLNOWwk73e1PSIWE/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586710510.126400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "60d3b45c-bb70-450c-bd12-97ccebdf621a",
+        "type": "message",
+        "text": "<!here> can we do a sync call at 1:30PM EST?",
+        "user": "U01084NU2NL",
+        "ts": "1586710626.127200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3vPaU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can we do a sync call at 1:30PM EST?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0109ELFV4Y",
+                    "U0107JEKN0N",
+                    "U010A8YEUP9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "948534f0-d054-47aa-ba65-0ede857dba83",
+        "type": "message",
+        "text": "<https://us04web.zoom.us/j/6129315429>",
+        "user": "U01084NU2NL",
+        "ts": "1586712592.127900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Ifi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/6129315429"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c812c63-9d95-4470-ae19-fc3f98191fe6",
+        "type": "message",
+        "text": "<@U0107DX4VNU> <@U0107EMK8UD> we were wondering if you guys could look at the list of fields we are capturing and weigh in on which ones you think should be required so we have proper validations in place.   However, I would also caution about not making too many fields required because that will likely lead to friction and too many drop offs in people trying to fill out the forms.",
+        "user": "U01084NU2NL",
+        "ts": "1586715052.129600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9P/02",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we were wondering if you guys could look at the list of fields we are capturing and weigh in on which ones you think should be required so we have proper validations in place.   However, I would also caution about not making too many fields required because that will likely lead to friction and too many drop offs in people trying to fill out the forms."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586715052.129600",
+        "reply_count": 12,
+        "reply_users_count": 3,
+        "latest_reply": "1586794540.142700",
+        "reply_users": [
+            "U0107EMK8UD",
+            "U01084NU2NL",
+            "U0107DX4VNU"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1b124f90-2e02-4cfe-a9c4-031e6f9e8eb8",
+        "type": "message",
+        "text": "<@U01084NU2NL> Is this for the same forms?",
+        "user": "U0107EMK8UD",
+        "ts": "1586716273.129700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zCE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Is this for the same forms?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586715052.129600",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "e51afdd2-a99a-4d53-8204-2d805dbc8c74",
+        "type": "message",
+        "text": "Yes.",
+        "user": "U01084NU2NL",
+        "ts": "1586716292.129900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6yNW5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586715052.129600",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107DX4VNU",
+                    "U0107EMK8UD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "672320f7-acd6-47a1-97e3-11b37e3fd72f",
+        "type": "message",
+        "text": "Just pushed the changes",
+        "user": "U0107JEKN0N",
+        "ts": "1586720117.131000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pVV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just pushed the changes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U01084NU2NL",
+                    "U0107A7161E",
+                    "U0109ELFV4Y"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U01084NU2NL",
+                    "U0107A7161E",
+                    "U0109ELFV4Y"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e6003be-60ae-4e78-ba4a-7a4c533693ca",
+        "type": "message",
+        "text": "```## All\nremoved\n - animalMarket: { type: Boolean }\n - haveSex: { type: Boolean }\n - region: { type: String }\n - subcity: { type: String }\n - zone: { type: String }\n - woreda: { type: String }\n - kebele: { type: String }\n - houseNumber: { type: String }\n - phoneNumber: { type: String }\nadded \n - contactWithSuspected: { type: Boolean }\n - contactWithConfirmed: { type: Boolean }\n - address: {\n    country: { type: String, required: true, max: 100 },\n    region: { type: String, max: 100 },\n    city: { type: String, max: 100 },\n    postalCode: { type: String, max: 100 },\n    street: { type: String, max: 100 },\n    building: { type: String, max: 100 },\n    customField1: { type: String, max: 100 },\n    customField2: { type: String, max: 100 },\n }\n - symptom: {\n    fever: { type: Boolean },\n    cough: { type: Boolean },\n    shortnessOfBreath: { type: Boolean },\n    fatigue: { type: Boolean },\n    headache: { type: Boolean }, // Came from surveillance form\n    runnyNose: { type: Boolean }, // Came from surveillance form\n    feelingUnwell: { type: Boolean }, // Came from surveillance form\n }\n\n\n## Passengers\nchanged\n- gender: { type: Number, required: true } to age: { type: Number, required: true }\n\nAdded\n- age: { type: Number, required: true },\n- sex: { type: String, required: true },\n- contactWithSuspected: { type: Boolean },\n- contactWithConfirmed: { type: Boolean },\n- dependents: [\n      {\n        ...\n        age: { type: Number, required: true },\n        sex: { type: String, required: true },\n        ...\n        address: { type: AddressModel.schema },\n        symptom: { type: SymptomModel.schema },\n        language: { type: String },\n        language: { type: String },\n        contactWithSuspected: { type: Boolean },\n        contactWithConfirmed: { type: Boolean },\n        ...\n      },\n    ],```\n",
+        "user": "U0107JEKN0N",
+        "ts": "1586720121.131300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28I",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "## All\nremoved\n - animalMarket: { type: Boolean }\n - haveSex: { type: Boolean }\n - region: { type: String }\n - subcity: { type: String }\n - zone: { type: String }\n - woreda: { type: String }\n - kebele: { type: String }\n - houseNumber: { type: String }\n - phoneNumber: { type: String }\nadded \n - contactWithSuspected: { type: Boolean }\n - contactWithConfirmed: { type: Boolean }\n - address: {\n    country: { type: String, required: true, max: 100 },\n    region: { type: String, max: 100 },\n    city: { type: String, max: 100 },\n    postalCode: { type: String, max: 100 },\n    street: { type: String, max: 100 },\n    building: { type: String, max: 100 },\n    customField1: { type: String, max: 100 },\n    customField2: { type: String, max: 100 },\n }\n - symptom: {\n    fever: { type: Boolean },\n    cough: { type: Boolean },\n    shortnessOfBreath: { type: Boolean },\n    fatigue: { type: Boolean },\n    headache: { type: Boolean }, // Came from surveillance form\n    runnyNose: { type: Boolean }, // Came from surveillance form\n    feelingUnwell: { type: Boolean }, // Came from surveillance form\n }\n\n\n## Passengers\nchanged\n- gender: { type: Number, required: true } to age: { type: Number, required: true }\n\nAdded\n- age: { type: Number, required: true },\n- sex: { type: String, required: true },\n- contactWithSuspected: { type: Boolean },\n- contactWithConfirmed: { type: Boolean },\n- dependents: [\n      {\n        ...\n        age: { type: Number, required: true },\n        sex: { type: String, required: true },\n        ...\n        address: { type: AddressModel.schema },\n        symptom: { type: SymptomModel.schema },\n        language: { type: String },\n        language: { type: String },\n        contactWithSuspected: { type: Boolean },\n        contactWithConfirmed: { type: Boolean },\n        ...\n      },\n    ],"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb45ad14-3293-484b-b818-6a82bba55135",
+        "type": "message",
+        "text": "Please checkout the updated Models\nCommunity: <https://github.com/Ethiopia-COVID19/api-gateway/blob/master/models/Community.js>\nPassengers: <https://github.com/Ethiopia-COVID19/api-gateway/blob/master/models/Passenger.js>\nMedicalFacility : <https://github.com/Ethiopia-COVID19/api-gateway/blob/master/models/MedicalFacility.js>",
+        "user": "U0107JEKN0N",
+        "ts": "1586720256.132200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E+Nh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please checkout the updated Models\nCommunity: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/models/Community.js"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPassengers: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/models/Passenger.js"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMedicalFacility : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/models/MedicalFacility.js"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4EF6C733-F9FA-4A98-8217-0A37D7EB25FD",
+        "type": "message",
+        "text": "Sounds good!",
+        "user": "U0107DX4VNU",
+        "ts": "1586720807.134900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586715052.129600",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "e5fde708-ecea-4f7b-b246-fe541537227a",
+        "type": "message",
+        "text": "I just noticed tha our document db is not reachable. In the meantime you can clone the API and run it locally",
+        "user": "U0107JEKN0N",
+        "ts": "1586722255.136000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z9AW/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just noticed tha our document db is not reachable. In the meantime you can clone the API and run it locally"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd095671-526a-4d4e-acd5-0102ccffc766",
+        "type": "message",
+        "text": "Steps:\n```yarn install\nyarn dev\n\nEndpoints:\nPOST <http://localhost:3000/dev/gateway/public/{type}>\nPOST <http://localhost:3000/dev/gateway/{type}>\nGET <http://localhost:3000/dev/gateway/{type}>\nGET <http://localhost:3000/dev/gateway/{type}/{id}>\nPUT <http://localhost:3000/dev/gateway/{type}/{id}>\nDELETE <http://localhost:3000/dev/gateway/{type}/{id}>```",
+        "user": "U0107JEKN0N",
+        "ts": "1586722435.136700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EfC8O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Steps:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yarn install\nyarn dev\n\nEndpoints:\nPOST "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://localhost:3000/dev/gateway/public/{type}"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPOST "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://localhost:3000/dev/gateway/{type}"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nGET "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://localhost:3000/dev/gateway/{type}"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nGET "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://localhost:3000/dev/gateway/{type}/{id}"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPUT "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://localhost:3000/dev/gateway/{type}/{id}"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDELETE "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://localhost:3000/dev/gateway/{type}/{id}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586722435.136700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586722515.137300",
+        "reply_users": [
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6D31A498-9471-4377-AF3B-DAAF574BA647",
+        "type": "message",
+        "text": "<@UV6JHDP0S> can you help look why the DocumentDB is unreachable?",
+        "user": "UV8B0679P",
+        "ts": "1586722515.137300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4q3CC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you help look why the DocumentDB is unreachable?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586722435.136700",
+        "parent_user_id": "U0107JEKN0N"
+    }
+]

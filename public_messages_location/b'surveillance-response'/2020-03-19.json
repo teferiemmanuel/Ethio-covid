@@ -1,0 +1,2185 @@
+[
+    {
+        "client_msg_id": "46586596-11ac-4be2-9874-9d7faffc2675",
+        "type": "message",
+        "text": "added you all as admins. The template form we demoed is uploaded user \"applications\" tab",
+        "user": "U0107A7161E",
+        "ts": "1584576632.088300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9es",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "added you all as admins. The template form we demoed is uploaded user \"applications\" tab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572986.085300",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "c33b28b6-7970-4e4a-bd5f-cf5be32bdbd7",
+        "type": "message",
+        "text": "Nvm, I got it running under WSL. For anyone wondering how to use Docker + WSL, you run the docker client on WSL and the docker server on Windows using Docker for Windows then connect them using <https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly>",
+        "user": "U0107893QNB",
+        "ts": "1584577105.089300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Nick Janetakis",
+                "title": "Setting Up Docker for Windows and WSL to Work Flawlessly",
+                "title_link": "https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly",
+                "text": "With a couple of tweaks the WSL (Windows Subsystem for Linux, also known as Bash for Windows) can be used with Docker for Windows.",
+                "fallback": "Nick Janetakis: Setting Up Docker for Windows and WSL to Work Flawlessly",
+                "image_url": "https://nickjanetakis.com/assets/blog/cards/getting-docker-for-windows-and-wsl-working-together-47c4a420243e9500303f1d8617aa535bf37a13fd52b29fa8c66b6b7a6d472557.jpg",
+                "ts": 1508212800,
+                "from_url": "https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 60654,
+                "service_icon": "https://nickjanetakis.com/favicon-57.png",
+                "id": 1,
+                "original_url": "https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t+1eN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nvm, I got it running under WSL. For anyone wondering how to use Docker + WSL, you run the docker client on WSL and the docker server on Windows using Docker for Windows then connect them using "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84e391b6-0cdf-444c-956a-81e0f2a233ab",
+        "type": "message",
+        "text": "<@U0107893QNB> we are using the docker images on linux",
+        "user": "UV6JHDP0S",
+        "ts": "1584577632.089600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rf0Qz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107893QNB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are using the docker images on linux"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "11460cc2-b78d-45ff-9463-324fb18a6fa2",
+        "type": "message",
+        "text": "we have a hosted instance already",
+        "user": "UV6JHDP0S",
+        "ts": "1584577670.089800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iqxl7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we have a hosted instance already"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "371b9b14-70e2-40cb-93d3-65041f31dd04",
+        "type": "message",
+        "text": "Ah yeah I saw the 54.162.185.217 instance. I initially thought everyone was going to make changes, commit them to the repo and then have the latest versions hosted but I don't think that works b/c all the changes are in the docker container (correct me if I'm wrong?)",
+        "user": "U0107893QNB",
+        "ts": "1584577785.090100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/SiF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah yeah I saw the 54.162.185.217 instance. I initially thought everyone was going to make changes, commit them to the repo and then have the latest versions hosted but I don't think that works b/c all the changes are in the docker container (correct me if I'm wrong?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "b68037c8-0b20-40a2-bcab-2d24b94bda33",
+        "type": "message",
+        "text": "So how do people make changes/contribute to the `ushahidi` project?",
+        "user": "U0107893QNB",
+        "ts": "1584577827.090300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/l7o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So how do people make changes/contribute to the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ushahidi",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " project?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "ffe76852-6fb9-4778-adcd-76b6130a3a3c",
+        "type": "message",
+        "text": "that is a great point that hasnt been addressed yet <@U0107893QNB>! So far we were testing the tool not technically adding customization to the code. But I agree we can create a pipeline to do that better",
+        "user": "UV6JHDP0S",
+        "ts": "1584577927.090500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RwA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that is a great point that hasnt been addressed yet "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107893QNB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! So far we were testing the tool not technically adding customization to the code. But I agree we can create a pipeline to do that better"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "50e92873-ac87-45f1-81e5-2d3b45c15928",
+        "type": "message",
+        "text": "But that being said i think to make the dev changes currently you should build and test locally",
+        "user": "UV6JHDP0S",
+        "ts": "1584577971.090700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PaP2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But that being said i think to make the dev changes currently you should build and test locally"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107893QNB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21214a5e-69b2-49d7-be5d-e587fa0096af",
+        "type": "message",
+        "text": "until we have a central docker image repo we can push to",
+        "user": "UV6JHDP0S",
+        "ts": "1584577996.090900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TGJFx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "until we have a central docker image repo we can push to"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "ebe7d7d9-6d58-4864-893e-eba4db0eee9d",
+        "type": "message",
+        "text": "Ah that makes sense. Thanks for clearing that up for me :slightly_smiling_face:",
+        "user": "U0107893QNB",
+        "ts": "1584578015.091100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9/GVb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah that makes sense. Thanks for clearing that up for me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "97b82292-b6ff-4994-aaa6-421e186074f6",
+        "type": "message",
+        "text": "unless you are volunteering to set that up :slightly_smiling_face:",
+        "user": "UV6JHDP0S",
+        "ts": "1584578038.091400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "unless you are volunteering to set that up "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "a70da2c5-bd38-4840-849e-78e88d247b43",
+        "type": "message",
+        "text": "Sure. Let me see what I can do",
+        "user": "U0107893QNB",
+        "ts": "1584578060.091600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FkpLX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure. Let me see what I can do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "0d76115e-8c22-4aea-93a0-09d370a75201",
+        "type": "message",
+        "text": "but that can be a phase two",
+        "user": "UV6JHDP0S",
+        "ts": "1584578060.091800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "82eP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but that can be a phase two"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "edd78e79-73fa-4668-8dd4-3ae21da17c91",
+        "type": "message",
+        "text": "sure",
+        "user": "UV6JHDP0S",
+        "ts": "1584578064.092000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZyD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "2ef78feb-89d0-4933-b312-1869eacdee4f",
+        "type": "message",
+        "text": "you might be able to modify the dockefile to pull from the correct repo",
+        "user": "UV6JHDP0S",
+        "ts": "1584578395.092200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9lU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you might be able to modify the dockefile to pull from the correct repo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "658b9628-f4d6-4d52-8b51-57e9ce244e5e",
+        "type": "message",
+        "text": "<https://github.com/Ethiopia-COVID19/platform-release>",
+        "user": "UV6JHDP0S",
+        "ts": "1584578458.092400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/platform-release",
+                "text": "Releases of the Ushahidi Platform",
+                "title": "Ethiopia-COVID19/platform-release",
+                "footer": "<https://github.com/Ethiopia-COVID19/platform-release|Ethiopia-COVID19/platform-release>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1584488563,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "1",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "13 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/platform-release",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p/x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/platform-release"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "d807019f-a2c1-4110-a6f4-e8865c70a04b",
+        "type": "message",
+        "text": "Sounds like a good idea. I'm currently trying to find the location where it's storing my containers since I'm using WSL then trying to see what files get modified when you make changes to the site (e.g. add a survey)",
+        "user": "U0107893QNB",
+        "ts": "1584578536.092700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b03S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds like a good idea. I'm currently trying to find the location where it's storing my containers since I'm using WSL then trying to see what files get modified when you make changes to the site (e.g. add a survey)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584575432.087500",
+        "parent_user_id": "U0107893QNB"
+    },
+    {
+        "client_msg_id": "52819e2e-be45-41db-a1db-27a3f76b33a3",
+        "type": "message",
+        "text": "<mailto:y.beshawred@gmail.com|y.beshawred@gmail.com>",
+        "user": "U0106M27EKS",
+        "ts": "1584579768.093100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ijP1w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:y.beshawred@gmail.com",
+                                "text": "y.beshawred@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572986.085300",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46c7bee2-2c3b-4a26-808f-f0630823b188",
+        "type": "message",
+        "text": "so, we are still evaluation the two options ?",
+        "user": "U0108MYHZ0C",
+        "ts": "1584580522.093300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qS/FG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so, we are still evaluation the two options ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584571956.083600",
+        "parent_user_id": "UV6JHDP0S"
+    },
+    {
+        "type": "message",
+        "text": "Data sources...do we have a plan/idea for which one of these will ideal ?",
+        "files": [
+            {
+                "id": "F0100F192C9",
+                "created": 1584580773,
+                "timestamp": 1584580773,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0108MYHZ0C",
+                "editable": false,
+                "size": 12444,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0100F192C9/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0100F192C9/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F0100F192C9-827824e8e8/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F0100F192C9-827824e8e8/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F0100F192C9-827824e8e8/image_360.png",
+                "thumb_360_w": 236,
+                "thumb_360_h": 163,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F0100F192C9-827824e8e8/image_160.png",
+                "image_exif_rotation": 1,
+                "original_w": 236,
+                "original_h": 163,
+                "thumb_tiny": "AwAhADDRIJOc4pvY/OakPSo+f9mmhAOTgSHNSUz5v9mj957UAPooopDA9Kj4x9w1IelR5H97NNCEAH/PM1IDkZximKRu++TUlDAKKKKQwPQ1HUh6Go6aAXvT6Z3p9DAKKKKQH//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0108MYHZ0C/F0100F192C9/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0100F192C9-34e9cebd04",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c5j39",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Data sources...do we have a plan/idea for which one of these will ideal ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0108MYHZ0C",
+        "display_as_bot": false,
+        "ts": "1584580776.093500",
+        "client_msg_id": "50b16d92-2111-495d-b147-ace1c6f209c5",
+        "thread_ts": "1584571956.083600",
+        "parent_user_id": "UV6JHDP0S"
+    },
+    {
+        "client_msg_id": "0a1a2146-6c39-44c4-ab0e-f12814eeaf90",
+        "type": "message",
+        "text": "<mailto:danny@blencorp.com|danny@blencorp.com>",
+        "user": "UV9A4J5TK",
+        "ts": "1584580856.093900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Do+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:danny@blencorp.com",
+                                "text": "danny@blencorp.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572986.085300",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ad3b035-0b58-4c4b-acb3-7d5ba1244f3e",
+        "type": "message",
+        "text": "<mailto:y.shashay.t@gmail.com|y.shashay.t@gmail.com>",
+        "user": "U0106SC3L0L",
+        "ts": "1584582601.094100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UNPr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:y.shashay.t@gmail.com",
+                                "text": "y.shashay.t@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572986.085300",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abbb29b3-5aac-4577-8bae-809420a3cd3f",
+        "type": "message",
+        "text": "Can someone familiar with Ushahidi contribute to the description we are writing up in the recommendation summary document?<https://docs.google.com/document/d/1Wb7Xl9xLnKwzCwuC3bYW0DfACgq3-VTu1caU4rRx0Z8/edit#>",
+        "user": "U0107A7161E",
+        "ts": "1584586955.095400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1584586964.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "43c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can someone familiar with Ushahidi contribute to the description we are writing up in the recommendation summary document?"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1Wb7Xl9xLnKwzCwuC3bYW0DfACgq3-VTu1caU4rRx0Z8/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "reply_count": 38,
+        "reply_users_count": 4,
+        "latest_reply": "1584593067.106400",
+        "reply_users": [
+            "UV8B0679P",
+            "U0107A7161E",
+            "UV6JHDP0S",
+            "U0107AYF16H"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2014e463-2270-4825-8ca8-d3be8d670633",
+        "type": "message",
+        "text": "<@UV9A4J5TK>, <@U0107JEKN0N> - can you help fill the gaps here so that we can send it over?",
+        "user": "UV8B0679P",
+        "ts": "1584588053.095600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q=q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9A4J5TK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - can you help fill the gaps here so that we can send it over?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "d7860ac7-4388-4948-aaaa-3798c655b221",
+        "type": "message",
+        "text": "<@U0107A7161E> - is there anything you\u2019d like me to help on?",
+        "user": "UV8B0679P",
+        "ts": "1584588089.095800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l1r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - is there anything you\u2019d like me to help on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "71011546-09f3-436a-a3a5-d8daa1a508eb",
+        "type": "message",
+        "text": "Can you please scan the document and let me know where we are missing information they asked for? I think it's best to keep it as brief as possible while still comprehensive",
+        "user": "U0107A7161E",
+        "ts": "1584588638.096000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1584588713.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F3nnu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you please scan the document and let me know where we are missing information they asked for? I think it's best to keep it as brief as possible while still comprehensive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "6b1cf3b1-83bc-4ac3-a10f-5b2a870d18ee",
+        "type": "message",
+        "text": "It looks solid to me, <@U0107A7161E>",
+        "user": "UV8B0679P",
+        "ts": "1584589093.097900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HTo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks solid to me, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "b1835466-78f3-4552-9ad7-ff5bd1291475",
+        "type": "message",
+        "text": "I think it\u2019s good to send",
+        "user": "UV8B0679P",
+        "ts": "1584589099.098100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WJQDA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it\u2019s good to send"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "172c8c9a-f19e-4d80-945a-fb7d8722a481",
+        "type": "message",
+        "text": "if you feel comfortable",
+        "user": "UV8B0679P",
+        "ts": "1584589104.098300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fByLc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you feel comfortable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "fe7bb70e-8a72-45c3-9a99-e978705b268d",
+        "type": "message",
+        "text": "i\u2019ve made my edits",
+        "user": "UV8B0679P",
+        "ts": "1584589109.098500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yfer",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i\u2019ve made my edits"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "1ea7b2f2-4e93-4c8f-a75f-7990b2508237",
+        "type": "message",
+        "text": "<@UV6JHDP0S>, <@U0107AYF16H> - are you guys okay with me packaging it and send it?",
+        "user": "UV8B0679P",
+        "ts": "1584589163.098700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sWKjM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - are you guys okay with me packaging it and send it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "318c8952-b833-4fef-a25b-9e1db27cda41",
+        "type": "message",
+        "text": "<@UV8B0679P> am done",
+        "user": "UV6JHDP0S",
+        "ts": "1584589228.098900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W=n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " am done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "aa2c9b09-6096-4f88-8536-cec8568fcbde",
+        "type": "message",
+        "text": "<@U0107AYF16H> and <@U0107A7161E>?",
+        "user": "UV8B0679P",
+        "ts": "1584589266.099100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eouL7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "4717a080-dbe6-461a-9740-a655b17952bd",
+        "type": "message",
+        "text": "me too!",
+        "user": "U0107A7161E",
+        "ts": "1584589269.099300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GOr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "89676559-49c4-46d2-b907-1727674d9fbc",
+        "type": "message",
+        "text": "If the dont make smart decisions there I quite",
+        "user": "UV6JHDP0S",
+        "ts": "1584589296.099500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r565",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If the dont make smart decisions there I quite"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "f9498270-85d8-43fd-92a1-0ad290032de7",
+        "type": "message",
+        "text": "lol",
+        "user": "UV6JHDP0S",
+        "ts": "1584589300.099700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GjiP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "083125d4-94fa-4301-bde0-d7e7520c1796",
+        "type": "message",
+        "text": "is 30 min ok for me to review?",
+        "user": "U0107AYF16H",
+        "ts": "1584589495.099900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=sLiV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is 30 min ok for me to review?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "eb54175b-8b58-4341-b55c-29a69d962bff",
+        "type": "message",
+        "text": "sure",
+        "user": "UV8B0679P",
+        "ts": "1584589514.100100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WtnC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "0b1b7411-4ab1-4299-997f-0e7ef10b6844",
+        "type": "message",
+        "text": "ping me when you feel it\u2019s in good shape",
+        "user": "UV8B0679P",
+        "ts": "1584589523.100300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "or5G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ping me when you feel it\u2019s in good shape"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "c4a56fe6-68b4-49d3-af0f-07077f89a31e",
+        "type": "message",
+        "text": "think it would be helpful to link out to our assessments of the other tools",
+        "user": "U0107AYF16H",
+        "ts": "1584590025.100500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "think it would be helpful to link out to our assessments of the other tools"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "764cf08e-d791-4526-b698-d00f45201ef0",
+        "type": "message",
+        "text": "we list out the criteria we used, but dont include each option's assessment",
+        "user": "U0107AYF16H",
+        "ts": "1584590075.100700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6EPun",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we list out the criteria we used, but dont include each option's assessment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "e07310c8-609a-45fe-b0f0-a6619f1ea79b",
+        "type": "message",
+        "text": "sure - would you mind adding it?",
+        "user": "UV8B0679P",
+        "ts": "1584590105.100900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F/62u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure - would you mind adding it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "a0de2739-d47a-45ed-bc81-7c7a52817b06",
+        "type": "message",
+        "text": "writing up something now",
+        "user": "U0107A7161E",
+        "ts": "1584590530.101100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vE4Wf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "writing up something now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "85a9db6a-1aa5-4234-9ac1-d2cbb1d69e94",
+        "type": "message",
+        "text": "bless you queen",
+        "user": "U0107AYF16H",
+        "ts": "1584590793.101300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dIZu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bless you queen"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "9c694bb9-3f2e-4679-8e16-c6e341d850c1",
+        "type": "message",
+        "text": "zere you go, wowow",
+        "user": "U0107AYF16H",
+        "ts": "1584590982.101500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "zere you go, wowow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5ab6c71-05b3-4e4c-95db-8a1158930448",
+        "type": "message",
+        "text": "good deal",
+        "user": "UV8B0679P",
+        "ts": "1584591331.101700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3N8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good deal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "bot_id": "B0105GUT6BS",
+        "type": "message",
+        "text": "",
+        "user": "UV8B0679P",
+        "ts": "1584591345.102000",
+        "team": "TV5KELEUS",
+        "bot_profile": {
+            "id": "B0105GUT6BS",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1584449034,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https://a.slack-edge.com/80588/img/plugins/giphy/service_36.png",
+                "image_48": "https://a.slack-edge.com/80588/img/plugins/giphy/service_48.png",
+                "image_72": "https://a.slack-edge.com/80588/img/plugins/giphy/service_72.png"
+            },
+            "team_id": "TV5KELEUS"
+        },
+        "attachments": [
+            {
+                "fallback": "giphy: https://giphy.com/gifs/boom-mks5DcSGjhQ1a",
+                "image_url": "https://media2.giphy.com/media/mks5DcSGjhQ1a/giphy.gif?cid=6104955e51d960dc4b209fcaf92ec081aad484993594728f&rid=giphy.gif",
+                "image_width": 245,
+                "image_height": 179,
+                "image_bytes": 866799,
+                "is_animated": true,
+                "title": "boom",
+                "footer": "Posted using /giphy",
+                "id": 1,
+                "title_link": "https://giphy.com/gifs/boom-mks5DcSGjhQ1a"
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "b5c740c0-bbe4-4213-a61f-12eeb7d49345",
+        "type": "message",
+        "text": "hey <@U0107A7161E> - still seeing that you\u2019re changing the doc",
+        "user": "UV8B0679P",
+        "ts": "1584591889.103500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=rv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - still seeing that you\u2019re changing the doc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "eb49733a-6acf-42c0-977a-800e49b802ad",
+        "type": "message",
+        "text": "let me know when you have it",
+        "user": "UV8B0679P",
+        "ts": "1584591898.103700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DAc+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let me know when you have it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "720ca267-dd8a-4cb6-af37-a100e4fe4699",
+        "type": "message",
+        "text": "done!",
+        "user": "U0107A7161E",
+        "ts": "1584592009.103900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UBHV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "done!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "d8fda7fc-1239-4f60-8884-45bd279f94ab",
+        "type": "message",
+        "text": "thanks",
+        "user": "UV8B0679P",
+        "ts": "1584592054.104100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzZFS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "032847da-798d-4905-8bad-3fb1689fbcb2",
+        "type": "message",
+        "text": "ok, pencils down!!",
+        "user": "U0107AYF16H",
+        "ts": "1584592536.104600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "theY+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, pencils down!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "1d0ed8f2-0008-47de-bb83-9640a692a545",
+        "type": "message",
+        "text": "we're done",
+        "user": "U0107AYF16H",
+        "ts": "1584592539.104800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eYI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we're done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "eb4668af-5205-4360-ac80-f951d6140009",
+        "type": "message",
+        "text": "recommend sending as pdf",
+        "user": "U0107AYF16H",
+        "ts": "1584592593.105000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q0vh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "recommend sending as pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "f4b99cfe-def2-4c54-9c58-c3baccb72f02",
+        "type": "message",
+        "text": "it\u2019s shipped ;D",
+        "user": "UV8B0679P",
+        "ts": "1584592597.105200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3W/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it\u2019s shipped ;D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "ecda7633-e23c-4bb7-86b0-997f7fc37527",
+        "type": "message",
+        "text": "as a pdf",
+        "user": "UV8B0679P",
+        "ts": "1584592605.105400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OIqFM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as a pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "6016f2a5-0a69-4681-a84d-9313411c5afd",
+        "type": "message",
+        "text": "lol",
+        "user": "U0107AYF16H",
+        "ts": "1584592621.105600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LgEBt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "9cf871ec-5ec0-401b-ad7d-b67328ee7da9",
+        "type": "message",
+        "text": "oki",
+        "user": "U0107AYF16H",
+        "ts": "1584592622.105800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yxrLT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oki"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "87c31c0a-1edf-410a-bb9c-84e75a038ffe",
+        "type": "message",
+        "text": "you guys are super!",
+        "user": "UV8B0679P",
+        "ts": "1584592641.106000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iSFgf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you guys are super!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "834d8038-00e1-4db4-bffb-1a71b7ea6084",
+        "type": "message",
+        "text": "So impressed",
+        "user": "UV8B0679P",
+        "ts": "1584592645.106200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H8IC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So impressed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "1c954e8f-a14d-406c-a869-b41c0e72cf08",
+        "type": "message",
+        "text": "Yaayyy!!",
+        "user": "UV6JHDP0S",
+        "ts": "1584593067.106400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7IHM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yaayyy!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584586955.095400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "703310ee-b097-4728-a6de-ffa72068c111",
+        "type": "message",
+        "text": "<@U01051X26HJ> <@UVBN2BD8R> Hi Guys do you still need a hosting platform for you tools, if so ping me?",
+        "user": "UV6JHDP0S",
+        "ts": "1584635324.107900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV6JHDP0S",
+            "ts": "1584635350.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rXypT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVBN2BD8R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi Guys do you still need a hosting platform for you tools, if so ping me?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584548034.059500",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584635327.108200",
+        "user": "UVBN2BD8R",
+        "text": "<@UVBN2BD8R> has joined the channel",
+        "inviter": "UV6JHDP0S"
+    },
+    {
+        "type": "message",
+        "text": "Here is the status of the project team!",
+        "user": "UV6JHDP0S",
+        "ts": "1584635730.108400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 19th, 2020 9:25 AM] mike: @here So far, these are the updates \u2014 I\u2019ve <@UV83NPH0T> for an update for the proposal. Will update",
+                "ts": "1584635155.254600",
+                "author_id": "UV8B0679P",
+                "author_subname": "Mike",
+                "channel_id": "C0104D5J3T2",
+                "channel_name": "covid-19",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "@here So far, these are the updates \u2014 I\u2019ve <@UV83NPH0T> for an update for the proposal. Will update",
+                "author_name": "Mike",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UV8B0679P",
+                "author_icon": "https://secure.gravatar.com/avatar/3283329a4ce35816f96fbe23d5285879.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F010CB4T20G",
+                        "created": 1584635147,
+                        "timestamp": 1584635147,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "UV8B0679P",
+                        "editable": false,
+                        "size": 142227,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010CB4T20G/image.png",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010CB4T20G/download/image.png",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010CB4T20G-ad291cf44e/image_64.png",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010CB4T20G-ad291cf44e/image_80.png",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010CB4T20G-ad291cf44e/image_360.png",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 189,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010CB4T20G-ad291cf44e/image_480.png",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 252,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010CB4T20G-ad291cf44e/image_160.png",
+                        "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010CB4T20G-ad291cf44e/image_720.png",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 378,
+                        "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010CB4T20G-ad291cf44e/image_800.png",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 420,
+                        "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010CB4T20G-ad291cf44e/image_960.png",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 504,
+                        "image_exif_rotation": 1,
+                        "original_w": 1014,
+                        "original_h": 532,
+                        "thumb_tiny": "AwAZADC+Scnk0A47/nSHrRQA/wCf0o+f0pnHenBQT3/KgBct6UoJ7ikCD60oUDoKAGHrzScVIKWgCP5fQ/nRke/51JRQBHuAx1/On5paaaAP/9k=",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/UV8B0679P/F010CB4T20G/image.png",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F010CB4T20G-dd6c0869b1",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1584635155254600?thread_ts=1584623290227100&cid=C0104D5J3T2",
+                "is_share": true,
+                "footer": "From a thread in #covid-19"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Hq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is the status of the project team!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C0109GD5BGW"
+        ],
+        "pinned_info": {
+            "channel": "C0109GD5BGW",
+            "pinned_by": "UV6JHDP0S",
+            "pinned_ts": 1584635742
+        }
+    },
+    {
+        "client_msg_id": "8ee59e93-c120-4a40-8f3c-7c27787d1b32",
+        "type": "message",
+        "text": "<@UV6JHDP0S> i guess <@U01051X26HJ> has a hosted ba kend, and he is deploying it there. <@U01051X26HJ> could u give us status update here",
+        "user": "UVBN2BD8R",
+        "ts": "1584639106.109200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GXSCg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i guess "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has a hosted ba kend, and he is deploying it there. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could u give us status update here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584548034.059500",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "6fe3e1a9-8b37-4ac8-bc4e-99a4cac11466",
+        "type": "message",
+        "text": "okay, let me know in advance so we can build it in a scalable fashion when we move to prod. We already have a few of the tools deployed there.",
+        "user": "UV6JHDP0S",
+        "ts": "1584639204.109400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV6JHDP0S",
+            "ts": "1584639269.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CMY2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay, let me know in advance so we can build it in a scalable fashion when we move to prod. We already have a few of the tools deployed there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584548034.059500",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "d6e11aee-22f8-4267-86dc-6b42c62f7d18",
+        "type": "message",
+        "text": "<mailto:Robgogoworku@gmail.com|Robgogoworku@gmail.com>",
+        "user": "UVBN2BD8R",
+        "ts": "1584639213.109600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ebhdl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:Robgogoworku@gmail.com",
+                                "text": "Robgogoworku@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572986.085300",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

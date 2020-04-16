@@ -1,0 +1,309 @@
+[
+    {
+        "client_msg_id": "046045c2-5d4d-41d4-87f3-5b48a1f68507",
+        "type": "message",
+        "text": "Thanks Aman and Che for the demo and call today. I\u2019ll work on categorizing the workflows for the different forms tonight and share.",
+        "user": "U01022PTXA7",
+        "ts": "1584835216.005900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4kg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Aman and Che for the demo and call today. I\u2019ll work on categorizing the workflows for the different forms tonight and share."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584772325.030800",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "client_msg_id": "c90e3fa0-3472-4e74-b3ce-595a448600e5",
+        "type": "message",
+        "text": "Adding <@U0102ENM0CT> to help us with the clinical and diagnostic questions/forms from a medical perspective.",
+        "user": "U01022PTXA7",
+        "ts": "1584835282.006100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dOqKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adding "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0102ENM0CT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to help us with the clinical and diagnostic questions/forms from a medical perspective."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584772325.030800",
+        "parent_user_id": "U01076XHPC0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584835289.006400",
+        "user": "U0102ENM0CT",
+        "text": "<@U0102ENM0CT> has joined the channel",
+        "inviter": "U01022PTXA7"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584837584.006900",
+        "user": "U01078QCG2C",
+        "text": "<@U01078QCG2C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584841016.007300",
+        "user": "U010A0N4N0P",
+        "text": "<@U010A0N4N0P> has joined the channel",
+        "inviter": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "71b6bbe1-1b37-4d88-9506-6d3d73e776be",
+        "type": "message",
+        "text": "Hey all,",
+        "user": "U010A0N4N0P",
+        "ts": "1584844605.007700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BbZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a5d6fee-4ab7-438e-855a-82b8535e98c6",
+        "type": "message",
+        "text": "I was looking around about contact tracing, WHO called FFX( First Few X cases) investigation and related forms, I got these resource which might be helpful",
+        "user": "U010A0N4N0P",
+        "ts": "1584844826.010200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+8A=G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was looking around about contact tracing, WHO called FFX( First Few X cases) investigation and related forms, I got these resource which might be helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6b5546b-b4e2-44d5-8a20-3ff52bc2236a",
+        "type": "message",
+        "text": "<https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/early-investigations>",
+        "user": "U010A0N4N0P",
+        "ts": "1584844842.010400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ii+T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/early-investigations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c011696-d125-47f5-b3dc-bb2121a4ceaf",
+        "type": "message",
+        "text": "CDC form, <https://www.cdc.gov/coronavirus/2019-ncov/downloads/pui-form.pdf>",
+        "user": "U010A0N4N0P",
+        "ts": "1584844860.010600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gMwjp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CDC form, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.cdc.gov/coronavirus/2019-ncov/downloads/pui-form.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e78d1b6-bd6c-4be2-838d-dab7915df282",
+        "type": "message",
+        "text": "<https://www.who.int/publications-detail/the-first-few-x-(ffx)-cases-and-contact-investigation-protocol-for-2019-novel-coronavirus-(2019-ncov)-infection>, this WHO resource isn't accessible for some reason. don't know It might work later",
+        "user": "U010A0N4N0P",
+        "ts": "1584844933.011600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IhAGi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.who.int/publications-detail/the-first-few-x-(ffx)-cases-and-contact-investigation-protocol-for-2019-novel-coronavirus-(2019-ncov)-infection"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", this WHO resource isn't accessible for some reason. don't know It might work later"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a76cb4cf-194a-4ac8-81a3-04fb7d61aae2",
+        "type": "message",
+        "text": "<https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance>",
+        "user": "U010A0N4N0P",
+        "ts": "1584844989.011800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "920",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Check out this WHO First Few X Cases investigation protocol.",
+        "files": [
+            {
+                "id": "F010GQ6KHFE",
+                "created": 1584847196,
+                "timestamp": 1584847196,
+                "name": "WHO-2019-nCoV-FFXprotocol-2020.2-eng.pdf",
+                "title": "WHO-2019-nCoV-FFXprotocol-2020.2-eng.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010A0N4N0P",
+                "editable": false,
+                "size": 2268178,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010GQ6KHFE/who-2019-ncov-ffxprotocol-2020.2-eng.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010GQ6KHFE/download/who-2019-ncov-ffxprotocol-2020.2-eng.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F010GQ6KHFE-bb8675c714/who-2019-ncov-ffxprotocol-2020.2-eng_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010A0N4N0P/F010GQ6KHFE/who-2019-ncov-ffxprotocol-2020.2-eng.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010GQ6KHFE-b6eb6c3399",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1TYxU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Check out this WHO First Few X Cases investigation protocol."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010A0N4N0P",
+        "display_as_bot": false,
+        "ts": "1584847200.011900",
+        "client_msg_id": "6aaa2bab-3551-494a-9f78-8a3697710601"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1584848648.013800",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> archived the channel"
+    }
+]

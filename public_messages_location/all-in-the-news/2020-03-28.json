@@ -1,0 +1,277 @@
+[
+    {
+        "client_msg_id": "DB3A6C95-60F4-476B-A892-C2669ECC4B64",
+        "type": "message",
+        "text": "That was the shortest article I\u2019ve ever read lol. Should have just been a tweet!",
+        "user": "U0106M26108",
+        "ts": "1585356217.048800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1585356226.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9s/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That was the shortest article I\u2019ve ever read lol. Should have just been a tweet!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585322151.045600",
+        "parent_user_id": "U0107AXNR4Z"
+    },
+    {
+        "client_msg_id": "A924593F-D57D-4062-807A-59F4C148A03A",
+        "type": "message",
+        "text": "Definitely going to need more info on this! Haha!",
+        "user": "U0106M26108",
+        "ts": "1585356265.049600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hkv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definitely going to need more info on this! Haha!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585322151.045600",
+        "parent_user_id": "U0107AXNR4Z"
+    },
+    {
+        "client_msg_id": "7bb40da0-2c8a-4681-9cf5-fdafad9d3587",
+        "type": "message",
+        "text": "<https://twitter.com/Shega_HQ/status/1243430365194326016?s=20>",
+        "user": "UV7D89JGJ",
+        "ts": "1585391769.052300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/Shega_HQ|@Shega_HQ>: Eshi Express Started Contact Less Delivery, Ride Hailing Companies in Ethiopia are Stepping Up There Efforts Against COVID-19 and  More Stories from our COVID-19 Updates. <http://bit.ly/2QPDtHw> <https://pbs.twimg.com/media/EUGLVOZUMAI0wfT.jpg>",
+                "ts": 1585291875,
+                "author_name": "SHEGA",
+                "author_link": "https://twitter.com/Shega_HQ/status/1243430365194326016",
+                "author_icon": "https://pbs.twimg.com/profile_images/1082012535488954368/UItoMBzn_normal.jpg",
+                "author_subname": "@Shega_HQ",
+                "text": "Eshi Express Started Contact Less Delivery, Ride Hailing Companies in Ethiopia are Stepping Up There Efforts Against COVID-19 and  More Stories from our COVID-19 Updates. <http://bit.ly/2QPDtHw> <https://pbs.twimg.com/media/EUGLVOZUMAI0wfT.jpg>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/Shega_HQ/status/1243430365194326016?s=20",
+                "image_url": "https://pbs.twimg.com/media/EUGLVOZUMAI0wfT.jpg",
+                "image_width": 377,
+                "image_height": 342,
+                "image_bytes": 22980,
+                "id": 1,
+                "original_url": "https://twitter.com/Shega_HQ/status/1243430365194326016?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gY47",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/Shega_HQ/status/1243430365194326016?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U0106M26108",
+                    "UV6JHDP0S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66009f04-c1e1-4bcc-9c37-2213cce5774d",
+        "type": "message",
+        "text": "<https://hbr.org/2020/03/lessons-from-italys-response-to-coronavirus>",
+        "user": "U010P2VU7ND",
+        "ts": "1585401765.052800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Harvard Business Review",
+                "title": "Lessons from Italy\u2019s Response to Coronavirus",
+                "title_link": "https://hbr.org/2020/03/lessons-from-italys-response-to-coronavirus",
+                "text": "Policymakers around the world can avoid making the same mistakes while there\u2019s still time.",
+                "fallback": "Harvard Business Review: Lessons from Italy\u2019s Response to Coronavirus",
+                "image_url": "https://hbr.org/resources/images/article_assets/2020/03/Mar20_30_1207568834.jpg",
+                "ts": 1585349147,
+                "from_url": "https://hbr.org/2020/03/lessons-from-italys-response-to-coronavirus",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 441942,
+                "service_icon": "https://hbr.org/resources/images/favicon.ico",
+                "id": 1,
+                "original_url": "https://hbr.org/2020/03/lessons-from-italys-response-to-coronavirus"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S7YT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://hbr.org/2020/03/lessons-from-italys-response-to-coronavirus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585401765.052800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585414658.054600",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7cd14fcb-ca06-4974-a3a4-32a46d62fe54",
+        "type": "message",
+        "text": "Thank you for sharing this <@U010P2VU7ND> - This piece should be required reading for anyone in a decision making role around the world.\n\nThis part is on point!!\n\nHowever, two aspects of this crisis appear to be clear from the Italian experience. First, there is no time to waste, given the exponential progression of the virus. As the head of the Italian Protezione Civile (the Italian equivalent of FEMA) <https://rep.repubblica.it/pwa/generale/2020/03/23/news/coronavirus_borrelli_i_numeri_sono_altri_l_epidemia_va_piu_veloce_della_nostra_burocrazia_-252124440/?ref=RHPPTP-BH-I252124970-C12-P3-S1.12-T1|put it>, \u201cThe virus is faster than our bureaucracy.\u201d Second, an effective approach towards Covid-19 will <https://www.cnn.com/2020/03/20/health/coronavirus-response-must-adapt-frieden-analysis/index.html|require> a war-like mobilization\u00a0\u2014 both in terms of the entity of human and economic resources that will need to be deployed as well as the extreme coordination that will be required across different parts of the health care system (testing facilities, hospitals, primary care physicians, etc.), between different entities in both the public and the private sector, and society at large.\n\nTogether, the need for immediate action and for massive mobilization imply that an effective response to this crisis will require a decision-making approach that is far from business as usual. If policymakers want to win the war against Covid-19, it is essential to adopt one that is systemic, prioritizes learning, and is able to quickly scale successful experiments and identify and shut down the ineffective ones",
+        "user": "U0107JERE9L",
+        "ts": "1585414658.054600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107JERE9L",
+            "ts": "1585414694.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1SPb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for sharing this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010P2VU7ND"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - This piece should be required reading for anyone in a decision making role around the world.\n\nThis part is on point!!\n\nHowever, two aspects of this crisis appear to be clear from the Italian experience. First, there is no time to waste, given the exponential progression of the virus. As the head of the Italian Protezione Civile (the Italian equivalent of FEMA) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://rep.repubblica.it/pwa/generale/2020/03/23/news/coronavirus_borrelli_i_numeri_sono_altri_l_epidemia_va_piu_veloce_della_nostra_burocrazia_-252124440/?ref=RHPPTP-BH-I252124970-C12-P3-S1.12-T1",
+                                "text": "put it"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", \u201cThe virus is faster than our bureaucracy.\u201d Second, an effective approach towards Covid-19 will "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.cnn.com/2020/03/20/health/coronavirus-response-must-adapt-frieden-analysis/index.html",
+                                "text": "require"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a war-like mobilization\u00a0\u2014 both in terms of the entity of human and economic resources that will need to be deployed as well as the extreme coordination that will be required across different parts of the health care system (testing facilities, hospitals, primary care physicians, etc.), between different entities in both the public and the private sector, and society at large.\n\nTogether, the need for immediate action and for massive mobilization imply that an effective response to this crisis will require a decision-making approach that is far from business as usual. If policymakers want to win the war against Covid-19, it is essential to adopt one that is systemic, prioritizes learning, and is able to quickly scale successful experiments and identify and shut down the ineffective ones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585401765.052800",
+        "parent_user_id": "U010P2VU7ND"
+    },
+    {
+        "client_msg_id": "AC286056-3217-4A94-B92B-894E62D8775E",
+        "type": "message",
+        "text": "<https://www.dailydot.com/debug/cellphone-heat-map-coronavirus/|https://www.dailydot.com/debug/cellphone-heat-map-coronavirus/>",
+        "user": "U0105C7GP08",
+        "ts": "1585424492.057400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "The Daily Dot",
+                "title": "Terrifying cellphone 'heat map' shows just how much people are still traveling",
+                "title_link": "https://www.dailydot.com/debug/cellphone-heat-map-coronavirus/",
+                "text": "A heat map highlighting cellphone location data within the U.S. is providing a frightening insight into the movements of humans amid the coronavirus.",
+                "fallback": "The Daily Dot: Terrifying cellphone 'heat map' shows just how much people are still traveling",
+                "image_url": "https://www.dailydot.com/wp-content/uploads/2020/03/coronavirus-cellphone-heat-map.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "ts": 1585276535,
+                "from_url": "https://www.dailydot.com/debug/cellphone-heat-map-coronavirus/",
+                "image_bytes": 82285,
+                "id": 1,
+                "original_url": "https://www.dailydot.com/debug/cellphone-heat-map-coronavirus/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PcCzI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.dailydot.com/debug/cellphone-heat-map-coronavirus/",
+                                "text": "https://www.dailydot.com/debug/cellphone-heat-map-coronavirus/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

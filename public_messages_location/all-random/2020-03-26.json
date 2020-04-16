@@ -1,0 +1,827 @@
+[
+    {
+        "client_msg_id": "923f1926-9f65-4fde-b1e3-71fe8418a4b4",
+        "type": "message",
+        "text": "<https://covid-19.alibabacloud.com/>",
+        "user": "U0102QX78GH",
+        "ts": "1585192435.033700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "AlibabaCloud",
+                "title": "Global MediXchange for Combating COVID-19 - Alibaba Cloud",
+                "title_link": "https://covid-19.alibabacloud.com/",
+                "text": "Global MediXchange for Combating COVID-19 is a medical exchange program set on Alibaba Cloud to promote valubale experience sharing and communication in combating the global outbreak of COVID-19.",
+                "fallback": "AlibabaCloud: Global MediXchange for Combating COVID-19 - Alibaba Cloud",
+                "image_url": "https://img.alicdn.com/tfs/TB1LvFlyO_1gK0jSZFqXXcpaXXa-1200-630.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https://covid-19.alibabacloud.com/",
+                "image_bytes": 405537,
+                "service_icon": "https://img.alicdn.com/tfs/TB1ugg7M9zqK1RjSZPxXXc4tVXa-32-32.png",
+                "id": 1,
+                "original_url": "https://covid-19.alibabacloud.com/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hG1er",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://covid-19.alibabacloud.com/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a4c3214-67f4-44d5-af70-ebbbaa619e91",
+        "type": "message",
+        "text": "Hi! Anyone in contact with AMREF ?",
+        "user": "U0109D9RQTV",
+        "ts": "1585220323.036200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PmJL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Anyone in contact with AMREF ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c73b3b9-570a-40b8-b34e-a612f0b3a6ee",
+        "type": "message",
+        "text": "<@U010V96187R>? you know anyone?",
+        "user": "U01007VTP8A",
+        "ts": "1585224705.038200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uGl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010V96187R"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? you know anyone?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel>",
+        "files": [
+            {
+                "id": "F010VDG9H40",
+                "created": 1585248044,
+                "timestamp": 1585248044,
+                "name": "IMG_20200326_143920.jpg",
+                "title": "IMG_20200326_143920.jpg",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01077KJKQU",
+                "editable": false,
+                "size": 132032,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010VDG9H40/img_20200326_143920.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010VDG9H40/download/img_20200326_143920.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010VDG9H40-3a984a3552/img_20200326_143920_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010VDG9H40-3a984a3552/img_20200326_143920_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010VDG9H40-3a984a3552/img_20200326_143920_360.jpg",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010VDG9H40-3a984a3552/img_20200326_143920_480.jpg",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010VDG9H40-3a984a3552/img_20200326_143920_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010VDG9H40-3a984a3552/img_20200326_143920_720.jpg",
+                "thumb_720_w": 720,
+                "thumb_720_h": 719,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010VDG9H40-3a984a3552/img_20200326_143920_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 799,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010VDG9H40-3a984a3552/img_20200326_143920_960.jpg",
+                "thumb_960_w": 960,
+                "thumb_960_h": 959,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010VDG9H40-3a984a3552/img_20200326_143920_1024.jpg",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1023,
+                "image_exif_rotation": 1,
+                "original_w": 1280,
+                "original_h": 1279,
+                "thumb_tiny": "AwAvADDRffxsx70n7z/Zpx+oFJ/wIUAAYY5Zfwpd6/3h+dR4HPygj8KMD+6PyFAgeLe24H9Kb5B/vD8ql/4EKUdeoNTyoBH7c0ny/wB6lbt/9ek/P9aoYfL/AHqPl/vUYOO/60n5/rQAvy/3qcuOxzTR17/rTlx2z+NACPjim/l+n+NORt43Y+U9KUj0oAZx7f5/Gjj0H6U/B9R+VJtPr+lADeDjp+lLkICSOT29aVmCLk80nOQSBvx+VFwsz//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01077KJKQU/F010VDG9H40/img_20200326_143920.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010VDG9H40-5f81810c34",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2WX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01077KJKQU",
+        "display_as_bot": false,
+        "ts": "1585248061.041200",
+        "client_msg_id": "baa056dd-78d2-491e-b79b-7aa4617a271e",
+        "thread_ts": "1585248061.041200",
+        "reply_count": 15,
+        "reply_users_count": 9,
+        "latest_reply": "1585264388.047700",
+        "reply_users": [
+            "U010APHG8Q1",
+            "U0104U85DJQ",
+            "U010EJ90XSM",
+            "U010L1RJMUN",
+            "U0107JE2S94",
+            "U010K3X390E",
+            "U0108FPHTEF",
+            "U01077KJKQU",
+            "UVB595TCJ"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010BFECDT4",
+                    "U010A0N4N0P",
+                    "U0107JE2S94",
+                    "U0105C870AC"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ef3d79b-36b5-4654-8589-9cb230178f1b",
+        "type": "message",
+        "text": "why does this strike me as fake?",
+        "user": "U010APHG8Q1",
+        "ts": "1585248164.041600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3eRo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "why does this strike me as fake?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "658a4dba-5e37-45ac-b16d-78b605104336",
+        "type": "message",
+        "text": "It is not on their website",
+        "user": "U010APHG8Q1",
+        "ts": "1585248237.041800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r=t7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is not on their website"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "4514e25a-fc53-49fd-8100-ebed7e97378e",
+        "type": "message",
+        "text": "<@U010APHG8Q1> i was about to say the same thing",
+        "user": "U0104U85DJQ",
+        "ts": "1585248246.042000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zlZOP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i was about to say the same thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "098eb88b-89d8-4d18-ac47-8e4a51f2ddff",
+        "type": "message",
+        "text": "I can\u2019t read it but it\u2019s on their twitter feed too :slightly_smiling_face:",
+        "user": "U010EJ90XSM",
+        "ts": "1585248257.042200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010EJ90XSM",
+            "ts": "1585248268.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P7Pb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can\u2019t read it but it\u2019s on their twitter feed too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JE2S94",
+                    "UVBKGQE1F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee2c4679-5bed-4369-83bf-031b5737821b",
+        "type": "message",
+        "text": "It says Buy a 1 USD airtime credit to this number. \"Because they are calling everyone to let them know about Corona\"",
+        "user": "U010APHG8Q1",
+        "ts": "1585248324.042500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qYWW4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It says Buy a 1 USD airtime credit to this number. \"Because they are calling everyone to let them know about Corona\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "3f96e359-6584-4048-b393-3dda375028a5",
+        "type": "message",
+        "text": "We need to share that this is fake!",
+        "user": "U010APHG8Q1",
+        "ts": "1585248397.042800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g9aX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We need to share that this is fake!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "6e4c729f-2a69-4bef-9d33-46101e82fe33",
+        "type": "message",
+        "text": "sounds fake - <@U01077KJKQU> where did you get it? It is time to label fake materials with a \u201cFake/\u1210\u1230\u1275\u201d label and disseminate it back in the same network",
+        "user": "U010L1RJMUN",
+        "ts": "1585248460.043100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w5Xr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sounds fake - "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01077KJKQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " where did you get it? It is time to label fake materials with a \u201cFake/\u1210\u1230\u1275\u201d label and disseminate it back in the same network"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "3057cc39-f187-4a0f-911f-5106f66d8b3f",
+        "type": "message",
+        "text": "<@U010APHG8Q1> <https://twitter.com/ethiotelecom/status/1243221173598588929?s=20|https://twitter.com/ethiotelecom/status/1243221173598588929?s=20>",
+        "user": "U0107JE2S94",
+        "ts": "1585248526.043300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/ethiotelecom|@ethiotelecom>: \u1260\u12cd\u132d \u12a0\u1308\u122d \u1208\u121d\u1275\u1308\u1299 \u12a2\u1275\u12ee\u1335\u12eb\u12cd\u12eb\u1295\u1363 \u1275\u12cd\u120d\u12f0 \u12a5\u1275\u12ee\u1335\u12eb\u12cd\u12eb\u1295 \u12a5\u1293 \u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12c8\u12f3\u1306\u127d\n<https://twitter.com/AbiyAhmedAli|@AbiyAhmedAli> <https://twitter.com/SahleWorkZewde|@SahleWorkZewde> <https://twitter.com/PMEthiopia|@PMEthiopia> <https://twitter.com/FMoHealth|@FMoHealth> <https://twitter.com/lia_tadesse|@lia_tadesse> <https://twitter.com/dagmawit_moges|@dagmawit_moges> <https://twitter.com/MuferihatK|@MuferihatK> <https://twitter.com/AbiebieAdanech|@AbiebieAdanech>  <https://twitter.com/AbrahamPostDoc|@AbrahamPostDoc> <https://twitter.com/TakeleUma|@TakeleUma> <https://twitter.com/AbebeAbebayehu|@AbebeAbebayehu> <https://twitter.com/EyobTolina|@EyobTolina> #COVID19Ethiopia <https://pbs.twimg.com/media/EUC5pQzWoAIYXUZ.jpg>",
+                "ts": 1585242000,
+                "author_name": "Ethio telecom",
+                "author_link": "https://twitter.com/ethiotelecom/status/1243221173598588929",
+                "author_icon": "https://pbs.twimg.com/profile_images/1184541443416903680/4mD9VACM_normal.jpg",
+                "author_subname": "@ethiotelecom",
+                "text": "\u1260\u12cd\u132d \u12a0\u1308\u122d \u1208\u121d\u1275\u1308\u1299 \u12a2\u1275\u12ee\u1335\u12eb\u12cd\u12eb\u1295\u1363 \u1275\u12cd\u120d\u12f0 \u12a5\u1275\u12ee\u1335\u12eb\u12cd\u12eb\u1295 \u12a5\u1293 \u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12c8\u12f3\u1306\u127d\n<https://twitter.com/AbiyAhmedAli|@AbiyAhmedAli> <https://twitter.com/SahleWorkZewde|@SahleWorkZewde> <https://twitter.com/PMEthiopia|@PMEthiopia> <https://twitter.com/FMoHealth|@FMoHealth> <https://twitter.com/lia_tadesse|@lia_tadesse> <https://twitter.com/dagmawit_moges|@dagmawit_moges> <https://twitter.com/MuferihatK|@MuferihatK> <https://twitter.com/AbiebieAdanech|@AbiebieAdanech>  <https://twitter.com/AbrahamPostDoc|@AbrahamPostDoc> <https://twitter.com/TakeleUma|@TakeleUma> <https://twitter.com/AbebeAbebayehu|@AbebeAbebayehu> <https://twitter.com/EyobTolina|@EyobTolina> #COVID19Ethiopia <https://pbs.twimg.com/media/EUC5pQzWoAIYXUZ.jpg>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/ethiotelecom/status/1243221173598588929?s=20",
+                "image_url": "https://pbs.twimg.com/media/EUC5pQzWoAIYXUZ.jpg",
+                "image_width": 1200,
+                "image_height": 1199,
+                "image_bytes": 188044,
+                "id": 1,
+                "original_url": "https://twitter.com/ethiotelecom/status/1243221173598588929?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zoK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/ethiotelecom/status/1243221173598588929?s=20",
+                                "text": "https://twitter.com/ethiotelecom/status/1243221173598588929?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "c3b7108a-69bb-42c1-ac6c-7a18518b87be",
+        "type": "message",
+        "text": "<https://twitter.com/ethiotelecom/status/1243221173598588929>",
+        "user": "U010K3X390E",
+        "ts": "1585248528.043600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/ethiotelecom|@ethiotelecom>: \u1260\u12cd\u132d \u12a0\u1308\u122d \u1208\u121d\u1275\u1308\u1299 \u12a2\u1275\u12ee\u1335\u12eb\u12cd\u12eb\u1295\u1363 \u1275\u12cd\u120d\u12f0 \u12a5\u1275\u12ee\u1335\u12eb\u12cd\u12eb\u1295 \u12a5\u1293 \u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12c8\u12f3\u1306\u127d\n<https://twitter.com/AbiyAhmedAli|@AbiyAhmedAli> <https://twitter.com/SahleWorkZewde|@SahleWorkZewde> <https://twitter.com/PMEthiopia|@PMEthiopia> <https://twitter.com/FMoHealth|@FMoHealth> <https://twitter.com/lia_tadesse|@lia_tadesse> <https://twitter.com/dagmawit_moges|@dagmawit_moges> <https://twitter.com/MuferihatK|@MuferihatK> <https://twitter.com/AbiebieAdanech|@AbiebieAdanech>  <https://twitter.com/AbrahamPostDoc|@AbrahamPostDoc> <https://twitter.com/TakeleUma|@TakeleUma> <https://twitter.com/AbebeAbebayehu|@AbebeAbebayehu> <https://twitter.com/EyobTolina|@EyobTolina> #COVID19Ethiopia <https://pbs.twimg.com/media/EUC5pQzWoAIYXUZ.jpg>",
+                "ts": 1585242000,
+                "author_name": "Ethio telecom",
+                "author_link": "https://twitter.com/ethiotelecom/status/1243221173598588929",
+                "author_icon": "https://pbs.twimg.com/profile_images/1184541443416903680/4mD9VACM_normal.jpg",
+                "author_subname": "@ethiotelecom",
+                "text": "\u1260\u12cd\u132d \u12a0\u1308\u122d \u1208\u121d\u1275\u1308\u1299 \u12a2\u1275\u12ee\u1335\u12eb\u12cd\u12eb\u1295\u1363 \u1275\u12cd\u120d\u12f0 \u12a5\u1275\u12ee\u1335\u12eb\u12cd\u12eb\u1295 \u12a5\u1293 \u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12c8\u12f3\u1306\u127d\n<https://twitter.com/AbiyAhmedAli|@AbiyAhmedAli> <https://twitter.com/SahleWorkZewde|@SahleWorkZewde> <https://twitter.com/PMEthiopia|@PMEthiopia> <https://twitter.com/FMoHealth|@FMoHealth> <https://twitter.com/lia_tadesse|@lia_tadesse> <https://twitter.com/dagmawit_moges|@dagmawit_moges> <https://twitter.com/MuferihatK|@MuferihatK> <https://twitter.com/AbiebieAdanech|@AbiebieAdanech>  <https://twitter.com/AbrahamPostDoc|@AbrahamPostDoc> <https://twitter.com/TakeleUma|@TakeleUma> <https://twitter.com/AbebeAbebayehu|@AbebeAbebayehu> <https://twitter.com/EyobTolina|@EyobTolina> #COVID19Ethiopia <https://pbs.twimg.com/media/EUC5pQzWoAIYXUZ.jpg>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/ethiotelecom/status/1243221173598588929",
+                "image_url": "https://pbs.twimg.com/media/EUC5pQzWoAIYXUZ.jpg",
+                "image_width": 1200,
+                "image_height": 1199,
+                "image_bytes": 188044,
+                "id": 1,
+                "original_url": "https://twitter.com/ethiotelecom/status/1243221173598588929",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vaB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/ethiotelecom/status/1243221173598588929"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "0b46d931-d9db-49b3-b030-32c92b1e0a71",
+        "type": "message",
+        "text": "Hi all... this is not fake. It's part of the fund raising channels set up by Ethio tel targeting people living abroad.",
+        "user": "U0108FPHTEF",
+        "ts": "1585248724.044800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a/b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all... this is not fake. It's part of the fund raising channels set up by Ethio tel targeting people living abroad."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "6b2aaebe-8c71-4140-aaa9-32ba845f66c4",
+        "type": "message",
+        "text": "Okay\n\nI stand corrected, I couldn't find it on the website. And it just looks so shady.",
+        "user": "U010APHG8Q1",
+        "ts": "1585249016.045200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010APHG8Q1",
+            "ts": "1585249055.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s3Un",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay\n\nI stand corrected, I couldn't find it on the website. And it just looks so shady."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "9183dbbc-22ce-46e4-9cdc-96f3df4c7be6",
+        "type": "message",
+        "text": "It's on their official verified Twitter account: @ethiotelecom",
+        "user": "U01077KJKQU",
+        "ts": "1585249943.045800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fCR3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's on their official verified Twitter account: @ethiotelecom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "3dceb6e8-2882-41d3-94c8-6cb8e61d9512",
+        "type": "message",
+        "text": "\"she\"?\n\nAtleast capitalize it",
+        "user": "UV9AYBY3C",
+        "ts": "1585253866.046200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K=/o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"she\"?\n\nAtleast capitalize it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585073942.209600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "d79f290d-56c6-4fce-b558-e5481fb32907",
+        "type": "message",
+        "text": "I see now, I am sorry I doubted you :bow:",
+        "user": "U010APHG8Q1",
+        "ts": "1585257443.046400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d7A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see now, I am sorry I doubted you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01077KJKQU",
+                    "U0107JE2S94"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\u1260 world meter \u1218\u1228\u1303 \u1218\u1220\u1228\u1275 \u1260\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1218\u12eb\u12db\u1278\u12cd \u12e8\u1270\u1228\u130b\u1308\u1320 \u1230\u12ce\u127d \u1241\u1325\u122d \u1260\u12a0\u121c\u122a\u12ab 82,179 \u1260\u1218\u1206\u1295 \u12a8\u127b\u12ed\u1293 \u1260\u120d\u1327\u120d!!",
+        "files": [
+            {
+                "id": "F010J6H8D7V",
+                "created": 1585259624,
+                "timestamp": 1585259624,
+                "name": "20200326_185115.jpg",
+                "title": "20200326_185115.jpg",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0105HGUZ0S",
+                "editable": false,
+                "size": 37084,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010J6H8D7V/20200326_185115.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010J6H8D7V/download/20200326_185115.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010J6H8D7V-1a50152ed9/20200326_185115_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010J6H8D7V-1a50152ed9/20200326_185115_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010J6H8D7V-1a50152ed9/20200326_185115_360.jpg",
+                "thumb_360_w": 360,
+                "thumb_360_h": 226,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010J6H8D7V-1a50152ed9/20200326_185115_480.jpg",
+                "thumb_480_w": 480,
+                "thumb_480_h": 301,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010J6H8D7V-1a50152ed9/20200326_185115_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010J6H8D7V-1a50152ed9/20200326_185115_720.jpg",
+                "thumb_720_w": 720,
+                "thumb_720_h": 452,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010J6H8D7V-1a50152ed9/20200326_185115_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 502,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010J6H8D7V-1a50152ed9/20200326_185115_960.jpg",
+                "thumb_960_w": 960,
+                "thumb_960_h": 602,
+                "image_exif_rotation": 1,
+                "original_w": 1006,
+                "original_h": 631,
+                "thumb_tiny": "AwAeADDRJbdgZ/Kndqbg7uox6YpcD0oAQE5Oc4+lBJBHXH0pCOT8wA+lIwPYj8qTdgHtnHGfyoUkjkHP0psY65Ib8KR+h5HQ8UJgKQC/KfjT6aQc8Nx6Yp1MBjYyf3e78uaCcfwn6UpBJ4Yj8KRgexxUyGgj6H5dvtSNjDfJzg80qAjqc0ODtPzHGDximtg6n//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0105HGUZ0S/F010J6H8D7V/20200326_185115.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010J6H8D7V-6da432bc0e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\u1260 world meter \u1218\u1228\u1303 \u1218\u1220\u1228\u1275 \u1260\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1218\u12eb\u12db\u1278\u12cd \u12e8\u1270\u1228\u130b\u1308\u1320 \u1230\u12ce\u127d \u1241\u1325\u122d \u1260\u12a0\u121c\u122a\u12ab 82,179 \u1260\u1218\u1206\u1295 \u12a8\u127b\u12ed\u1293 \u1260\u120d\u1327\u120d!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0105HGUZ0S",
+        "display_as_bot": false,
+        "ts": "1585259629.046700",
+        "client_msg_id": "b477151f-613f-44cc-9257-cbb6a9c1a49e",
+        "reactions": [
+            {
+                "name": "face_with_hand_over_mouth",
+                "users": [
+                    "UV7TXH7FV",
+                    "U0102QX78GH",
+                    "U0105ADB9PU",
+                    "U010JAMHQUC",
+                    "UV6JJDDKL"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "776a35f6-2500-48a7-a9ae-c132a34e60ef",
+        "type": "message",
+        "text": "<http://remit.et|remit.et> site is not working",
+        "user": "UVB595TCJ",
+        "ts": "1585264251.047500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0tJp7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "remit.et site is not working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "1cf0fd08-75c4-46d0-abc9-512f2f253313",
+        "type": "message",
+        "text": "Yeah. A few people reported that. @ethiotelecom is saying it will be operational tomorrow.",
+        "user": "U01077KJKQU",
+        "ts": "1585264388.047700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tjj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah. A few people reported that. @ethiotelecom is saying it will be operational tomorrow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585248061.041200",
+        "parent_user_id": "U01077KJKQU"
+    }
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "client_msg_id": "18467882-e11d-4bde-aa80-fa656b6222e8",
+        "type": "message",
+        "text": "This may be a useful data source for those who are involved in modelling: <http://www.sociopatterns.org/datasets/>. The have data on many countries - I saw Kenya in there - about the dynamics of face to face and other contacts in different social settings (schools, house, work place, etc.). The <http://www.sociopatterns.org/gallery/|gallery page> has so many interesting visualisation videos.",
+        "user": "U010L1RJMUN",
+        "ts": "1585579007.115000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "DATASETS \u00ab  SocioPatterns.org",
+                "title_link": "http://www.sociopatterns.org/datasets/",
+                "text": "A research project that aims to uncover fundamental patterns in social dynamics and coordinated human activity through a data-driven approach.",
+                "fallback": "DATASETS \u00ab  SocioPatterns.org",
+                "from_url": "http://www.sociopatterns.org/datasets/",
+                "thumb_url": "http://www.sociopatterns.org/wp-content/themes/sp2/images/thumbnail.png",
+                "thumb_width": 130,
+                "thumb_height": 110,
+                "service_icon": "http://www.sociopatterns.org/favicon.ico",
+                "service_name": "sociopatterns.org",
+                "id": 1,
+                "original_url": "http://www.sociopatterns.org/datasets/"
+            },
+            {
+                "title": "GALLERY \u00ab  SocioPatterns.org",
+                "title_link": "http://www.sociopatterns.org/gallery/",
+                "text": "A gallery that offers a collection of visualizations, pictures, movies and other media created and/or recorded in the context of the SocioPatterns project.",
+                "fallback": "GALLERY \u00ab  SocioPatterns.org",
+                "from_url": "http://www.sociopatterns.org/gallery/",
+                "thumb_url": "http://www.sociopatterns.org/wp-content/themes/sp2/images/thumbnail.png",
+                "thumb_width": 130,
+                "thumb_height": 110,
+                "service_icon": "http://www.sociopatterns.org/favicon.ico",
+                "service_name": "sociopatterns.org",
+                "id": 2,
+                "original_url": "http://www.sociopatterns.org/gallery/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZsJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This may be a useful data source for those who are involved in modelling: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.sociopatterns.org/datasets/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". The have data on many countries - I saw Kenya in there - about the dynamics of face to face and other contacts in different social settings (schools, house, work place, etc.). The "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.sociopatterns.org/gallery/",
+                                "text": "gallery page"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has so many interesting visualisation videos."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585579007.115000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585585899.120000",
+        "reply_users": [
+            "U0100NRD9RQ"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010T8D05UM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01069Z58V8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0260c0b-17cf-4657-a793-9e56daa881c0",
+        "type": "message",
+        "text": "<https://www.youtube.com/watch?v=gxAaO2rsdIs&amp;feature=share&amp;fbclid=IwAR1VNALiVLO8PYTvJ3453yct6xqWs2RpSkbFvQN74FBjp9cUACReN8P5l_U|Simulating an epidemic> is a good visualisation for the SIR model, and what inferences can be made",
+        "user": "U010L1RJMUN",
+        "ts": "1585579305.116200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Simulating an epidemic",
+                "title_link": "https://www.youtube.com/watch?v=gxAaO2rsdIs&amp;feature=share&amp;fbclid=IwAR1VNALiVLO8PYTvJ3453yct6xqWs2RpSkbFvQN74FBjp9cUACReN8P5l_U",
+                "author_name": "3Blue1Brown",
+                "author_link": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+                "thumb_url": "https://i.ytimg.com/vi/gxAaO2rsdIs/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Simulating an epidemic",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/gxAaO2rsdIs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=gxAaO2rsdIs&amp;feature=share&amp;fbclid=IwAR1VNALiVLO8PYTvJ3453yct6xqWs2RpSkbFvQN74FBjp9cUACReN8P5l_U",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=gxAaO2rsdIs&amp;feature=share&amp;fbclid=IwAR1VNALiVLO8PYTvJ3453yct6xqWs2RpSkbFvQN74FBjp9cUACReN8P5l_U"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qCaAC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=gxAaO2rsdIs&feature=share&fbclid=IwAR1VNALiVLO8PYTvJ3453yct6xqWs2RpSkbFvQN74FBjp9cUACReN8P5l_U",
+                                "text": "Simulating an epidemic"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a good visualisation for the SIR model, and what inferences can be made"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Here is a very useful tool for modeling COVID-19 spread vs. healthcare capacity: <https://alhill.shinyapps.io/COVID19seir/|https://alhill.shinyapps.io/COVID19seir/>. It helps visualize the impact of multiple scenarios/assumptions ",
+        "user": "U0100NRD9RQ",
+        "ts": "1585585899.120000",
+        "thread_ts": "1585579007.115000",
+        "root": {
+            "client_msg_id": "18467882-e11d-4bde-aa80-fa656b6222e8",
+            "type": "message",
+            "text": "This may be a useful data source for those who are involved in modelling: <http://www.sociopatterns.org/datasets/>. The have data on many countries - I saw Kenya in there - about the dynamics of face to face and other contacts in different social settings (schools, house, work place, etc.). The <http://www.sociopatterns.org/gallery/|gallery page> has so many interesting visualisation videos.",
+            "user": "U010L1RJMUN",
+            "ts": "1585579007.115000",
+            "team": "TV5KELEUS",
+            "attachments": [
+                {
+                    "title": "DATASETS \u00ab  SocioPatterns.org",
+                    "title_link": "http://www.sociopatterns.org/datasets/",
+                    "text": "A research project that aims to uncover fundamental patterns in social dynamics and coordinated human activity through a data-driven approach.",
+                    "fallback": "DATASETS \u00ab  SocioPatterns.org",
+                    "from_url": "http://www.sociopatterns.org/datasets/",
+                    "thumb_url": "http://www.sociopatterns.org/wp-content/themes/sp2/images/thumbnail.png",
+                    "thumb_width": 130,
+                    "thumb_height": 110,
+                    "service_icon": "http://www.sociopatterns.org/favicon.ico",
+                    "service_name": "sociopatterns.org",
+                    "id": 1,
+                    "original_url": "http://www.sociopatterns.org/datasets/"
+                },
+                {
+                    "title": "GALLERY \u00ab  SocioPatterns.org",
+                    "title_link": "http://www.sociopatterns.org/gallery/",
+                    "text": "A gallery that offers a collection of visualizations, pictures, movies and other media created and/or recorded in the context of the SocioPatterns project.",
+                    "fallback": "GALLERY \u00ab  SocioPatterns.org",
+                    "from_url": "http://www.sociopatterns.org/gallery/",
+                    "thumb_url": "http://www.sociopatterns.org/wp-content/themes/sp2/images/thumbnail.png",
+                    "thumb_width": 130,
+                    "thumb_height": 110,
+                    "service_icon": "http://www.sociopatterns.org/favicon.ico",
+                    "service_name": "sociopatterns.org",
+                    "id": 2,
+                    "original_url": "http://www.sociopatterns.org/gallery/"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZsJ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "This may be a useful data source for those who are involved in modelling: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "http://www.sociopatterns.org/datasets/"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ". The have data on many countries - I saw Kenya in there - about the dynamics of face to face and other contacts in different social settings (schools, house, work place, etc.). The "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "http://www.sociopatterns.org/gallery/",
+                                    "text": "gallery page"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " has so many interesting visualisation videos."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1585579007.115000",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1585585899.120000",
+            "reply_users": [
+                "U0100NRD9RQ"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is a very useful tool for modeling COVID-19 spread vs. healthcare capacity: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://alhill.shinyapps.io/COVID19seir/",
+                                "text": "https://alhill.shinyapps.io/COVID19seir/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". It helps visualize the impact of multiple scenarios/assumptions "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "EF8850A1-AD80-4EB9-A4F8-1A7FEC035A60"
+    },
+    {
+        "client_msg_id": "d77c0c2b-3cd7-4e66-baf3-ccad9cf5e4a2",
+        "type": "message",
+        "text": "Hey guys,\n\n<https://response-app-api.amanu-n.com/api/user>\n\nResponse app API is dockerized (in the most inefficient way, I will work on that).\nPlease, I need someone to help out with creating a health endpoint.",
+        "user": "U010APHG8Q1",
+        "ts": "1585600733.121700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Humw2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys,\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://response-app-api.amanu-n.com/api/user"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nResponse app API is dockerized (in the most inefficient way, I will work on that).\nPlease, I need someone to help out with creating a health endpoint."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

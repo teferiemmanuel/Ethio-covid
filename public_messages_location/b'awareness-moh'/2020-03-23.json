@@ -1,0 +1,102 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584937930.001700",
+        "user": "U0106MECUD9",
+        "text": "<@U0106MECUD9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0106M26108",
+        "ts": "1584949322.002000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 22nd, 2020 9:53 PM] samsonusmael: Hey all Hey can someone leading the digital marketing jump on a zoom call regarding the content! The guys sayed he can give the go ahead so that we connect you with him! ",
+                "ts": "1584939200.470400",
+                "author_id": "U010BSJ55MK",
+                "author_subname": "Samson Usmael",
+                "channel_id": "C0106LZBVCY",
+                "channel_name": "all-project-ideas",
+                "is_msg_unfurl": true,
+                "text": "Hey all Hey can someone leading the digital marketing jump on a zoom call regarding the content! The guys sayed he can give the go ahead so that we connect you with him! ",
+                "author_name": "Samson Usmael",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010BSJ55MK",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-19/1014873866055_3f00bdbc9db9b8baa80c_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1584939200470400",
+                "is_share": true,
+                "footer": "Posted in #all-project-ideas"
+            }
+        ],
+        "thread_ts": "1584949322.002000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584949345.002100",
+        "reply_users": [
+            "U0106M26108"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "532bcf98-d66d-473b-868a-d4e8aab5314b",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1584939272470800>",
+        "user": "U0106M26108",
+        "ts": "1584949345.002100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1584939272470800",
+                "fallback": "[March 22nd, 2020 9:54 PM] rediate: we're on <@U010BSJ55MK>",
+                "ts": "1584939272.470800",
+                "author_id": "U010CLFURT8",
+                "author_subname": "Rediate T.",
+                "channel_id": "C0106LZBVCY",
+                "channel_name": "all-project-ideas",
+                "is_msg_unfurl": true,
+                "text": "we're on <@U010BSJ55MK>",
+                "author_name": "Rediate T.",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010CLFURT8",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-22/1006674995363_73c263c236240578a8a0_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1584939272470800",
+                "footer": "Posted in #all-project-ideas"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+HT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1584939272470800"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584949322.002000",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584949520.002500",
+        "user": "U0108RB6UU8",
+        "text": "<@U0108RB6UU8> has joined the channel"
+    }
+]

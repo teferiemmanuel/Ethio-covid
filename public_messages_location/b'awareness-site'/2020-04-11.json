@@ -1,0 +1,369 @@
+[
+    {
+        "client_msg_id": "A1BED0BF-A56C-4077-8839-741804BB771D",
+        "type": "message",
+        "text": "We will work on it this weekend. Thanks ",
+        "user": "UVC2L182V",
+        "ts": "1586567591.191600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Z9Bp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We will work on it this weekend. Thanks "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586538357.186800",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "a9adaab1-19b3-4d3f-8026-7dcb066766b1",
+        "type": "message",
+        "text": "Thank you <@UVC2L182V>",
+        "user": "U01085512G5",
+        "ts": "1586568462.191800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O7bvt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVC2L182V"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586538357.186800",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "client_msg_id": "d6d59cb8-9fa2-4fd3-8af5-ea5b02547b7f",
+        "type": "message",
+        "text": "\u2022 Pushed more changes, some refactoring, some bug fixes  \n\u2022 <@UV8B0679P> added some _Blue_ :blue_heart: awesomeness to the buttons and other layouts :ok_hand:\n==&gt; site is DOPE :sunglasses:",
+        "user": "U01085512G5",
+        "ts": "1586586307.196400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HH9",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pushed more changes, some refactoring, some bug fixes  "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "UV8B0679P"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " added some "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Blue ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "blue_heart",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " awesomeness to the buttons and other layouts "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "ok_hand"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n==> site is DOPE "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ACCBBBEC-E06C-4CE3-AA11-2F7010FA19C2",
+        "type": "message",
+        "text": "<!channel> - good morning. Do you have an everything to be successful during this weekend\u2019s sprint? If not, please ping me so that I can help facilitate. ",
+        "user": "UV8B0679P",
+        "ts": "1586624018.196800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vTBr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - good morning. Do you have an everything to be successful during this weekend\u2019s sprint? If not, please ping me so that I can help facilitate. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624018.196800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586625041.196900",
+        "reply_users": [
+            "U01085512G5"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "02d5340b-f01b-4baf-985a-97ae8b20a223",
+        "type": "message",
+        "text": "<@UV8B0679P> \nLook at what is left (mostly design items for best quality)\nI have already started the first item...linking the downloadable campaign materials.\n<https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1586538357186800?thread_ts=1586538357.186800&amp;cid=C0110VDA0HM|https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1586538357186800?thread_ts=1586538357.186800&amp;cid=C0110VDA0HM>",
+        "user": "U01085512G5",
+        "ts": "1586625041.196900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1586538357186800?thread_ts=1586538357.186800&amp;cid=C0110VDA0HM",
+                "fallback": "[April 10th, 2020 10:05 AM] yosef.semegn: <!channel> I have just pushed a bunch of changes to the site. All content, English and Amharic, has now been plugged in. Also changed the localization/routing approach to make content entry easier and simplify maintainance.\n\nYou may check out current state of the site here: <http://ethiopia-covid19.com>\ncc: QA, <@UVAL943JP> <@UVC2L182V>\n\n*What is left* \n1. Host downloadable material (<https://drive.google.com/drive/folders/10QZ8IA1gIOOr0sLFbELoi0_eydmh2VJI?usp=sharing>) somewhere and link them for download on the Resources page  `-- work started`\n2. Content misses some phone numbers. cc: <@U0106M26108> <@UVALWD1MG> \n3. We need the Amharic versions of the Header images of each page. cc: <@U0115055LQP> <@U011870MD54> \n4. (Also <@U0115055LQP> and <@U011870MD54>) - we changed _Back_ to _Home._ If you can make us SVGs with _Home_ Button, that would be much appreciated. ",
+                "ts": "1586538357.186800",
+                "author_id": "U01085512G5",
+                "author_subname": "yosef",
+                "channel_id": "C0110VDA0HM",
+                "channel_name": "awareness-site",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "<!channel> I have just pushed a bunch of changes to the site. All content, English and Amharic, has now been plugged in. Also changed the localization/routing approach to make content entry easier and simplify maintainance.\n\nYou may check out current state of the site here: <http://ethiopia-covid19.com>\ncc: QA, <@UVAL943JP> <@UVC2L182V>\n\n*What is left* \n1. Host downloadable material (<https://drive.google.com/drive/folders/10QZ8IA1gIOOr0sLFbELoi0_eydmh2VJI?usp=sharing>) somewhere and link them for download on the Resources page  `-- work started`\n2. Content misses some phone numbers. cc: <@U0106M26108> <@UVALWD1MG> \n3. We need the Amharic versions of the Header images of each page. cc: <@U0115055LQP> <@U011870MD54> \n4. (Also <@U0115055LQP> and <@U011870MD54>) - we changed _Back_ to _Home._ If you can make us SVGs with _Home_ Button, that would be much appreciated. ",
+                "author_name": "yosef",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U01085512G5",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-18/996048830738_01da2253de81472e3141_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1586538357186800?thread_ts=1586538357.186800&amp;cid=C0110VDA0HM",
+                "footer": "Thread in #awareness-site"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xpS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nLook at what is left (mostly design items for best quality)\nI have already started the first item...linking the downloadable campaign materials.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1586538357186800?thread_ts=1586538357.186800&cid=C0110VDA0HM",
+                                "text": "https://ethiopia-covid19.slack.com/archives/C0110VDA0HM/p1586538357186800?thread_ts=1586538357.186800&cid=C0110VDA0HM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586624018.196800",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "327232b3-2dc5-4f64-9356-ddbbb63e70cc",
+        "type": "message",
+        "text": "<@U01085512G5> can we use the button on the home button ?",
+        "user": "U0115055LQP",
+        "ts": "1586631223.197800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KB76",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can we use the button on the home button ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586631223.197800",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1586632047.198400",
+        "reply_users": [
+            "U01085512G5"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fb52cec9-2323-4215-a21f-e36f52c4f3e0",
+        "type": "message",
+        "text": "<https://www.dropbox.com/s/3t5iumw9zuv53fj/back-btn.svg?dl=0>",
+        "user": "U0115055LQP",
+        "ts": "1586631437.198000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hpwV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.dropbox.com/s/3t5iumw9zuv53fj/back-btn.svg?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce5ebdf8-1264-4c25-9024-1a58bd732bc8",
+        "type": "message",
+        "text": "<@U0115055LQP> if you can change the text \"Back\" to \"Home\", that would do. We felt \"Back\" always assumes the user got there from the main landing page which might not be true. User could have landed straight to one of the detail pages...in which case Back sounds weird.",
+        "user": "U01085512G5",
+        "ts": "1586631959.198200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vxRJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you can change the text \"Back\" to \"Home\", that would do. We felt \"Back\" always assumes the user got there from the main landing page which might not be true. User could have landed straight to one of the detail pages...in which case Back sounds weird."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586631223.197800",
+        "parent_user_id": "U0115055LQP"
+    },
+    {
+        "client_msg_id": "d80516d0-432c-4538-9f64-01049f392c75",
+        "type": "message",
+        "text": "The other item for you guys is about localized headers. Either give us Amharic versions of each header or give us a plain one so we can just use it as a background with the actual localized header title overlay",
+        "user": "U01085512G5",
+        "ts": "1586632047.198400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01085512G5",
+            "ts": "1586632370.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yk/H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The other item for you guys is about localized headers. Either give us Amharic versions of each header or give us a plain one so we can just use it as a background with the actual localized header title overlay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586631223.197800",
+        "parent_user_id": "U0115055LQP"
+    }
+]

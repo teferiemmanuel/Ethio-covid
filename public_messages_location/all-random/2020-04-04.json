@@ -1,0 +1,366 @@
+[
+    {
+        "client_msg_id": "1be4775a-356e-47cf-8340-2bb49d3c25c3",
+        "type": "message",
+        "text": "<https://twitter.com/SlackHQ/status/1245435598862569472?s=20|https://twitter.com/SlackHQ/status/1245435598862569472?s=20>",
+        "user": "U010A0N4N0P",
+        "ts": "1585967323.195600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/SlackHQ|@SlackHQ>: .<https://twitter.com/MikeEndale|@MikeEndale> and team organized a 48-hour hackathon to come up with ways to help people fight Covid-19 in Ethiopia. <https://twitter.com/MikeEndale/status/1243756891580370955?s=20>",
+                "ts": 1585769960,
+                "author_name": "Slack",
+                "author_link": "https://twitter.com/SlackHQ/status/1245435598862569472",
+                "author_icon": "https://pbs.twimg.com/profile_images/1192935671473659905/AMUy2VsJ_normal.jpg",
+                "author_subname": "@SlackHQ",
+                "text": ".<https://twitter.com/MikeEndale|@MikeEndale> and team organized a 48-hour hackathon to come up with ways to help people fight Covid-19 in Ethiopia. <https://twitter.com/MikeEndale/status/1243756891580370955?s=20>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/SlackHQ/status/1245435598862569472?s=20",
+                "id": 1,
+                "original_url": "https://twitter.com/SlackHQ/status/1245435598862569472?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            },
+            {
+                "fallback": "<https://twitter.com/MikeEndale|@MikeEndale>: :wave::skin-tone-5: We are starting a Weekend Hackathon starting right now to #Ethiopia fight back COVID-19.\n\nThe goal is to spend the next 48 hours shipping code, design marketing assets, research on supplies &amp; logistics support for other on the ground efforts, all to help save lives! <https://pbs.twimg.com/media/EUK1hdMX0AE0rOs.jpg>",
+                "ts": 1585369725,
+                "author_name": "Mike Endale",
+                "author_link": "https://twitter.com/MikeEndale/status/1243756891580370955",
+                "author_icon": "https://pbs.twimg.com/profile_images/2969605812/cb5ad14065c812c3e1e9cd553f6ccf75_normal.jpeg",
+                "author_subname": "@MikeEndale",
+                "text": ":wave::skin-tone-5: We are starting a Weekend Hackathon starting right now to #Ethiopia fight back COVID-19.\n\nThe goal is to spend the next 48 hours shipping code, design marketing assets, research on supplies &amp; logistics support for other on the ground efforts, all to help save lives! <https://pbs.twimg.com/media/EUK1hdMX0AE0rOs.jpg>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/MikeEndale/status/1243756891580370955",
+                "image_url": "https://pbs.twimg.com/media/EUK1hdMX0AE0rOs.jpg",
+                "image_width": 1024,
+                "image_height": 512,
+                "image_bytes": 58073,
+                "indent": true,
+                "color": "32BBF3",
+                "id": 2,
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mr1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/SlackHQ/status/1245435598862569472?s=20",
+                                "text": "https://twitter.com/SlackHQ/status/1245435598862569472?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb0b1167-950f-452a-9836-bb814e06fcf5",
+        "type": "message",
+        "text": "hey guys do you know of any grocery delivery services being offered in Addis/other ethiopian cities?",
+        "user": "U0102QX78GH",
+        "ts": "1586030714.200800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9TxCW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey guys do you know of any grocery delivery services being offered in Addis/other ethiopian cities?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586030714.200800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586100594.209600",
+        "reply_users": [
+            "UVAL943JP",
+            "U0113PWT8BD"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b336d107-0eda-4b51-8717-d277d14eef71",
+        "type": "message",
+        "text": "<@U010986778X> hi there I am currently trying to build oxygen concentrator as we desperately be needing more oxygen supply means soon , there isn't enough oxygen supply in the country as it is now !  I am doing an experiment like this <https://youtu.be/27lndEFP2DU|https://youtu.be/27lndEFP2DU> , is there any thing that you can help me with ? My biggest worry/challenge is would it be possible to get good enough oxygen concentration with out requirements of  spicalized Zeolite x13 , which I can't get a hold here in this country ? can only get generic once  . Thanks.",
+        "user": "U011BC5SY80",
+        "ts": "1586031817.200900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U011BC5SY80",
+            "ts": "1586032110.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "How to build: Oxygen Concentrator",
+                "title_link": "https://youtu.be/27lndEFP2DU",
+                "author_name": "The Messy Desk",
+                "author_link": "https://www.youtube.com/channel/UCfNpvxHbE5PoN9V5acabQUg",
+                "thumb_url": "https://i.ytimg.com/vi/27lndEFP2DU/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How to build: Oxygen Concentrator",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/27lndEFP2DU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/27lndEFP2DU",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/27lndEFP2DU"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "58tC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hi there I am currently trying to build oxygen concentrator as we desperately be needing more oxygen supply means soon , there isn't enough oxygen supply in the country as it is now !  I am doing an experiment like this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/27lndEFP2DU",
+                                "text": "https://youtu.be/27lndEFP2DU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , is there any thing that you can help me with ? My biggest worry/challenge is would it be possible to get good enough oxygen concentration with out requirements of  spicalized Zeolite x13 , which I can't get a hold here in this country ? can only get generic once  . Thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585879267.165900",
+        "parent_user_id": "U010986778X"
+    },
+    {
+        "client_msg_id": "75806a1e-7e4c-40d2-a248-ed659fdc4da0",
+        "type": "message",
+        "text": "Hi Gelila, Samuel <tel:0911170781|(0911170781>) is a programmer that had designed and launched a web based book and grocery delivery web app a few years back under the ICE Addis startup mentorship program. I\u2019ve been away so dont know where things are but do check with him.",
+        "user": "U0113PWT8BD",
+        "ts": "1586033498.203900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h/A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Gelila, Samuel "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:0911170781",
+                                "text": "(0911170781"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") is a programmer that had designed and launched a web based book and grocery delivery web app a few years back under the ICE Addis startup mentorship program. I\u2019ve been away so dont know where things are but do check with him."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c84fd04-dde3-4e41-b2f2-465cc1ee6eb9",
+        "type": "message",
+        "text": "<@U0102QX78GH> Please join <#C010W2ZJN6L|proj-delivery>  team. You might find information there.",
+        "user": "UVAL943JP",
+        "ts": "1586034750.204000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OLGF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0102QX78GH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Please join "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010W2ZJN6L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  team. You might find information there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586030714.200800",
+        "parent_user_id": "U0102QX78GH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0102QX78GH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U011BC5SY80> Check out the attached patent. I believe you can exchange zeolite with one or more metallic cations (e.g lithium, sodium, potassium etc). These metallic cations can act as an absorbent of Nitrogen and produce Oxygen.",
+        "files": [
+            {
+                "id": "F0115A96K6F",
+                "created": 1586036369,
+                "timestamp": 1586036369,
+                "name": "US7473299 Patent.pdf",
+                "title": "US7473299 Patent.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010986778X",
+                "editable": false,
+                "size": 2208885,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0115A96K6F/us7473299_patent.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0115A96K6F/download/us7473299_patent.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F0115A96K6F-a15677fb81/us7473299_patent_thumb_pdf.png",
+                "thumb_pdf_w": 939,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010986778X/F0115A96K6F/us7473299_patent.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0115A96K6F-ea577f0e49",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011BC5SY80"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Check out the attached patent. I believe you can exchange zeolite with one or more metallic cations (e.g lithium, sodium, potassium etc). These metallic cations can act as an absorbent of Nitrogen and produce Oxygen."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010986778X",
+        "display_as_bot": false,
+        "ts": "1586036378.204400",
+        "client_msg_id": "fbb72861-44f1-4e7b-8639-41ef510a673b",
+        "thread_ts": "1585879267.165900",
+        "parent_user_id": "U010986778X"
+    },
+    {
+        "client_msg_id": "3edbcb6a-b144-414e-b5af-158c733dc1bf",
+        "type": "message",
+        "text": "Possibility of Disinfection of SARS-CoV-2 (COVID-19) in Human Respiratory Tract by Controlled Ethanol Vapor Inhalation\n<https://arxiv.org/abs/2003.12444?fbclid=IwAR1ugfOu0HM8XQkAcLfWhQ-V85BPa4yW1pGdy9yHztPAx-71BkEXRoIxHn8>",
+        "user": "U010H5VUMC5",
+        "ts": "1586036769.204900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010H5VUMC5",
+            "ts": "1586036793.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "arXiv.org",
+                "title": "Possibility of Disinfection of SARS-CoV-2 (COVID-19) in Human...",
+                "title_link": "https://arxiv.org/abs/2003.12444?fbclid=IwAR1ugfOu0HM8XQkAcLfWhQ-V85BPa4yW1pGdy9yHztPAx-71BkEXRoIxHn8",
+                "text": "Viruses such as SARS-CoV-2 and Influenza are lipophilic, enveloped viruses, and are relatively easy to inactivate by exposure to alcohols. The envelope mainly consists of the lipid bilayer, taken...",
+                "fallback": "arXiv.org: Possibility of Disinfection of SARS-CoV-2 (COVID-19) in Human...",
+                "from_url": "https://arxiv.org/abs/2003.12444?fbclid=IwAR1ugfOu0HM8XQkAcLfWhQ-V85BPa4yW1pGdy9yHztPAx-71BkEXRoIxHn8",
+                "service_icon": "https://static.arxiv.org/static/browse/0.2.9/images/icons/favicon.ico",
+                "id": 1,
+                "original_url": "https://arxiv.org/abs/2003.12444?fbclid=IwAR1ugfOu0HM8XQkAcLfWhQ-V85BPa4yW1pGdy9yHztPAx-71BkEXRoIxHn8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hmU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Possibility of Disinfection of SARS-CoV-2 (COVID-19) in Human Respiratory Tract by Controlled Ethanol Vapor Inhalation\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://arxiv.org/abs/2003.12444?fbclid=IwAR1ugfOu0HM8XQkAcLfWhQ-V85BPa4yW1pGdy9yHztPAx-71BkEXRoIxHn8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

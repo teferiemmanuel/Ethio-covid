@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "c85549e0-a0c3-4a7c-81ae-6aad09d4fb0f",
+        "type": "message",
+        "text": "If you\u2019re into yoga, here is a video for something you can do before bed to help you relax: <https://www.youtube.com/watch?v=v7SN-d4qXx0>",
+        "user": "UVALWD1MG",
+        "ts": "1586654642.000800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Yoga For Bedtime - 20 Minute Practice",
+                "title_link": "https://www.youtube.com/watch?v=v7SN-d4qXx0",
+                "author_name": "Yoga With Adriene",
+                "author_link": "https://www.youtube.com/user/yogawithadriene",
+                "thumb_url": "https://i.ytimg.com/vi/v7SN-d4qXx0/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Yoga For Bedtime - 20 Minute Practice",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/v7SN-d4qXx0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=v7SN-d4qXx0",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=v7SN-d4qXx0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NugCB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you\u2019re into yoga, here is a video for something you can do before bed to help you relax: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=v7SN-d4qXx0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "132d2550-84c1-463f-992f-3f42d8b46e43",
+        "type": "message",
+        "text": "20mins",
+        "user": "UVALWD1MG",
+        "ts": "1586654646.001100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FsN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "20mins"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

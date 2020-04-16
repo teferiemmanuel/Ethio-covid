@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "CAABA069-1DA1-4F84-93E7-823A0098DE9F",
+        "type": "message",
+        "text": "Interesting ... yes I thought the use of color communicated the idea well",
+        "user": "U010CQ6P9C4",
+        "ts": "1586311767.226700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HuGc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting ... yes I thought the use of color communicated the idea well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586219007.220000",
+        "parent_user_id": "U010CQ6P9C4"
+    },
+    {
+        "client_msg_id": "8efd1b1b-d8c4-4e97-acd4-d71c11d51dd8",
+        "type": "message",
+        "text": "<https://www.youtube.com/watch?v=Kas0tIxDvrg>",
+        "user": "U010059R6BT",
+        "ts": "1586382062.230200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Exponential growth and epidemics",
+                "title_link": "https://www.youtube.com/watch?v=Kas0tIxDvrg",
+                "author_name": "3Blue1Brown",
+                "author_link": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+                "thumb_url": "https://i.ytimg.com/vi/Kas0tIxDvrg/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Exponential growth and epidemics",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/Kas0tIxDvrg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https://www.youtube.com/watch?v=Kas0tIxDvrg",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=Kas0tIxDvrg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aU6lY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=Kas0tIxDvrg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

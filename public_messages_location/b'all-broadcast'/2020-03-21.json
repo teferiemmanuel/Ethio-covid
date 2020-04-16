@@ -1,0 +1,1140 @@
+[
+    {
+        "client_msg_id": "d081164c-a804-409b-8015-ad4c6f533580",
+        "type": "message",
+        "text": "I thought there was one. Yesterday we were told the meeting would be today?",
+        "user": "U01076XHPC0",
+        "ts": "1584753806.200500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=fV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought there was one. Yesterday we were told the meeting would be today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584741231.198100",
+        "parent_user_id": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "0d94d1e9-670b-4021-9ac2-ec870897f7b8",
+        "type": "message",
+        "text": "<@U01076XHPC0> - Apologies about the confusion We are in the process of creating clear documentation for when we meet next. There are over 500+ folks here and the focus in on getting us organized and having a clear call for action by our next meeting.",
+        "user": "U0107JERE9L",
+        "ts": "1584755052.200700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1gh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Apologies about the confusion We are in the process of creating clear documentation for when we meet next. There are over 500+ folks here and the focus in on getting us organized and having a clear call for action by our next meeting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584741231.198100",
+        "parent_user_id": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "265ca7c4-6325-42ca-828b-3e571d1bb576",
+        "type": "message",
+        "text": "Hi <@U0106M26108>! Thanks for sharing this &amp; for all efforts! I just joined so skimmed through the doc to see where things are at. I was wondering if the info for the #2 Public Info is up to date? Are there still no leads for the entire section or some actions/tasks have been allocated to people?",
+        "user": "U010G8S184V",
+        "ts": "1584788979.202200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J9mmn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Thanks for sharing this & for all efforts! I just joined so skimmed through the doc to see where things are at. I was wondering if the info for the #2 Public Info is up to date? Are there still no leads for the entire section or some actions/tasks have been allocated to people?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584662669.153500",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "44ef8fc0-47c6-46c3-ba01-3101efe194e5",
+        "type": "message",
+        "text": "Alright, so they will support MoH directly. However, they have asked us to list where we will need money on so they can organize to pay for it via MoH. Please make sure to add anything you can think of that will need paying for and we share this list with MoH or someone else who will manage the budget. Please note that this isn't a confirmation but an expression of interest from a potential supporter. However it's necessary to keep our financial projections regardless :)  <@U0101KKMPFC> <@UVB595TCJ> <@U010787AZ2T> <@U010CH2M90F>&gt;&gt; <https://docs.google.com/spreadsheets/d/1FpUu67V57B-9K2NwKj8BUjhKDcbk-O_FSXf_tdkHF88/edit#gid=0|https://docs.google.com/spreadsheets/d/1FpUu67V57B-9K2NwKj8BUjhKDcbk-O_FSXf_tdkHF88/edit#gid=0>",
+        "user": "U01087PJBNG",
+        "ts": "1584790363.202700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01087PJBNG",
+            "ts": "1584988699.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4EnTT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alright, so they will support MoH directly. However, they have asked us to list where we will need money on so they can organize to pay for it via MoH. Please make sure to add anything you can think of that will need paying for and we share this list with MoH or someone else who will manage the budget. Please note that this isn't a confirmation but an expression of interest from a potential supporter. However it's necessary to keep our financial projections regardless :)  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0101KKMPFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB595TCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010787AZ2T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010CH2M90F"
+                            },
+                            {
+                                "type": "text",
+                                "text": ">> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1FpUu67V57B-9K2NwKj8BUjhKDcbk-O_FSXf_tdkHF88/edit#gid=0",
+                                "text": "https://docs.google.com/spreadsheets/d/1FpUu67V57B-9K2NwKj8BUjhKDcbk-O_FSXf_tdkHF88/edit#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584700690.171700",
+        "parent_user_id": "U010787AZ2T"
+    },
+    {
+        "client_msg_id": "8bc52004-df52-41a9-8f66-901cddb24861",
+        "type": "message",
+        "text": "Hey Samson, we are introduced via email but he hasn\u2019t responded yet :disappointed: seems he might be overwhelmed but let\u2019s wait and see. I am also reaching out to another dev team at Acasus who already have mapping dashbord for vaccination tracking in Ethiopia. Will revert back as soon as I hear back from them.",
+        "user": "U01087PJBNG",
+        "ts": "1584793583.203000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u0v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Samson, we are introduced via email but he hasn\u2019t responded yet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " seems he might be overwhelmed but let\u2019s wait and see. I am also reaching out to another dev team at Acasus who already have mapping dashbord for vaccination tracking in Ethiopia. Will revert back as soon as I hear back from them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584647092.145300",
+        "parent_user_id": "UV9FL0WF5"
+    },
+    {
+        "client_msg_id": "c5468113-4b0b-4710-958d-e531c3561cdf",
+        "type": "message",
+        "text": "should we put in the maximum we can spend or conservative estimates...",
+        "user": "U0101KKMPFC",
+        "ts": "1584795200.203200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bvTk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "should we put in the maximum we can spend or conservative estimates..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584700690.171700",
+        "parent_user_id": "U010787AZ2T"
+    },
+    {
+        "client_msg_id": "093c6d3f-0f83-4419-ba74-de1d0f1ba00d",
+        "type": "message",
+        "text": "it takes roughly 4,000 USD to reach all of 6.1M people on facebook, per day. so just putting it in",
+        "user": "U0101KKMPFC",
+        "ts": "1584795227.203400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QwXv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it takes roughly 4,000 USD to reach all of 6.1M people on facebook, per day. so just putting it in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584700690.171700",
+        "parent_user_id": "U010787AZ2T"
+    },
+    {
+        "client_msg_id": "171faea1-9df0-4ebc-86c4-597e410768d2",
+        "type": "message",
+        "text": "Yes. I think at this point it\u2019s good to keep track of everything that will require a budget anyway.",
+        "user": "U01087PJBNG",
+        "ts": "1584801044.203800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fcd3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes. I think at this point it\u2019s good to keep track of everything that will require a budget anyway."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584700690.171700",
+        "parent_user_id": "U010787AZ2T"
+    },
+    {
+        "client_msg_id": "068a2ce3-1216-4a93-833b-d3d22d7fe161",
+        "type": "message",
+        "text": "Cool, when and where are you going to do the next call?",
+        "user": "U010AMAA7KR",
+        "ts": "1584805775.204100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CQC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool, when and where are you going to do the next call?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584741231.198100",
+        "parent_user_id": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "08584a28-032a-4a6b-8aea-1ba92f67bb3f",
+        "type": "message",
+        "text": "How are we tracking the project progress ? What can I do to help ?",
+        "user": "U010ETDKCA1",
+        "ts": "1584808605.206100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zrHst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How are we tracking the project progress ? What can I do to help ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5E181081-1CCE-47AC-9836-029F3DC87CC9",
+        "type": "message",
+        "text": "<@U0107JERE9L> let me know if I can help drive the coordination of efforts (background in prod mgmt, web, mobile and application dev) as well as cross industry project mgmt. ",
+        "user": "UVA8BCCBV",
+        "ts": "1584818603.209000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S5q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let me know if I can help drive the coordination of efforts (background in prod mgmt, web, mobile and application dev) as well as cross industry project mgmt. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584741231.198100",
+        "parent_user_id": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "8d1f541e-66d7-422c-b0a6-b743d624ff4e",
+        "type": "message",
+        "text": "<@U010AMAA7KR> - The next call is in 3 hours. There should be a meeting invitation soon.",
+        "user": "U0107JERE9L",
+        "ts": "1584820331.209400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "09OiN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010AMAA7KR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - The next call is in 3 hours. There should be a meeting invitation soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584741231.198100",
+        "parent_user_id": "U01022PTXA7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010AMAA7KR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f0e2e3e-0848-4a10-8d2c-de388d7a6bde",
+        "type": "message",
+        "text": "<@UVA8BCCBV> - Thanks for offering ... We are creating a document with the list of projects, action items and specific asks. We will share those things at the meeting later today.\nYou will be able to sign up from that list. Thank you.",
+        "user": "U0107JERE9L",
+        "ts": "1584820414.209600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "riQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVA8BCCBV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Thanks for offering ... We are creating a document with the list of projects, action items and specific asks. We will share those things at the meeting later today.\nYou will be able to sign up from that list. Thank you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584741231.198100",
+        "parent_user_id": "U01022PTXA7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVA8BCCBV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82151cea-898a-4443-b655-efe3c397d044",
+        "type": "message",
+        "text": "If anyone needs the direct link later for the meeting: <https://uber.zoom.us/j/7743585380>",
+        "user": "U01076XHPC0",
+        "ts": "1584821332.210800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01076XHPC0",
+            "ts": "1584821349.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r0GX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If anyone needs the direct link later for the meeting: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://uber.zoom.us/j/7743585380"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584741231.198100",
+        "parent_user_id": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "33b3536e-db61-4ded-9cd9-ab006a6bd01b",
+        "type": "message",
+        "text": "<@U010ETDKCA1> I would suggest you get a list of them first. Then you can work your way in regards to tracking.",
+        "user": "U010CH2M90F",
+        "ts": "1584822873.212000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rs8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010ETDKCA1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I would suggest you get a list of them first. Then you can work your way in regards to tracking."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e943ffd7-2fd6-4d7b-bd21-024f0fae66be",
+        "type": "message",
+        "text": "<@U010ETDKCA1> - We are working on this right now... We will share it in the meeting in about 2 hours.",
+        "user": "U0107JERE9L",
+        "ts": "1584823755.212800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bFZX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010ETDKCA1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - We are working on this right now... We will share it in the meeting in about 2 hours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d7317ce-1e10-4d26-9614-02121f4c40e3",
+        "type": "message",
+        "text": "can anyone <!here> share the meeting link?",
+        "user": "U010JMN7DNJ",
+        "ts": "1584823861.213200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+oJU/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can anyone "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " share the meeting link?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bae78b7a-c0b4-4a6a-8172-c33c9c70d079",
+        "type": "message",
+        "text": "I can\u2019t attend the meeting. It\u2019s already 23:53 here and got to hit the sack. Will there be a minute I can review tomorrow?",
+        "user": "U010CH2M90F",
+        "ts": "1584824052.214600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can\u2019t attend the meeting. It\u2019s already 23:53 here and got to hit the sack. Will there be a minute I can review tomorrow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584824052.214600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584825560.222400",
+        "reply_users": [
+            "U0107JERE9L",
+            "U01077KJKQU"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1a6e0072-8c2d-4104-87f1-0bdeabba8204",
+        "type": "message",
+        "text": "Yes <@U010CH2M90F>  - there will be minutes available",
+        "user": "U0107JERE9L",
+        "ts": "1584824174.216800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iJvT4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010CH2M90F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  - there will be minutes available"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584824052.214600",
+        "parent_user_id": "U010CH2M90F"
+    },
+    {
+        "client_msg_id": "edae75a6-a9f2-4190-8c1e-367c45de5916",
+        "type": "message",
+        "text": "Heeey, <!channel>! We\u2019ll give some direction with details shorty. But yes, we will be having an all-hands 2hrs from now at *<https://www.worldtimebuddy.com/?qm=1&amp;lid=344979,5391959,4140963&amp;h=344979&amp;date=2020-3-21&amp;sln=2-3|4pm PDT / 7pm EDT / 2am EAT>* today!\n\nYou should have all gotten a gcal invite.\n\nIf you haven\u2019t received one, please <https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform|fill out the form so you can be added moving forward &amp; this will better help us organize>, until then, we\u2019ll of course make sure to post the zoom link here 30mins before the all-hands.",
+        "user": "U0106M26108",
+        "ts": "1584824190.217300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1584825379.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TpNGk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heeey, "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! We\u2019ll give some direction with details shorty. But yes, we will be having an all-hands 2hrs from now at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.worldtimebuddy.com/?qm=1&lid=344979,5391959,4140963&h=344979&date=2020-3-21&sln=2-3",
+                                "text": "4pm PDT / 7pm EDT / 2am EAT",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " today!\n\nYou should have all gotten a gcal invite.\n\nIf you haven\u2019t received one, please "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform",
+                                "text": "fill out the form so you can be added moving forward & this will better help us organize"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", until then, we\u2019ll of course make sure to post the zoom link here 30mins before the all-hands."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C010695DKMM"
+        ],
+        "pinned_info": {
+            "channel": "C010695DKMM",
+            "pinned_by": "U0106M26108",
+            "pinned_ts": 1584825383
+        }
+    },
+    {
+        "client_msg_id": "cdc3fe5c-28af-4fee-879d-417f0a09d318",
+        "type": "message",
+        "text": "Hello friends! Does anyone know the exact number of people who were quarantined (under observation) after contact tracing and how many are released ? I really couldn't make it out from the press releases. Anything would help.\nThanks in advance",
+        "user": "U010JHVF19U",
+        "ts": "1584824621.221500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O6d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello friends! Does anyone know the exact number of people who were quarantined (under observation) after contact tracing and how many are released ? I really couldn't make it out from the press releases. Anything would help.\nThanks in advance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584824621.221500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584828781.224900",
+        "reply_users": [
+            "U0105C870AC",
+            "U010JHVF19U"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "12413bad-7427-47e9-a085-397bd555b527",
+        "type": "message",
+        "text": "I believe the call will be recorded as well, correct?",
+        "user": "U01077KJKQU",
+        "ts": "1584825560.222400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TT/OA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe the call will be recorded as well, correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584824052.214600",
+        "parent_user_id": "U010CH2M90F"
+    },
+    {
+        "client_msg_id": "166983CA-C741-4431-8090-0A72110A717B",
+        "type": "message",
+        "text": "<@U010JHVF19U> not sure how much reliable it is but came across this!\n<https://tracketdata.com/|https://tracketdata.com/>",
+        "user": "U0105C870AC",
+        "ts": "1584825943.223600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UFjr0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010JHVF19U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not sure how much reliable it is but came across this!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://tracketdata.com/",
+                                "text": "https://tracketdata.com/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584824621.221500",
+        "parent_user_id": "U010JHVF19U"
+    },
+    {
+        "client_msg_id": "9286feb0-071b-4422-894a-d7ec67445527",
+        "type": "message",
+        "text": "not sure if this has been ciculated, but just saw something rolled out by Information Network Security Agency (I believe): Ethiopian Integrated Corona Virus (COVID19) Monitoring Platform: <http://www.etwisdom.gov.et/covid-19|www.etwisdom.gov.et/covid-19>",
+        "user": "U010AASPU7Q",
+        "ts": "1584827936.224400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0On",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not sure if this has been ciculated, but just saw something rolled out by Information Network Security Agency (I believe): Ethiopian Integrated Corona Virus (COVID19) Monitoring Platform: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.etwisdom.gov.et/covid-19",
+                                "text": "www.etwisdom.gov.et/covid-19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584827936.224400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584840429.238300",
+        "reply_users": [
+            "UV6JJDDKL"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV7D89JGJ",
+                    "U010K8AA4PQ",
+                    "U010059R6BT",
+                    "U01077KJKQU",
+                    "U010HN3NZ1B",
+                    "U010DH0DB29"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82335a39-14e7-4d1e-9cff-66b6807ddf7c",
+        "type": "message",
+        "text": "thank you!",
+        "user": "U010JHVF19U",
+        "ts": "1584828781.224900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Ytg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584824621.221500",
+        "parent_user_id": "U010JHVF19U",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c986885-dade-41ff-8875-b6977b9a531e",
+        "type": "message",
+        "text": "<!channel>, all-hands call begins in 10mins :sunglasses:\n\nVideo Conference: <https://uber.zoom.us/j/7743585380>\n\nAgenda + Minutes: <https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit?usp=sharing>",
+        "user": "U0106M26108",
+        "ts": "1584831012.226600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1584836653.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GUf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", all-hands call begins in 10mins "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nVideo Conference: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://uber.zoom.us/j/7743585380"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAgenda + Minutes: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584831012.226600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1584834274.230000",
+        "reply_users": [
+            "U010JHVF19U",
+            "U010F234GJJ",
+            "U0100NR1PDY"
+        ],
+        "subscribed": false,
+        "pinned_to": [
+            "C010695DKMM"
+        ],
+        "pinned_info": {
+            "channel": "C010695DKMM",
+            "pinned_by": "U0106M26108",
+            "pinned_ts": 1584831118
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010JMN7DNJ",
+                    "U01076XHPC0",
+                    "U0100B5MHDG",
+                    "U010CLFURT8",
+                    "U0106M27EKS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0109G64E31",
+                    "U0106M27EKS",
+                    "U0107JDFH1U"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de4ec5b0-3171-4e07-9db1-3796f38f13f5",
+        "type": "message",
+        "text": "zoom link?",
+        "user": "U010JMN7DNJ",
+        "ts": "1584831018.226800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X0AsV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "zoom link?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584831018.226800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584831109.227600",
+        "reply_users": [
+            "U01084LBM5W"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f41ba7ad-a995-47f9-8ca8-9a7e313e5cb8",
+        "type": "message",
+        "text": "<https://uber.zoom.us/j/7743585380>",
+        "user": "U01084LBM5W",
+        "ts": "1584831109.227600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3m=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://uber.zoom.us/j/7743585380"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584831018.226800",
+        "parent_user_id": "U010JMN7DNJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010JMN7DNJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0738f031-39f7-4747-80f4-c727f18dadc8",
+        "type": "message",
+        "text": "Thanks Sefanit. It does not work though.",
+        "user": "U010JHVF19U",
+        "ts": "1584831813.228400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8NvV8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Sefanit. It does not work though."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584831012.226600",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "B6132962-32E2-4145-8F45-8F1AFFFFC258",
+        "type": "message",
+        "text": "Hi Sefanit- I\u2019m also not able to join. ",
+        "user": "U010F234GJJ",
+        "ts": "1584832890.229200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BdT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Sefanit- I\u2019m also not able to join. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584831012.226600",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "0B9A4C53-B2D8-4CFF-9A5F-028406F35DC5",
+        "type": "message",
+        "text": "Join Zoom Meeting\n<https://uber.zoom.us/j/7743585380|https://uber.zoom.us/j/7743585380>\n\nMeeting ID: 774 358 5380\n\nOne tap mobile\n+16699006833,,7743585380# US (San Jose)\n+13462487799,,7743585380# US (Houston)\n\nDial by your location\n        +1 669 900 6833 US (San Jose)\n        +1 346 248 7799 US (Houston)\n        +1 253 215 8782 US\n        +1 301 715 8592 US\n        +1 312 626 6799 US (Chicago)\n        +1 646 876 9923 US (New York)\n        855 880 1246 US Toll-free\n        877 369 0926 US Toll-free\n\nMeeting ID: 774 358 5380",
+        "user": "U0100NR1PDY",
+        "ts": "1584834274.230000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EfYN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Join Zoom Meeting\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://uber.zoom.us/j/7743585380",
+                                "text": "https://uber.zoom.us/j/7743585380"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMeeting ID: 774 358 5380\n\nOne tap mobile\n+16699006833,,7743585380# US (San Jose)\n+13462487799,,7743585380# US (Houston)\n\nDial by your location\n        +1 669 900 6833 US (San Jose)\n        +1 346 248 7799 US (Houston)\n        +1 253 215 8782 US\n        +1 301 715 8592 US\n        +1 312 626 6799 US (Chicago)\n        +1 646 876 9923 US (New York)\n        855 880 1246 US Toll-free\n        877 369 0926 US Toll-free\n\nMeeting ID: 774 358 5380"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584831012.226600",
+        "parent_user_id": "U0106M26108"
+    }
+]

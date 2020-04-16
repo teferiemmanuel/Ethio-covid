@@ -1,0 +1,1528 @@
+[
+    {
+        "client_msg_id": "c8d668ae-7d55-4059-95d9-9aa11f63a9fe",
+        "type": "message",
+        "text": "Anybody here with access to JSI I can message a few questions?",
+        "user": "U01078QCG2C",
+        "ts": "1584923887.280300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GSm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anybody here with access to JSI I can message a few questions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584923887.280300",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1584924324.283300",
+        "reply_users": [
+            "UV8B0679P",
+            "U01078QCG2C"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7BC8C0B9-1577-4029-AE76-C2A63F2A3C21",
+        "type": "message",
+        "text": "They are asleep right now - what can I help answer?",
+        "user": "UV8B0679P",
+        "ts": "1584923990.280800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G++IK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They are asleep right now - what can I help answer?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584923887.280300",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "693461bd-ac8a-40bc-9eff-3b3c2bb97e7e",
+        "type": "message",
+        "text": "Can you give me access to it or some short instructions/screenshot of where to find the data export?",
+        "user": "U01078QCG2C",
+        "ts": "1584924059.281000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c/KQG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you give me access to it or some short instructions/screenshot of where to find the data export?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584923887.280300",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "D6D82368-7201-4698-8531-41A7A0F6569B",
+        "type": "message",
+        "text": "I don\u2019t think there is any export \u2014 do you mean the API?",
+        "user": "UV8B0679P",
+        "ts": "1584924120.282000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XcPH4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don\u2019t think there is any export \u2014 do you mean the API?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584923887.280300",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "E5509C18-0E7A-4143-82E3-393EC9D341D7",
+        "type": "message",
+        "text": "If so, you can connect with the folks on the <#C01064YG0KD|surveillance-api> channel",
+        "user": "UV8B0679P",
+        "ts": "1584924153.282700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l3V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If so, you can connect with the folks on the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01064YG0KD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584923887.280300",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "cbea4e67-ae52-4ba5-a651-a22d0149b63e",
+        "type": "message",
+        "text": "Ok, no worries. Thought there was a way to manually export like commcare",
+        "user": "U01078QCG2C",
+        "ts": "1584924192.282900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hjF+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, no worries. Thought there was a way to manually export like commcare"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584923887.280300",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "262016AB-1186-4777-BC83-FA271E71F231",
+        "type": "message",
+        "text": "Not as of now",
+        "user": "UV8B0679P",
+        "ts": "1584924324.283300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KntH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not as of now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584923887.280300",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I'd like to discuss on this diagram/arch ....",
+        "files": [
+            {
+                "id": "F010KNS4B6K",
+                "created": 1584924731,
+                "timestamp": 1584924731,
+                "name": "Screen Shot 2020-03-22 at 8.50.06 PM.png",
+                "title": "Screen Shot 2020-03-22 at 8.50.06 PM.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01084M48U8",
+                "editable": false,
+                "size": 413995,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010KNS4B6K/screen_shot_2020-03-22_at_8.50.06_pm.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010KNS4B6K/download/screen_shot_2020-03-22_at_8.50.06_pm.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010KNS4B6K-c12d3d8e2a/screen_shot_2020-03-22_at_8.50.06_pm_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010KNS4B6K-c12d3d8e2a/screen_shot_2020-03-22_at_8.50.06_pm_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010KNS4B6K-c12d3d8e2a/screen_shot_2020-03-22_at_8.50.06_pm_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 183,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010KNS4B6K-c12d3d8e2a/screen_shot_2020-03-22_at_8.50.06_pm_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 244,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010KNS4B6K-c12d3d8e2a/screen_shot_2020-03-22_at_8.50.06_pm_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010KNS4B6K-c12d3d8e2a/screen_shot_2020-03-22_at_8.50.06_pm_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 367,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010KNS4B6K-c12d3d8e2a/screen_shot_2020-03-22_at_8.50.06_pm_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 407,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010KNS4B6K-c12d3d8e2a/screen_shot_2020-03-22_at_8.50.06_pm_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 489,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010KNS4B6K-c12d3d8e2a/screen_shot_2020-03-22_at_8.50.06_pm_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 521,
+                "image_exif_rotation": 1,
+                "original_w": 1312,
+                "original_h": 668,
+                "thumb_tiny": "AwAYADDQY4PX9aATnrQ/XrSfz7fnQBJRTBnHOc/jSAMc4NAElFM59DSg8etAAwJPSkCnPpT6KACjGKKKAA80gUClooA//9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01084M48U8/F010KNS4B6K/screen_shot_2020-03-22_at_8.50.06_pm.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010KNS4B6K-3710b3c591",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z=Ne",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd like to discuss on this diagram/arch ...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01084M48U8",
+        "display_as_bot": false,
+        "ts": "1584924736.283700",
+        "client_msg_id": "bd9d6c64-db02-413c-985f-bf482262fc16",
+        "thread_ts": "1584924736.283700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584924985.284200",
+        "reply_users": [
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "A427CC9E-10DB-4B19-9423-0481F263C9E2",
+        "type": "message",
+        "text": "Sure - how can I help?",
+        "user": "UV8B0679P",
+        "ts": "1584924985.284200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WkOsG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure - how can I help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584924736.283700",
+        "parent_user_id": "U01084M48U8"
+    },
+    {
+        "client_msg_id": "50489f6c-dfde-4ea5-a47a-8ad3f1d47701",
+        "type": "message",
+        "text": "i know c#, dot net core, python,java and little js if there is anything i can help with add me to github",
+        "user": "UV9A3UBA5",
+        "ts": "1584946666.288300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sk32Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i know c#, dot net core, python,java and little js if there is anything i can help with add me to github"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584957205.289200",
+        "user": "U010L1RJMUN",
+        "text": "<@U010L1RJMUN> has joined the channel",
+        "inviter": "U01084M48U8"
+    },
+    {
+        "client_msg_id": "fc6a259a-6844-42bc-80a4-146794fddaf0",
+        "type": "message",
+        "text": "<https://www.tracetogether.gov.sg/>\nAny way this could be implemented in Ethiopia?",
+        "user": "U010D325JFN",
+        "ts": "1584975371.290200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010D325JFN",
+            "ts": "1584975971.000000"
+        },
+        "attachments": [
+            {
+                "title": "TraceTogether",
+                "title_link": "https://www.tracetogether.gov.sg/",
+                "text": "Help stop the spread of COVID-19 through community-driven contact tracing in Singapore.",
+                "fallback": "TraceTogether",
+                "image_url": "https://www.tracetogether.gov.sg/img/tracetogether-og.jpg",
+                "from_url": "https://www.tracetogether.gov.sg/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 113200,
+                "service_icon": "https://www.tracetogether.gov.sg/img/tracetogetherlogo.png",
+                "service_name": "tracetogether.gov.sg",
+                "id": 1,
+                "original_url": "https://www.tracetogether.gov.sg/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8YwH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.tracetogether.gov.sg/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAny way this could be implemented in Ethiopia?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel> Let's have a quick (30min) stand-up call for the surveillance-response workstream at 9:30AM/12:30PM EST\n\nAgenda:\n\u2022 Check-in with all <https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit|pillars>\n\u2022 Review actions items with team leads/ POC and discussion blockers\n\u2022 Feedback from this morning's MoH call\nLeads/POC please add your action item and blockers to this sheet:\n<https://docs.google.com/spreadsheets/d/1ZNkXPPr_AslPNofjxmPW8MTMpBlO6B7pqzZHqPTc2ls/edit#gid=0>\n\n<https://mit.zoom.us/j/9235867808|meeting link>",
+        "files": [
+            {
+                "id": "F010FDK2405",
+                "created": 1584725484,
+                "timestamp": 1584725484,
+                "name": "Contact-tracing action items ",
+                "title": "Surveillance workstream action items",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0107A7161E",
+                "editable": false,
+                "size": 58558,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/1ZNkXPPr_AslPNofjxmPW8MTMpBlO6B7pqzZHqPTc2ls/edit#gid=0",
+                "thumb_64": "https://a.slack-edge.com/80588/img/files/gsheet_64.png",
+                "thumb_360": "https://a.slack-edge.com/80588/img/files/gsheet_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107A7161E/F010FDK2405/contact-tracing_action_items_",
+                "is_starred": false,
+                "external_id": "1ZNkXPPr_AslPNofjxmPW8MTMpBlO6B7pqzZHqPTc2ls",
+                "external_url": "https://docs.google.com/spreadsheets/d/1ZNkXPPr_AslPNofjxmPW8MTMpBlO6B7pqzZHqPTc2ls/edit#gid=0",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "30Ow",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Let's have a quick (30min) stand-up call for the surveillance-response workstream at 9:30AM/12:30PM EST\n\nAgenda:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Check-in with all "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit",
+                                        "text": "pillars"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Review actions items with team leads/ POC and discussion blockers"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Feedback from this morning's MoH call"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nLeads/POC please add your action item and blockers to this sheet:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1ZNkXPPr_AslPNofjxmPW8MTMpBlO6B7pqzZHqPTc2ls/edit#gid=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://mit.zoom.us/j/9235867808",
+                                "text": "meeting link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "x_files": [
+            "F010FDK2405"
+        ],
+        "ts": "1584980234.297300",
+        "client_msg_id": "d21ecd6f-9550-4e53-a63f-aac83626fb19"
+    },
+    {
+        "client_msg_id": "774e9019-8269-4b3d-b315-5c975575f566",
+        "type": "message",
+        "text": "<@U010A0N4N0P>",
+        "user": "U0100B5MHDG",
+        "ts": "1584983363.298800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010A0N4N0P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584810888.151200",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "bc8828e0-2b89-4935-8931-efe4c1d951ab",
+        "type": "message",
+        "text": "Tagging <@U0107DX4VNU> and <@U0107EMK8UD> for help with Epidemiology needs. <@U0107A7161E> please let me know if there is another channel/thread we need to loop them into based on our meeting earlier.",
+        "user": "U01022PTXA7",
+        "ts": "1584983476.299000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X6uTd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tagging "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for help with Epidemiology needs. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please let me know if there is another channel/thread we need to loop them into based on our meeting earlier."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584911234.275600",
+        "parent_user_id": "U01084M48U8"
+    },
+    {
+        "client_msg_id": "7c9a9a3c-1ed2-46d0-b586-0f7336ffe632",
+        "type": "message",
+        "text": "<http://www.etwisdom.gov.et/covid-19|http://www.etwisdom.gov.et/covid-19>",
+        "user": "U010K268TV5",
+        "ts": "1584989040.300800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "reEA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http://www.etwisdom.gov.et/covid-19",
+                                "text": "http://www.etwisdom.gov.et/covid-19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584880131.221000",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0107A7161E",
+        "ts": "1584992866.301000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 23rd, 2020 3:46 PM] sienna_leis: Good day! <@U0107A7161E> wanted me to share here a bit more about a solution that I've been working on with an MIT team, which is a citizen-centric open source \u2018privacy-first\u2019 digital solution for contact tracing for COVID-19 spread. It has three components: mobile app (<http://safepapths.mit.edu/|PrivateKit>), tools for health officials (SafePlaces) and plug-ins for partners. The digital\u00a0*contact tracing using overlapped GPS trails*\u00a0allows an individual to check if they have crossed paths with someone who was later diagnosed with the infection. Team is MIT, Harvard, Mayo and various\u00a0startups. And the Mobile App (PrivateKit) is now available on playstore.\n\n*Privacy*: We use either\u00a0*on-device*\u00a0calculation or use\u00a0*encrypted trail match*\u00a0with mathematical guarantees of privacy. Thus it avoids the \u2018big brother\u2019 surveillance state problem we see in China and South Korea where GPS matching solutions have been very effective but are\u00a0<https://arxiv.org/abs/2003.08567|draconian>. The misinformation and distrust can cause civil unrest in a heterogeneous society.\n\n*Why*: The approach will reduce panic that overwhelm healthcare systems and allow selective interventions rather than shutting down all socio-economic activity. So we expect this tool to empower not just an individual but also city officials and businesses that must keep continue the operations. Our research group has devised a series of solutions over the years for\u00a0*civil resilience*.\u00a0<https://splitlearning.github.io/>\u00a0\n\n*Status*: We are finishing up contract negotiations with WHO and other key organizations. The solution is being built by a consortium of epidemiologists, engineers, data scientists, digital privacy evangelists, professors and researchers from reputable institutions. WHO, HHS and the Govt of India, Italy, Germany, Vietnam and many others are guiding the development.\u00a0\n\n*Future plans*: In the early phases, emphasis is on rapid iteration and deployment for GPS-overlap solutions for contact tracing. In the later phases, the goal is\u00a0*building encrypted computational methods that can be useful in any future societal disruptions.*",
+                "ts": "1584992802.315100",
+                "author_id": "U010KJBNGLX",
+                "author_subname": "Sienna Leis",
+                "channel_id": "CV6K393C2",
+                "channel_name": "all-introductions",
+                "is_msg_unfurl": true,
+                "text": "Good day! <@U0107A7161E> wanted me to share here a bit more about a solution that I've been working on with an MIT team, which is a citizen-centric open source \u2018privacy-first\u2019 digital solution for contact tracing for COVID-19 spread. It has three components: mobile app (<http://safepapths.mit.edu/|PrivateKit>), tools for health officials (SafePlaces) and plug-ins for partners. The digital\u00a0*contact tracing using overlapped GPS trails*\u00a0allows an individual to check if they have crossed paths with someone who was later diagnosed with the infection. Team is MIT, Harvard, Mayo and various\u00a0startups. And the Mobile App (PrivateKit) is now available on playstore.\n\n*Privacy*: We use either\u00a0*on-device*\u00a0calculation or use\u00a0*encrypted trail match*\u00a0with mathematical guarantees of privacy. Thus it avoids the \u2018big brother\u2019 surveillance state problem we see in China and South Korea where GPS matching solutions have been very effective but are\u00a0<https://arxiv.org/abs/2003.08567|draconian>. The misinformation and distrust can cause civil unrest in a heterogeneous society.\n\n*Why*: The approach will reduce panic that overwhelm healthcare systems and allow selective interventions rather than shutting down all socio-economic activity. So we expect this tool to empower not just an individual but also city officials and businesses that must keep continue the operations. Our research group has devised a series of solutions over the years for\u00a0*civil resilience*.\u00a0<https://splitlearning.github.io/>\u00a0\n\n*Status*: We are finishing up contract negotiations with WHO and other key organizations. The solution is being built by a consortium of epidemiologists, engineers, data scientists, digital privacy evangelists, professors and researchers from reputable institutions. WHO, HHS and the Govt of India, Italy, Germany, Vietnam and many others are guiding the development.\u00a0\n\n*Future plans*: In the early phases, emphasis is on rapid iteration and deployment for GPS-overlap solutions for contact tracing. In the later phases, the goal is\u00a0*building encrypted computational methods that can be useful in any future societal disruptions.*",
+                "author_name": "Sienna Leis",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010KJBNGLX",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-22/1019635587751_49872c4a4435ca9b365a_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584992802315100",
+                "is_share": true,
+                "footer": "Posted in #all-introductions"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584992959.301200",
+        "user": "U010KJBNGLX",
+        "text": "<@U010KJBNGLX> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "text": "<@U010KJBNGLX> thank you for sharing your work! This team has two workstreams building out two contact tracing platforms (one redundancy)  with the MoH which are deployed in the next couple of days. We also have ongoing efforts connect contract tracing with data visualization and data analytics. I'm tagging some of our team members who may have questions about your process/decisions around your tool as they work through similar issues!\n\nYou can find the overview here: <https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit>",
+        "files": [
+            {
+                "id": "F010GTQEAAZ",
+                "created": 1584807689,
+                "timestamp": 1584807689,
+                "name": "3",
+                "title": "3.21 All-Hands #3 Agenda + Minutes",
+                "mimetype": "application/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "GSuite Document",
+                "user": "U0107AYF16H",
+                "editable": false,
+                "size": 515,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit?usp=sharing",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_360.png",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_480.png",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_720.png",
+                "thumb_720_w": 557,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_960.png",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_1024.png",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 1035,
+                "thumb_tiny": "AwAwACXSO7PFA3d6zdTklSdfLcqNvY471btGLWkbMxJI6mgCxRTdw96XPsaAFooooAy9UH79fmx8vr7mrVp/x6RfT+tU9W2/aFznOz+pq5Z/8ecX0/rQBODTutIKXrQAtFFFAGbqVtLNMrRoWAXFWrWNkto0cYYDkVYooAbtpaWigAooooA//9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107AYF16H/F010GTQEAAZ/3",
+                "is_starred": false,
+                "external_id": "15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA",
+                "external_url": "https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010KJBNGLX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you for sharing your work! This team has two workstreams building out two contact tracing platforms (one redundancy)  with the MoH which are deployed in the next couple of days. We also have ongoing efforts connect contract tracing with data visualization and data analytics. I'm tagging some of our team members who may have questions about your process/decisions around your tool as they work through similar issues!\n\nYou can find the overview here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "x_files": [
+            "F010GTQEAAZ"
+        ],
+        "ts": "1584993585.307200",
+        "client_msg_id": "9288e85e-0f84-4db9-a0df-9ec91b44b842",
+        "thread_ts": "1584993585.307200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584995134.308800",
+        "reply_users": [
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4e997737-e211-4f4c-a6fd-32c8f2d1de42",
+        "type": "message",
+        "text": "Thank you, Mahlet. Is there a place where we can access meeting notes? Wasn\u2019t able to make the meeting this morning.",
+        "user": "U0107EMK8UD",
+        "ts": "1584995114.308600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RkX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, Mahlet. Is there a place where we can access meeting notes? Wasn\u2019t able to make the meeting this morning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584911234.275600",
+        "parent_user_id": "U01084M48U8"
+    },
+    {
+        "client_msg_id": "124b0b4b-2e27-40b1-b443-84e50a4778ce",
+        "type": "message",
+        "text": "<@U0100B5MHDG> <@U01084M48U8> <@U01078QCG2C> <@UV9A4J5TK>",
+        "user": "U0107A7161E",
+        "ts": "1584995134.308800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Qo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01084M48U8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9A4J5TK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584993585.307200",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "text": "This the list of actions items we discussed on the call\n<https://docs.google.com/spreadsheets/d/1ZNkXPPr_AslPNofjxmPW8MTMpBlO6B7pqzZHqPTc2ls/edit#gid=0>",
+        "files": [
+            {
+                "id": "F010FDK2405",
+                "created": 1584725484,
+                "timestamp": 1584725484,
+                "name": "Contact-tracing action items ",
+                "title": "Surveillance workstream action items",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0107A7161E",
+                "editable": false,
+                "size": 58558,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/1ZNkXPPr_AslPNofjxmPW8MTMpBlO6B7pqzZHqPTc2ls/edit#gid=0",
+                "thumb_64": "https://a.slack-edge.com/80588/img/files/gsheet_64.png",
+                "thumb_360": "https://a.slack-edge.com/80588/img/files/gsheet_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107A7161E/F010FDK2405/contact-tracing_action_items_",
+                "is_starred": false,
+                "external_id": "1ZNkXPPr_AslPNofjxmPW8MTMpBlO6B7pqzZHqPTc2ls",
+                "external_url": "https://docs.google.com/spreadsheets/d/1ZNkXPPr_AslPNofjxmPW8MTMpBlO6B7pqzZHqPTc2ls/edit#gid=0",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Jihf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This the list of actions items we discussed on the call\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1ZNkXPPr_AslPNofjxmPW8MTMpBlO6B7pqzZHqPTc2ls/edit#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "x_files": [
+            "F010FDK2405"
+        ],
+        "ts": "1584995224.309000",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1584995257.000000"
+        },
+        "client_msg_id": "fb97fa83-69cc-47ba-9bd7-9bca33452ff4",
+        "thread_ts": "1584911234.275600",
+        "parent_user_id": "U01084M48U8"
+    },
+    {
+        "type": "message",
+        "text": "<!channel> I reached out to CommCare someone is going to walk through our API and workflow questions soon. In the meantime, can everyone who has questions for the CommCare team, please log them in this spreadsheet: <https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0>",
+        "files": [
+            {
+                "id": "F01095RJTGB",
+                "created": 1584996846,
+                "timestamp": 1584996846,
+                "name": "Surveillance workstream_ CommCare questions",
+                "title": "Surveillance workstream_ CommCare questions",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0107A7161E",
+                "editable": false,
+                "size": 42259,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0",
+                "thumb_64": "https://a.slack-edge.com/80588/img/files/gsheet_64.png",
+                "thumb_360": "https://a.slack-edge.com/80588/img/files/gsheet_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107A7161E/F01095RJTGB/surveillance_workstream__commcare_questions",
+                "is_starred": false,
+                "external_id": "1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ",
+                "external_url": "https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UwH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I reached out to CommCare someone is going to walk through our API and workflow questions soon. In the meantime, can everyone who has questions for the CommCare team, please log them in this spreadsheet: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "x_files": [
+            "F01095RJTGB"
+        ],
+        "ts": "1584996844.313700",
+        "client_msg_id": "78ed810b-4b2e-4e01-ac04-7abd29baf3d5",
+        "thread_ts": "1584996844.313700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1584997983.320000",
+        "reply_users": [
+            "U01076XHPC0",
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "567e7b18-0975-4ef6-8fbb-14fbe263ab71",
+        "type": "message",
+        "text": "<@U0107A7161E> I dont know if I have to log this question into the spreadsheet or not. I just joined you this sunday. Honestly, I get lost I want to contribute in some way but have few hours per week and I want to be effective in delivering my tasks. I am from ICT background and can do coding too. Is there specific task that I could be assigned to deliver. I hope you get my concern.",
+        "user": "U010FNMAJ6A",
+        "ts": "1584997273.318800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j7TFI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I dont know if I have to log this question into the spreadsheet or not. I just joined you this sunday. Honestly, I get lost I want to contribute in some way but have few hours per week and I want to be effective in delivering my tasks. I am from ICT background and can do coding too. Is there specific task that I could be assigned to deliver. I hope you get my concern."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584997273.318800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584997485.318900",
+        "reply_users": [
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Thank you <@U010FNMAJ6A>! Since I don't know your full skillset its hard to give you a task. Have you looked through this <https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit|document>? In there you can see which workstream/pillar aligns with your interest and you can reach out directly to the people listed as leads.",
+        "files": [
+            {
+                "id": "F010GTQEAAZ",
+                "created": 1584807689,
+                "timestamp": 1584807689,
+                "name": "3",
+                "title": "3.21 All-Hands #3 Agenda + Minutes",
+                "mimetype": "application/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "GSuite Document",
+                "user": "U0107AYF16H",
+                "editable": false,
+                "size": 515,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit?usp=sharing",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_360.png",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_480.png",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_720.png",
+                "thumb_720_w": 557,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_960.png",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010GTQEAAZ-b508e9455d/3_1024.png",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 1035,
+                "thumb_tiny": "AwAwACXSO7PFA3d6zdTklSdfLcqNvY471btGLWkbMxJI6mgCxRTdw96XPsaAFooooAy9UH79fmx8vr7mrVp/x6RfT+tU9W2/aFznOz+pq5Z/8ecX0/rQBODTutIKXrQAtFFFAGbqVtLNMrRoWAXFWrWNkto0cYYDkVYooAbtpaWigAooooA//9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107AYF16H/F010GTQEAAZ/3",
+                "is_starred": false,
+                "external_id": "15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA",
+                "external_url": "https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LFXBn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010FNMAJ6A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Since I don't know your full skillset its hard to give you a task. Have you looked through this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/15RpO6YuoDdhcqN-4NagF0Q71ciPBBoL1g7jINNwF9gA/edit",
+                                "text": "document"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? In there you can see which workstream/pillar aligns with your interest and you can reach out directly to the people listed as leads."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "x_files": [
+            "F010GTQEAAZ"
+        ],
+        "ts": "1584997485.318900",
+        "client_msg_id": "8321a9de-6b2d-4d91-b797-1298ca16296c",
+        "thread_ts": "1584997273.318800",
+        "parent_user_id": "U010FNMAJ6A"
+    },
+    {
+        "client_msg_id": "9ef3c72a-8093-43d8-9e03-74c57126d46b",
+        "type": "message",
+        "text": "Is this in the G Drive \u2026 having permission issues",
+        "user": "U01076XHPC0",
+        "ts": "1584997536.319600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AwG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is this in the G Drive \u2026 having permission issues"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996844.313700",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "1da09f64-7141-4f37-add0-8ccd5a566362",
+        "type": "message",
+        "text": "I just opened it up. is the problem still showing?",
+        "user": "U0107A7161E",
+        "ts": "1584997879.319800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yyw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just opened it up. is the problem still showing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996844.313700",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Commcare has also opened a dedicated COVID19 forum on their site where their staff and user community are answering questions actively: <https://forum.dimagi.com/c/covid-19/13>",
+        "user": "U0107A7161E",
+        "ts": "1584997983.320000",
+        "thread_ts": "1584996844.313700",
+        "root": {
+            "type": "message",
+            "text": "<!channel> I reached out to CommCare someone is going to walk through our API and workflow questions soon. In the meantime, can everyone who has questions for the CommCare team, please log them in this spreadsheet: <https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0>",
+            "files": [
+                {
+                    "id": "F01095RJTGB",
+                    "created": 1584996846,
+                    "timestamp": 1584996846,
+                    "name": "Surveillance workstream_ CommCare questions",
+                    "title": "Surveillance workstream_ CommCare questions",
+                    "mimetype": "application/vnd.google-apps.spreadsheet",
+                    "filetype": "gsheet",
+                    "pretty_type": "GSuite Spreadsheet",
+                    "user": "U0107A7161E",
+                    "editable": false,
+                    "size": 42259,
+                    "mode": "external",
+                    "is_external": true,
+                    "external_type": "gdrive",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0",
+                    "thumb_64": "https://a.slack-edge.com/80588/img/files/gsheet_64.png",
+                    "thumb_360": "https://a.slack-edge.com/80588/img/files/gsheet_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 167,
+                    "permalink": "https://ethiopia-covid19.slack.com/files/U0107A7161E/F01095RJTGB/surveillance_workstream__commcare_questions",
+                    "is_starred": false,
+                    "external_id": "1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ",
+                    "external_url": "https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0",
+                    "has_rich_preview": true
+                }
+            ],
+            "upload": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UwH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " I reached out to CommCare someone is going to walk through our API and workflow questions soon. In the meantime, can everyone who has questions for the CommCare team, please log them in this spreadsheet: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "user": "U0107A7161E",
+            "display_as_bot": false,
+            "x_files": [
+                "F01095RJTGB"
+            ],
+            "ts": "1584996844.313700",
+            "client_msg_id": "78ed810b-4b2e-4e01-ac04-7abd29baf3d5",
+            "thread_ts": "1584996844.313700",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1584997983.320000",
+            "reply_users": [
+                "U01076XHPC0",
+                "U0107A7161E"
+            ],
+            "subscribed": false
+        },
+        "attachments": [
+            {
+                "service_name": "CommCare Forum",
+                "title": "COVID-19",
+                "title_link": "https://forum.dimagi.com/c/covid-19/13",
+                "text": "This forum section is for discussion of digital tools to facilitate organizations in COVID-19 response, sharing assets between teams, and seeking support",
+                "fallback": "CommCare Forum: COVID-19",
+                "thumb_url": "https://dimagi-a3b1.kxcdn.com/uploads/default/original/1X/04b80e9557c0d3abefd10226d3477204b2f3c206.png",
+                "from_url": "https://forum.dimagi.com/c/covid-19/13",
+                "thumb_width": 198,
+                "thumb_height": 198,
+                "service_icon": "https://dimagi-a3b1.kxcdn.com/uploads/default/optimized/1X/04b80e9557c0d3abefd10226d3477204b2f3c206_2_180x180.png",
+                "id": 1,
+                "original_url": "https://forum.dimagi.com/c/covid-19/13"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vww",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Commcare has also opened a dedicated COVID19 forum on their site where their staff and user community are answering questions actively: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://forum.dimagi.com/c/covid-19/13"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bf0573ea-fd8d-44e5-aba5-f24df0d6723b",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U010059R6BT",
+                    "U01076XHPC0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585004797.321700",
+        "user": "U010KF5DW4W",
+        "text": "<@U010KF5DW4W> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585004797.321900",
+        "user": "U010J5KP6S3",
+        "text": "<@U010J5KP6S3> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585004797.322100",
+        "user": "U010FV3B752",
+        "text": "<@U010FV3B752> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "e407d426-d24a-4bd5-9c88-062e197ec164",
+        "type": "message",
+        "text": "*<@U010B22CJ6S><@U010KF5DW4W>\u00a0<@U010J5KP6S3>* *<@U010FV3B752> all of you signed up help with UI/UX of the CommCare? We are ready for your help in the next couple of hours please comment on this thread if you are available*",
+        "user": "U0107A7161E",
+        "ts": "1585004880.323700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ay/dv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010B22CJ6S",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010KF5DW4W",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010J5KP6S3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010FV3B752",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " all of you signed up help with UI/UX of the CommCare? We are ready for your help in the next couple of hours please comment on this thread if you are available",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585004880.323700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1585005203.325300",
+        "reply_users": [
+            "U010J5KP6S3",
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5736b89b-4eec-4e40-8f2d-9ba760cb25ce",
+        "type": "message",
+        "text": "Hello <@U0107A7161E> I am available. Let me know how I can help.",
+        "user": "U010J5KP6S3",
+        "ts": "1585005155.324900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/XhYT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am available. Let me know how I can help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585004880.323700",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "657b617a-782d-45f5-8f03-9663568ea075",
+        "type": "message",
+        "text": "thank you Ajaeb! please join this call: <https://schrodinger.zoom.us/j/952130196>",
+        "user": "U0107A7161E",
+        "ts": "1585005198.325100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kn3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you Ajaeb! please join this call: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://schrodinger.zoom.us/j/952130196"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585004880.323700",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "fa0e9011-8efe-4e93-9291-3d77190627a1",
+        "type": "message",
+        "text": "we are going over the forms right now",
+        "user": "U0107A7161E",
+        "ts": "1585005203.325300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1x5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we are going over the forms right now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585004880.323700",
+        "parent_user_id": "U0107A7161E"
+    }
+]

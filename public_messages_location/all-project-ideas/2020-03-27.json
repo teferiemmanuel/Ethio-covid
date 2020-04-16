@@ -1,0 +1,992 @@
+[
+    {
+        "client_msg_id": "500bc443-4991-4ca0-99ef-549bfa1ad48d",
+        "type": "message",
+        "text": "<@U0106M26108> this looks promising.",
+        "user": "U0102QX78GH",
+        "ts": "1585269809.068800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e3L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this looks promising."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585234568.058400",
+        "parent_user_id": "UVBN2BD8R"
+    },
+    {
+        "client_msg_id": "865C45BD-B246-45E0-8B63-D78CEDC7966F",
+        "type": "message",
+        "text": "<@U01084M48U8> looping you in on this thread. Looks promising",
+        "user": "UV8B0679P",
+        "ts": "1585269867.069600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n1zS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084M48U8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " looping you in on this thread. Looks promising"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585234568.058400",
+        "parent_user_id": "UVBN2BD8R"
+    },
+    {
+        "client_msg_id": "32323023-b9ce-45d4-9af2-644301cd84dc",
+        "type": "message",
+        "text": "<@U010DGZG9DK> would love contribute to that one. Please try to attend tomorrow's all hands meeting that we can discuss and decide next moves..",
+        "user": "U010A0N4N0P",
+        "ts": "1585278214.070600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eeQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010DGZG9DK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would love contribute to that one. Please try to attend tomorrow's all hands meeting that we can discuss and decide next moves.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585077765.113000",
+        "parent_user_id": "U010NURE9T2"
+    },
+    {
+        "type": "message",
+        "text": "<@U0105CS9G93>, is the API not updating stable and critical? it doesn't sum up. 1 critical, 11 stable but 16 total.",
+        "files": [
+            {
+                "id": "F010W8D2GTW",
+                "created": 1585304176,
+                "timestamp": 1585304176,
+                "name": "Screenshot_20200327-111254.jpg",
+                "title": "Screenshot_20200327-111254.jpg",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010DGZG9DK",
+                "editable": false,
+                "size": 34908,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010W8D2GTW/screenshot_20200327-111254.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010W8D2GTW/download/screenshot_20200327-111254.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010W8D2GTW-be91efaa56/screenshot_20200327-111254_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010W8D2GTW-be91efaa56/screenshot_20200327-111254_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010W8D2GTW-be91efaa56/screenshot_20200327-111254_360.jpg",
+                "thumb_360_w": 175,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010W8D2GTW-be91efaa56/screenshot_20200327-111254_480.jpg",
+                "thumb_480_w": 234,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010W8D2GTW-be91efaa56/screenshot_20200327-111254_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010W8D2GTW-be91efaa56/screenshot_20200327-111254_720.jpg",
+                "thumb_720_w": 350,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010W8D2GTW-be91efaa56/screenshot_20200327-111254_800.jpg",
+                "thumb_800_w": 389,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 400,
+                "original_h": 822,
+                "thumb_tiny": "AwAwABeiDj1/Oj5f7p/OnKo+Yt0X9aUhWUlV2kcnnOaYrjMn6ijj+6KDRQMcGwTkZB6igsApCg89SaTjHX8KOPU0CsJRRx60UATxZ2DjP40/J/uj8xUQSdRgI4/4DS7bj+4//fNABNnaMrjmoalMc7dUc/8AAaTyJv8Ank//AHzQB//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010DGZG9DK/F010W8D2GTW/screenshot_20200327-111254.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010W8D2GTW-de1a0bcbec",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kts6h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105CS9G93"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", is the API not updating stable and critical? it doesn't sum up. 1 critical, 11 stable but 16 total."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010DGZG9DK",
+        "display_as_bot": false,
+        "ts": "1585304181.077000",
+        "client_msg_id": "c33d8bf8-a9a4-4027-87b8-d07775849289",
+        "thread_ts": "1585085584.122400",
+        "parent_user_id": "U010DGZG9DK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JE2S94",
+                    "U0105CS9G93"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d30a66bb-4f74-4a29-a14b-6569e4f59044",
+        "type": "message",
+        "text": "<@U010DGZG9DK> We are awaiting confirmation on the status",
+        "user": "U0105CS9G93",
+        "ts": "1585304440.077600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010DGZG9DK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We are awaiting confirmation on the status"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585085584.122400",
+        "parent_user_id": "U010DGZG9DK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010DGZG9DK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebf304b2-3c9d-4fa3-8278-6dbd94afcbe8",
+        "type": "message",
+        "text": "of the patients",
+        "user": "U0105CS9G93",
+        "ts": "1585304453.077800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ur",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "of the patients"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585085584.122400",
+        "parent_user_id": "U010DGZG9DK"
+    },
+    {
+        "client_msg_id": "5e1f39f2-0fef-4b52-b5ee-e07d51fdbca8",
+        "type": "message",
+        "text": "Adding on <@UV81AMFSP> idea above... I have some thoughts regarding social distancing .... I don't think it is something that works in our setting (Ethiopia) ...\nI was thinking of ways where we can help people create groups that collectively agree and quarantine themselves \u2026 these clusters will only have one contact (volunteer) with the outside. The Volunteer can handle small purchases and rationed foods (I would hope the government will provide that to vulnerable parts of our cities) \u2026 by having a group of 25-50 people in each cluster we can, hopefully maintain the spread. Otherwise, if we all go shop for food or do our daily routines, it will easily spread.\nWe can utilize whatsup (no need to develop something) and arrange groups by physical proximity / Gorebet / sefers / kebeles.",
+        "user": "U010BJRJPJT",
+        "ts": "1585306743.079800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sUYMe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adding on "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV81AMFSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " idea above... I have some thoughts regarding social distancing .... I don't think it is something that works in our setting (Ethiopia) ...\nI was thinking of ways where we can help people create groups that collectively agree and quarantine themselves \u2026 these clusters will only have one contact (volunteer) with the outside. The Volunteer can handle small purchases and rationed foods (I would hope the government will provide that to vulnerable parts of our cities) \u2026 by having a group of 25-50 people in each cluster we can, hopefully maintain the spread. Otherwise, if we all go shop for food or do our daily routines, it will easily spread.\nWe can utilize whatsup (no need to develop something) and arrange groups by physical proximity / Gorebet / sefers / kebeles."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585306743.079800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1585314700.081000",
+        "reply_users": [
+            "U010PF746SY",
+            "U010B7Q6XE0"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVAL943JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4abc5b5a-86a8-4642-8cdc-85d5c632abac",
+        "type": "message",
+        "text": "Hi Robel,",
+        "user": "U010PF746SY",
+        "ts": "1585314425.080600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EeAMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Robel,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585306743.079800",
+        "parent_user_id": "U010BJRJPJT"
+    },
+    {
+        "client_msg_id": "5b4cfac6-b51a-483e-b5e1-6b78f33b93ca",
+        "type": "message",
+        "text": "Hi Robel - we are working on expanding food delivery in Addis in the <#C010W2ZJN6L|proj-delivery> channel",
+        "user": "U010B7Q6XE0",
+        "ts": "1585314671.080800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010B7Q6XE0",
+            "ts": "1585314737.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D6Kh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Robel - we are working on expanding food delivery in Addis in the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010W2ZJN6L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585306743.079800",
+        "parent_user_id": "U010BJRJPJT"
+    },
+    {
+        "client_msg_id": "24d0e681-6852-4c58-9a47-50912028541b",
+        "type": "message",
+        "text": "This is very much a topic that a lot of us are thinking about.  Whiz Kids Workshop is hosting a SLACK workspace for groups to study this topics in detail with simulation and modeling.  If you are interested to dive in to the topic of Informal Housing Communities I will send you and invite to the WKW Ethiopia Covid 19 space",
+        "user": "U010PF746SY",
+        "ts": "1585314700.081000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MRUdk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is very much a topic that a lot of us are thinking about.  Whiz Kids Workshop is hosting a SLACK workspace for groups to study this topics in detail with simulation and modeling.  If you are interested to dive in to the topic of Informal Housing Communities I will send you and invite to the WKW Ethiopia Covid 19 space"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585306743.079800",
+        "parent_user_id": "U010BJRJPJT"
+    },
+    {
+        "client_msg_id": "2fa70af2-5d1e-4654-b3da-1b8f2ea0affa",
+        "type": "message",
+        "text": "A Donation tracking app may also be useful to inform how much has been donated to the effort. There is currently a short code 444 being used for donation collection and international top up. There are also specific bank accounts provided by government for this purpose. It may be useful to have an app for this.",
+        "user": "UV81AMFSP",
+        "ts": "1585321590.083500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV81AMFSP",
+            "ts": "1585321606.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hhFb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A Donation tracking app may also be useful to inform how much has been donated to the effort. There is currently a short code 444 being used for donation collection and international top up. There are also specific bank accounts provided by government for this purpose. It may be useful to have an app for this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585321590.083500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585373123.097900",
+        "reply_users": [
+            "U010DGZG9DK",
+            "UV81AMFSP"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01069Z58V8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd7b918c-bab1-4cc0-97f6-add218e18a07",
+        "type": "message",
+        "text": "Idea to explore: using molding and plastic factories to try and manufacture PPE for heath professionals in the country <@U0107A7161E> <@U0106M26108>",
+        "user": "UV81AMFSP",
+        "ts": "1585321884.085100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g/DMh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idea to explore: using molding and plastic factories to try and manufacture PPE for heath professionals in the country "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585321884.085100",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1585324939.085600",
+        "reply_users": [
+            "U0106M26108"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d16c9a8f-c45b-4ca5-ad05-21e1a438d230",
+        "type": "message",
+        "text": "There\u2019s a group of folks working on this at <#C010GQUEBSQ|proj-diy-gear>.",
+        "user": "U0106M26108",
+        "ts": "1585324688.085400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8RTl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There\u2019s a group of folks working on this at "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010GQUEBSQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585321884.085100",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "c4a04860-28a0-4764-a5ed-df9b64071522",
+        "type": "message",
+        "text": "Moving forward, please only \u201c@\u201d if it pertains to the actual person. If you\u2019re just trying to gauge where things go, simply sift through the channels. You can pull up the channel browser by typing the following:\n\u2022 On Mac: \u2318 +\u00a0Shift +\u00a0L\u00a0\n\u2022 On Windows: Ctrl\u00a0+ Shift +\u00a0L",
+        "user": "U0106M26108",
+        "ts": "1585324939.085600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VjKvt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moving forward, please only \u201c@\u201d if it pertains to the actual person. If you\u2019re just trying to gauge where things go, simply sift through the channels. You can pull up the channel browser by typing the following:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On Mac: \u2318 +\u00a0Shift +\u00a0L\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On Windows: Ctrl\u00a0+ Shift +\u00a0L"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585321884.085100",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "e1adccc2-450b-49e1-9782-1914a19b8bf1",
+        "type": "message",
+        "text": "<@UV81AMFSP> Is there an api to get the information of how much has been donated?",
+        "user": "U010DGZG9DK",
+        "ts": "1585325574.085800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010DGZG9DK",
+            "ts": "1585325600.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07mN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV81AMFSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Is there an api to get the information of how much has been donated?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585321590.083500",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "c97e628d-44e8-4ad1-97b2-c85487cbc2b9",
+        "type": "message",
+        "text": "Dear All\n\nI have developed a free web hosting service which I hope will be of use to the projects.\n\nCheck it out <https://dalolhost.gq|https://dalolhost.gq>\n\nStay safe!",
+        "user": "U010J5KLBU7",
+        "ts": "1585325847.086200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "DalolHost \u2014 Completely FREE and UNLIMITED web hosting.",
+                "title_link": "https://dalolhost.gq/",
+                "text": "We offer amazing web hosting, all for free! The first ever free web hosting service in Ethiopia! SSD-based storage and Freenom Support.",
+                "fallback": "DalolHost \u2014 Completely FREE and UNLIMITED web hosting.",
+                "from_url": "https://dalolhost.gq/",
+                "service_name": "dalolhost.gq",
+                "id": 1,
+                "original_url": "https://dalolhost.gq"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gnz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear All\n\nI have developed a free web hosting service which I hope will be of use to the projects.\n\nCheck it out "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://dalolhost.gq",
+                                "text": "https://dalolhost.gq"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nStay safe!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46b2218f-cd54-4e48-a8d6-9a9511015b33",
+        "type": "message",
+        "text": "Hi all! Not sure where this fits, but I was thinking about whether hospitals have enacted or need to enact visitation policies, to protect healthcare workers and patients and increase physical distancing? If they have, is this on an MOH-level or a local hospital decision? This may be beyond our scope to think about but just wanted to know if others heard anything about this.",
+        "user": "U0100NQQ0AW",
+        "ts": "1585332338.088400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5SF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! Not sure where this fits, but I was thinking about whether hospitals have enacted or need to enact visitation policies, to protect healthcare workers and patients and increase physical distancing? If they have, is this on an MOH-level or a local hospital decision? This may be beyond our scope to think about but just wanted to know if others heard anything about this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585332338.088400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585335305.090700",
+        "reply_users": [
+            "U01007VTP8A"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cd77406e-8c22-42ae-a5c2-e53182f9575c",
+        "type": "message",
+        "text": "How to make masks - <https://www.phoebehealth.com/media/file/PatientsVisitors/MaskProductionInstructions3_26.pdf>\nCan we translate this into our local languages and send it to community health centers? <#CV8HM0HDY|language-translate>",
+        "user": "U010EQU5E6N",
+        "ts": "1585333142.090000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010EQU5E6N",
+            "ts": "1585333163.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cdqo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How to make masks - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.phoebehealth.com/media/file/PatientsVisitors/MaskProductionInstructions3_26.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCan we translate this into our local languages and send it to community health centers? "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CV8HM0HDY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01069Z58V8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "772a56af-bacb-43ad-951b-d393dff54b82",
+        "type": "message",
+        "text": "I was thinking what can be done beyond monitoring cases. A large part of the problem is squaring the need for physical distancing with the economic needs of the majority of the population which can't just work from home. Low skilled labor requires physical presence, people-to-people contact and currency exchange. Especially in Merkato which is teeming with such activity in unsanitary conditions and close proximity all hours of the day. What can we do to introduce some level of decentralization for such areas so people are able to continue some degree of trade but with layers of distancing introduced. I'm thinking of solutions that combine a mobile marketplace with delivery and an escrow service but maybe people can brainstorm on something better.",
+        "user": "U0108MNRFSL",
+        "ts": "1585334405.090500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kij",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was thinking what can be done beyond monitoring cases. A large part of the problem is squaring the need for physical distancing with the economic needs of the majority of the population which can't just work from home. Low skilled labor requires physical presence, people-to-people contact and currency exchange. Especially in Merkato which is teeming with such activity in unsanitary conditions and close proximity all hours of the day. What can we do to introduce some level of decentralization for such areas so people are able to continue some degree of trade but with layers of distancing introduced. I'm thinking of solutions that combine a mobile marketplace with delivery and an escrow service but maybe people can brainstorm on something better."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585334405.090500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585363672.096500",
+        "reply_users": [
+            "U010B7Q6XE0",
+            "U0108MNRFSL"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "49dec8be-827a-4b2f-98fe-84d3f9b9e195",
+        "type": "message",
+        "text": "I think you should start patient care channel and we should brainstorm",
+        "user": "U01007VTP8A",
+        "ts": "1585335305.090700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nzR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think you should start patient care channel and we should brainstorm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585332338.088400",
+        "parent_user_id": "U0100NQQ0AW"
+    },
+    {
+        "client_msg_id": "cfd91ed7-ca60-4d73-874e-68757bab40f7",
+        "type": "message",
+        "text": "Are any of the local musical artists working or have put out songs as a public service announcement (PSA)? Does anyone here know the efficacy of such messaging? The best PSA I've heard  for nCov is from Uganda <https://youtu.be/PUHrck2g7Ic>",
+        "user": "U010FJJH4DC",
+        "ts": "1585339781.093600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010FJJH4DC",
+            "ts": "1585339793.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Corona Virus Alert  BOBI WINE &amp; NUBIAN LI   Ugandan Music 2020 HD",
+                "title_link": "https://youtu.be/PUHrck2g7Ic",
+                "author_name": "BOBI WINE",
+                "author_link": "https://www.youtube.com/user/omubandarealityshow",
+                "thumb_url": "https://i.ytimg.com/vi/PUHrck2g7Ic/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Corona Virus Alert  BOBI WINE & NUBIAN LI   Ugandan Music 2020 HD",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/PUHrck2g7Ic?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/PUHrck2g7Ic",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/PUHrck2g7Ic"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XwU7T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are any of the local musical artists working or have put out songs as a public service announcement (PSA)? Does anyone here know the efficacy of such messaging? The best PSA I've heard  for nCov is from Uganda "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/PUHrck2g7Ic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585339781.093600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1585343215.095000",
+        "reply_users": [
+            "U01007VTP8A",
+            "U010FJJH4DC"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a405e615-8899-462c-b5da-0218e2eb6b0e",
+        "type": "message",
+        "text": "<https://youtu.be/E0WwUo47wOo>",
+        "user": "U01007VTP8A",
+        "ts": "1585341183.094200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "\u123f\u123f ...\u123f\u123f \u134d\u1275\u130d - \u1290\u1320\u120b \u12dc\u121b- \u1208\u12ae\u122e\u1293 - Ethio-New Single Music",
+                "title_link": "https://youtu.be/E0WwUo47wOo",
+                "author_name": "LAMBADINA",
+                "author_link": "https://www.youtube.com/channel/UCzfFwW2wdZn27bfgnyJMVfQ",
+                "thumb_url": "https://i.ytimg.com/vi/E0WwUo47wOo/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: \u123f\u123f ...\u123f\u123f \u134d\u1275\u130d - \u1290\u1320\u120b \u12dc\u121b- \u1208\u12ae\u122e\u1293 - Ethio-New Single Music",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/E0WwUo47wOo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/E0WwUo47wOo",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/E0WwUo47wOo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CaP+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/E0WwUo47wOo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585339781.093600",
+        "parent_user_id": "U010FJJH4DC"
+    },
+    {
+        "client_msg_id": "686e55b2-e9df-4717-93f6-c8e9d73f2457",
+        "type": "message",
+        "text": "<https://youtu.be/F59Sad6sa_s>",
+        "user": "U01007VTP8A",
+        "ts": "1585341205.094500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "\u12e8\u1245\u12f1\u1235 \u1333\u12cd\u120e\u1235 \u1206\u1235\u1352\u1273\u120d  \u121a\u120a\u1292\u12e8\u121d \u1205\u12ad\u121d\u1293 \u12ae\u120c\u1305 \u12c8\u1245\u1273\u12ca \u1218\u120d\u12d5\u12ad\u1275 [ARTS TV WORLD]",
+                "title_link": "https://youtu.be/F59Sad6sa_s",
+                "author_name": "Arts Tv World",
+                "author_link": "https://www.youtube.com/channel/UCSnwxtpNr-2QupM0qi11Y6Q",
+                "thumb_url": "https://i.ytimg.com/vi/F59Sad6sa_s/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: \u12e8\u1245\u12f1\u1235 \u1333\u12cd\u120e\u1235 \u1206\u1235\u1352\u1273\u120d  \u121a\u120a\u1292\u12e8\u121d \u1205\u12ad\u121d\u1293 \u12ae\u120c\u1305 \u12c8\u1245\u1273\u12ca \u1218\u120d\u12d5\u12ad\u1275 [ARTS TV WORLD]",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/F59Sad6sa_s?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/F59Sad6sa_s",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/F59Sad6sa_s"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YtI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/F59Sad6sa_s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585339781.093600",
+        "parent_user_id": "U010FJJH4DC"
+    },
+    {
+        "client_msg_id": "a9ab0162-5a0f-4875-b6ac-305b71042be0",
+        "type": "message",
+        "text": "Awesome, hadn't seen these. May be we can give a boost to the views by sharing them on social media sites or ads perhaps?",
+        "user": "U010FJJH4DC",
+        "ts": "1585343215.095000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IhjDR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, hadn't seen these. May be we can give a boost to the views by sharing them on social media sites or ads perhaps?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585339781.093600",
+        "parent_user_id": "U010FJJH4DC"
+    }
+]

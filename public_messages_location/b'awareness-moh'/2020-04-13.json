@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586737724.005400",
+        "user": "U010787AZ2T",
+        "text": "<@U010787AZ2T> has joined the channel"
+    },
+    {
+        "client_msg_id": "4d1d0bfb-ebcd-401d-8347-05dac6281307",
+        "type": "message",
+        "text": "<@U0107AYF16H> can I please make a correction... its actually a team of individuals NOT corporates. Our Team is David from LA, Azeb Worku of ArtsTV, Yonas of Cactus Communication and Bekure &amp; myself from the Innovation Advisory Council (not quite Gebeya &amp; Cactus)\n\nThe first TV (Awareness)Spots will air this Wednesday",
+        "user": "U010787AZ2T",
+        "ts": "1586738010.005500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O5qPR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can I please make a correction... its actually a team of individuals NOT corporates. Our Team is David from LA, Azeb Worku of ArtsTV, Yonas of Cactus Communication and Bekure & myself from the Innovation Advisory Council (not quite Gebeya & Cactus)\n\nThe first TV (Awareness)Spots will air this Wednesday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585674115.006800",
+        "parent_user_id": "U0107AYF16H"
+    }
+]

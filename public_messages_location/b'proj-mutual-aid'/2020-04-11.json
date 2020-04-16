@@ -1,0 +1,502 @@
+[
+    {
+        "client_msg_id": "39e1c8a1-9221-4759-baa4-0862e25e3d0f",
+        "type": "message",
+        "text": "There are been discussions in different places about tools and approach for the mutual aid platform. <@U010L27MB25> has put together <https://airtable.com/invite/l?inviteId=invKkoq5MQpCsKM18&amp;inviteToken=9b9656d54276f84954616020e538357a556de35ab875437a6c5f0153ed4117f7|Airtable> and forms for <https://airtable.com/shrQYzxVlYy1asBRK|Requests>, <https://airtable.com/shriAgzQmsMafvDiG|Offers>",
+        "user": "U0107A7161E",
+        "ts": "1586628623.014400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Airtable",
+                "title": "Airtable: Organize anything you can imagine",
+                "title_link": "https://airtable.com/invite/l?inviteId=invKkoq5MQpCsKM18&inviteToken=9b9656d54276f84954616020e538357a556de35ab875437a6c5f0153ed4117f7",
+                "text": "Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.",
+                "fallback": "Airtable: Airtable: Organize anything you can imagine",
+                "image_url": "https://static.airtable.com/images/oembed/airtable.png",
+                "from_url": "https://airtable.com/invite/l?inviteId=invKkoq5MQpCsKM18&inviteToken=9b9656d54276f84954616020e538357a556de35ab875437a6c5f0153ed4117f7",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 42745,
+                "service_icon": "https://airtable.com/images/favicon/baymax/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https://airtable.com/invite/l?inviteId=invKkoq5MQpCsKM18&amp;inviteToken=9b9656d54276f84954616020e538357a556de35ab875437a6c5f0153ed4117f7"
+            },
+            {
+                "service_name": "Airtable",
+                "title": "Mutual Aid: Request Form - Airtable",
+                "title_link": "https://airtable.com/shrQYzxVlYy1asBRK",
+                "text": "Fill out the \"Mutual Aid: Request Form\" form quickly and securely on Airtable.",
+                "fallback": "Airtable: Mutual Aid: Request Form - Airtable",
+                "image_url": "https://static.airtable.com/images/oembed/airtable.png",
+                "from_url": "https://airtable.com/shrQYzxVlYy1asBRK",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 42745,
+                "service_icon": "https://airtable.com/images/favicon/baymax/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https://airtable.com/shrQYzxVlYy1asBRK"
+            },
+            {
+                "service_name": "Airtable",
+                "title": "Mutual Aid: Offer form  - Airtable",
+                "title_link": "https://airtable.com/shriAgzQmsMafvDiG",
+                "text": "Fill out the \"Mutual Aid: Offer form \" form quickly and securely on Airtable.",
+                "fallback": "Airtable: Mutual Aid: Offer form  - Airtable",
+                "image_url": "https://static.airtable.com/images/oembed/airtable.png",
+                "from_url": "https://airtable.com/shriAgzQmsMafvDiG",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 42745,
+                "service_icon": "https://airtable.com/images/favicon/baymax/apple-touch-icon.png",
+                "id": 3,
+                "original_url": "https://airtable.com/shriAgzQmsMafvDiG"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T1vOV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are been discussions in different places about tools and approach for the mutual aid platform. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L27MB25"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has put together "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://airtable.com/invite/l?inviteId=invKkoq5MQpCsKM18&inviteToken=9b9656d54276f84954616020e538357a556de35ab875437a6c5f0153ed4117f7",
+                                "text": "Airtable"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and forms for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://airtable.com/shrQYzxVlYy1asBRK",
+                                "text": "Requests"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://airtable.com/shriAgzQmsMafvDiG",
+                                "text": "Offers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U010SKPP7CJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586628705.015900",
+        "user": "UV6JHDP0S",
+        "text": "<@UV6JHDP0S> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586637560.018000",
+        "user": "U011CJW7GA3",
+        "text": "<@U011CJW7GA3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586646102.018200",
+        "user": "U010K2675CP",
+        "text": "<@U010K2675CP> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586646102.018400",
+        "user": "U011BRW40NB",
+        "text": "<@U011BRW40NB> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586646102.018600",
+        "user": "U010WRS6UTB",
+        "text": "<@U010WRS6UTB> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586646214.018800",
+        "user": "UVAL943JP",
+        "text": "<@UVAL943JP> has joined the channel"
+    },
+    {
+        "client_msg_id": "775d6ff8-d960-40cb-a4fa-d14703b0cb74",
+        "type": "message",
+        "text": "Hi <@U01087PJBNG>ye let me know when you list is ready and i will aslo send any information your way.\nAlso we are trying to list initiative on the ground and if you know any....let me know.I:stuck_out_tongue_winking_eye:",
+        "user": "U010SKPP7CJ",
+        "ts": "1586646449.018900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010SKPP7CJ",
+            "ts": "1586775439.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9n=P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01087PJBNG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ye let me know when you list is ready and i will aslo send any information your way.\nAlso we are trying to list initiative on the ground and if you know any....let me know.I"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_winking_eye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586550474.004700",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586646634.019300",
+        "user": "U0107C5LTV3",
+        "text": "<@U0107C5LTV3> has joined the channel"
+    },
+    {
+        "bot_id": "B0109HT0KDL",
+        "type": "message",
+        "text": "Which time & frequency works best for the team.",
+        "user": "U0107C5LTV3",
+        "ts": "1586647666.019400",
+        "team": "TV5KELEUS",
+        "bot_profile": {
+            "id": "B0109HT0KDL",
+            "deleted": false,
+            "name": "Simple Poll",
+            "updated": 1584488630,
+            "app_id": "A0HFW7MR6",
+            "icons": {
+                "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-01-03/17670668547_3b5cda05986fc6c0d978_36.png",
+                "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-01-03/17670668547_3b5cda05986fc6c0d978_48.png",
+                "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-01-03/17670668547_3b5cda05986fc6c0d978_72.png"
+            },
+            "team_id": "TV5KELEUS"
+        },
+        "edited": {
+            "user": "B0109HT0KDL",
+            "ts": "1586834339.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-e5d05535-fa91-44f8-87f2-02cf1998b488-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Which time &amp; frequency works best for the team.*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: View info",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":pushpin: Capture Decision from Poll",
+                                "emoji": true
+                            },
+                            "value": "capture_decision_from_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":gear: Go to Settings",
+                                "emoji": true
+                            },
+                            "value": "go_to_settings_from_poll",
+                            "url": "https://simplepoll.rocks/dashboard/ethiopia-covid19/settings/"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e5d05535-fa91-44f8-87f2-02cf1998b488-vote-1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one:  8:00 PST / 11:00 EST / 18:00 EAT\u00a0/ 17:00CEST    `6`\n<@U010SKPP7CJ>, <@U011F7L4G8L>, <@U0116DL92E9>, <@U010L27MB25>, <@U01087PJBNG>, <@U0107A7161E>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-1",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e5d05535-fa91-44f8-87f2-02cf1998b488-vote-2",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two:  10:30 PST / 13:30 EST / 20:30  EAT\u00a0/ 19:30 CEST    `3`\n<@U010SKPP7CJ>, <@UVAL943JP>, <@U01087PJBNG>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-2",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e5d05535-fa91-44f8-87f2-02cf1998b488-vote-3",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three:  12:00 PST / 15:00 EST / 22:00EAT\u00a0/ 21:00 CEST    `1`\n<@U010SKPP7CJ>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-3",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e5d05535-fa91-44f8-87f2-02cf1998b488-vote-4",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: Daily calls     `2`\n<@U010SKPP7CJ>, <@U011F7L4G8L>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-4",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e5d05535-fa91-44f8-87f2-02cf1998b488-vote-5",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":five: 3 X  Week     `5`\n<@U010SKPP7CJ>, <@UVAL943JP>, <@U0116DL92E9>, <@U010L27MB25>, <@U0107A7161E>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-5",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":five:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e5d05535-fa91-44f8-87f2-02cf1998b488-vote-6",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":six: Weekly\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-6",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":six:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "ODx",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U010SKPP7CJ> with /poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586647910.020400",
+        "user": "U011J64BXCY",
+        "text": "<@U011J64BXCY> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586647911.020600",
+        "user": "U011WDEGFRP",
+        "text": "<@U011WDEGFRP> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    },
+    {
+        "client_msg_id": "1c2e358a-6428-4de7-83cf-1ce94e9f565a",
+        "type": "message",
+        "text": "Hi <!channel>  we need list of actors who are responding on the ground and understand their needs or recognize their effort.\n We set this channels  to create, populate, and moderate a discovery platform to match efforts on the ground with organizations that can provide resources they need (could be funds or technical)\nSample forms :point_up: designed by  <@U010L27MB25> :raised_hands:  \nPlease add your thoughts as well as inputs\n<https://drive.google.com/drive/folders/1X32CcKMYJoHamUBDZS23N_sw3Az0l8vR|https://drive.google.com/drive/folders/1X32CcKMYJoHamUBDZS23N_sw3Az0l8vR>\nSupport us to capture the activities till we launch our forms.\nThanks",
+        "user": "U010SKPP7CJ",
+        "ts": "1586649305.030600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GRE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  we need list of actors who are responding on the ground and understand their needs or recognize their effort.\n We set this channels  to create, populate, and moderate a discovery platform to match efforts on the ground with organizations that can provide resources they need (could be funds or technical)\nSample forms "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            },
+                            {
+                                "type": "text",
+                                "text": " designed by  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L27MB25"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  \nPlease add your thoughts as well as inputs\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1X32CcKMYJoHamUBDZS23N_sw3Az0l8vR",
+                                "text": "https://drive.google.com/drive/folders/1X32CcKMYJoHamUBDZS23N_sw3Az0l8vR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSupport us to capture the activities till we launch our forms.\nThanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586649334.030800",
+        "user": "U011J5MQY3E",
+        "text": "<@U011J5MQY3E> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586649334.031000",
+        "user": "U010DUMV1T2",
+        "text": "<@U010DUMV1T2> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    }
+]

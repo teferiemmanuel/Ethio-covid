@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "e275e5e9-9b08-422d-a092-fc02fd318af8",
+        "type": "message",
+        "text": "weASPiRE (I am one of the volunteers as well as <@U010K2675CP>) has produced a 30sec PSA to acknowledge the work of 3 groups on COVID-19 one being the Response Team here. Just a small thank you.\n\n<https://www.facebook.com/WeAspire4Africa/videos/223551752298987/>",
+        "user": "UVALAR52P",
+        "ts": "1586538268.166100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Facebook",
+                "service_url": "https://www.facebook.com",
+                "author_name": "WeAspire",
+                "author_link": "https://www.facebook.com/WeAspire4Africa/",
+                "fallback": "Facebook Video: ",
+                "from_url": "https://www.facebook.com/WeAspire4Africa/videos/223551752298987/",
+                "id": 1,
+                "original_url": "https://www.facebook.com/WeAspire4Africa/videos/223551752298987/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nbp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "weASPiRE (I am one of the volunteers as well as "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010K2675CP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") has produced a 30sec PSA to acknowledge the work of 3 groups on COVID-19 one being the Response Team here. Just a small thank you.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.facebook.com/WeAspire4Africa/videos/223551752298987/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U011F7L4G8L",
+                    "U0107JERE9L",
+                    "U0105C7GP08"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0107JERE9L",
+                    "U010787AZ2T"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

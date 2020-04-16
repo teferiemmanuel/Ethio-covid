@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "D340EE4B-7574-4738-8A40-4A967DA72D68",
+        "type": "message",
+        "text": "<@U010LAGHPED> Welcome aboard!",
+        "user": "UVB9ZSPCH",
+        "ts": "1585414181.014500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pyu2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010LAGHPED"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Welcome aboard!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91103bac-105f-41f6-9e56-8e13d010fbf1",
+        "type": "message",
+        "text": "<https://coronavirus.jhu.edu/map.html>",
+        "user": "U0104F8P8US",
+        "ts": "1585415948.015600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Johns Hopkins Coronavirus Resource Center",
+                "title_link": "https://coronavirus.jhu.edu/map.html",
+                "text": "Johns Hopkins experts in global public health, infectious disease, and emergency preparedness have been at the forefront of the international response to COVID-19.",
+                "fallback": "Johns Hopkins Coronavirus Resource Center",
+                "image_url": "https://coronavirus.jhu.edu/images/COVID-19-b-1600x800.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https://coronavirus.jhu.edu/map.html",
+                "image_bytes": 179028,
+                "service_icon": "https://coronavirus.jhu.edu/images/favicons/apple-touch-icon-57x57-9e41f838fa.png",
+                "service_name": "coronavirus.jhu.edu",
+                "id": 1,
+                "original_url": "https://coronavirus.jhu.edu/map.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RkY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://coronavirus.jhu.edu/map.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U0108FP629H"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

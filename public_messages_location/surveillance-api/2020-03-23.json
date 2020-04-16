@@ -1,0 +1,1690 @@
+[
+    {
+        "client_msg_id": "465a10f1-13da-491e-9777-700c415ca71e",
+        "type": "message",
+        "text": "hey who will be deploying the api",
+        "user": "U01077KJKQU",
+        "ts": "1584923008.082700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZU1WM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey who will be deploying the api"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584919768.078400",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "d0aad940-70ed-4d4e-926c-d680dafc2de4",
+        "type": "message",
+        "text": "I want to first see if the it is accessible then Mike and I can implement the functionality.",
+        "user": "U01077KJKQU",
+        "ts": "1584923033.082900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lxRj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want to first see if the it is accessible then Mike and I can implement the functionality."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584919768.078400",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "d2aa4264-07b6-47ff-a693-870b35fcbf2f",
+        "type": "message",
+        "text": "<@U01077KJKQU> deploy where",
+        "user": "UV6JHDP0S",
+        "ts": "1584923429.083100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TzUuu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01077KJKQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " deploy where"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584919768.078400",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "feff217f-4030-4366-a12e-df1f1bea1bf9",
+        "type": "message",
+        "text": "<@UV6JHDP0S> do we need any authentication to publish to the topic?",
+        "user": "U010ETDKCA1",
+        "ts": "1584923439.083300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YeUS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do we need any authentication to publish to the topic?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584909958.060100",
+        "parent_user_id": "U010ETDKCA1"
+    },
+    {
+        "client_msg_id": "4bf14ea6-4bb3-4645-a5cd-8ba4085bee37",
+        "type": "message",
+        "text": "to the lambda",
+        "user": "U01077KJKQU",
+        "ts": "1584923440.083500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BFteW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to the lambda"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584919768.078400",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "10e14f81-7b3b-4962-baea-167112cc9817",
+        "type": "message",
+        "text": "auth, private keys...?",
+        "user": "U010ETDKCA1",
+        "ts": "1584923461.083700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k4PQp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "auth, private keys...?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584909958.060100",
+        "parent_user_id": "U010ETDKCA1"
+    },
+    {
+        "client_msg_id": "51a46a28-67ed-47ab-b33d-ad9fd1fbf48e",
+        "type": "message",
+        "text": "I can either give you access to deploy or I can do it. Which one do you prefer?",
+        "user": "UV6JHDP0S",
+        "ts": "1584923470.083900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JvW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can either give you access to deploy or I can do it. Which one do you prefer?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584919768.078400",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "da889e22-55cb-4b91-bfd6-794df94f5c67",
+        "type": "message",
+        "text": "For .Net app it needs to be zipped",
+        "user": "UV6JHDP0S",
+        "ts": "1584923485.084100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrHT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For .Net app it needs to be zipped"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584919768.078400",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010KNBPAKH",
+                "created": 1584923638,
+                "timestamp": 1584923638,
+                "name": "covid-19-api-x.zip",
+                "title": "covid-19-api-x.zip",
+                "mimetype": "application/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U01077KJKQU",
+                "editable": false,
+                "size": 43758,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010KNBPAKH/covid-19-api-x.zip",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010KNBPAKH/download/covid-19-api-x.zip",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01077KJKQU/F010KNBPAKH/covid-19-api-x.zip",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010KNBPAKH-4fa48ddf3c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U01077KJKQU",
+        "display_as_bot": false,
+        "ts": "1584923639.084300",
+        "client_msg_id": "a11243d7-a61c-42b3-a435-5843696a9e8d",
+        "thread_ts": "1584919768.078400",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "a5db6106-9f44-4b9b-9979-6bf0c200851c",
+        "type": "message",
+        "text": "<https://docs.aws.amazon.com/lambda/latest/dg/lambda-csharp.html>",
+        "user": "UV6JHDP0S",
+        "ts": "1584924240.084800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Building Lambda Functions with C# - AWS Lambda",
+                "title_link": "https://docs.aws.amazon.com/lambda/latest/dg/lambda-csharp.html",
+                "text": "The following sections explain how common programming patterns and core concepts apply when authoring Lambda function code in C#.",
+                "fallback": "Building Lambda Functions with C# - AWS Lambda",
+                "from_url": "https://docs.aws.amazon.com/lambda/latest/dg/lambda-csharp.html",
+                "service_icon": "https://docs.aws.amazon.com/assets/images/favicon.ico",
+                "service_name": "docs.aws.amazon.com",
+                "id": 1,
+                "original_url": "https://docs.aws.amazon.com/lambda/latest/dg/lambda-csharp.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uWV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.aws.amazon.com/lambda/latest/dg/lambda-csharp.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010L64PNAJ",
+                "created": 1584924263,
+                "timestamp": 1584924263,
+                "name": "covid-19-api-x.zip",
+                "title": "covid-19-api-x.zip",
+                "mimetype": "application/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U01077KJKQU",
+                "editable": false,
+                "size": 43048,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010L64PNAJ/covid-19-api-x.zip",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010L64PNAJ/download/covid-19-api-x.zip",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01077KJKQU/F010L64PNAJ/covid-19-api-x.zip",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010L64PNAJ-5049e99fec",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U01077KJKQU",
+        "display_as_bot": false,
+        "ts": "1584924265.085000",
+        "client_msg_id": "fdf1491c-bdb9-478f-be72-060a78561ce5",
+        "thread_ts": "1584919768.078400",
+        "parent_user_id": "U01077KJKQU"
+    },
+    {
+        "client_msg_id": "9a3ac408-0d60-4c8f-8090-d9de61c02b95",
+        "type": "message",
+        "text": "<mailto:mike.shifer@outlook.com|mike.shifer@outlook.com>",
+        "user": "U010ETDKCA1",
+        "ts": "1584924481.085400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:mike.shifer@outlook.com",
+                                "text": "mike.shifer@outlook.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584909958.060100",
+        "parent_user_id": "U010ETDKCA1"
+    },
+    {
+        "client_msg_id": "27653da2-e0ee-4c7e-bcb7-f12a84bf345e",
+        "type": "message",
+        "text": "An error occurred while listing api-gateway relations: User: arn:aws:iam::689384711846:user/mike.shifer is not authorized to perform: apigateway:GET on resource: arn:aws:apigateway:us-east-2::/restapis/mjzpkpx5pd (Service: AmazonApiGateway; Status Code: 403; Error Code: AccessDeniedException; Request ID: 50355315-3a9d-474d-9637-a105eb50b84c)",
+        "user": "U010ETDKCA1",
+        "ts": "1584926141.085800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56Fub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An error occurred while listing api-gateway relations: User: arn:aws:iam::689384711846:user/mike.shifer is not authorized to perform: apigateway:GET on resource: arn:aws:apigateway:us-east-2::/restapis/mjzpkpx5pd (Service: AmazonApiGateway; Status Code: 403; Error Code: AccessDeniedException; Request ID: 50355315-3a9d-474d-9637-a105eb50b84c)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584909958.060100",
+        "parent_user_id": "U010ETDKCA1"
+    },
+    {
+        "client_msg_id": "e9402a88-5f67-4884-b2b2-328ea58cb1ce",
+        "type": "message",
+        "text": ":open_mouth:",
+        "user": "U010ETDKCA1",
+        "ts": "1584926174.086000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nyk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "open_mouth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584909958.060100",
+        "parent_user_id": "U010ETDKCA1"
+    },
+    {
+        "client_msg_id": "9b079c90-e5e6-4c9c-89fa-333655cb854c",
+        "type": "message",
+        "text": "The team working on the CommCare side will be having a meeting at 11 PM relating to progress and task allocations",
+        "user": "U0109G64E31",
+        "ts": "1584931507.089400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RHW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The team working on the CommCare side will be having a meeting at 11 PM relating to progress and task allocations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b0ab7aa-3d0b-45f5-951b-8ea7522d48cb",
+        "type": "message",
+        "text": "ComeCare side - team report\n\nProgress:\n\u2022 Able to fetch form data from CommCare as a list.\n\u2022 Able to replicate the OpenAPI specification with stubs for the endpoints.\nChallenges:\n\u2022 Doesn't seem possible to create forms using the CommCare REST API. We are not implementing the POST/PUT requests as a result.\n\u2022 Filtering on fields seems to be a challenge using the CommCare REST API. This may mean we fetch a lot of data and perform filtering on that set.\n\u2022 Unclear what the mapping should be from CommCare data to the JSI schema.",
+        "user": "U0109G64E31",
+        "ts": "1584938412.090000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0109G64E31",
+            "ts": "1584938432.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6IK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ComeCare side - team report\n\nProgress:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Able to fetch form data from CommCare as a list."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Able to replicate the OpenAPI specification with stubs for the endpoints."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nChallenges:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Doesn't seem possible to create forms using the CommCare REST API. We are not implementing the POST/PUT requests as a result."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Filtering on fields seems to be a challenge using the CommCare REST API. This may mean we fetch a lot of data and perform filtering on that set."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Unclear what the mapping should be from CommCare data to the JSI schema."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584938412.090000",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1585079437.185600",
+        "reply_users": [
+            "U0107A7161E",
+            "U01076CDQ8J"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "45ee55ff-c959-4f52-b744-c8198f2ed5d5",
+        "type": "message",
+        "text": "<!channel>^",
+        "user": "U0107A7161E",
+        "ts": "1584938634.090400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oas",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A5875F37-1C20-4F2C-903A-5FD468AC0B6D",
+        "type": "message",
+        "text": "<@U0109G64E31> on the second challenge ...sounds like there is no search engine / indexing on the data ? ",
+        "user": "U010CQ6P9C4",
+        "ts": "1584968791.092300",
+        "team": "TV5KELEUS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JEKN0N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584994368.092700",
+        "user": "U010KLXDR1B",
+        "text": "<@U010KLXDR1B> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "c488b7f3-8f3d-4ff6-b372-9fa3397740bf",
+        "type": "message",
+        "text": "Eyob: he .NET CLI\u2019s\u00a0`publish`\u00a0command can create a folder with all of these files, but by default the\u00a0`_proj_.runtimeconfig.json`\u00a0will not be included because a Lambda project is typically configured to be a class library. To force the\u00a0`_proj_.runtimeconfig.json`\u00a0to be written as part of the\u00a0`publish`\u00a0process, pass in the command line argument:\u00a0`/p:GenerateRuntimeConfigurationFiles=true to the publish command`.",
+        "user": "U010ETDKCA1",
+        "ts": "1584995326.093300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "brQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eyob: he .NET CLI\u2019s\u00a0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "publish",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0command can create a folder with all of these files, but by default the\u00a0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "proj",
+                                "style": {
+                                    "italic": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".runtimeconfig.json",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0will not be included because a Lambda project is typically configured to be a class library. To force the\u00a0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "proj",
+                                "style": {
+                                    "italic": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".runtimeconfig.json",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0to be written as part of the\u00a0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "publish",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0process, pass in the command line argument:\u00a0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "/p:GenerateRuntimeConfigurationFiles=true to the publish command",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584995326.093300",
+        "reply_count": 14,
+        "reply_users_count": 2,
+        "latest_reply": "1585008502.109000",
+        "reply_users": [
+            "UV8B0679P",
+            "U010ETDKCA1"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e6f24080-4bd3-486a-91fe-a1a748e4f5e9",
+        "type": "message",
+        "text": "<@U01077KJKQU> <@UV6JHDP0S> <@UV8B0679P> <@U0107JEKN0N> If we we still run into issues uploading the packages, then we're moving forward with Node.js client Restful.",
+        "user": "U010ETDKCA1",
+        "ts": "1584995525.095500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AZ5ZP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01077KJKQU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " If we we still run into issues uploading the packages, then we're moving forward with Node.js client Restful."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b29d6f9-9c05-48c7-8de1-31863c970d69",
+        "type": "message",
+        "text": "CommCare is trying to get someone to walk through the API issues with us but in the meantime, they linked this document: <https://confluence.dimagi.com/display/commcarepublic/CommCare+HQ+APIs>",
+        "user": "U0107A7161E",
+        "ts": "1584996463.095700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DErlv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CommCare is trying to get someone to walk through the API issues with us but in the meantime, they linked this document: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://confluence.dimagi.com/display/commcarepublic/CommCare+HQ+APIs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584938412.090000",
+        "parent_user_id": "U0109G64E31",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0109G64E31"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35b746ae-8aca-4e5f-8595-3e997c1faa59",
+        "type": "message",
+        "text": "<@U010ETDKCA1> - we were not able to get the work done yesterday, so I built one up and launched it",
+        "user": "UV8B0679P",
+        "ts": "1584996971.096700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RtuX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010ETDKCA1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - we were not able to get the work done yesterday, so I built one up and launched it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584995326.093300",
+        "parent_user_id": "U010ETDKCA1"
+    },
+    {
+        "client_msg_id": "8e9e92da-f05d-4575-9e8c-07eb5e646b8a",
+        "type": "message",
+        "text": "There are tweaks needed now to this repo: <https://github.com/Ethiopia-COVID19/covid-19-api-node>",
+        "user": "UV8B0679P",
+        "ts": "1584996987.096900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/covid-19-api-node",
+                "title": "Ethiopia-COVID19/covid-19-api-node",
+                "footer": "<https://github.com/Ethiopia-COVID19/covid-19-api-node|Ethiopia-COVID19/covid-19-api-node>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1584925598,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "17 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/covid-19-api-node",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dPh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are tweaks needed now to this repo: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/covid-19-api-node"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584995326.093300",
+        "parent_user_id": "U010ETDKCA1"
+    },
+    {
+        "client_msg_id": "ff064b87-7e36-4c9e-ad46-80c4f54d544c",
+        "type": "message",
+        "text": "Feel free to fork and do your contrib there",
+        "user": "UV8B0679P",
+        "ts": "1584996995.097200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feel free to fork and do your contrib there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584995326.093300",
+        "parent_user_id": "U010ETDKCA1"
+    },
+    {
+        "client_msg_id": "d231af97-9465-47ce-bc7a-067190197715",
+        "type": "message",
+        "text": "Yes yes I was about to ask you how you added the AWS sdks and the necessary whistles",
+        "user": "U010ETDKCA1",
+        "ts": "1584997130.097400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T/b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes yes I was about to ask you how you added the AWS sdks and the necessary whistles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584995326.093300",
+        "parent_user_id": "U010ETDKCA1"
+    },
+    {
+        "client_msg_id": "510c61fb-5861-4afa-bcca-554500161981",
+        "type": "message",
+        "text": "I'll work on it. Thanks",
+        "user": "U010ETDKCA1",
+        "ts": "1584997150.097600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMjqb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll work on it. Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584995326.093300",
+        "parent_user_id": "U010ETDKCA1"
+    },
+    {
+        "client_msg_id": "777a381a-1fde-4894-bccf-278a87506ee9",
+        "type": "message",
+        "text": "<@U010KLXDR1B> - any questions?",
+        "user": "UV8B0679P",
+        "ts": "1584997791.098000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sKC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010KLXDR1B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - any questions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "449529a5-a3b9-4021-8b3c-7acf9549b06c",
+        "type": "message",
+        "text": "so far so good... reviewing the repo.. my fork is good",
+        "user": "U010KLXDR1B",
+        "ts": "1584997957.098300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GlhrV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so far so good... reviewing the repo.. my fork is good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe6944f5-c864-4962-ab44-b85fef535e40",
+        "type": "message",
+        "text": "a push access would be great though... PRs won't require it but in case we need peer reviews and approvals, it'll come in handy",
+        "user": "U010KLXDR1B",
+        "ts": "1584998032.099200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qU/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a push access would be great though... PRs won't require it but in case we need peer reviews and approvals, it'll come in handy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998032.099200",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1585005488.105600",
+        "reply_users": [
+            "UV8B0679P",
+            "UV6JHDP0S",
+            "U010KLXDR1B"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0107A7161E",
+        "ts": "1584998150.099300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 23rd, 2020 4:54 PM] samralakew: <!channel> I reached out to CommCare someone is going to walk through our API and workflow questions soon. In the meantime, can everyone who has questions for the CommCare team, please log them in this spreadsheet: <https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0>",
+                "ts": "1584996844.313700",
+                "author_id": "U0107A7161E",
+                "author_subname": "Samra Lakew",
+                "channel_id": "C0109GD5BGW",
+                "channel_name": "surveillance-response",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "<!channel> I reached out to CommCare someone is going to walk through our API and workflow questions soon. In the meantime, can everyone who has questions for the CommCare team, please log them in this spreadsheet: <https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0>",
+                "author_name": "Samra Lakew",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107A7161E",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-18/1010401783760_4b935ef07924db0d489d_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F01095RJTGB",
+                        "created": 1584996846,
+                        "timestamp": 1584996846,
+                        "name": "Surveillance workstream_ CommCare questions",
+                        "title": "Surveillance workstream_ CommCare questions",
+                        "mimetype": "application/vnd.google-apps.spreadsheet",
+                        "filetype": "gsheet",
+                        "pretty_type": "GSuite Spreadsheet",
+                        "user": "U0107A7161E",
+                        "editable": false,
+                        "size": 42259,
+                        "mode": "external",
+                        "is_external": true,
+                        "external_type": "gdrive",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0",
+                        "thumb_64": "https://a.slack-edge.com/80588/img/files/gsheet_64.png",
+                        "thumb_360": "https://a.slack-edge.com/80588/img/files/gsheet_360.png",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 167,
+                        "permalink": "https://ethiopia-covid19.slack.com/files/U0107A7161E/F01095RJTGB/surveillance_workstream__commcare_questions",
+                        "is_starred": false,
+                        "external_id": "1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ",
+                        "external_url": "https://docs.google.com/spreadsheets/d/1SVVqDE7ZUdPYkS32z625tqoxgFqJmAZyFs84U0FNVyQ/edit#gid=0",
+                        "has_rich_preview": false
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0109GD5BGW/p1584996844313700?thread_ts=1584996844313700&cid=C0109GD5BGW",
+                "is_share": true,
+                "footer": "Thread in #surveillance-response"
+            }
+        ],
+        "thread_ts": "1584998150.099300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585013493.117800",
+        "reply_users": [
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0107A7161E",
+        "ts": "1584998183.099600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 23rd, 2020 5:13 PM] samralakew: Commcare has also opened a dedicated COVID19 forum on their site where their staff and user community are answering questions actively: <https://forum.dimagi.com/c/covid-19/13>",
+                "ts": "1584997983.320000",
+                "msg_subtype": "thread_broadcast",
+                "author_id": "U0107A7161E",
+                "author_subname": "Samra Lakew",
+                "channel_id": "C0109GD5BGW",
+                "channel_name": "surveillance-response",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "Commcare has also opened a dedicated COVID19 forum on their site where their staff and user community are answering questions actively: <https://forum.dimagi.com/c/covid-19/13>",
+                "author_name": "Samra Lakew",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107A7161E",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-18/1010401783760_4b935ef07924db0d489d_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0109GD5BGW/p1584997983320000?thread_ts=1584996844313700&cid=C0109GD5BGW",
+                "is_share": true,
+                "footer": "From a thread in #surveillance-response"
+            }
+        ],
+        "thread_ts": "1584998183.099600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585013487.117600",
+        "reply_users": [
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "dbb1d36f-dfdd-43d7-88cc-c66430e81039",
+        "type": "message",
+        "text": "<!here> We've already gotten some responses from CommCare on the API questions in the spreadsheet. See below.\n\n\"I took a quick look at the API queries on the spreadsheet, and wanted to pass along some quick thoughts on the two API related questions I was hoping you could share with your team:\n1. First, you\u00a0_can_\u00a0create forms (which I assume you mean submit forms) via our\u00a0<https://confluence.dimagi.com/display/commcarepublic/Submission+API|submission API>.\u00a0\n2. Secondly, I see that filtering on fields seems to be a challenge. You\u00a0_can_\u00a0filter on certain parameters when pulling from data. You can find the valid parameters at the top of this\u00a0<https://confluence.dimagi.com/display/commcarepublic/List+Forms|page>.\"",
+        "user": "U0107A7161E",
+        "ts": "1584999402.101000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zdh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We've already gotten some responses from CommCare on the API questions in the spreadsheet. See below.\n\n\"I took a quick look at the API queries on the spreadsheet, and wanted to pass along some quick thoughts on the two API related questions I was hoping you could share with your team:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "First, you\u00a0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "can\u00a0",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "create forms (which I assume you mean submit forms) via our\u00a0"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://confluence.dimagi.com/display/commcarepublic/Submission+API",
+                                        "text": "submission API"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ".\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Secondly, I see that filtering on fields seems to be a challenge. You\u00a0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "can\u00a0",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "filter on certain parameters when pulling from data. You can find the valid parameters at the top of this\u00a0"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://confluence.dimagi.com/display/commcarepublic/List+Forms",
+                                        "text": "page"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ".\""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584999402.101000",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1585014204.118300",
+        "reply_users": [
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9CD672C1-BECB-4B29-8314-99E3F4D0FD7E",
+        "type": "message",
+        "text": "A PR can be merged ",
+        "user": "UV8B0679P",
+        "ts": "1585001113.101500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G+v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A PR can be merged "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998032.099200",
+        "parent_user_id": "U010KLXDR1B"
+    },
+    {
+        "client_msg_id": "E422F9CF-BFE8-456C-83C7-20E030124497",
+        "type": "message",
+        "text": "Push is done by <@UV6JHDP0S> when you are ready",
+        "user": "UV8B0679P",
+        "ts": "1585001122.102000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WFqp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Push is done by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " when you are ready"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998032.099200",
+        "parent_user_id": "U010KLXDR1B"
+    },
+    {
+        "client_msg_id": "E1FFBA0E-EE8A-4D71-8CB7-211F04D9D195",
+        "type": "message",
+        "text": "He\u2019s handling our dev ops",
+        "user": "UV8B0679P",
+        "ts": "1585001134.102400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yRS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He\u2019s handling our dev ops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998032.099200",
+        "parent_user_id": "U010KLXDR1B"
+    },
+    {
+        "client_msg_id": "7f32fa93-42ec-4aba-9a1b-2817c88e6f61",
+        "type": "message",
+        "text": "Is it pushed to the github?",
+        "user": "UV6JHDP0S",
+        "ts": "1585001232.102600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TfNMB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it pushed to the github?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998032.099200",
+        "parent_user_id": "U010KLXDR1B"
+    },
+    {
+        "client_msg_id": "D4D71363-F718-4542-BBE7-FB3C7B6BA41D",
+        "type": "message",
+        "text": "I don\u2019t think he.\u2019s ready yet",
+        "user": "UV8B0679P",
+        "ts": "1585001491.103100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cpu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don\u2019t think he.\u2019s ready yet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998032.099200",
+        "parent_user_id": "U010KLXDR1B"
+    },
+    {
+        "client_msg_id": "82BD9708-8C08-444B-8D11-6A53539D278A",
+        "type": "message",
+        "text": "<@U010KLXDR1B> - status?",
+        "user": "UV8B0679P",
+        "ts": "1585004983.103500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mPW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010KLXDR1B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - status?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998032.099200",
+        "parent_user_id": "U010KLXDR1B"
+    },
+    {
+        "client_msg_id": "0bca2d8b-a9e5-4fb6-b33a-9ae0c286f377",
+        "type": "message",
+        "text": "<!here> is anyone available whom I can talk to about the project(s) going on here? Thanks!",
+        "user": "U0109G64E31",
+        "ts": "1585005412.105500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cz6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is anyone available whom I can talk to about the project(s) going on here? Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585005412.105500",
+        "reply_count": 11,
+        "reply_users_count": 5,
+        "latest_reply": "1585010660.112300",
+        "reply_users": [
+            "U0107A7161E",
+            "U0109G64E31",
+            "U010L2CFYUW",
+            "U010ETDKCA1",
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6ecbf8b5-361f-4d77-8d14-3a4cb48fc7c4",
+        "type": "message",
+        "text": "in progress",
+        "user": "U010KLXDR1B",
+        "ts": "1585005488.105600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oNOr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in progress"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998032.099200",
+        "parent_user_id": "U010KLXDR1B"
+    },
+    {
+        "client_msg_id": "67d934e9-d362-42fa-919e-276f46d90565",
+        "type": "message",
+        "text": "do you want to talk about the CommCare API  or JSI API buildout? or both?",
+        "user": "U0107A7161E",
+        "ts": "1585005552.105800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7kNK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you want to talk about the CommCare API  or JSI API buildout? or both?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585005412.105500",
+        "parent_user_id": "U0109G64E31"
+    },
+    {
+        "client_msg_id": "e756e96b-b20b-4ca5-8da9-c7c54ba05700",
+        "type": "message",
+        "text": "I am lost in the wild here. I need some guidance. Anyone up?",
+        "user": "U010APHG8Q1",
+        "ts": "1585006141.106700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hrSqw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am lost in the wild here. I need some guidance. Anyone up?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585006141.106700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585010172.110000",
+        "reply_users": [
+            "U0109G64E31"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5c03d8f0-f950-42e4-8723-a299a90e53d5",
+        "type": "message",
+        "text": "both",
+        "user": "U0109G64E31",
+        "ts": "1585006340.106800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=H2G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "both"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585005412.105500",
+        "parent_user_id": "U0109G64E31"
+    },
+    {
+        "client_msg_id": "09aacf41-afca-496a-bb37-533b0c2099a5",
+        "type": "message",
+        "text": "I'm trying to understand how things are working and what needs to get done",
+        "user": "U0109G64E31",
+        "ts": "1585006359.107000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DXF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm trying to understand how things are working and what needs to get done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585005412.105500",
+        "parent_user_id": "U0109G64E31"
+    },
+    {
+        "client_msg_id": "7b4bc0f2-fd78-487d-b8d9-4e2c068f9e7d",
+        "type": "message",
+        "text": "Is it okay if I use Hapi?",
+        "user": "U010ETDKCA1",
+        "ts": "1585007937.107200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JpJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it okay if I use Hapi?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584995326.093300",
+        "parent_user_id": "U010ETDKCA1"
+    },
+    {
+        "client_msg_id": "82a8fbc8-ac45-4848-b54d-4da74a571112",
+        "type": "message",
+        "text": "Seem to work well with Request",
+        "user": "U010ETDKCA1",
+        "ts": "1585007957.107400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FMm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seem to work well with Request"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584995326.093300",
+        "parent_user_id": "U010ETDKCA1"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "16d461fa-d2b3-4003-b8aa-010b735fa144",
+        "type": "message",
+        "text": "<@U010QAZK91N> welcome. this is where the awareness ops is happening. this is the document with the messages, <https://docs.google.com/spreadsheets/d/17d0qFiIwkwoHIRWislJ9tNjAZ-3u4JlLm18cFMF1fuw/edit#gid=1785005921>",
+        "user": "U01007VTP8A",
+        "ts": "1585113344.000900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010QAZK91N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " welcome. this is where the awareness ops is happening. this is the document with the messages, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/17d0qFiIwkwoHIRWislJ9tNjAZ-3u4JlLm18cFMF1fuw/edit#gid=1785005921"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010QAZK91N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585113356.001200",
+        "user": "U010QAZK91N",
+        "text": "<@U010QAZK91N> has joined the channel",
+        "inviter": "U01007VTP8A"
+    },
+    {
+        "client_msg_id": "BAF5F9BD-207A-497D-B401-114ED244264C",
+        "type": "message",
+        "text": "<@U0106M26108> need anything here? ",
+        "user": "U010CLFURT8",
+        "ts": "1585124676.002200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bz7z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " need anything here? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585012613.094900",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "67534dd6-06eb-43f6-be41-834aca49f636",
+        "type": "message",
+        "text": "She pinged Mercy Ndegwa (Head of Public Policy, East &amp; Horn of Africa) &amp; we\u2019re waiting on next steps.",
+        "user": "U0106M26108",
+        "ts": "1585149313.002400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mtr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "She pinged Mercy Ndegwa (Head of Public Policy, East & Horn of Africa) & we\u2019re waiting on next steps."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585012613.094900",
+        "parent_user_id": "U0106M26108"
+    }
+]

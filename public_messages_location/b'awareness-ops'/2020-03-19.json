@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584576794.028600",
+        "user": "U010CLFURT8",
+        "text": "<@U010CLFURT8> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "client_msg_id": "5b1c9656-5390-46d5-b336-0b9afe9fa555",
+        "type": "message",
+        "text": "thank you for posting the ads muluken!!",
+        "user": "U0107AYF16H",
+        "ts": "1584577439.028700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lt3QX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you for posting the ads muluken!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584572973.013300",
+        "parent_user_id": "UV6JHD1GS"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584638511.029000",
+        "user": "U01094QRPSL",
+        "text": "<@U01094QRPSL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584644119.029200",
+        "user": "U010BQSN3EK",
+        "text": "<@U010BQSN3EK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584644552.029400",
+        "user": "U010F234GJJ",
+        "text": "<@U010F234GJJ> has joined the channel"
+    }
+]

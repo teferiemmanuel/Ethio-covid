@@ -1,0 +1,40 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "Reminder: Delivery workstream stand up is starting. Join here: <https://mit.zoom.us/j/830540249>",
+        "user": "USLACKBOT",
+        "ts": "1586782855.280800",
+        "team": "TV5KELEUS"
+    },
+    {
+        "client_msg_id": "6663a5a7-c4f7-45e5-b441-11db4ef8dbbc",
+        "type": "message",
+        "text": "Anyone with updates, please add them to the Meeting Minutes <https://docs.google.com/document/d/1cedcN4qWAEHB3tOAMv8tYD_jBBe6OVuGCLjH_cxet_Q/edit#|spreadsheet>",
+        "user": "U010B7Q6XE0",
+        "ts": "1586791842.281600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D5=a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone with updates, please add them to the Meeting Minutes "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1cedcN4qWAEHB3tOAMv8tYD_jBBe6OVuGCLjH_cxet_Q/edit#",
+                                "text": "spreadsheet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

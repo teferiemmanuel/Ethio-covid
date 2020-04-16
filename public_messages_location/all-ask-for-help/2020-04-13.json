@@ -1,0 +1,713 @@
+[
+    {
+        "client_msg_id": "0b8d3f94-502d-42d2-bcf6-7b3f19a1b2d3",
+        "type": "message",
+        "text": "*<!channel>\u00a0*<#C010J0503QD|proj-testing-kits> team is in the ideation phase of potentially building a covid-19 test kit -\u00a0_*Made in Ethiopia*_ :flag-et:.\n\nWe would like to gather some information to build a solid team for this. We will need to brainstorm and determine the feasibility required to build this in a timely fashion.\n\nKenyans have<https://twitter.com/KEMRI_Kenya/status/1247837553765613570/photo/1|\u00a0built their own testing>\u00a0and we could learn from what they have done.\n\nPlease answer the questions in the form if you are a medical doctor, laboratory technician, have any experience with biomedical equipment, virology, skills with usability testing, biochemistry, biology, biomedical sciences with lab experiences.\nPlease share the link to the form with anyone who would be interested in this project and can dedicate the time required to build it.\n\nWe will set up the meeting after reviewing the responses we receive.\n\nLink to google form -\u00a0<https://forms.gle/FG5J5Hwgq8fAzdZa9>\n\n<@U0101KKMPFC> <@U010P2VU7ND> <@U010ZJYV6AU> <@U010986778X> <@U010H9HHT4M> <@UV8F3SRGA> <@U0102QX78GH>",
+        "user": "U0107JERE9L",
+        "ts": "1586762079.347400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/KEMRI_Kenya|@KEMRI_Kenya>: In today's paper:arrow_heading_down:\n\n'New tech at Kemri to enable Kenya to mass test for virus'\n\nDaily Nation <https://twitter.com/dailynation|@dailynation> : <https://bit.ly/2x3iHO3>\n\n<https://twitter.com/KEMRI_Wellcome|@KEMRI_Wellcome> <https://twitter.com/IDeAL_KEMRI_WT|@IDeAL_KEMRI_WT> <https://twitter.com/veclab_KEMRI_WT|@veclab_KEMRI_WT> <https://twitter.com/MOH_Kenya|@MOH_Kenya> <https://twitter.com/SpokespersonGoK|@SpokespersonGoK> <https://pbs.twimg.com/media/EVE1gMcU8AAJBnJ.jpg>",
+                "ts": 1586342631,
+                "author_name": "Kenya Medical Research Institute",
+                "author_link": "https://twitter.com/KEMRI_Kenya/status/1247837553765613570",
+                "author_icon": "https://pbs.twimg.com/profile_images/738720362771288065/yONFELN8_normal.jpg",
+                "author_subname": "@KEMRI_Kenya",
+                "text": "In today's paper:arrow_heading_down:\n\n'New tech at Kemri to enable Kenya to mass test for virus'\n\nDaily Nation <https://twitter.com/dailynation|@dailynation> : <https://bit.ly/2x3iHO3>\n\n<https://twitter.com/KEMRI_Wellcome|@KEMRI_Wellcome> <https://twitter.com/IDeAL_KEMRI_WT|@IDeAL_KEMRI_WT> <https://twitter.com/veclab_KEMRI_WT|@veclab_KEMRI_WT> <https://twitter.com/MOH_Kenya|@MOH_Kenya> <https://twitter.com/SpokespersonGoK|@SpokespersonGoK> <https://pbs.twimg.com/media/EVE1gMcU8AAJBnJ.jpg>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/KEMRI_Kenya/status/1247837553765613570/photo/1",
+                "image_url": "https://pbs.twimg.com/media/EVE1gMcU8AAJBnJ.jpg",
+                "image_width": 1200,
+                "image_height": 900,
+                "image_bytes": 348209,
+                "id": 1,
+                "original_url": "https://twitter.com/KEMRI_Kenya/status/1247837553765613570/photo/1",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            },
+            {
+                "service_name": "Google Docs",
+                "title": "EthioCovid19 Response Team: Test Kit Volunteer form",
+                "title_link": "https://forms.gle/FG5J5Hwgq8fAzdZa9",
+                "text": "The Ethiopia COVID-19 Response Team (ECRT) is a global volunteer team of engineers, doctors, designers, marketers, architects, product managers, and other industry professionals. We have mobilized to build and support over 15+ open source projects to combat COVID-19. We are asking for your help in creating a COVID-19 test kit to be built in Ethiopia to mitigate the current shortage enable and aid in the fight against the pandemic. Please fill out the questions below. If you do not have experience in any of the methods currently on this list, please add your expertise in the \"Other\" box at the end of the form. Finally, please share with anyone who you think might be interested. Stay safe--thank you.",
+                "fallback": "Google Docs: EthioCovid19 Response Team: Test Kit Volunteer form",
+                "image_url": "https://lh5.googleusercontent.com/sFfc2f_9Tas0WqIKrT6wyY6xaCMYGEMwuFUAuoiTS0ytA5JXfe53n-o_KiLD9qsc5m2hxHE",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https://forms.gle/FG5J5Hwgq8fAzdZa9",
+                "image_bytes": 118698,
+                "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+                "id": 2,
+                "original_url": "https://forms.gle/FG5J5Hwgq8fAzdZa9"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hdM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010J0503QD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " team is in the ideation phase of potentially building a covid-19 test kit -\u00a0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Made in Ethiopia ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flag-et",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nWe would like to gather some information to build a solid team for this. We will need to brainstorm and determine the feasibility required to build this in a timely fashion.\n\nKenyans have"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/KEMRI_Kenya/status/1247837553765613570/photo/1",
+                                "text": "\u00a0built their own testing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0and we could learn from what they have done.\n\nPlease answer the questions in the form if you are a medical doctor, laboratory technician, have any experience with biomedical equipment, virology, skills with usability testing, biochemistry, biology, biomedical sciences with lab experiences.\nPlease share the link to the form with anyone who would be interested in this project and can dedicate the time required to build it.\n\nWe will set up the meeting after reviewing the responses we receive.\n\nLink to google form -\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://forms.gle/FG5J5Hwgq8fAzdZa9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0101KKMPFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010P2VU7ND"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010ZJYV6AU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010H9HHT4M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8F3SRGA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0102QX78GH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_up::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U0102QX78GH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U010SKPP7CJ",
+                    "U010JB58NSC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0111JYSE23"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "756CD17D-8F71-4A5D-8B9D-E7BB4F2B9523",
+        "type": "message",
+        "text": "<@U010787AZ2T> I can link you to Eka Kotebe and St. Peter right away and the other quarantine centers can find contacts. ",
+        "user": "U0111JYSE23",
+        "ts": "1586769530.364200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JiU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010787AZ2T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can link you to Eka Kotebe and St. Peter right away and the other quarantine centers can find contacts. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586144430.211400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "5CEA6BDF-0165-4014-A14F-50E05398FBFB",
+        "type": "message",
+        "text": "Of course, if you didn\u2019t find contacts yet, I see it's from Apr 6th.",
+        "user": "U0111JYSE23",
+        "ts": "1586769586.365900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l7zh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Of course, if you didn\u2019t find contacts yet, I see it's from Apr 6th."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586144430.211400",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "e083a96d-aa5a-44a0-ac43-024150d63a6f",
+        "type": "message",
+        "text": "<@U0107JERE9L> :raised_hands: :fire: good start \nI wanted to understand the objective \nIs your plan to work on rapid test kit or make the already existing machines fit for testing ?or something diffrent so I can recommend the experts accordingly\n\nFor a start you should reach out to   \n EPHI / Pastor/*- rsearch and test center \n The Ethiopian Medical Laboratory Association (EMLA)- technical\nEthiopian Pharmaceuticals Supply  Agency ( EPSA)  - to know number and type \n Ethiopia medical association (EMA)\nMinistry of  innovation and technology :- for the space and techincal support biomedical engineers etc\nI believe these would be the right partners to have and also you can easily do  need assessment on \n- Machine type they have in the region :- Good news we have good number of machine that test for HIV/Aids , TB and viral with the right reagent.\n- The number of machine so you can estimate how many could be done if it repurposed. \n-There is the GeneX machine for sure  but for the other brand I will have to check\n\nFrom the article posted above , I didn't get the innovation part but rather the repurposing of the machine which Ethiopian MoH / medical association thought already about  or  have looked into after the Kenya innovation ? :grimacing: \nAnyway the  reagent now available doesn't fit the machine. If of course if one  buys it from the company like  the Kenyans mentioned then it potentially could work??- question is if there is enough supply from the manufacturer or is the result :100:\nI have to find the research paper:point_up: and also discuss with some counterparts and how to proceed.\nI understood that the kenyan have designed the virus transport medium using the big machines that are currently in use in various laboratories across the country are known as Polymerase Chain Reaction machines (PCR).I will add once I find out more.\nNow the kenyans  are working on rapid Test ( in general Rapid test is still debatable if it would give false postive or negative ) \nDid anyone reach out to the Kenyan group? It could be open source info maybe ?\nI hope this is a start and ask some technical ppl to join the effort",
+        "user": "U010SKPP7CJ",
+        "ts": "1586774594.385600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010SKPP7CJ",
+            "ts": "1586774818.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wuEYC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire"
+                            },
+                            {
+                                "type": "text",
+                                "text": " good start \nI wanted to understand the objective \nIs your plan to work on rapid test kit or make the already existing machines fit for testing ?or something diffrent so I can recommend the experts accordingly\n\nFor a start you should reach out to   \n EPHI / Pastor/*- rsearch and test center \n The Ethiopian Medical Laboratory Association (EMLA)- technical\nEthiopian Pharmaceuticals Supply  Agency ( EPSA)  - to know number and type \n Ethiopia medical association (EMA)\nMinistry of  innovation and technology :- for the space and techincal support biomedical engineers etc\nI believe these would be the right partners to have and also you can easily do  need assessment on \n- Machine type they have in the region :- Good news we have good number of machine that test for HIV/Aids , TB and viral with the right reagent.\n- The number of machine so you can estimate how many could be done if it repurposed. \n-There is the GeneX machine for sure  but for the other brand I will have to check\n\nFrom the article posted above , I didn't get the innovation part but rather the repurposing of the machine which Ethiopian MoH / medical association thought already about  or  have looked into after the Kenya innovation ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nAnyway the  reagent now available doesn't fit the machine. If of course if one  buys it from the company like  the Kenyans mentioned then it potentially could work??- question is if there is enough supply from the manufacturer or is the result "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "100"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI have to find the research paper"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and also discuss with some counterparts and how to proceed.\nI understood that the kenyan have designed the virus transport medium using the big machines that are currently in use in various laboratories across the country are known as Polymerase Chain Reaction machines (PCR).I will add once I find out more.\nNow the kenyans  are working on rapid Test ( in general Rapid test is still debatable if it would give false postive or negative ) \nDid anyone reach out to the Kenyan group? It could be open source info maybe ?\nI hope this is a start and ask some technical ppl to join the effort"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586774594.385600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586819164.397800",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "78970919-8fc8-4410-88c3-d61e2272cff6",
+        "type": "message",
+        "text": "Hi guys, Kisanet here.\nI and my partner have developed a platform that was first intended to connect farmers and consumers, but now with the situation, we have customized deamat for everyone to use it without having to go the market. For now, we have launched in Mekelle, we hope to do the same in all cities soon.\n <https://deamat.com/>",
+        "user": "U010XR9FKQW",
+        "ts": "1586778276.392600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Deamat . Shop African",
+                "title_link": "https://deamat.com/",
+                "text": "Buy and sell vegetables, fruits, herbs, cereals, enjera, meat, chicken, crops, and everything else on Deamat.",
+                "fallback": "Deamat . Shop African",
+                "image_url": "https://deamat.com/logo.png",
+                "from_url": "https://deamat.com/",
+                "image_width": 582,
+                "image_height": 179,
+                "image_bytes": 9182,
+                "service_icon": "https://deamat.com/favicon.png",
+                "service_name": "deamat.com",
+                "id": 1,
+                "original_url": "https://deamat.com/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n9S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi guys, Kisanet here.\nI and my partner have developed a platform that was first intended to connect farmers and consumers, but now with the situation, we have customized deamat for everyone to use it without having to go the market. For now, we have launched in Mekelle, we hope to do the same in all cities soon.\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://deamat.com/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010BLMU4AX",
+                    "U011BGST4BG",
+                    "U010T6L6LEL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "U011BGST4BG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U011BGST4BG",
+                    "U010UJ2C1FS",
+                    "U010874LAQJ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51f36745-59bd-4fcc-b1dc-2970cf79a754",
+        "type": "message",
+        "text": "<@U0111JYSE23> Ethiopian Architects Association has already identified the various centers and the document has been posted on one of the Slack channels",
+        "user": "U010787AZ2T",
+        "ts": "1586787383.393600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=UCi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0111JYSE23"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ethiopian Architects Association has already identified the various centers and the document has been posted on one of the Slack channels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586144430.211400",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0111JYSE23"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef44d40c-538a-4fe9-b1ae-4df02ee03603",
+        "type": "message",
+        "text": "Hello all:slightly_smiling_face:,\n\nIm here representing my team, we have developed an application to fight against the Covid-19 and we competed on\u00a0<https://theglobalhack.com/|Global hacks>\u00a0and im happy to say we made it to the finals,\n\nTo explain the App in easier way, the App tracks symptom from users and the symptom data will be processed and put on the map so users can see which areas are symptomatic, in addition by user permission we can track the location of the user in real time so they can see which area are densely visited by symptomatic people and wether they should avoid the route or not. this will also help Gov't to boost the testing process by tracking people who come in contact and identify quickly as a result save lives.\n\nWe have seen\u00a0\u00a0<https://youtu.be/rRDr6dUTjbU|such app>\u00a0in south korea and singapore, how they can be effective to help flatten the curve. and we need every support we can get to make it reality in our country. i have put links below please check them out and talk to me in direct message.\n\nthank you,\n\nDemo:\u00a0<https://youtu.be/CFX1-bXLhTc>\nWebpage:\u00a0<https://www.a2sv.org/>",
+        "user": "U011NKA5RNW",
+        "ts": "1586792257.395000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Home | The Global Hack",
+                "title_link": "https://theglobalhack.com/",
+                "text": "Global hack is the biggest online hackathon in the world fighting off the crisis to battle the problems we are facing as a global society after the immediate corona crisis is over. We are bringing together world class mentors and globally talented teams to build the solutions for the better future. Together.",
+                "fallback": "Home | The Global Hack",
+                "image_url": "https://theglobalhack.com/img/global_hack_key_social.jpg",
+                "from_url": "https://theglobalhack.com/",
+                "image_width": 379,
+                "image_height": 250,
+                "image_bytes": 511107,
+                "service_icon": "https://theglobalhack.com/img/apple-touch-icon.png",
+                "service_name": "theglobalhack.com",
+                "id": 1,
+                "original_url": "https://theglobalhack.com/"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "S. Korea's data-based 'smart' measures against COVID-19",
+                "title_link": "https://youtu.be/rRDr6dUTjbU",
+                "author_name": "ARIRANG NEWS",
+                "author_link": "https://www.youtube.com/user/arirangnews",
+                "thumb_url": "https://i.ytimg.com/vi/rRDr6dUTjbU/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: S. Korea's data-based 'smart' measures against COVID-19",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/rRDr6dUTjbU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/rRDr6dUTjbU",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 2,
+                "original_url": "https://youtu.be/rRDr6dUTjbU"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "A2SV  COVID-19 Symptom tracking App - Hackathon Demo",
+                "title_link": "https://youtu.be/CFX1-bXLhTc",
+                "author_name": "Gemmechu Mohammed",
+                "author_link": "https://www.youtube.com/channel/UCtPGEb9HARmSlQQoxmO6m_w",
+                "thumb_url": "https://i.ytimg.com/vi/CFX1-bXLhTc/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: A2SV  COVID-19 Symptom tracking App - Hackathon Demo",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/CFX1-bXLhTc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/CFX1-bXLhTc",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 3,
+                "original_url": "https://youtu.be/CFX1-bXLhTc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iDtLv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nIm here representing my team, we have developed an application to fight against the Covid-19 and we competed on\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://theglobalhack.com/",
+                                "text": "Global hacks"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0and im happy to say we made it to the finals,\n\nTo explain the App in easier way, the App tracks symptom from users and the symptom data will be processed and put on the map so users can see which areas are symptomatic, in addition by user permission we can track the location of the user in real time so they can see which area are densely visited by symptomatic people and wether they should avoid the route or not. this will also help Gov't to boost the testing process by tracking people who come in contact and identify quickly as a result save lives.\n\nWe have seen\u00a0\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/rRDr6dUTjbU",
+                                "text": "such app"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0in south korea and singapore, how they can be effective to help flatten the curve. and we need every support we can get to make it reality in our country. i have put links below please check them out and talk to me in direct message.\n\nthank you,\n\nDemo:\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/CFX1-bXLhTc"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWebpage:\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.a2sv.org/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586792257.395000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586901676.403700",
+        "reply_users": [
+            "U0105ALMEKU"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010BLMU4AX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0111JYSE23"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97f7a4fd-2e27-4374-9c48-de1032e0e001",
+        "type": "message",
+        "text": "hey <@U011MT7GULD>,here is a contact from AAU yafet 0911998619, he is a psychologist and already trying to work on COVID and its psychological issues.",
+        "user": "U011JG53BV1",
+        "ts": "1586803441.395600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b3nkR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011MT7GULD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",here is a contact from AAU yafet 0911998619, he is a psychologist and already trying to work on COVID and its psychological issues."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586499208.289500",
+        "parent_user_id": "U011MT7GULD"
+    },
+    {
+        "client_msg_id": "5FFC63E9-EA9F-45C9-8A30-5BF354C5657C",
+        "type": "message",
+        "text": "Hi <@U011JG53BV1> thank you. My piece is already done but he\u2019ll be a useful contact for my next story. Appreciate it! :pray:",
+        "user": "U011MT7GULD",
+        "ts": "1586803561.397200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kgZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011JG53BV1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you. My piece is already done but he\u2019ll be a useful contact for my next story. Appreciate it! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586499208.289500",
+        "parent_user_id": "U011MT7GULD"
+    },
+    {
+        "client_msg_id": "ff016832-541b-4c91-82d8-7a0e82866a04",
+        "type": "message",
+        "text": "Thanks Ruth. This is a kick-off data gathering to create a team to discuss the things you have mentioned. There are a few people who have the expertise and are looking into what material is available in Ethiopia and what we can learn from the Kenyan team. However, it is too early in this process to have a definitive path.\n\nI don't know anyone from the associations you listed or from the Kenyan team.\n\nIf you know anyone that can contribute to the initial discussion of feasibility and best practices, please share the google form with them. <https://forms.gle/FG5J5Hwgq8fAzdZa9>",
+        "user": "U0107JERE9L",
+        "ts": "1586819164.397800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "EthioCovid19 Response Team: Test Kit Volunteer form",
+                "title_link": "https://forms.gle/FG5J5Hwgq8fAzdZa9",
+                "text": "The Ethiopia COVID-19 Response Team (ECRT) is a global volunteer team of engineers, doctors, designers, marketers, architects, product managers, and other industry professionals. We have mobilized to build and support over 15+ open source projects to combat COVID-19. We are asking for your help in creating a COVID-19 test kit to be built in Ethiopia to mitigate the current shortage enable and aid in the fight against the pandemic. Please fill out the questions below. If you do not have experience in any of the methods currently on this list, please add your expertise in the \"Other\" box at the end of the form. Finally, please share with anyone who you think might be interested. Stay safe--thank you.",
+                "fallback": "Google Docs: EthioCovid19 Response Team: Test Kit Volunteer form",
+                "image_url": "https://lh5.googleusercontent.com/sFfc2f_9Tas0WqIKrT6wyY6xaCMYGEMwuFUAuoiTS0ytA5JXfe53n-o_KiLD9qsc5m2hxHE",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https://forms.gle/FG5J5Hwgq8fAzdZa9",
+                "image_bytes": 118698,
+                "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+                "id": 1,
+                "original_url": "https://forms.gle/FG5J5Hwgq8fAzdZa9"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0iCLc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Ruth. This is a kick-off data gathering to create a team to discuss the things you have mentioned. There are a few people who have the expertise and are looking into what material is available in Ethiopia and what we can learn from the Kenyan team. However, it is too early in this process to have a definitive path.\n\nI don't know anyone from the associations you listed or from the Kenyan team.\n\nIf you know anyone that can contribute to the initial discussion of feasibility and best practices, please share the google form with them. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://forms.gle/FG5J5Hwgq8fAzdZa9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586774594.385600",
+        "parent_user_id": "U010SKPP7CJ"
+    }
+]

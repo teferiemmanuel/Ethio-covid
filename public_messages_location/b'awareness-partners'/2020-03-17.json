@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584486632.000200",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584486632.000300",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> set the channel purpose: Here is a mereja",
+        "purpose": "Here is a mereja"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584487979.000500",
+        "user": "U01076XHPC0",
+        "text": "<@U01076XHPC0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584488350.000700",
+        "user": "UV6JHD1GS",
+        "text": "<@UV6JHD1GS> has joined the channel"
+    }
+]

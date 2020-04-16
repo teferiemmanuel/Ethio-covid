@@ -1,0 +1,315 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584488230.000200",
+        "user": "U01076XHPC0",
+        "text": "<@U01076XHPC0> has joined the channel"
+    },
+    {
+        "client_msg_id": "7b6b79d1-bc86-4bfc-bd69-64910422d0bc",
+        "type": "message",
+        "text": "In effort of triaging the official communication pushed to the public, it might be useful if we know who can translate Amharic to which other Ethiopian language. We will have to push updates in as many languages as we can.",
+        "user": "U01076XHPC0",
+        "ts": "1584489250.001600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01076XHPC0",
+            "ts": "1584489259.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZBgT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In effort of triaging the official communication pushed to the public, it might be useful if we know who can translate Amharic to which other Ethiopian language. We will have to push updates in as many languages as we can."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "CV8HM0HDY"
+        ],
+        "pinned_info": {
+            "channel": "CV8HM0HDY",
+            "pinned_by": "U01076XHPC0",
+            "pinned_ts": 1584671585
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Which languages can you translate Amharic to?",
+        "ts": "1584489263.001800",
+        "bot_id": "BVB9JEN3T",
+        "thread_ts": "1584489263.001800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1586056643.065800",
+        "reply_users": [
+            "U010CLFURT8",
+            "UVALWD1MG",
+            "UVB9ZSPCH"
+        ],
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-de33bee4-c356-470e-a594-22393da779af-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Which languages can you translate Amharic to?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: View info",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":pushpin: Capture Decision from Poll",
+                                "emoji": true
+                            },
+                            "value": "capture_decision_from_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":gear: Go to Settings",
+                                "emoji": true
+                            },
+                            "value": "go_to_settings_from_poll",
+                            "url": "https://simplepoll.rocks/dashboard/ethiopia-covid19/settings/"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-de33bee4-c356-470e-a594-22393da779af-vote-1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Tigrigna    `5`\n<@U01077MN7QQ>, <@U0108RA0JJC>, <@UVDCM0SNM>, <@U0109V4EW30>, <@U0103ET2YAF>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-1",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-de33bee4-c356-470e-a594-22393da779af-vote-2",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Afaan Oromo    `5`\n<@UVBN2BD8R>, <@U01076XHPC0>, <@U0108RA0JJC>, <@U01094V0TCG>, <@U010SR06631>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-2",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-de33bee4-c356-470e-a594-22393da779af-vote-3",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: Sidamigna\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-3",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-de33bee4-c356-470e-a594-22393da779af-vote-4",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: Welaytigna    `1`\n<@UV6JHD1GS>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-4",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-de33bee4-c356-470e-a594-22393da779af-vote-5",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":five: Afar\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-5",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":five:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-de33bee4-c356-470e-a594-22393da779af-vote-6",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":six: Somali\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-6",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":six:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-de33bee4-c356-470e-a594-22393da779af-vote-7",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":seven: Guragigna\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-7",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":seven:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-de33bee4-c356-470e-a594-22393da779af-vote-8",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":eight: Hadiya    `1`\n<@U0106EP76EP>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-8",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":eight:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-de33bee4-c356-470e-a594-22393da779af-vote-9",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":nine: Gamo    `2`\n<@UV6JHD1GS>, <@U0108RB6UU8>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-9",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":nine:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-de33bee4-c356-470e-a594-22393da779af-vote-10",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":keycap_ten: Other    `1`\n<@U0105C870AC>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-10",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":keycap_ten:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "u6/Ug",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U01076XHPC0> with /poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "BVB9JEN3T",
+            "ts": "1585550364.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584489263.002000",
+        "user": "U0107C5LTV3",
+        "text": "<@U0107C5LTV3> has joined the channel"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "EC701B66-9731-4D67-8367-87A2B995C8BC",
+        "type": "message",
+        "text": "<!channel> Good morning/ Good afternoon. I was wondering if I could sync with someone here to get more insights about the spec. I will be leading the testing. ",
+        "user": "UVC2L182V",
+        "ts": "1585414534.004000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HiQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Good morning/ Good afternoon. I was wondering if I could sync with someone here to get more insights about the spec. I will be leading the testing. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "13B34365-7468-40A6-BEDD-6BF20D69980F",
+        "type": "message",
+        "text": "<!here> ^^",
+        "user": "UVC2L182V",
+        "ts": "1585430135.004600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l+lUV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC"
+    }
+]

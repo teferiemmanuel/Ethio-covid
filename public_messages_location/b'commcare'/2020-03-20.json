@@ -1,0 +1,1775 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584684032.000200",
+        "user": "U01076XHPC0",
+        "text": "<@U01076XHPC0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584684042.000400",
+        "user": "U0105C870AC",
+        "text": "<@U0105C870AC> has joined the channel",
+        "inviter": "U01076XHPC0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584684042.000600",
+        "user": "U0100B5MHDG",
+        "text": "<@U0100B5MHDG> has joined the channel",
+        "inviter": "U01076XHPC0"
+    },
+    {
+        "type": "message",
+        "text": "we're seeing this",
+        "files": [
+            {
+                "id": "F010G1ZTTCN",
+                "created": 1584684086,
+                "timestamp": 1584684086,
+                "name": "Screen Shot 2020-03-19 at 11.00.14 PM.png",
+                "title": "Screen Shot 2020-03-19 at 11.00.14 PM.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0105C870AC",
+                "editable": false,
+                "size": 55823,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010G1ZTTCN/screen_shot_2020-03-19_at_11.00.14_pm.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010G1ZTTCN/download/screen_shot_2020-03-19_at_11.00.14_pm.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 102,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 136,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 204,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 227,
+                "image_exif_rotation": 1,
+                "original_w": 910,
+                "original_h": 258,
+                "thumb_tiny": "AwANADC6FXHQfpS7V9B+lOC8ClwKkYwKuei/pS4X+6tOwPSjA9KAG4T+6tDKm04VenpTsD0pGHyn6UAf/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0105C870AC/F010G1ZTTCN/screen_shot_2020-03-19_at_11.00.14_pm.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010G1ZTTCN-ccfe291d18",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZE+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we're seeing this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0105C870AC",
+        "display_as_bot": false,
+        "ts": "1584684089.000700",
+        "client_msg_id": "eae030af-0b7e-4517-b26a-8b01dc515c12",
+        "thread_ts": "1584684089.000700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584685937.017800",
+        "reply_users": [
+            "U0107A7161E",
+            "U0105C870AC"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4bf704c5-85f4-4b02-be9d-d24ee8c22725",
+        "type": "message",
+        "text": "<@U0100B5MHDG>",
+        "user": "U0105C870AC",
+        "ts": "1584684119.001100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "utjk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "382C4C7B-D620-474B-BD6C-BC03A4C8D4F2",
+        "type": "message",
+        "text": "Hmm, I added one named Symptoms",
+        "user": "U0100B5MHDG",
+        "ts": "1584684142.001700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qiS2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm, I added one named Symptoms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7BD68841-18EC-45D9-B62B-F23EC4C9B0B7",
+        "type": "message",
+        "text": "Let me see what I\u2019m missing",
+        "user": "U0100B5MHDG",
+        "ts": "1584684153.002100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i52",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me see what I\u2019m missing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4d162d4-95da-4588-ad03-de2769d4b47a",
+        "type": "message",
+        "text": "figuring that out\u2026",
+        "user": "U01076XHPC0",
+        "ts": "1584684428.002300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bcqF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "figuring that out\u2026"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6EBF8919-5FC5-4602-94E8-86443128E949",
+        "type": "message",
+        "text": "Does it show now?",
+        "user": "U0100B5MHDG",
+        "ts": "1584684508.002800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aek4D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does it show now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5570c665-397e-4395-82f3-71a1ab9c58ab",
+        "type": "message",
+        "text": "Yeah, we are about to sleep soon so you can continue from where we left off.",
+        "user": "U01076XHPC0",
+        "ts": "1584684526.003200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FpiR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, we are about to sleep soon so you can continue from where we left off."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D175D7AF-F524-49D6-8298-967CBB9B1CE7",
+        "type": "message",
+        "text": "Sounds good",
+        "user": "U0100B5MHDG",
+        "ts": "1584684562.003700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XwlB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01076XHPC0",
+                    "U0105C870AC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7c07a13-a52e-4290-b6f6-d59b9f993ec1",
+        "type": "message",
+        "text": "Eski hold off from updating it for 20 mins",
+        "user": "U01076XHPC0",
+        "ts": "1584684589.004200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3gxxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eski hold off from updating it for 20 mins"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9724F632-0740-46A9-B69E-BE0028BA13A2",
+        "type": "message",
+        "text": "Ok",
+        "user": "U0100B5MHDG",
+        "ts": "1584684605.004600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E3g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a0650813-263a-44d9-81b8-9114a71eda1d",
+        "type": "message",
+        "text": "Thanks man",
+        "user": "U01076XHPC0",
+        "ts": "1584684812.004800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Xh49",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks man"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584684823.005000",
+        "user": "U0107A7161E",
+        "text": "<@U0107A7161E> has joined the channel",
+        "inviter": "U01076XHPC0"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "are you still seeing this?",
+        "user": "U0107A7161E",
+        "ts": "1584685015.005500",
+        "thread_ts": "1584684089.000700",
+        "root": {
+            "type": "message",
+            "text": "we're seeing this",
+            "files": [
+                {
+                    "id": "F010G1ZTTCN",
+                    "created": 1584684086,
+                    "timestamp": 1584684086,
+                    "name": "Screen Shot 2020-03-19 at 11.00.14 PM.png",
+                    "title": "Screen Shot 2020-03-19 at 11.00.14 PM.png",
+                    "mimetype": "image/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U0105C870AC",
+                    "editable": false,
+                    "size": 55823,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010G1ZTTCN/screen_shot_2020-03-19_at_11.00.14_pm.png",
+                    "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010G1ZTTCN/download/screen_shot_2020-03-19_at_11.00.14_pm.png",
+                    "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_64.png",
+                    "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_80.png",
+                    "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 102,
+                    "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_480.png",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 136,
+                    "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_160.png",
+                    "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_720.png",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 204,
+                    "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010G1ZTTCN-e562ffb2f2/screen_shot_2020-03-19_at_11.00.14_pm_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 227,
+                    "image_exif_rotation": 1,
+                    "original_w": 910,
+                    "original_h": 258,
+                    "thumb_tiny": "AwANADC6FXHQfpS7V9B+lOC8ClwKkYwKuei/pS4X+6tOwPSjA9KAG4T+6tDKm04VenpTsD0pGHyn6UAf/9k=",
+                    "permalink": "https://ethiopia-covid19.slack.com/files/U0105C870AC/F010G1ZTTCN/screen_shot_2020-03-19_at_11.00.14_pm.png",
+                    "permalink_public": "https://slack-files.com/TV5KELEUS-F010G1ZTTCN-ccfe291d18",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZE+Z",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "we're seeing this"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "user": "U0105C870AC",
+            "display_as_bot": false,
+            "ts": "1584684089.000700",
+            "client_msg_id": "eae030af-0b7e-4517-b26a-8b01dc515c12",
+            "thread_ts": "1584684089.000700",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1584685937.017800",
+            "reply_users": [
+                "U0107A7161E",
+                "U0105C870AC"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3TP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are you still seeing this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e02e8505-2b09-4b91-b50d-e1d454c06579"
+    },
+    {
+        "client_msg_id": "fbb36e03-3069-42ec-bd69-761fc23e70f7",
+        "type": "message",
+        "text": "Got past it",
+        "user": "U01076XHPC0",
+        "ts": "1584685033.006000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "089q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got past it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd27af77-49ab-4453-98d2-406f0da14b29",
+        "type": "message",
+        "text": "no worries",
+        "user": "U01076XHPC0",
+        "ts": "1584685036.006200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yjc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no worries"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "319e4f1c-55f4-4166-b51b-d8c51f4f8c5a",
+        "type": "message",
+        "text": "```Need more follow up questions on Suspected Case A0 Form. For example: It should follow up with a question asking where the patient has been to in 14 days domestically,/Internationally to help tracing. So add more follow up questions to follow up all the following questions after that\u2026 depends on how detailed of a data MoH wants to collect the data. OR proceed to the next step, coz now it kinda ends in the middle of nowhere.```",
+        "user": "U01076XHPC0",
+        "ts": "1584685336.009400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01076XHPC0",
+            "ts": "1584685376.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IAZG",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Need more follow up questions on Suspected Case A0 Form. For example: It should follow up with a question asking where the patient has been to in 14 days domestically,/Internationally to help tracing. So add more follow up questions to follow up all the following questions after that\u2026 depends on how detailed of a data MoH wants to collect the data. OR proceed to the next step, coz now it kinda ends in the middle of nowhere."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37842381-dc3a-4bc3-a164-ff113ab55bf1",
+        "type": "message",
+        "text": "Just jotting down notes for the following person working on this\u2026",
+        "user": "U01076XHPC0",
+        "ts": "1584685358.009900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dtM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just jotting down notes for the following person working on this\u2026"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "952ec64f-4103-43c0-9c0f-fae0b7113cac",
+        "type": "message",
+        "text": "```Make sure you save your changes as version after a major change. If someone else works on the form simultaneously, it might create two versions. So save your version, add comment on what you changed and add your name as well for contact.```",
+        "user": "U01076XHPC0",
+        "ts": "1584685520.011500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rh6",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Make sure you save your changes as version after a major change. If someone else works on the form simultaneously, it might create two versions. So save your version, add comment on what you changed and add your name as well for contact."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e53799d-83fb-43d7-9d89-7c864f6e179b",
+        "type": "message",
+        "text": "```There looks like a connection is missing on the app logic between registering a case/ investigating Suspected Cases. Maybe we misunderstood..```",
+        "user": "U01076XHPC0",
+        "ts": "1584685575.012600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h5=t",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There looks like a connection is missing on the app logic between registering a case/ investigating Suspected Cases. Maybe we misunderstood.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "def1953b-7f0b-4299-90d3-205eadf6f35f",
+        "type": "message",
+        "text": "```Remaining task might be deciding on how many lanaguages this is getting translated to. Adding the translation following the english prompts/choice names```",
+        "user": "U01076XHPC0",
+        "ts": "1584685629.013600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QhsSW",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Remaining task might be deciding on how many lanaguages this is getting translated to. Adding the translation following the english prompts/choice names"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb0119d5-bf46-4fc0-b1bb-048b80b2b15b",
+        "type": "message",
+        "text": "```The date picker in the UI sometimes is hard to notice and way down in the bottom of the page. Just a heads up to note or fix.```",
+        "user": "U01076XHPC0",
+        "ts": "1584685662.014400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01076XHPC0",
+            "ts": "1584685669.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hU5cP",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The date picker in the UI sometimes is hard to notice and way down in the bottom of the page. Just a heads up to note or fix."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39cfda33-0967-4099-8618-62d79ab882b5",
+        "type": "message",
+        "text": "```We didn't get time to spend on Ushahidi yet. If someone wants to grab that role please take it by all means.  ```",
+        "user": "U01076XHPC0",
+        "ts": "1584685749.015500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5wGd",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We didn't get time to spend on Ushahidi yet. If someone wants to grab that role please take it by all means.  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ffe0ffe4-7d5d-4e1f-bba7-fe4bf1edcf8d",
+        "type": "message",
+        "text": "```On CommCare, please have someone in the MoH / a Health Professional make reasonable choices in the wording, the multiple choices and the questions themselves and how deep the data collection should go.```",
+        "user": "U01076XHPC0",
+        "ts": "1584685806.016700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BNb",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On CommCare, please have someone in the MoH / a Health Professional make reasonable choices in the wording, the multiple choices and the questions themselves and how deep the data collection should go."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105C870AC",
+                    "U0107A7161E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17f2687d-d298-4248-a3f1-c724e8f4bfba",
+        "type": "message",
+        "text": "If you guys have any questions, ping me or <@U0105C870AC>",
+        "user": "U01076XHPC0",
+        "ts": "1584685832.017200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1zv7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you guys have any questions, ping me or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105C870AC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105C870AC",
+                    "U0107A7161E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "221e7721-e4ea-4ca3-ae2e-59114f6b5751",
+        "type": "message",
+        "text": "No we figured it out",
+        "user": "U0105C870AC",
+        "ts": "1584685937.017800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8Gu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No we figured it out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584684089.000700",
+        "parent_user_id": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "a23e535c-e8ea-407c-8111-77c35ecb42e5",
+        "type": "message",
+        "text": "We are out! <@U0100B5MHDG> feel free to take over!",
+        "user": "U01076XHPC0",
+        "ts": "1584685949.018200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cWrOZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are out! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " feel free to take over!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2BB3B84C-E06C-4BF1-B154-83933B6DF185",
+        "type": "message",
+        "text": "Sounds great!",
+        "user": "U0100B5MHDG",
+        "ts": "1584687030.018800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2=5BJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c925966e-0539-4642-b0bd-edd9e4a12aaa",
+        "type": "message",
+        "text": "Just a quick update for when you see this, I added a few more follow up questions on the Suspected Case A0 Form. Once I get the slides for Border Assessment, I'll add that as well. And has everyone already discussed how the data will be used or organized yet?",
+        "user": "U0100B5MHDG",
+        "ts": "1584693801.021400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Yvz8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a quick update for when you see this, I added a few more follow up questions on the Suspected Case A0 Form. Once I get the slides for Border Assessment, I'll add that as well. And has everyone already discussed how the data will be used or organized yet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584693801.021400",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1584726101.003100",
+        "reply_users": [
+            "U0107A7161E",
+            "U0100B5MHDG",
+            "U01076XHPC0"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "398a4acc-e195-4ab4-88d1-665b086003d0",
+        "type": "message",
+        "text": "Im supposed  to get more clarity on this, this morning. Will get back to you!",
+        "user": "U0107A7161E",
+        "ts": "1584715924.000200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w+A4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Im supposed  to get more clarity on this, this morning. Will get back to you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584693801.021400",
+        "parent_user_id": "U0100B5MHDG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f69ae540-3f83-4130-8ec1-68f28ce82606",
+        "type": "message",
+        "text": "Awesome, thank you <@U0107A7161E>!",
+        "user": "U0100B5MHDG",
+        "ts": "1584716018.000400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mwwD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584693801.021400",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "d94856de-dfb0-4abc-8311-33fa0f73725d",
+        "type": "message",
+        "text": "Nice work, <@U0100B5MHDG>.",
+        "user": "U01076XHPC0",
+        "ts": "1584725615.000800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JSp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice work, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584693801.021400",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "105FAFC9-D2D7-4EF8-A8D2-6428593276BA",
+        "type": "message",
+        "text": "Thanks <@U01076XHPC0>. <@U0107A7161E> should I just fill in the border assessment form with questions I find important until we get more info as to what the MoH would want? ",
+        "user": "U0100B5MHDG",
+        "ts": "1584725755.002900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVls",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " should I just fill in the border assessment form with questions I find important until we get more info as to what the MoH would want? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584693801.021400",
+        "parent_user_id": "U0100B5MHDG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca8d2d49-6b99-4548-bb57-6e2fd91b6cd4",
+        "type": "message",
+        "text": "yes please! thank you. I am on the call now and waiting for the info we need",
+        "user": "U0107A7161E",
+        "ts": "1584726101.003100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1584726132.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tz9n7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes please! thank you. I am on the call now and waiting for the info we need"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584693801.021400",
+        "parent_user_id": "U0100B5MHDG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105C870AC",
+                    "U0100B5MHDG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7576738c-7323-477c-9e0f-f9bc6dcd1ed0",
+        "type": "message",
+        "text": "have you had a chance to look at Ushahidi form yet for self reporting?",
+        "user": "U0107A7161E",
+        "ts": "1584730739.004600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x1f5D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "have you had a chance to look at Ushahidi form yet for self reporting?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2641f9cf-0ae6-4b91-8320-447ef9ea0be2",
+        "type": "message",
+        "text": "they are asking for one person to be subject matter expert for Ushahidi and the other two for CommCare. I'm thinking <@U01076XHPC0> and <@U0100B5MHDG> for CommCare and <@U0105C870AC> for Ushahidi",
+        "user": "U0107A7161E",
+        "ts": "1584730835.006200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iETP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they are asking for one person to be subject matter expert for Ushahidi and the other two for CommCare. I'm thinking "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for CommCare and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105C870AC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for Ushahidi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53f9b47c-2bbc-47ed-b7c0-66b30cac946b",
+        "type": "message",
+        "text": "how does that sound?",
+        "user": "U0107A7161E",
+        "ts": "1584730842.006400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uLj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how does that sound?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A58871D7-555B-48A3-AF29-A1CB250917C4",
+        "type": "message",
+        "text": "<@U0107A7161E> I am more comfortable with CommCare now but I will go over Ushahidi later tonight with <@U01076XHPC0> and see if we can learn it fast",
+        "user": "U0105C870AC",
+        "ts": "1584730980.008800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LHOhz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am more comfortable with CommCare now but I will go over Ushahidi later tonight with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and see if we can learn it fast"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B083B611-F891-47FF-80DA-54202D57CE82",
+        "type": "message",
+        "text": "That works with me",
+        "user": "U0100B5MHDG",
+        "ts": "1584730980.008900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LIwm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That works with me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6275EEDA-9B2A-413D-8049-EBF0CE497769",
+        "type": "message",
+        "text": "At work till 6pm PT",
+        "user": "U0105C870AC",
+        "ts": "1584731006.009900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gw3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At work till 6pm PT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B8273571-08CD-43B9-933A-C34E2906970E",
+        "type": "message",
+        "text": "One thing I wonder though, is how many people will download the app. Not a lot of people who have smartphones download apps like they do in the states. ",
+        "user": "U0100B5MHDG",
+        "ts": "1584731096.012500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "muU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One thing I wonder though, is how many people will download the app. Not a lot of people who have smartphones download apps like they do in the states. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4dba6661-7927-4b08-8540-911e4a38f848",
+        "type": "message",
+        "text": "<@U0105C870AC> if you and <@U01076XHPC0>  prefer to work with CommCare you can be the SME and <@U0100B5MHDG> are you comfortable learning Ushahidi? It's very intuitive",
+        "user": "U0107A7161E",
+        "ts": "1584731208.014100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fkTe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105C870AC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  prefer to work with CommCare you can be the SME and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are you comfortable learning Ushahidi? It's very intuitive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7AC7956A-0835-4B57-95E9-C4749B6A5258",
+        "type": "message",
+        "text": "<@U0107A7161E> sure thing, I\u2019ll look into it tonight. It\u2019s getting a little late here, but I\u2019ll continue tomorrow morning. ",
+        "user": "U0100B5MHDG",
+        "ts": "1584731405.015900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sure thing, I\u2019ll look into it tonight. It\u2019s getting a little late here, but I\u2019ll continue tomorrow morning. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5a506bd-c8f0-480d-9f04-a628c2b7fe90",
+        "type": "message",
+        "text": "great, thank you!",
+        "user": "U0107A7161E",
+        "ts": "1584731421.016200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8mRPP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great, thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0100B5MHDG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "921DF34D-AA8E-4D53-8247-724334C477BC",
+        "type": "message",
+        "text": "Thanks <@U0100B5MHDG>!  <@U0107A7161E> yea I think <@U01076XHPC0> and I learned a few things about CommCare last night and will get more comfortable if we keep playing around with it.",
+        "user": "U0105C870AC",
+        "ts": "1584731552.018600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3D0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yea I think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I learned a few things about CommCare last night and will get more comfortable if we keep playing around with it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0100B5MHDG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db527c09-873a-4d2e-95fa-11101bf058fb",
+        "type": "message",
+        "text": "I\u2019m also willing to explore Ushahdi with <@U0100B5MHDG> tomorrow!",
+        "user": "U01076XHPC0",
+        "ts": "1584731593.020200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iddvL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019m also willing to explore Ushahdi with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tomorrow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U0105C870AC",
+                    "U0100B5MHDG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C6C26CED-8F97-455F-967D-BC0377056054",
+        "type": "message",
+        "text": "<@U0105C870AC> I remember <@U01076XHPC0> mentioning some disconnect in the app logic. I took a quick look, maybe it\u2019s due to how and where you\u2019re generating your unique_id?",
+        "user": "U0100B5MHDG",
+        "ts": "1584731631.021700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hLWY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105C870AC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I remember "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mentioning some disconnect in the app logic. I took a quick look, maybe it\u2019s due to how and where you\u2019re generating your unique_id?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584731631.021700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584731708.023900",
+        "reply_users": [
+            "U01076XHPC0"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D597C541-F20D-4F87-A97E-3C04AD36CCD1",
+        "type": "message",
+        "text": "I\u2019m not 100% sure, but I thought it might be due to the fact that it\u2019s generated within a group?",
+        "user": "U0100B5MHDG",
+        "ts": "1584731678.023200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Hq5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019m not 100% sure, but I thought it might be due to the fact that it\u2019s generated within a group?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2725a8a-295f-45dd-9f6b-8723977dcd04",
+        "type": "message",
+        "text": "I think we can get somewhere with CommCare with the right guidance on what actually needs to get done. (me + <@U0105C870AC>).",
+        "user": "U01076XHPC0",
+        "ts": "1584731679.023300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kMt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we can get somewhere with CommCare with the right guidance on what actually needs to get done. (me + "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105C870AC"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5dfd7c36-c0d9-4a61-a5b1-39503a39d4e6",
+        "type": "message",
+        "text": "We are giving the user a button to click it and generate a unique ID",
+        "user": "U01076XHPC0",
+        "ts": "1584731708.023900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sLee",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are giving the user a button to click it and generate a unique ID"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584731631.021700",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "5FAC1C0B-C64B-426C-A113-3BBF8590FA54",
+        "type": "message",
+        "text": "Will check it out later <@U0100B5MHDG>!",
+        "user": "U0105C870AC",
+        "ts": "1584731717.024200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1WMp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will check it out later "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bea03630-9b84-4fba-ae24-9c454586cee4",
+        "type": "message",
+        "text": "here is the border crossing form that they want digitized :<https://ethiopia-covid19.slack.com/archives/D010057GGQ1/p1584741486008800>",
+        "user": "U0107A7161E",
+        "ts": "1584741633.024800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CNDR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here is the border crossing form that they want digitized :"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/D010057GGQ1/p1584741486008800"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584741633.024800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1584771806.028900",
+        "reply_users": [
+            "U01076XHPC0",
+            "U0100B5MHDG"
+        ],
+        "subscribed": false
+    }
+]

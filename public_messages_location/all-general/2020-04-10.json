@@ -1,0 +1,699 @@
+[
+    {
+        "client_msg_id": "A85BD4BB-3B57-41DF-8529-029D3DC02B6C",
+        "type": "message",
+        "text": "I\u2019ve noticed the same too.   Is there anyway we can Track this sentiment?",
+        "user": "U0111TN69N2",
+        "ts": "1586493798.476200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e/SSU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019ve noticed the same too.   Is there anyway we can Track this sentiment?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586120733.432300",
+        "parent_user_id": "U0114S2BZ7C"
+    },
+    {
+        "client_msg_id": "89cdc8a2-91af-4fe3-a629-ef56de569266",
+        "type": "message",
+        "text": "<!here> Hi everyone, There is a start up company that is opening their services earlier than planed to support social distancing efforts in Ethiopia. They provide delivery service for local ethiopian vendors. They started vendor registration this week. Reach out to them if any one would like their services or would like to support them get the word out. <https://hamoosit.com/en/>",
+        "user": "U0106SU7RGT",
+        "ts": "1586520237.483300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Homepage: Hamoosit.com - Online Shopping for Electronics, Apparels, collectibles, and more",
+                "title_link": "https://hamoosit.com/en/",
+                "text": "Buy and sell electronics, fashion apparel, collectibles, Sporting goods, digital cameras, ear-pod. Low-Cost same-day delivery on millions of items. Lowest prices across the biggest selection of electronics, books, computers, software, sports and outdoors",
+                "fallback": "Homepage: Hamoosit.com - Online Shopping for Electronics, Apparels, collectibles, and more",
+                "image_url": "https://hamoosit.com/images/logos/2/color_logo-Croped-2.png",
+                "from_url": "https://hamoosit.com/en/",
+                "image_width": 383,
+                "image_height": 136,
+                "image_bytes": 16365,
+                "service_name": "hamoosit.com",
+                "id": 1,
+                "original_url": "https://hamoosit.com/en/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JEI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi everyone, There is a start up company that is opening their services earlier than planed to support social distancing efforts in Ethiopia. They provide delivery service for local ethiopian vendors. They started vendor registration this week. Reach out to them if any one would like their services or would like to support them get the word out. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://hamoosit.com/en/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dadd1b44-4a54-4500-94cf-ee50ec86592b",
+        "type": "message",
+        "text": "Harvard is offering for free a course that will help prepare licensed non-ICU hospital clinicians to assist in the operation of a ventilator: <https://online-learning.harvard.edu/course/mechanical-ventilation-covid-19?delta=0>",
+        "user": "U0111A9R6JK",
+        "ts": "1586529723.485800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0111A9R6JK",
+            "ts": "1586529756.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Harvard Online Courses",
+                "title": "Mechanical Ventilation for COVID-19",
+                "title_link": "https://online-learning.harvard.edu/course/mechanical-ventilation-covid-19?delta=0",
+                "text": "This course will provide licensed medical professionals with an understanding of mechanical ventilation so they can assist with the operation of mechanical ventilators during the COVID-19 pandemic.",
+                "fallback": "Harvard Online Courses: Mechanical Ventilation for COVID-19",
+                "image_url": "https://online-learning.harvard.edu/sites/default/files/styles/social_share/public/course/VentilatorCourseImageII.jpg?itok=5vh2r6nw",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1585850282,
+                "from_url": "https://online-learning.harvard.edu/course/mechanical-ventilation-covid-19?delta=0",
+                "image_bytes": 75377,
+                "service_icon": "https://online-learning.harvard.edu/sites/default/files/favicons/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https://online-learning.harvard.edu/course/mechanical-ventilation-covid-19?delta=0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pa+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Harvard is offering for free a course that will help prepare licensed non-ICU hospital clinicians to assist in the operation of a ventilator: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://online-learning.harvard.edu/course/mechanical-ventilation-covid-19?delta=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B0109HT0KDL",
+        "type": "message",
+        "text": "Which language can you translate English to? Join #language-translate channel!",
+        "user": "U0107C5LTV3",
+        "ts": "1586531960.487000",
+        "team": "TV5KELEUS",
+        "bot_profile": {
+            "id": "B0109HT0KDL",
+            "deleted": false,
+            "name": "Simple Poll",
+            "updated": 1584488630,
+            "app_id": "A0HFW7MR6",
+            "icons": {
+                "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-01-03/17670668547_3b5cda05986fc6c0d978_36.png",
+                "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-01-03/17670668547_3b5cda05986fc6c0d978_48.png",
+                "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-01-03/17670668547_3b5cda05986fc6c0d978_72.png"
+            },
+            "team_id": "TV5KELEUS"
+        },
+        "edited": {
+            "user": "B0109HT0KDL",
+            "ts": "1586794928.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-1e434326-7a88-4520-9ab6-238679526e0a-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Which language can you translate English to? Join <#CV8HM0HDY|language-translate> channel!*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: View info",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":pushpin: Capture Decision from Poll",
+                                "emoji": true
+                            },
+                            "value": "capture_decision_from_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":gear: Go to Settings",
+                                "emoji": true
+                            },
+                            "value": "go_to_settings_from_poll",
+                            "url": "https://simplepoll.rocks/dashboard/ethiopia-covid19/settings/"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-1e434326-7a88-4520-9ab6-238679526e0a-vote-1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Welayetigna\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-1",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-1e434326-7a88-4520-9ab6-238679526e0a-vote-2",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Afargna    `1`\n<@U010MV3GQQJ>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-2",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-1e434326-7a88-4520-9ab6-238679526e0a-vote-3",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: Afan Oromo \n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-3",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-1e434326-7a88-4520-9ab6-238679526e0a-vote-4",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: Somaligna \n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-4",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-1e434326-7a88-4520-9ab6-238679526e0a-vote-5",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":five: Sidamigna    `1`\n<@U012ABDAHS4>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-5",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":five:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-1e434326-7a88-4520-9ab6-238679526e0a-vote-6",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":six: Others     `2`\n<@U0105C870AC>, <@U011E4HE80K>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-6",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":six:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-1e434326-7a88-4520-9ab6-238679526e0a-vote-7",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":seven: Tigrigna     `4`\n<@U010LGW2A5A>, <@U011DKAR6SZ>, <@U010C2V8YCF>, <@U010Z23J5CL>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-7",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":seven:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-1e434326-7a88-4520-9ab6-238679526e0a-vote-8",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":eight: Amharic     `16`\n<@U011BGST4BG>, <@U010LGW2A5A>, <@UV7TWB6HZ>, <@U011M9HSMRP>, <@U011HV9GFA6>, <@U011MT7GULD>, <@U010C2V8YCF>, <@U0109QULHL6>, <@UV7TXH7FV>, <@U01076VAD96>, <@U010Z23J5CL>, <@UV9AYBY3C>, <@U011E4HE80K>, <@U01102M77GF>, <@U010P3WHTBN>, <@U011LDN4MT5>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-8",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":eight:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-1e434326-7a88-4520-9ab6-238679526e0a-vote-9",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":nine: Hadiyegna\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-9",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":nine:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-1e434326-7a88-4520-9ab6-238679526e0a-vote-10",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":keycap_ten: Guragigna     `1`\n<@U011E4HE80K>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-10",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":keycap_ten:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "450X",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@UVB9ZSPCH> with /poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586531960.487000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586561250.000500",
+        "reply_users": [
+            "U0106M26108",
+            "UVB9ZSPCH"
+        ],
+        "subscribed": false,
+        "pinned_to": [
+            "C0104D5J3T2"
+        ],
+        "pinned_info": {
+            "channel": "C0104D5J3T2",
+            "pinned_by": "U0106M26108",
+            "pinned_ts": 1586534675
+        }
+    },
+    {
+        "client_msg_id": "E9D88384-31CF-41F8-A121-B1B42DCEEF3F",
+        "type": "message",
+        "text": "<!channel> A thank you video from WeAspire (<@UVALAR52P>) :clap::clap: <https://ethiopia-covid19.slack.com/archives/C0106S0JS4C/p1586538268166100|https://ethiopia-covid19.slack.com/archives/C0106S0JS4C/p1586538268166100>",
+        "user": "UVAL943JP",
+        "ts": "1586538715.490500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0106S0JS4C/p1586538268166100",
+                "fallback": "[April 10th, 2020 10:04 AM] jtariku: weASPiRE (I am one of the volunteers as well as <@U010K2675CP>) has produced a 30sec PSA to acknowledge the work of 3 groups on COVID-19 one being the Response Team here. Just a small thank you.\n\n<https://www.facebook.com/WeAspire4Africa/videos/223551752298987/>",
+                "ts": "1586538268.166100",
+                "author_id": "UVALAR52P",
+                "author_subname": "Jomo Tariku",
+                "channel_id": "C0106S0JS4C",
+                "channel_name": "all-in-the-news",
+                "is_msg_unfurl": true,
+                "text": "weASPiRE (I am one of the volunteers as well as <@U010K2675CP>) has produced a 30sec PSA to acknowledge the work of 3 groups on COVID-19 one being the Response Team here. Just a small thank you.\n\n<https://www.facebook.com/WeAspire4Africa/videos/223551752298987/>",
+                "author_name": "Jomo Tariku",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UVALAR52P",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-28/1021505107443_aeecb8a194456de55308_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0106S0JS4C/p1586538268166100",
+                "footer": "Posted in #all-in-the-news"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1R5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " A thank you video from WeAspire ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVALAR52P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0106S0JS4C/p1586538268166100",
+                                "text": "https://ethiopia-covid19.slack.com/archives/C0106S0JS4C/p1586538268166100"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U0107JERE9L",
+                    "U0107A7161E",
+                    "U010SKPP7CJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010LJ2BUCW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ece6609a-d11e-4b0c-872a-967dd9a9a79d",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C010HJ1JF42/p1586543782159000>",
+        "user": "U0107A7161E",
+        "ts": "1586543971.492800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010HJ1JF42/p1586543782159000",
+                "fallback": "[April 10th, 2020 11:36 AM] ruthdresselgn: <https://africavsvirus.com/|https://africavsvirus.com/> \nHi team , very interesting challenge requested by AfDB and FAPA\nSimilar idea to our group but more on the solution \nMaybe we can organize and participate on our learnings and recommendation? \n<@UV8B0679P>  \nForward to the right channel",
+                "ts": "1586543782.159000",
+                "author_id": "U010SKPP7CJ",
+                "author_subname": "Ruth D",
+                "channel_id": "C010HJ1JF42",
+                "channel_name": "proj-civic-engagement",
+                "is_msg_unfurl": true,
+                "text": "<https://africavsvirus.com/|https://africavsvirus.com/> \nHi team , very interesting challenge requested by AfDB and FAPA\nSimilar idea to our group but more on the solution \nMaybe we can organize and participate on our learnings and recommendation? \n<@UV8B0679P>  \nForward to the right channel",
+                "author_name": "Ruth D",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010SKPP7CJ",
+                "author_icon": "https://avatars.slack-edge.com/2020-04-03/1034976900467_902dbf29a204e72c5f65_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C010HJ1JF42/p1586543782159000",
+                "footer": "Posted in #proj-civic-engagement"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dm7l/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010HJ1JF42/p1586543782159000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010EQU5E6N",
+                    "U010U8HF7PY",
+                    "U0100NR1PDY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9855f34-a1f6-41fa-82f1-74005bb045e1",
+        "type": "message",
+        "text": "<https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app|https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app>",
+        "user": "U0107JEKN0N",
+        "ts": "1586555485.494700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "Apple and Google are building a coronavirus tracking system into iOS and Android",
+                "title_link": "https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app",
+                "text": "It will use Bluetooth connections, not location tracking.",
+                "fallback": "The Verge: Apple and Google are building a coronavirus tracking system into iOS and Android",
+                "image_url": "https://cdn.vox-cdn.com/thumbor/P3VNIo1aw2cZHAZWWEUb0nX92gA=/0x109:2040x1177/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13272933/jbareham_181012_2989_0577.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1586537936,
+                "from_url": "https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app",
+                "image_bytes": 122064,
+                "service_icon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395359/ios-icon.0.png",
+                "id": 1,
+                "original_url": "https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G4=x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app",
+                                "text": "https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586555485.494700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586615637.011800",
+        "reply_users": [
+            "U010059R6BT"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV6JHDP0S",
+                    "U010FNN079C",
+                    "UV8B0679P",
+                    "U0113Q2GAHM"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb46bf5e-f7a9-4bd4-9076-5e88507f061b",
+        "type": "message",
+        "text": "<@UVB9ZSPCH>, is the plan to populate the spreadsheet after, or are we going to be doing these polls often &amp; you\u2019ll just be filling out the spreadsheet?",
+        "user": "U0106M26108",
+        "ts": "1586555526.494900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PAv=W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", is the plan to populate the spreadsheet after, or are we going to be doing these polls often & you\u2019ll just be filling out the spreadsheet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586531960.487000",
+        "parent_user_id": "U0107C5LTV3"
+    },
+    {
+        "client_msg_id": "E13A5E8F-4264-433D-9BAD-E0A1CEB3C639",
+        "type": "message",
+        "text": "<@U0106M26108> both,I will populate the spreadsheet once the poll hit the required volunteers # also might do it often depending on the request. ",
+        "user": "UVB9ZSPCH",
+        "ts": "1586561250.000500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vhlKa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " both,I will populate the spreadsheet once the poll hit the required volunteers # also might do it often depending on the request. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586531960.487000",
+        "parent_user_id": "U0107C5LTV3",
+        "reactions": [
+            {
+                "name": "fist::skin-tone-4",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

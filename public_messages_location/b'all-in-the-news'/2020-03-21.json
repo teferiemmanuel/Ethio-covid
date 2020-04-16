@@ -1,0 +1,52 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584766085.001900",
+        "user": "U010CH2M90F",
+        "text": "<@U010CH2M90F> has joined the channel"
+    },
+    {
+        "client_msg_id": "68DD5704-45C5-466A-8ABA-C39C24911FFD",
+        "type": "message",
+        "text": "<https://www.washingtonpost.com/nation/2020/03/20/coronavirus-italy-doctor-dies/?fbclid=IwAR2f2M2OGWkM3CKZVQ9L5REXWp4choDApkj2aE7Irh9ZbMwPn-nzH2UllfU|https://www.washingtonpost.com/nation/2020/03/20/coronavirus-italy-doctor-dies/?fbclid=IwAR2f2M2OGWkM3CKZVQ9L5REXWp4choDApkj2aE7Irh9ZbMwPn-nzH2UllfU>",
+        "user": "U0105C7GP08",
+        "ts": "1584820561.000200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Washington Post",
+                "title": "Italian doctor dies of coronavirus after reportedly having to treat patients without gloves",
+                "title_link": "https://www.washingtonpost.com/nation/2020/03/20/coronavirus-italy-doctor-dies/?fbclid=IwAR2f2M2OGWkM3CKZVQ9L5REXWp4choDApkj2aE7Irh9ZbMwPn-nzH2UllfU",
+                "text": "Marcello Natali tested positive for coronavirus just after describing the dire circumstances in an interview with Euronews.",
+                "fallback": "Washington Post: Italian doctor dies of coronavirus after reportedly having to treat patients without gloves",
+                "image_url": "https://www.washingtonpost.com/resizer/VwDPNa2vnzetfR5H0h494fDpS0U=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CFFUNQTCS4I6VCUOLRJTNMZHMA.jpg",
+                "from_url": "https://www.washingtonpost.com/nation/2020/03/20/coronavirus-italy-doctor-dies/?fbclid=IwAR2f2M2OGWkM3CKZVQ9L5REXWp4choDApkj2aE7Irh9ZbMwPn-nzH2UllfU",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 291952,
+                "service_icon": "https://www.washingtonpost.com/pf/resources/images/touch-icon-iphone.png?d=220",
+                "id": 1,
+                "original_url": "https://www.washingtonpost.com/nation/2020/03/20/coronavirus-italy-doctor-dies/?fbclid=IwAR2f2M2OGWkM3CKZVQ9L5REXWp4choDApkj2aE7Irh9ZbMwPn-nzH2UllfU"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nLx=1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.washingtonpost.com/nation/2020/03/20/coronavirus-italy-doctor-dies/?fbclid=IwAR2f2M2OGWkM3CKZVQ9L5REXWp4choDApkj2aE7Irh9ZbMwPn-nzH2UllfU",
+                                "text": "https://www.washingtonpost.com/nation/2020/03/20/coronavirus-italy-doctor-dies/?fbclid=IwAR2f2M2OGWkM3CKZVQ9L5REXWp4choDApkj2aE7Irh9ZbMwPn-nzH2UllfU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

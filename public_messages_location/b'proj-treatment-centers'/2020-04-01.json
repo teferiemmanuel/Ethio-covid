@@ -1,0 +1,297 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585736135.022500",
+        "user": "U010SKPP7CJ",
+        "text": "<@U010SKPP7CJ> has joined the channel"
+    },
+    {
+        "client_msg_id": "F90BBC0F-A70D-44A1-8FFF-651592500A9E",
+        "type": "message",
+        "text": "<https://drive.google.com/file/d/1SQUEzqE7_C0_9UDpB3iaT4uA2mGXoCKI/view|https://drive.google.com/file/d/1SQUEzqE7_C0_9UDpB3iaT4uA2mGXoCKI/view>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585748698.022800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Veb=F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/file/d/1SQUEzqE7_C0_9UDpB3iaT4uA2mGXoCKI/view",
+                                "text": "https://drive.google.com/file/d/1SQUEzqE7_C0_9UDpB3iaT4uA2mGXoCKI/view"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59F73FCC-3BBD-4EA7-958B-DA53941CE4BC",
+        "type": "message",
+        "text": "<https://curapods.org|https://curapods.org>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585748732.023100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pnplB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://curapods.org",
+                                "text": "https://curapods.org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2AF29227-EB91-4BCD-BF33-6426D7341D8C",
+        "type": "message",
+        "text": "<https://www.archdaily.com/936264/emergency-architecture-designers-respond-to-crisis|https://www.archdaily.com/936264/emergency-architecture-designers-respond-to-crisis>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585748745.023300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "ArchDaily",
+                "title": "Emergency Architecture: Designers Respond to Crisis",
+                "title_link": "https://www.archdaily.com/936264/emergency-architecture-designers-respond-to-crisis",
+                "text": "Explore how designers are rethinking emergency shelters around the world.",
+                "fallback": "ArchDaily: Emergency Architecture: Designers Respond to Crisis",
+                "image_url": "https://images.adsttc.com/media/images/5e7a/8e5a/b357/6566/5000/02f7/medium_jpg/Delfino_Sisto_Legnani_and_Marco_Cappelletti.jpg?1585090133",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1585208100,
+                "from_url": "https://www.archdaily.com/936264/emergency-architecture-designers-respond-to-crisis",
+                "image_bytes": 76207,
+                "service_icon": "https://www.archdaily.com/favicon.ico",
+                "id": 1,
+                "original_url": "https://www.archdaily.com/936264/emergency-architecture-designers-respond-to-crisis"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vvk1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.archdaily.com/936264/emergency-architecture-designers-respond-to-crisis",
+                                "text": "https://www.archdaily.com/936264/emergency-architecture-designers-respond-to-crisis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01185GUFUG",
+                "created": 1585763853,
+                "timestamp": 1585763853,
+                "name": "advice.jpg",
+                "title": "advice.jpg",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01017GFFB4",
+                "editable": false,
+                "size": 171720,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F01185GUFUG/advice.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F01185GUFUG/download/advice.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F01185GUFUG-651c3b691e/advice_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F01185GUFUG-651c3b691e/advice_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F01185GUFUG-651c3b691e/advice_360.jpg",
+                "thumb_360_w": 215,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F01185GUFUG-651c3b691e/advice_480.jpg",
+                "thumb_480_w": 287,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F01185GUFUG-651c3b691e/advice_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F01185GUFUG-651c3b691e/advice_720.jpg",
+                "thumb_720_w": 430,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F01185GUFUG-651c3b691e/advice_800.jpg",
+                "thumb_800_w": 478,
+                "thumb_800_h": 800,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F01185GUFUG-651c3b691e/advice_960.jpg",
+                "thumb_960_w": 574,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F01185GUFUG-651c3b691e/advice_1024.jpg",
+                "thumb_1024_w": 612,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 765,
+                "original_h": 1280,
+                "thumb_tiny": "AwAwAByO2IMyKq4bPXNaOx9o+bnHrWbaf8fSfX+laXz/APPM/mKSNZ7ieW2Dlv1pER9vU0b2/wCeZ/MVIGcDHlH/AL6FBGpnWo/ewkYzk1e8xwT8q9fWqNqP3sGD1Jq8Y3JOGH/fP/16EVPcTZJnPyY+pqTMv91PzP8AhUPmSDoU/wC+f/r1MBKRncv/AHz/APXpkGXZ/wDH1H9f6VfZnBID9/QUsVrHHIGCEEdDmpCi5JwM0kVKV3oRCIsuS5z6bRUux/8Anqf++RSqAowABT6ZNz//2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01017GFFB4/F01185GUFUG/advice.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F01185GUFUG-7e7424409e",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01183VPQBX",
+                "created": 1585763853,
+                "timestamp": 1585763853,
+                "name": "advise diagram.jpg",
+                "title": "advise diagram.jpg",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01017GFFB4",
+                "editable": false,
+                "size": 177805,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F01183VPQBX/advise_diagram.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F01183VPQBX/download/advise_diagram.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F01183VPQBX-5195de7747/advise_diagram_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F01183VPQBX-5195de7747/advise_diagram_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F01183VPQBX-5195de7747/advise_diagram_360.jpg",
+                "thumb_360_w": 264,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F01183VPQBX-5195de7747/advise_diagram_480.jpg",
+                "thumb_480_w": 352,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F01183VPQBX-5195de7747/advise_diagram_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F01183VPQBX-5195de7747/advise_diagram_720.jpg",
+                "thumb_720_w": 528,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F01183VPQBX-5195de7747/advise_diagram_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1092,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F01183VPQBX-5195de7747/advise_diagram_960.jpg",
+                "thumb_960_w": 704,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F01183VPQBX-5195de7747/advise_diagram_1024.jpg",
+                "thumb_1024_w": 750,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 938,
+                "original_h": 1280,
+                "thumb_tiny": "AwAwACOupj242nd65rUUSMGBJ6+uKyQpwG7ZxWwzSbjhRgf7VJGsxm2TPU/99GkkVwvJ/XNT49zRtz3pmdyFd+0dfzpfn9/zqfFFKwXMUf6gH/brXbzOdu059e1ZAUeQGxzu61qNGhJJQkk9jQjSY8bs5YAD2NNBD5EbAHPNOU7VACkjp9KXOMYX8qZmOGcc9aKBRQIwR1H1rbcsDxUYt493+qTGfSpifeki5y5hFzg5Ioyc9qTJ9aUde35UyB1FFFAH/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01017GFFB4/F01183VPQBX/advise_diagram.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F01183VPQBX-464224d072",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U01017GFFB4",
+        "ts": "1585763861.023500",
+        "client_msg_id": "c07eadc8-8b6d-4b82-bd90-bc2d28cbffa2",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585765968.024200",
+        "user": "UVAL943JP",
+        "text": "<@UVAL943JP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011A9GH6SK",
+                "created": 1585766102,
+                "timestamp": 1585766102,
+                "name": "Technical requirment for Design and Converstion.pdf",
+                "title": "Technical requirment for Design and Converstion",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UVB9ZSPCH",
+                "editable": false,
+                "size": 525128,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011A9GH6SK/technical_requirment_for_design_and_converstion.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011A9GH6SK/download/technical_requirment_for_design_and_converstion.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011A9GH6SK-5ebbb6effc/technical_requirment_for_design_and_converstion_thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://ethiopia-covid19.slack.com/files/UVB9ZSPCH/F011A9GH6SK/technical_requirment_for_design_and_converstion.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011A9GH6SK-b39937d9f4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UVB9ZSPCH",
+        "display_as_bot": false,
+        "ts": "1585772985.024400",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,196 @@
+[
+    {
+        "client_msg_id": "BEABF1FA-88FF-414E-A7D5-9BC94C86B27D",
+        "type": "message",
+        "text": "<https://journal.cosecsa.org/index.php/ECAJS/article/view/20200020/1557|https://journal.cosecsa.org/index.php/ECAJS/article/view/20200020/1557>",
+        "user": "U0107PQDK33",
+        "ts": "1586011969.273500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jp7Iw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://journal.cosecsa.org/index.php/ECAJS/article/view/20200020/1557",
+                                "text": "https://journal.cosecsa.org/index.php/ECAJS/article/view/20200020/1557"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95bf239d-c5c5-4d4b-9d43-c7bcc13bcd8b",
+        "type": "message",
+        "text": "Hello everyone,\u00a0\nIf any one of you need an aggregated data for covid-19 cases in Ethiopia, we have built a kind of proxy off of the API from the PMO and you can find them here:\n<https://www.sewasew.com/api/c_regions> \u2026 returns aggregated data for all regions in Ethiopia\n<https://www.sewasew.com/api/c_regions>/&lt;REG_CODE&gt; \u2026 returns aggregated data for specific region \u2026 you can get the code from the above end point as part of individual regions node.\n<https://www.sewasew.com/api/c_genders> \u2026 returns aggregated data by gender\n<https://www.sewasew.com/api/c_genders/>&lt;GEN_CODE&gt; \u2026 returns aggregated data for specific gender type\n\nYou can see these in action here : <https://www.sewasew.com/covid>\nWill be building more of these in the days to come and will make sure to share them here.\n\nCheers,",
+        "user": "U01077SBB5X",
+        "ts": "1586014608.274200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01077SBB5X",
+            "ts": "1586014657.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNy1O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone,\u00a0\nIf any one of you need an aggregated data for covid-19 cases in Ethiopia, we have built a kind of proxy off of the API from the PMO and you can find them here:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.sewasew.com/api/c_regions"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \u2026 returns aggregated data for all regions in Ethiopia\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.sewasew.com/api/c_regions"
+                            },
+                            {
+                                "type": "text",
+                                "text": "/<REG_CODE> \u2026 returns aggregated data for specific region \u2026 you can get the code from the above end point as part of individual regions node.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.sewasew.com/api/c_genders"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \u2026 returns aggregated data by gender\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.sewasew.com/api/c_genders/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "<GEN_CODE> \u2026 returns aggregated data for specific gender type\n\nYou can see these in action here : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.sewasew.com/covid"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWill be building more of these in the days to come and will make sure to share them here.\n\nCheers,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105CS9G93",
+                    "U0105C870AC",
+                    "U010MKNP6R2",
+                    "U0107JE2S94",
+                    "U011E4H537V"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93EF22C8-3587-4127-805F-764212EC80EB",
+        "type": "message",
+        "text": "<@U01077SBB5X> thank you this is very helpful! We will add these resources into <#C010AAKGXDL|awareness-research> database.",
+        "user": "UVB9ZSPCH",
+        "ts": "1586014873.275500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q8Xk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01077SBB5X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you this is very helpful! We will add these resources into "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010AAKGXDL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " database."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01077SBB5X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08a0f61c-209c-497b-b87e-cdea75b94b84",
+        "type": "message",
+        "text": "<@U010P2VU7ND> yes that what I observe, I just send an email for friends in EPHI if they have a different set of data. so what the plan, how can i help?",
+        "user": "U01119ZG719",
+        "ts": "1586017372.276000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010P2VU7ND"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes that what I observe, I just send an email for friends in EPHI if they have a different set of data. so what the plan, how can i help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585884319.241200",
+        "parent_user_id": "U01119ZG719"
+    }
+]

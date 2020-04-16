@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "text": "Hello <!channel>\nWe need the perspective of healthcare workers to get the <#C011H7HG0Q5|proj-diy-ventilator> started.\nPlease share with healthcare workers that you know to get the questionnaire filled as soon as possible.",
+        "user": "U0107JERE9L",
+        "ts": "1586437711.289100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[April 8th, 2020 3:28 PM] jerusalem.darkera: <!channel> <#C011H7HG0Q5|proj-diy-ventilator> engineering team is in the ideation phase of building rapidly manufactured, low-cost ventilators.\u00a0We need valuable input from our health care professionals to brainstorm ideas. We would like to get your perspective of the pros and cons of current ventilation in Ethiopia.\u00a0\n\u00a0We need your help clearly defining ventilation problems we should solve that\u2019d have the most impact for Ethiopia.\n\u00a0We are calling for:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Doctors, nurses, and other medical professionals in Ethiopia\nPlease fill out this questionnaire: <https://forms.gle/aXh7KHv6gmLuSunb8> in efforts to help us gather user need requirements.",
+                "ts": "1586384918.088400",
+                "author_id": "U010986778X",
+                "author_subname": "Jerusalem Darkera",
+                "channel_id": "C010H6J6YLE",
+                "channel_name": "health-prof-support",
+                "is_msg_unfurl": true,
+                "text": "<!channel> <#C011H7HG0Q5|proj-diy-ventilator> engineering team is in the ideation phase of building rapidly manufactured, low-cost ventilators.\u00a0We need valuable input from our health care professionals to brainstorm ideas. We would like to get your perspective of the pros and cons of current ventilation in Ethiopia.\u00a0\n\u00a0We need your help clearly defining ventilation problems we should solve that\u2019d have the most impact for Ethiopia.\n\u00a0We are calling for:\n\u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Doctors, nurses, and other medical professionals in Ethiopia\nPlease fill out this questionnaire: <https://forms.gle/aXh7KHv6gmLuSunb8> in efforts to help us gather user need requirements.",
+                "author_name": "Jerusalem Darkera",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010986778X",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-17/1009279069895_13992a63fb168af065dc_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010H6J6YLE/p1586384918088400",
+                "is_share": true,
+                "footer": "Posted in #health-prof-support"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe need the perspective of healthcare workers to get the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C011H7HG0Q5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " started.\nPlease share with healthcare workers that you know to get the questionnaire filled as soon as possible."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105ADB9PU",
+                    "U011D4973UN"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

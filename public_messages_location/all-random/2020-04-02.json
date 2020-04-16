@@ -1,0 +1,329 @@
+[
+    {
+        "client_msg_id": "ad6cbdf2-4f14-41c5-8206-1e5cb9c9b72b",
+        "type": "message",
+        "text": "<https://www.nytimes.com/2020/03/31/well/live/coronavirus-N95-mask-DIY-face-mask-health.html>",
+        "user": "U010A8YEUP9",
+        "ts": "1585830675.144000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "The New York Times",
+                "service_url": "https://www.nytimes.com",
+                "title": "Should I Make My Own Mask?",
+                "title_link": "https://www.nytimes.com/2020/03/31/well/live/coronavirus-N95-mask-DIY-face-mask-health.html",
+                "author_name": "By Tara Parker-Pope",
+                "thumb_url": "https://static01.nyt.com/images/2020/03/31/well/well-mask1/merlin_170877600_c7ebcddc-7150-421a-9883-2478d0cebba7-mediumThreeByTwo440.jpg",
+                "thumb_width": 440,
+                "thumb_height": 293,
+                "text": "The advice from public health officials has been confusing, leaving us to decide whether a D.I.Y. mask is better than nothing.",
+                "fallback": "The New York Times Should I Make My Own Mask?",
+                "from_url": "https://www.nytimes.com/2020/03/31/well/live/coronavirus-N95-mask-DIY-face-mask-health.html",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/nytimes.png",
+                "id": 1,
+                "original_url": "https://www.nytimes.com/2020/03/31/well/live/coronavirus-N95-mask-DIY-face-mask-health.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K0FNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.nytimes.com/2020/03/31/well/live/coronavirus-N95-mask-DIY-face-mask-health.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BB7413C3-B5E8-4CA6-AAAE-7B28DDA7A12C",
+        "type": "message",
+        "text": "<@U010A8YEUP9> Interesting article. I have seen some graphs circulating around about how wearing DIY masks vs not can flatten the curve more. (Not sure how reliable the graphs are). I also read another Nytimes article on how to make your own mask. Maybe a DIY mask campaign can help for the everyday people? ",
+        "user": "U010BLMU4AX",
+        "ts": "1585834929.151300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010BLMU4AX",
+            "ts": "1585835066.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iIS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010A8YEUP9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Interesting article. I have seen some graphs circulating around about how wearing DIY masks vs not can flatten the curve more. (Not sure how reliable the graphs are). I also read another Nytimes article on how to make your own mask. Maybe a DIY mask campaign can help for the everyday people? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585834929.151300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585952368.194700",
+        "reply_users": [
+            "U010A8YEUP9",
+            "U010BLMU4AX"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "56B060FD-5A48-4325-99CB-1331B4C4DB8C",
+        "type": "message",
+        "text": "Can someone actually tweet Musk and get us ventilators or Ukraine already got them all? :thinking_face:\nHe is willing to ship it to hospitals worldwide within \u201cTesla delivery regions\u201d.\n<https://twitter.com/elonmusk/status/1245009716935188481?s=21|https://twitter.com/elonmusk/status/1245009716935188481?s=21>",
+        "user": "U0105C870AC",
+        "ts": "1585845962.154800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0105C870AC",
+            "ts": "1585846120.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/elonmusk|@elonmusk>: We have extra FDA-approved ventilators. Will ship to hospitals worldwide within Tesla delivery regions. Device &amp; shipping cost are free. Only requirement is that the vents are needed immediately for patients, not stored in a warehouse. Please me or <https://twitter.com/Tesla|@Tesla> know.",
+                "ts": 1585668422,
+                "author_name": "Elon Musk",
+                "author_link": "https://twitter.com/elonmusk/status/1245009716935188481",
+                "author_icon": "https://pbs.twimg.com/profile_images/1223183340171415552/XQcxk5Zb_normal.jpg",
+                "author_subname": "@elonmusk",
+                "text": "We have extra FDA-approved ventilators. Will ship to hospitals worldwide within Tesla delivery regions. Device &amp; shipping cost are free. Only requirement is that the vents are needed immediately for patients, not stored in a warehouse. Please me or <https://twitter.com/Tesla|@Tesla> know.",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/elonmusk/status/1245009716935188481?s=21",
+                "id": 1,
+                "original_url": "https://twitter.com/elonmusk/status/1245009716935188481?s=21",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/47m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can someone actually tweet Musk and get us ventilators or Ukraine already got them all? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHe is willing to ship it to hospitals worldwide within \u201cTesla delivery regions\u201d.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/elonmusk/status/1245009716935188481?s=21",
+                                "text": "https://twitter.com/elonmusk/status/1245009716935188481?s=21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585845962.154800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585849917.157500",
+        "reply_users": [
+            "U0107JE2S94",
+            "U0105C870AC"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0100NR1PDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1761fb27-57e1-49df-b7a5-9705b27bf638",
+        "type": "message",
+        "text": "What does Tesla delivery region mean? They don't deliver anything here ryt?",
+        "user": "U0107JE2S94",
+        "ts": "1585849572.155400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S35",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What does Tesla delivery region mean? They don't deliver anything here ryt?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585845962.154800",
+        "parent_user_id": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "228705C8-25EC-4C50-B8FB-ED394F9A4A5A",
+        "type": "message",
+        "text": "We aren\u2019t in that region but if asked they can deliver it to Dubai/ Israel and ET cargo can pick it up?\n<https://www.tesla.com/findus?bounds=62.38698974882846%2C77.10779455826945%2C-16.55895154739831%2C11.189825808269447&amp;zoom=3&amp;filters=service|https://www.tesla.com/findus?bounds=62.38698974882846%2C77.10779455826945%2C-16.55895154739831%2C11.189825808269447&amp;zoom=3&amp;filters=service>",
+        "user": "U0105C870AC",
+        "ts": "1585849917.157500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Find Us | Tesla",
+                "title_link": "https://www.tesla.com/findus?bounds=62.38698974882846%2C77.10779455826945%2C-16.55895154739831%2C11.189825808269447&zoom=3&filters=service",
+                "text": "Use the interactive Find Us map to locate Tesla charging stations, service centers, galleries and stores on the go.",
+                "fallback": "Find Us | Tesla",
+                "image_url": "https://www.tesla.com/tesla_theme/assets/img/supercharger/supercharger_hero.jpg",
+                "from_url": "https://www.tesla.com/findus?bounds=62.38698974882846%2C77.10779455826945%2C-16.55895154739831%2C11.189825808269447&zoom=3&filters=service",
+                "image_width": 667,
+                "image_height": 250,
+                "image_bytes": 238561,
+                "service_icon": "https://www.tesla.com/themes/custom/tesla_frontend/assets/favicons/apple-touch-icon-57x57.png",
+                "service_name": "tesla.com",
+                "id": 1,
+                "original_url": "https://www.tesla.com/findus?bounds=62.38698974882846%2C77.10779455826945%2C-16.55895154739831%2C11.189825808269447&amp;zoom=3&amp;filters=service"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uqVx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We aren\u2019t in that region but if asked they can deliver it to Dubai/ Israel and ET cargo can pick it up?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.tesla.com/findus?bounds=62.38698974882846%2C77.10779455826945%2C-16.55895154739831%2C11.189825808269447&zoom=3&filters=service",
+                                "text": "https://www.tesla.com/findus?bounds=62.38698974882846%2C77.10779455826945%2C-16.55895154739831%2C11.189825808269447&zoom=3&filters=service"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585845962.154800",
+        "parent_user_id": "U0105C870AC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JE2S94"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c2b49fc-32f3-4813-b9d9-8691334de6d7",
+        "type": "message",
+        "text": "i am not sure how much it can protect. but good to research about it more. I think it is better than not wearing any protection when things get worse.",
+        "user": "U010A8YEUP9",
+        "ts": "1585851626.158500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vXRoz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i am not sure how much it can protect. but good to research about it more. I think it is better than not wearing any protection when things get worse."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585834929.151300",
+        "parent_user_id": "U010BLMU4AX"
+    },
+    {
+        "client_msg_id": "4fb14a06-3329-4630-bf92-27efdb696820",
+        "type": "message",
+        "text": "<https://www.washingtonpost.com/nation/2020/04/01/lockdown-coronavirus-california-data/>",
+        "user": "U010CLFURT8",
+        "ts": "1585851970.159000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Washington Post",
+                "title": "Social distancing works. The earlier the better, California and Washington data show.",
+                "title_link": "https://www.washingtonpost.com/nation/2020/04/01/lockdown-coronavirus-california-data/",
+                "text": "Two weeks into mandatory stay-at-home orders in the San Francisco Bay Area and Washington state, there\u2019s evidence the curve of infections is flattening compared to other U.S. metro areas.",
+                "fallback": "Washington Post: Social distancing works. The earlier the better, California and Washington data show.",
+                "image_url": "https://www.washingtonpost.com/resizer/5Y-Z0sHslMQ-lbMFl1zymVoSXOQ=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HM2FBTTYAI6VLM3EVHMTGMTXQ.jpg",
+                "from_url": "https://www.washingtonpost.com/nation/2020/04/01/lockdown-coronavirus-california-data/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 151826,
+                "service_icon": "https://www.washingtonpost.com/pf/resources/images/touch-icon-iphone.png?d=230",
+                "id": 1,
+                "original_url": "https://www.washingtonpost.com/nation/2020/04/01/lockdown-coronavirus-california-data/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ITDd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.washingtonpost.com/nation/2020/04/01/lockdown-coronavirus-california-data/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA",
+                    "U0107JERE9L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

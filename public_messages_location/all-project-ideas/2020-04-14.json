@@ -1,0 +1,173 @@
+[
+    {
+        "client_msg_id": "0e247160-e255-41e7-ac25-b3906da1ae1b",
+        "type": "message",
+        "text": "<https://www.oxygen.protofy.xyz> <#C011H7HG0Q5|proj-diy-ventilator> - I don\u2019t know if you already have this, but just in case",
+        "user": "U0116DL92E9",
+        "ts": "1586847738.364000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M7A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.oxygen.protofy.xyz"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C011H7HG0Q5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I don\u2019t know if you already have this, but just in case"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586847738.364000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586848176.364100",
+        "reply_users": [
+            "U011BGST4BG"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ac60c158-ffc8-41bf-806b-f8fb2608211d",
+        "type": "message",
+        "text": "<@U0116DL92E9> Thanks for sharing! That's actually the prototype our <#C011H7HG0Q5|proj-diy-ventilator> project is based on. We've teamed up with a group in Ethiopia that is making ventilators based on this design. Please join the group if you're interested in helping out.",
+        "user": "U011BGST4BG",
+        "ts": "1586848176.364100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UCyoL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0116DL92E9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks for sharing! That's actually the prototype our "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C011H7HG0Q5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " project is based on. We've teamed up with a group in Ethiopia that is making ventilators based on this design. Please join the group if you're interested in helping out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586847738.364000",
+        "parent_user_id": "U0116DL92E9"
+    },
+    {
+        "client_msg_id": "4e01c692-aca0-4f89-9ba2-0d5cf5933f3d",
+        "type": "message",
+        "text": "Is there any work on coordinating non health donation or volunteer efforts? It would be helpful if they had a network to share information, ideas and resources.",
+        "user": "U0108SD3DA4",
+        "ts": "1586850921.366000",
+        "team": "TV5KELEUS"
+    },
+    {
+        "client_msg_id": "037775c7-9c0d-4ddf-ad2f-23bfab77794f",
+        "type": "message",
+        "text": "Hello Good people,\n\nI have here a repo at github, a couple of scripts I assemble quickly, a telegram bot implemented in Python. The bot can be used to collect a COVID-19 self assessment data with geolocation and contact, pipe the result to a google sheet and then make a data visualization dashboard afterwards. I've tested it and it works. Developing a whole new mobile app can take time and cost quite a lot, how about we use the ones that are already built with applications that seem to be installed on a lot of people's devices? :wink:\n\nwhat I really wish is that, motivated people fork it and make it work with other IM client apps such as Viber and Whatsapp! ... The code is structured so that the content of the script can be translated in any local language( i18n) by non tech folks, I've placed English and Amharic as a starter ... tried also to document it so it's easier to start. Hope you find some useful stuff in it and can create even better amazing stuff.\n\nrepo: <https://github.com/fiseha/covid-19-self-reporting>",
+        "user": "U012ABDAHS4",
+        "ts": "1586882375.375000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "fiseha/covid-19-self-reporting",
+                "text": "COVID-19 (or anything) self assessment and reporting with contact and geolocation tracking. Based on python-telegram-bot and Google Sheet and Google data studio",
+                "title": "fiseha/covid-19-self-reporting",
+                "footer": "<https://github.com/fiseha/covid-19-self-reporting|fiseha/covid-19-self-reporting>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1586856189,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "14 minutes ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/fiseha/covid-19-self-reporting",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xnQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Good people,\n\nI have here a repo at github, a couple of scripts I assemble quickly, a telegram bot implemented in Python. The bot can be used to collect a COVID-19 self assessment data with geolocation and contact, pipe the result to a google sheet and then make a data visualization dashboard afterwards. I've tested it and it works. Developing a whole new mobile app can take time and cost quite a lot, how about we use the ones that are already built with applications that seem to be installed on a lot of people's devices? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nwhat I really wish is that, motivated people fork it and make it work with other IM client apps such as Viber and Whatsapp! ... The code is structured so that the content of the script can be translated in any local language( i18n) by non tech folks, I've placed English and Amharic as a starter ... tried also to document it so it's easier to start. Hope you find some useful stuff in it and can create even better amazing stuff.\n\nrepo: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/fiseha/covid-19-self-reporting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U011F7L4G8L",
+                    "U010CLFURT8",
+                    "U0105C7GP08"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "16335d79-06b4-4d73-aeaf-bf87ed445ab4",
+        "type": "message",
+        "text": "<!here> Happy Friday, team!  If you have any spare cycles this weekend, the party continues.   We will use this weekend to work on generalizing the forms so they can be localized as needed in different geos.\u00a0\u00a0 This will make them easier to ship with the toolkit.\u00a0\u00a0 There are at last two areas that I can think of that will require work and one may require some support from API.\n```1. Calendars, Language dropdowns, Region dropdowns and certain validations should all be refactored into a geo specific config.  These can all be handled at the front end layer.\n2. Address fields should also be configurable or at least generalized to a point where they can support different geos.  This I believe requires the API to be pretty opinionated.```\n",
+        "user": "U01084NU2NL",
+        "ts": "1586539483.100700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rGlkW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Happy Friday, team!  If you have any spare cycles this weekend, the party continues.   We will use this weekend to work on generalizing the forms so they can be localized as needed in different geos.\u00a0\u00a0 This will make them easier to ship with the toolkit.\u00a0\u00a0 There are at last two areas that I can think of that will require work and one may require some support from API.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1. Calendars, Language dropdowns, Region dropdowns and certain validations should all be refactored into a geo specific config.  These can all be handled at the front end layer.\n2. Address fields should also be configurable or at least generalized to a point where they can support different geos.  This I believe requires the API to be pretty opinionated."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0109ELFV4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2fc518ac-f7d5-4ee9-996e-3835320f00bc",
+        "type": "message",
+        "text": "Oh there are also a couple of outstanding PRs from the week, I\u2019ll review those later today. Thanks for the work <@U010A8YEUP9> <@U010PBS1H89> <@U0103EHQLEM>!",
+        "user": "U0109ELFV4Y",
+        "ts": "1586539684.101700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sGN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh there are also a couple of outstanding PRs from the week, I\u2019ll review those later today. Thanks for the work "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010A8YEUP9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010PBS1H89"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0103EHQLEM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586539684.101700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586624532.106900",
+        "reply_users": [
+            "U010A8YEUP9",
+            "U0109ELFV4Y"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U01084NU2NL",
+                    "U010PBS1H89"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

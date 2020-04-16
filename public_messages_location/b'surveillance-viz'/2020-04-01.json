@@ -1,0 +1,924 @@
+[
+    {
+        "client_msg_id": "2887b1f5-346f-448e-867e-b9e2e7efcee5",
+        "type": "message",
+        "text": "<!here> how do yall logging to the form now ? (which Cognito)",
+        "user": "UV6JHDP0S",
+        "ts": "1585715044.114200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RkPG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " how do yall logging to the form now ? (which Cognito)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34415790-3e14-4c9e-8648-37fb817c5481",
+        "type": "message",
+        "text": "<!here>,\nI've created a PR for <https://github.com/Ethiopia-COVID19/Covid19.ET/issues/38> (not yet integrated with API but can be). It includes the general UI changes i talked about in **37**.",
+        "user": "U010UJ2C1FS",
+        "ts": "1585730753.121100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "author_name": "yohannesHL",
+                "fallback": "[Ethiopia-COVID19/Covid19.ET] #38 Update and condense mini statistic cards on dashboard",
+                "title": "#38 Update and condense mini statistic cards on dashboard",
+                "footer": "<https://github.com/Ethiopia-COVID19/Covid19.ET|Ethiopia-COVID19/Covid19.ET>",
+                "id": 1,
+                "title_link": "https://github.com/Ethiopia-COVID19/Covid19.ET/issues/38",
+                "author_link": "https://github.com/yohannesHL",
+                "author_icon": "https://avatars1.githubusercontent.com/u/9559892?v=4",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585677482,
+                "color": "36a64f",
+                "fields": [
+                    {
+                        "title": "Assignees",
+                        "value": "yohannesHL",
+                        "short": true
+                    },
+                    {
+                        "title": "Comments",
+                        "value": "2",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/Covid19.ET/issues/38",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n/H9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nI've created a PR for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/Covid19.ET/issues/38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (not yet integrated with API but can be). It includes the general UI changes i talked about in **37**."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U010N3BFN4F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "551512b3-9868-413d-914e-08e30346b3ae",
+        "type": "message",
+        "text": "<!here>, Should we proceed with actioning all items in <https://github.com/Ethiopia-COVID19/Covid19.ET/issues/37>?\nOr should we have a call to discuss?\n\nNext steps would be to link issues for tasks 2-9 and work on those. + Other issues (  API integration, etc)\n\ncc: <@U01078QCG2C>",
+        "user": "U010UJ2C1FS",
+        "ts": "1585738265.121900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010UJ2C1FS",
+            "ts": "1585739615.000000"
+        },
+        "attachments": [
+            {
+                "author_name": "yohannesHL",
+                "fallback": "[Ethiopia-COVID19/Covid19.ET] #37 Review components to add into the dashboard",
+                "text": "<https://public.tableau.com/profile/mahletkonjitsolomon#!/vizhome/EthiopiaCOVID-19Cases/AfricaCOVID19Cases|https://public.tableau.com/profile/mahletkonjitsolomon#!/vizhome/EthiopiaCOVID-19Cases/AfricaCOVID19Cases>",
+                "title": "#37 Review components to add into the dashboard",
+                "footer": "<https://github.com/Ethiopia-COVID19/Covid19.ET|Ethiopia-COVID19/Covid19.ET>",
+                "id": 1,
+                "title_link": "https://github.com/Ethiopia-COVID19/Covid19.ET/issues/37",
+                "author_link": "https://github.com/yohannesHL",
+                "author_icon": "https://avatars1.githubusercontent.com/u/9559892?v=4",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585523848,
+                "color": "36a64f",
+                "fields": [
+                    {
+                        "title": "Assignees",
+                        "value": "yohannesHL",
+                        "short": true
+                    },
+                    {
+                        "title": "Labels",
+                        "value": "enhancement",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/Covid19.ET/issues/37",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ABJr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Should we proceed with actioning all items in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/Covid19.ET/issues/37"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\nOr should we have a call to discuss?\n\nNext steps would be to link issues for tasks 2-9 and work on those. + Other issues (  API integration, etc)\n\ncc: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585738265.121900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585751379.131200",
+        "reply_users": [
+            "U010N3BFN4F",
+            "U01078QCG2C"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2a4961b7-8841-47de-8a14-8452580d90fc",
+        "type": "message",
+        "text": "<@U010UJ2C1FS> until the dedicated stats api is provided, we all can work on the best practices from other websites and create similar components with mocked JSON data.",
+        "user": "U01051X26HJ",
+        "ts": "1585740143.124500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s94ZC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010UJ2C1FS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " until the dedicated stats api is provided, we all can work on the best practices from other websites and create similar components with mocked JSON data."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585740143.124500",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1585747379.127400",
+        "reply_users": [
+            "U010UJ2C1FS",
+            "U01051X26HJ",
+            "U010N3BFN4F"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "18e67510-21a3-480e-b82f-85c71e3cef7c",
+        "type": "message",
+        "text": "Yes, Thats what we got on #37 , Off course there can be additional components we can add to it. But think it helps to have clearer overview on what we need minimally and concentrate on that.",
+        "user": "U010UJ2C1FS",
+        "ts": "1585740492.125700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "daA/8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, Thats what we got on #37 , Off course there can be additional components we can add to it. But think it helps to have clearer overview on what we need minimally and concentrate on that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585740143.124500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "36f2639d-228c-4ce7-91ea-5ac768c083d0",
+        "type": "message",
+        "text": "yes I think  <@U01078QCG2C> <@U010N3BFN4F> <@UV8B0679P>  can give you more details.",
+        "user": "U01051X26HJ",
+        "ts": "1585740676.125900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/Zvs0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes I think  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010N3BFN4F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  can give you more details."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585740143.124500",
+        "parent_user_id": "U01051X26HJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UJ2C1FS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8bcc00b5-7c4f-4104-8957-09e4729cf5da",
+        "type": "message",
+        "text": "Ok, Just trying to get a consensus so that we can focus on getting this done w/t minimal wastage.",
+        "user": "U010UJ2C1FS",
+        "ts": "1585740755.126100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010UJ2C1FS",
+            "ts": "1585741280.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, Just trying to get a consensus so that we can focus on getting this done w/t minimal wastage."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585740143.124500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "8fe17667-698c-4530-b04f-b250e99b8bb4",
+        "type": "message",
+        "text": "Do you know where i can get the mock data for the stats?",
+        "user": "U010UJ2C1FS",
+        "ts": "1585740878.126300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L1+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you know where i can get the mock data for the stats?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585740143.124500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "c82b0b31-00b7-43e8-b774-8ce128dcb037",
+        "type": "message",
+        "text": "This is the only Mock data I can see so far:\n<https://github.com/Ethiopia-COVID19/api-gateway#data-structure>\nhere is the schema: <https://github.com/Ethiopia-COVID19/api-gateway/blob/master/schema.js>",
+        "user": "U010N3BFN4F",
+        "ts": "1585744563.126700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010N3BFN4F",
+            "ts": "1585748357.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mi6Tv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the only Mock data I can see so far:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway#data-structure"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nhere is the schema: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/schema.js"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585740143.124500",
+        "parent_user_id": "U01051X26HJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UJ2C1FS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0cbb6584-3f66-45ea-95e7-c6a2e1be56a7",
+        "type": "message",
+        "text": "I am okay with this! As long as we have a clear way of seeing who is working on what. Should we break them up to diff issues?",
+        "user": "U010N3BFN4F",
+        "ts": "1585744619.127100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/fsO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am okay with this! As long as we have a clear way of seeing who is working on what. Should we break them up to diff issues?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585738265.121900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "edd1fba0-7db2-4640-9965-93925f1b2791",
+        "type": "message",
+        "text": "Thanks",
+        "user": "U010UJ2C1FS",
+        "ts": "1585747379.127400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H9fzN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585740143.124500",
+        "parent_user_id": "U01051X26HJ"
+    },
+    {
+        "client_msg_id": "7265F8AF-325D-4904-B99F-0FF747D54FE1",
+        "type": "message",
+        "text": "<!channel> - can you guys hop on a call to talk through the data structure you want to the stat?",
+        "user": "UV8B0679P",
+        "ts": "1585748614.128800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qqL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - can you guys hop on a call to talk through the data structure you want to the stat?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B12BE23D-19AF-4A1E-9E0C-2D2A3D2A3C0A",
+        "type": "message",
+        "text": "The issue doesn\u2019t have the JSON mock ",
+        "user": "UV8B0679P",
+        "ts": "1585748624.129200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBmnK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The issue doesn\u2019t have the JSON mock "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e360c9bb-a273-4d74-9d40-5c88e59a088d",
+        "type": "message",
+        "text": "yes <@UV8B0679P>",
+        "user": "U01051X26HJ",
+        "ts": "1585748694.129500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=JMl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EFE9223A-2E7D-46B8-9E3F-3DAF1A3B2251",
+        "type": "message",
+        "text": "Let\u2019s chat in 5?",
+        "user": "UV8B0679P",
+        "ts": "1585748754.129800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vs=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let\u2019s chat in 5?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CEAF8967-E084-4E2B-AADD-6712676433E0",
+        "type": "message",
+        "text": "Anyone else?",
+        "user": "UV8B0679P",
+        "ts": "1585748758.130000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1XJb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585748758.130000",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1585751945.131600",
+        "reply_users": [
+            "U010N3BFN4F",
+            "U010UJ2C1FS",
+            "U010JHVF19U"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "80c10646-cd08-4071-b1e7-edf695cc2274",
+        "type": "message",
+        "text": "Sorry at work can\u2019t join",
+        "user": "U010N3BFN4F",
+        "ts": "1585748934.130100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iyRs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry at work can\u2019t join"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585748758.130000",
+        "parent_user_id": "UV8B0679P",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01023RPHPU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c50edfcd-a54f-41b9-b8a7-d2d8539b3ab3",
+        "type": "message",
+        "text": "It'll be too late for me to join too. But i can prepare some requirements we're likely to need for the mini stats.",
+        "user": "U010UJ2C1FS",
+        "ts": "1585749738.130700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010UJ2C1FS",
+            "ts": "1585751309.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yUaMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It'll be too late for me to join too. But i can prepare some requirements we're likely to need for the mini stats."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585748758.130000",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "20a0cd60-4214-450b-b6b0-2db6d089a71f",
+        "type": "message",
+        "text": "*Will try to but i may not have all the background info to cover all cases",
+        "user": "U010UJ2C1FS",
+        "ts": "1585750014.130900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LcMn4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*Will try to but i may not have all the background info to cover all cases"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585748758.130000",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "e15a35c9-9b3a-4977-8a79-9372a125eb2d",
+        "type": "message",
+        "text": "I like the examples you posted. I\u2019m ok with working on these changes but can we break them up into tickets/issues?",
+        "user": "U01078QCG2C",
+        "ts": "1585751379.131200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1585751392.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UGIt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like the examples you posted. I\u2019m ok with working on these changes but can we break them up into tickets/issues?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585738265.121900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "1C55F362-053F-4A94-8BF0-D77DBF0B875B",
+        "type": "message",
+        "text": "Working ",
+        "user": "U010JHVF19U",
+        "ts": "1585751945.131600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v3z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Working "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585748758.130000",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "bea9f5b4-359a-41b4-b1ba-7bb513197bee",
+        "type": "message",
+        "text": "<@UV8B0679P> <@U0107JEKN0N> Think we can use the cases API (<https://api.pmo.gov.et/v1/cases/>) to display the mini stats cards:\n*quarantined* can possibly be mapped to *false_positives*\n```[\n    {\n        \"total\": 30,\n        \"confirmed\": 29,\n        \"stable\": 19,\n        \"critical\": 2,\n        \"deceased\": 0,\n        \"recovered\": 2,\n        \"no_longer_in_ethiopia\": 2,\n        \"false_positives\": 1\n    }\n]```",
+        "user": "U010UJ2C1FS",
+        "ts": "1585758924.135400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010UJ2C1FS",
+            "ts": "1585758990.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VbpH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Think we can use the cases API ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://api.pmo.gov.et/v1/cases/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") to display the mini stats cards:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "quarantined",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " can possibly be mapped to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "false_positives",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[\n    {\n        \"total\": 30,\n        \"confirmed\": 29,\n        \"stable\": 19,\n        \"critical\": 2,\n        \"deceased\": 0,\n        \"recovered\": 2,\n        \"no_longer_in_ethiopia\": 2,\n        \"false_positives\": 1\n    }\n]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "reply_count": 15,
+        "reply_users_count": 4,
+        "latest_reply": "1585861275.143000",
+        "reply_users": [
+            "U01051X26HJ",
+            "U010N3BFN4F",
+            "U0107JEKN0N",
+            "UV8B0679P"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01051X26HJ",
+                    "U010JHVF19U"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cd848b1-770f-414b-80d5-ecc1e89dbe1f",
+        "type": "message",
+        "text": "That is good for overall status.",
+        "user": "U01051X26HJ",
+        "ts": "1585759102.135700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01051X26HJ",
+            "ts": "1585759123.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is good for overall status."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UJ2C1FS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "BA47CACD-7F4F-4379-BE21-5D465128511A",
+        "type": "message",
+        "text": "<@U0100658QEP> What status updates are we looking for? We don\u2019t have structure or explicit commitments on the bots.\n\n\nI merged an example of a FB Messenger bot here a week ago. <https://github.com/Ethiopia-COVID19/bot/pull/9|https://github.com/Ethiopia-COVID19/bot/pull/9>\nI don\u2019t think there been any work on Facebook bots outside of that. ",
+        "user": "U0107JDFH1U",
+        "ts": "1585961728.069000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "author_name": "dbworku",
+                "fallback": "[Ethiopia-COVID19/bot] #9 Add FB Messenger example",
+                "text": "I'm creating another server example with a FB Messenger bot webhook endpoint.\n\nNow, the old telegram app can be found in `/telegram`. `./messenger` has a simple Node application that exposes a webhook endpoint for the FB Messenger Platform.\n\n*How do I test this end to end?*  \nThe messenger platform needs to have access to your webhook endpoint on the public web over https. The fastest way to test things, if you are running the server locally, is to expose your 5000 port using ngrok.\n\n0. Update the `messeger\\config\\default.json` with your FB Application secrets from their <https://developers.facebook.com/docs/messenger-platform/getting-started/app-setup|getting started guide>.\n1. Start the node application on port 5000\n\n```\nnode app.js\n\n```\n\n2. Sanity check that the application is up by opening `<http://localhost:5000>` in a browser\n3. In a separate terminal run:\n\n```\nngrok http 5000\n\n```\n\nNOTE:  \nIn the long run, these should really be one server with different endpoints for each bot telegram, messenger, etc.",
+                "title": "#9 Add FB Messenger example",
+                "footer": "<https://github.com/Ethiopia-COVID19/bot|Ethiopia-COVID19/bot>",
+                "id": 1,
+                "title_link": "https://github.com/Ethiopia-COVID19/bot/pull/9",
+                "author_link": "https://github.com/dbworku",
+                "author_icon": "https://avatars0.githubusercontent.com/u/2839631?v=4",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1584912916,
+                "color": "6f42c1",
+                "fields": [
+                    {
+                        "title": "Comments",
+                        "value": "1",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/bot/pull/9",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z5Gsc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0100658QEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What status updates are we looking for? We don\u2019t have structure or explicit commitments on the bots.\n\n\nI merged an example of a FB Messenger bot here a week ago. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/bot/pull/9",
+                                "text": "https://github.com/Ethiopia-COVID19/bot/pull/9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I don\u2019t think there been any work on Facebook bots outside of that. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585862865.059700",
+        "parent_user_id": "U0105ALMEKU"
+    }
+]

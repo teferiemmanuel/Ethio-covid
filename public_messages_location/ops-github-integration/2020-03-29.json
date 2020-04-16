@@ -1,0 +1,109 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U010JMN7DNJ> added a workflow to this channel: *Github integration bot*.",
+        "ts": "1585513822.001100",
+        "username": "Github integration bot",
+        "bot_id": "B01101GDPQF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585513843.001400",
+        "user": "U010JMN7DNJ",
+        "text": "<@U010JMN7DNJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Welcome to the team!* submission from <@U010JMN7DNJ> *Your Name* <@U010JMN7DNJ>   *Tell us about you!* Testing bot   *Areas you want to work on* Bots   *Anything else you want us to know?* Testing bot message  ",
+        "ts": "1585513871.001600",
+        "username": "Github integration bot",
+        "bot_id": "B01101GDPQF",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "+fM",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Welcome to the team!* submission from <@U010JMN7DNJ>",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "Ix+N",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Your Name*\n<@U010JMN7DNJ>\n\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "=USh",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Tell us about you!*\nTesting bot\n\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "lOwm",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Areas you want to work on*\nBots\n\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "94Jnr",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Anything else you want us to know?*\nTesting bot message\n\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "divider",
+                "block_id": "8YGf"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4309bed1-57a8-4925-9eb1-2d993ca7fa7a",
+        "type": "message",
+        "text": "sorry folks, was testing a bot",
+        "user": "U010JMN7DNJ",
+        "ts": "1585513896.001900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HY0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry folks, was testing a bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U010JMN7DNJ> removed a workflow from this channel: *Github integration bot*.",
+        "ts": "1585513938.002000",
+        "username": "Github integration bot",
+        "bot_id": "B01101GDPQF"
+    }
+]

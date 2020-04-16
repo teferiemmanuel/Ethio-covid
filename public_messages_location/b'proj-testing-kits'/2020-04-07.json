@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "d119c9f5-06cf-4652-8351-3272e8397049",
+        "type": "message",
+        "text": "Hello <@U010JHVF19U>  We have created a new channel for DIY ventilators <#C011H7HG0Q5|proj-diy-ventilator> ... this is focused on using the Medtronic provided open source data. Please join the channel and share your thought about the topic there.\nThere are a few people working on options around ventilators in the channel.",
+        "user": "U0107JERE9L",
+        "ts": "1586286668.008800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6xO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JHVF19U"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  We have created a new channel for DIY ventilators "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C011H7HG0Q5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ... this is focused on using the Medtronic provided open source data. Please join the channel and share your thought about the topic there.\nThere are a few people working on options around ventilators in the channel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584984316.040100",
+        "parent_user_id": "U010JHVF19U"
+    },
+    {
+        "client_msg_id": "5dab9609-ab83-44e0-9e73-8513e9605a61",
+        "type": "message",
+        "text": "Hey Keneni - I will do that. I will also send it to my husband for his feedback too. Thanks for all you do.",
+        "user": "U010JHVF19U",
+        "ts": "1586286842.009000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNuU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Keneni - I will do that. I will also send it to my husband for his feedback too. Thanks for all you do."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584984316.040100",
+        "parent_user_id": "U010JHVF19U"
+    },
+    {
+        "client_msg_id": "0e1f9503-8e25-4daa-a820-71003f817a4d",
+        "type": "message",
+        "text": "Awesome! Thank you!!",
+        "user": "U0107JERE9L",
+        "ts": "1586287659.009200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oX3L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome! Thank you!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584984316.040100",
+        "parent_user_id": "U010JHVF19U"
+    }
+]

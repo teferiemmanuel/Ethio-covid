@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584446404.000200",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584446404.000300",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> set the channel purpose: <https://github.com/Ethiopia-COVID19/bot>",
+        "purpose": "<https://github.com/Ethiopia-COVID19/bot>"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584467106.000200",
+        "user": "U0108BK2FPZ",
+        "text": "<@U0108BK2FPZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584476714.000200",
+        "user": "U0106UVNZV3",
+        "text": "<@U0106UVNZV3> has joined the channel"
+    },
+    {
+        "client_msg_id": "27c9379a-20cd-4bd7-95b4-9986d72d661a",
+        "type": "message",
+        "text": "Hey guys",
+        "user": "U0106UVNZV3",
+        "ts": "1584476739.000400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CYsS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9d966d7-2331-4c0d-9332-2d4a7e20a823",
+        "type": "message",
+        "text": "even if I know very little about the other platforms i think i can help with telegram",
+        "user": "U0106UVNZV3",
+        "ts": "1584476871.001600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cpO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "even if I know very little about the other platforms i think i can help with telegram"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584476911.001800",
+        "user": "UVAS5KVR7",
+        "text": "<@UVAS5KVR7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584489423.002000",
+        "user": "UV9T0GHS7",
+        "text": "<@UV9T0GHS7> has joined the channel"
+    }
+]

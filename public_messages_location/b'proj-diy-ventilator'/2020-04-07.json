@@ -1,0 +1,450 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586284383.000200",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1586284383.000300",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> set the channel purpose: This channel if for the DIY ventilators leveraging the Medtronic open-source data in order to help patients who need assistance with their breathing due to the respiratory effects of COVID-19 [Lead: <@U010986778X>]",
+        "purpose": "This channel if for the DIY ventilators leveraging the Medtronic open-source data in order to help patients who need assistance with their breathing due to the respiratory effects of COVID-19 [Lead: <@U010986778X>]"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586284402.000500",
+        "user": "U0107JERE9L",
+        "text": "<@U0107JERE9L> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586284403.000700",
+        "user": "U010986778X",
+        "text": "<@U010986778X> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586285382.000900",
+        "user": "U010RM5TX1R",
+        "text": "<@U010RM5TX1R> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586285382.001100",
+        "user": "UV8F3SRGA",
+        "text": "<@UV8F3SRGA> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586285434.001300",
+        "user": "U010L4E6BK9",
+        "text": "<@U010L4E6BK9> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586285435.001500",
+        "user": "U010B22ESES",
+        "text": "<@U010B22ESES> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586285435.001700",
+        "user": "UVADRT9K3",
+        "text": "<@UVADRT9K3> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586285460.001900",
+        "user": "U010ZJYV6AU",
+        "text": "<@U010ZJYV6AU> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586285704.002100",
+        "user": "U011J64BXCY",
+        "text": "<@U011J64BXCY> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586286207.002300",
+        "user": "U010MNLAXFZ",
+        "text": "<@U010MNLAXFZ> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "89387490-98d8-4be8-926f-48b418d670d8",
+        "type": "message",
+        "text": "Hello <!channel>\nThank you for sharing your interest in DIY Ventilators.\n<@U010986778X> is a biomedical engineer with medtronic and will be leading this project.\nShe is working on a project plan.\nWe will have a kick-off meeting once the plan is complete.\nFeel free to share your thoughts about the project here.",
+        "user": "U0107JERE9L",
+        "ts": "1586286355.004700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z3w2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThank you for sharing your interest in DIY Ventilators.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a biomedical engineer with medtronic and will be leading this project.\nShe is working on a project plan.\nWe will have a kick-off meeting once the plan is complete.\nFeel free to share your thoughts about the project here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586286851.004900",
+        "user": "U010JHVF19U",
+        "text": "<@U010JHVF19U> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586288249.005400",
+        "user": "U011BGST4BG",
+        "text": "<@U011BGST4BG> has joined the channel"
+    },
+    {
+        "client_msg_id": "339373da-77f6-4bf9-91bf-b3b3b38f08fb",
+        "type": "message",
+        "text": "Thank you <@U0107JERE9L> for the kind introduction.\u00a0\n\nA little bit about myself, my background is in biomedical engineering with a few years of\u00a0experience in the medical device industry. I currently work in regulatory/quality supporting airway products and ventilators at Medtronic.\u00a0\n\nPrior to joining Medtronic, I was consulting European med-tech companies with product realization to obtain FDA approval and enter the U.S market.\u00a0 \n\nThank you all for your interest in DIY ventilator. I will be sharing a project plan shortly and set up a kick-off meeting. In the meantime, please feel free to reach out to me with any questions, suggestions or ideas.",
+        "user": "U010986778X",
+        "ts": "1586289275.006600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1mE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the kind introduction.\u00a0\n\nA little bit about myself, my background is in biomedical engineering with a few years of\u00a0experience in the medical device industry. I currently work in regulatory/quality supporting airway products and ventilators at Medtronic.\u00a0\n\nPrior to joining Medtronic, I was consulting European med-tech companies with product realization to obtain FDA approval and enter the U.S market.\u00a0 \n\nThank you all for your interest in DIY ventilator. I will be sharing a project plan shortly and set up a kick-off meeting. In the meantime, please feel free to reach out to me with any questions, suggestions or ideas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011BGST4BG",
+                    "U010RM5TX1R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586290139.006800",
+        "user": "U0109CA9ZU6",
+        "text": "<@U0109CA9ZU6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586292753.007300",
+        "user": "UVAL943JP",
+        "text": "<@UVAL943JP> has joined the channel"
+    },
+    {
+        "client_msg_id": "46e6bcc7-aebb-4881-b85e-1af6f41eafed",
+        "type": "message",
+        "text": "Welcome <@U011VGSHRDE> Here is the DIY - Ventilator Channel",
+        "user": "UVAL943JP",
+        "ts": "1586292784.008000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCia",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011VGSHRDE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here is the DIY - Ventilator Channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586292787.008200",
+        "user": "U011VGSHRDE",
+        "text": "<@U011VGSHRDE> has joined the channel",
+        "inviter": "UVAL943JP"
+    },
+    {
+        "client_msg_id": "35b40db0-6497-47e2-8af8-adcc5cb2bd8b",
+        "type": "message",
+        "text": "Selam to all. Thank you <@U0107JERE9L> and <@U0106M26108> for organizing this channel. Just as a way of introducing myself, I am a hardware designer - printed circuit board PCB layout designer. I am currently working for Altium. There is a good possibility that we can get a temporary license for Altium tool. We need a project manager who will be able to keep us accountable and lead us. I think the design file that is provided by Medtronic is going to require less work. Let us please introduce ourselves and start taking our responsibilities.",
+        "user": "U010RM5TX1R",
+        "ts": "1586298553.014700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HsKBx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Selam to all. Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for organizing this channel. Just as a way of introducing myself, I am a hardware designer - printed circuit board PCB layout designer. I am currently working for Altium. There is a good possibility that we can get a temporary license for Altium tool. We need a project manager who will be able to keep us accountable and lead us. I think the design file that is provided by Medtronic is going to require less work. Let us please introduce ourselves and start taking our responsibilities."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586298553.014700",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1586309806.021000",
+        "reply_users": [
+            "U010986778X",
+            "U010RM5TX1R",
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "effe9603-0b72-400d-ad64-f082eacfd0f1",
+        "type": "message",
+        "text": "<@U010RM5TX1R> Thanks for the intro. I will be acting as the project manager and leading the team. Will share a project plan and tracker for everyone to start taking on tasks. Thanks.",
+        "user": "U010986778X",
+        "ts": "1586299210.014800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aB4s3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010RM5TX1R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks for the intro. I will be acting as the project manager and leading the team. Will share a project plan and tracker for everyone to start taking on tasks. Thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586298553.014700",
+        "parent_user_id": "U010RM5TX1R"
+    },
+    {
+        "client_msg_id": "9145491b-bbf9-454b-98fa-e3f722ce3087",
+        "type": "message",
+        "text": "That is great Jerusalem! We need the Electrical Engineer (EE) to start looking at the schematic design and own it. Then I can take that and work on the PCB layout. Again that is already done but we will need to  make it our own, Seeing the fact that these is for a medical device, we will have to make sure that the highest PCB layout practices and rules are followed. In parallel to this the software engineers and the mechanical engineers can start working on their part. My most concern on these project is the mechanical design. It is more of mechanical that I think is challenging than anything else (from my point of view).",
+        "user": "U010RM5TX1R",
+        "ts": "1586303100.015000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IVvZQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is great Jerusalem! We need the Electrical Engineer (EE) to start looking at the schematic design and own it. Then I can take that and work on the PCB layout. Again that is already done but we will need to  make it our own, Seeing the fact that these is for a medical device, we will have to make sure that the highest PCB layout practices and rules are followed. In parallel to this the software engineers and the mechanical engineers can start working on their part. My most concern on these project is the mechanical design. It is more of mechanical that I think is challenging than anything else (from my point of view)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586298553.014700",
+        "parent_user_id": "U010RM5TX1R"
+    },
+    {
+        "client_msg_id": "29499414-be8f-45e6-802b-388485e6f4f9",
+        "type": "message",
+        "text": "Hi <@U0106M26108> can we add <@U011GAJPJAG> on this channel? I believe he is the software engineer. He had contacted me on a direct message earlier today. Thank you!",
+        "user": "U010RM5TX1R",
+        "ts": "1586303405.016900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ugDt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can we add "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011GAJPJAG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on this channel? I believe he is the software engineer. He had contacted me on a direct message earlier today. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586303429.017100",
+        "user": "U011GAJPJAG",
+        "text": "<@U011GAJPJAG> has joined the channel",
+        "inviter": "U010RM5TX1R"
+    },
+    {
+        "client_msg_id": "573ee78c-1184-45c8-b0cc-1925cec63c1c",
+        "type": "message",
+        "text": "<@U0106M26108> never mind. I was able to add him. I did not know I have that much authority :slightly_smiling_face:",
+        "user": "U010RM5TX1R",
+        "ts": "1586303511.018000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "itCdr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " never mind. I was able to add him. I did not know I have that much authority "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

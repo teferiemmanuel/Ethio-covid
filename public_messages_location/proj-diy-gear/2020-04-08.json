@@ -1,0 +1,535 @@
+[
+    {
+        "client_msg_id": "4aa87e13-1efc-4e3c-a0ea-34e257465850",
+        "type": "message",
+        "text": "Can we streamline this discussion .... ? The specific goal, action items/name , deliverables, time-line etc ... please contact me via DM if you need any help from Medtronic and specify what",
+        "user": "U011D9WUJMU",
+        "ts": "1586304880.224900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2xD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we streamline this discussion .... ? The specific goal, action items/name , deliverables, time-line etc ... please contact me via DM if you need any help from Medtronic and specify what"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586304880.224900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586306245.225100",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0102QX78GH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9c6da2e-b3de-46b5-9e73-80f49c5d5b0a",
+        "type": "message",
+        "text": "Yes - that is the goal of the meeting...\nThere is a new channel for the ventilator. <#C011H7HG0Q5|proj-diy-ventilator>. I will add you there.",
+        "user": "U0107JERE9L",
+        "ts": "1586306245.225100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7iG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes - that is the goal of the meeting...\nThere is a new channel for the ventilator. "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C011H7HG0Q5"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I will add you there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586304880.224900",
+        "parent_user_id": "U011D9WUJMU"
+    },
+    {
+        "client_msg_id": "f02d807e-15ba-422f-98e9-0e8aecc7e517",
+        "type": "message",
+        "text": "*<!here>*\u00a0all-hands-meeting is in progress--&gt; meeting link:\u00a0<https://mit.zoom.us/j/9235867808>",
+        "user": "U0107JERE9L",
+        "ts": "1586309928.225700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fDKRE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0all-hands-meeting is in progress--> meeting link:\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://mit.zoom.us/j/9235867808"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586314807.227700",
+        "user": "U011VGSHRDE",
+        "text": "<@U011VGSHRDE> has joined the channel",
+        "inviter": "UVAL943JP"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Please note it is 10,000 Not 100,000. with capacity of 1,000/day.",
+        "user": "U010T6L6LEL",
+        "ts": "1586332071.231100",
+        "thread_ts": "1586251239.218000",
+        "root": {
+            "client_msg_id": "a6e6e544-b841-4257-af08-2b3dadceb238",
+            "type": "message",
+            "text": "Dear all, Hannicha in Addis Ababa  has managed to sew 100.000  masks within few days with her equipe. She is running out of coton fabric, preferable, thick  cotton, tea towel cotton.  Would you know of any manufactures who could provide this ? If you can supply, please contact her  on <mailto:hananext@gmail.com|hananext@gmail.com>",
+            "user": "U011CUU89U5",
+            "ts": "1586251239.218000",
+            "team": "TV5KELEUS",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jmF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dear all, Hannicha in Addis Ababa  has managed to sew 100.000  masks within few days with her equipe. She is running out of coton fabric, preferable, thick  cotton, tea towel cotton.  Would you know of any manufactures who could provide this ? If you can supply, please contact her  on "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "mailto:hananext@gmail.com",
+                                    "text": "hananext@gmail.com"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1586251239.218000",
+            "reply_count": 4,
+            "reply_users_count": 3,
+            "latest_reply": "1586621614.252400",
+            "reply_users": [
+                "U0107JERE9L",
+                "U010T6L6LEL",
+                "U011CUU89U5"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Vc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please note it is 10,000 Not 100,000. with capacity of 1,000/day."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "afb4aaf5-9932-43f4-8c0a-525049900808"
+    },
+    {
+        "client_msg_id": "9b27ab75-927d-4f26-b42e-7c78828385e2",
+        "type": "message",
+        "text": "Dear All, a misunderstanding from me, Haniccha and her groupe made 10.000 up to now, they are capable to sew a 1000 a day, which is great !  They need elastics and cotton or thick fabric, tea towels.  jeans fabric... if you have spare left and can  send it to her please get in contact . Thank you in advance:hugging_face:",
+        "user": "U011CUU89U5",
+        "ts": "1586338669.234000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8dM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear All, a misunderstanding from me, Haniccha and her groupe made 10.000 up to now, they are capable to sew a 1000 a day, which is great !  They need elastics and cotton or thick fabric, tea towels.  jeans fabric... if you have spare left and can  send it to her please get in contact . Thank you in advance"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U010T6L6LEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586344441.234300",
+        "user": "U011BRW40NB",
+        "text": "<@U011BRW40NB> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    },
+    {
+        "client_msg_id": "f511b94e-7480-4f54-8410-58314de85363",
+        "type": "message",
+        "text": "Hello, Thank you for organizing such a movement. I wanted to share some info regarding diy face shields. A group of friends in Ethiopia are making  face shields and donating for hospitals. Until now they are working with St. Paulos and Alert hospital. You can contact them here (<https://www.instagram.com/p/B-jiFECnLgJ/>) or by phone <tel:+251946669636|+251946669636> (Yonatan)",
+        "user": "U011J82BTTP",
+        "ts": "1586352351.234700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Instagram",
+                "title": "Tibeb Leather Works on Instagram: \u201cIt's at times like these that we need to come together and put aside all our differences. This is our struggle and the only way through it\u2026\u201d",
+                "title_link": "https://www.instagram.com/p/B-jiFECnLgJ/",
+                "text": "259 Likes, 11 Comments - Tibeb Leather Works (@tibeb_leather_works) on Instagram: \u201cIt's at times like these that we need to come together and put aside all our differences. This is\u2026\u201d",
+                "fallback": "Instagram: Tibeb Leather Works on Instagram: \u201cIt's at times like these that we need to come together and put aside all our differences. This is our struggle and the only way through it\u2026\u201d",
+                "image_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/91629231_584713228794391_6189995616888711721_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=QMZ7sh43gFcAX9Vq0dK&oh=c013ba73a08d2694b7ab7b641bedecf5&oe=5EB74002",
+                "from_url": "https://www.instagram.com/p/B-jiFECnLgJ/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 147024,
+                "service_icon": "https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png",
+                "id": 1,
+                "original_url": "https://www.instagram.com/p/B-jiFECnLgJ/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f3a=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, Thank you for organizing such a movement. I wanted to share some info regarding diy face shields. A group of friends in Ethiopia are making  face shields and donating for hospitals. Until now they are working with St. Paulos and Alert hospital. You can contact them here ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.instagram.com/p/B-jiFECnLgJ/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") or by phone "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+251946669636",
+                                "text": "+251946669636"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Yonatan)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586352351.234700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586535881.246900",
+        "reply_users": [
+            "U0107JERE9L",
+            "U011J82BTTP"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-6",
+                "users": [
+                    "UVALAR52P",
+                    "U011BGST4BG",
+                    "U0111JYSE23"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39772068-a0e8-4e13-81a0-74a9cd421a8e",
+        "type": "message",
+        "text": "Open Works Baltimore will make this design OpenSource soon\n<https://www.instagram.com/p/B-uBkNmJ5Gm/>",
+        "user": "UVALAR52P",
+        "ts": "1586352791.235400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Instagram",
+                "title": "Open Works on Instagram: \u201cUPDATE 11: Rise and grind! With our second design made from CNC-cut acrylic now approved, we were able to hit a new production record of\u2026\u201d",
+                "title_link": "https://www.instagram.com/p/B-uBkNmJ5Gm/",
+                "text": "184 Likes, 8 Comments - Open Works (@open_works_bmore) on Instagram: \u201cUPDATE 11: Rise and grind! With our second design made from CNC-cut acrylic now approved, we were\u2026\u201d",
+                "fallback": "Instagram: Open Works on Instagram: \u201cUPDATE 11: Rise and grind! With our second design made from CNC-cut acrylic now approved, we were able to hit a new production record of\u2026\u201d",
+                "image_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/92007961_567311923912279_2247435677538494569_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=pc08o7Odu0cAX8qblLl&oh=30d68d970edf9808a2127f1ed116a799&oe=5EB6EEB9",
+                "from_url": "https://www.instagram.com/p/B-uBkNmJ5Gm/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 115932,
+                "service_icon": "https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png",
+                "id": 1,
+                "original_url": "https://www.instagram.com/p/B-uBkNmJ5Gm/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O1323",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Open Works Baltimore will make this design OpenSource soon\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.instagram.com/p/B-uBkNmJ5Gm/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4321679d-b8e3-406b-b016-818a0aa6b868",
+        "type": "message",
+        "text": "Don't think so",
+        "user": "U010SKPP7CJ",
+        "ts": "1586358924.235800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mjjj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't think so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586224095.212000",
+        "parent_user_id": "U010SKPP7CJ"
+    },
+    {
+        "client_msg_id": "9e7ddf18-cfa9-4f96-8277-525969ec396c",
+        "type": "message",
+        "text": "<https://www.washingtonpost.com/health/2020/04/07/answers-your-diy-face-mask-questions-including-what-material-you-should-use/>?",
+        "user": "UVALAR52P",
+        "ts": "1586361712.236100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Washington Post",
+                "title": "Answers to your DIY face mask questions, including what material you should use",
+                "title_link": "https://www.washingtonpost.com/health/2020/04/07/answers-your-diy-face-mask-questions-including-what-material-you-should-use/",
+                "text": "Covering your mouth and nose is one more thing people can do in addition to social distancing and hand-washing to slow the spread of the novel coronavirus.",
+                "fallback": "Washington Post: Answers to your DIY face mask questions, including what material you should use",
+                "image_url": "https://www.washingtonpost.com/resizer/4kvspDql-M6vArdUNvtJr7y1904=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TSJTJ5XXYJBBVP62YO3VJPRWYE.jpg",
+                "from_url": "https://www.washingtonpost.com/health/2020/04/07/answers-your-diy-face-mask-questions-including-what-material-you-should-use/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 74343,
+                "service_icon": "https://www.washingtonpost.com/favicon.ico",
+                "id": 1,
+                "original_url": "https://www.washingtonpost.com/health/2020/04/07/answers-your-diy-face-mask-questions-including-what-material-you-should-use/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v/vbY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.washingtonpost.com/health/2020/04/07/answers-your-diy-face-mask-questions-including-what-material-you-should-use/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011BGST4BG",
+                    "U010T6L6LEL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2b14eef-e844-43ff-ac5e-13d0900a87a8",
+        "type": "message",
+        "text": "Thank you <@U011J82BTTP>... This is exactly the type of information we are looking for.\nI will reach out to Yonatan.",
+        "user": "U0107JERE9L",
+        "ts": "1586363862.236300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XnZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011J82BTTP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "... This is exactly the type of information we are looking for.\nI will reach out to Yonatan."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586352351.234700",
+        "parent_user_id": "U011J82BTTP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U011J82BTTP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BF2841AF-C79F-4894-9DD9-7BD6CC731715",
+        "type": "message",
+        "text": "Hi <@U0107JERE9L> I\u2019m adding <@U011D6QJQJH> here; he\u2019s on the ground in addis and happy to run point. ",
+        "user": "U010GUEQVPF",
+        "ts": "1586376545.238400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x/ER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I\u2019m adding "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011D6QJQJH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here; he\u2019s on the ground in addis and happy to run point. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

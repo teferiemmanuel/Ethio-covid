@@ -1,0 +1,646 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586589382.002000",
+        "user": "U010SKPP7CJ",
+        "text": "<@U010SKPP7CJ> has joined the channel"
+    },
+    {
+        "client_msg_id": "3F312ECB-A1A8-46AB-BE55-10A23EE1B047",
+        "type": "message",
+        "text": "<!channel> - good morning. Do you have an everything to be successful during this weekend\u2019s sprint? If not, please ping me so that I can help facilitate. ",
+        "user": "UV8B0679P",
+        "ts": "1586624179.002100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6fF2e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - good morning. Do you have an everything to be successful during this weekend\u2019s sprint? If not, please ping me so that I can help facilitate. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99adb860-d560-4275-907a-48310424c0d2",
+        "type": "message",
+        "text": "Hi there, So we plan on doing a lot of the leg work this weekend and have something for the team to review on Monday.\n\n\nThis is the skeleton we have now feedback or suggestions would greatly appreciated\n\nHomePage Will Contain:\n\u2022 About US\n\u2022 - Call to Action\n\u2022 - Social Media Links\n\u2022 Running number of Volunteers\n\u2022 Partner mentions:\nPages\n\u2022 Africa CovidResponse Tool Kit\n\u2022 - Link to Blogs\n\u2022 Our Projects / Work Streams\n\u2022 Resource Library\n\u2022 \u00a0-Awareness (Pic + Content)\n",
+        "user": "U011F7L4G8L",
+        "ts": "1586625133.004700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J11",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi there, So we plan on doing a lot of the leg work this weekend and have something for the team to review on Monday.\n\n\nThis is the skeleton we have now feedback or suggestions would greatly appreciated\n\nHomePage Will Contain:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "About US"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "- Call to Action"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "- Social Media Links"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Running number of Volunteers"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Partner mentions:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPages\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Africa CovidResponse Tool Kit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "- Link to Blogs"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Our Projects / Work Streams"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Resource Library"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\u00a0-Awareness (Pic + Content)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01459B8B-999A-4315-9A12-4BF802A2B571",
+        "type": "message",
+        "text": "Home page should contain current number of work streams/projects maybe by category? Or something similar? ",
+        "user": "U0116DL92E9",
+        "ts": "1586625429.005900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bcw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Home page should contain current number of work streams/projects maybe by category? Or something similar? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "accf9933-fea3-458d-ad89-7572d366501d",
+        "type": "message",
+        "text": "we were thinking that would actually be a sperate page. A link to the work done would take it to all the streams just cause it would be a lot to put on the home page",
+        "user": "U011F7L4G8L",
+        "ts": "1586625746.007100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "plBe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we were thinking that would actually be a sperate page. A link to the work done would take it to all the streams just cause it would be a lot to put on the home page"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07bdcb29-b20a-4f64-b0ed-01e99ef874b3",
+        "type": "message",
+        "text": "does that make sense?",
+        "user": "U011F7L4G8L",
+        "ts": "1586625765.007400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QXlhm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "does that make sense?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011VHCGKJ8",
+                "created": 1586625895,
+                "timestamp": 1586625895,
+                "name": "projects.JPG",
+                "title": "projects.JPG",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U011F7L4G8L",
+                "editable": false,
+                "size": 168441,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011VHCGKJ8/projects.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011VHCGKJ8/download/projects.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011VHCGKJ8-ad769b6ca5/projects_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011VHCGKJ8-ad769b6ca5/projects_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011VHCGKJ8-ad769b6ca5/projects_360.jpg",
+                "thumb_360_w": 360,
+                "thumb_360_h": 191,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011VHCGKJ8-ad769b6ca5/projects_480.jpg",
+                "thumb_480_w": 480,
+                "thumb_480_h": 254,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011VHCGKJ8-ad769b6ca5/projects_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011VHCGKJ8-ad769b6ca5/projects_720.jpg",
+                "thumb_720_w": 720,
+                "thumb_720_h": 381,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011VHCGKJ8-ad769b6ca5/projects_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 424,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011VHCGKJ8-ad769b6ca5/projects_960.jpg",
+                "thumb_960_w": 960,
+                "thumb_960_h": 509,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011VHCGKJ8-ad769b6ca5/projects_1024.jpg",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 542,
+                "image_exif_rotation": 1,
+                "original_w": 1920,
+                "original_h": 1017,
+                "thumb_tiny": "AwAZADCx9oX+6n50hmDAgAD3BrM3DGDUtvj5qfs5dyuZdi/5/wDsLQZiR9wD6VB0xirOaiUHHqJTXYQTf9M1pRMSQPLX8qVTS5rO7vuVddhTbQY/1SflSrDCvSJR+FSUVvdkDBFGf4B+VOKLj7opaD0NICMyQpw7Ip9DSCWBjtV0JPQA1n3n+vb/AD2FRW3/AB9x/wC9V8itcD//2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U011F7L4G8L/F011VHCGKJ8/projects.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011VHCGKJ8-e97355f265",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U011F7L4G8L",
+        "display_as_bot": false,
+        "ts": "1586625900.007600",
+        "client_msg_id": "94823b7e-3eb2-40ba-9da2-f7680a2f24f1"
+    },
+    {
+        "client_msg_id": "3cfc7044-3ef8-4971-8dfc-9a0c542748fe",
+        "type": "message",
+        "text": "this is just a SAMPLE of the links or representation of the projects on the home page",
+        "user": "U011F7L4G8L",
+        "ts": "1586625919.008300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uTY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is just a SAMPLE of the links or representation of the projects on the home page"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1DD742FC-23CE-475A-8703-342F61B8ACFB",
+        "type": "message",
+        "text": ":ok_hand:",
+        "user": "U0116DL92E9",
+        "ts": "1586631612.008500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p2404",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586635282.008700",
+        "user": "U010K2675CP",
+        "text": "<@U010K2675CP> has joined the channel"
+    },
+    {
+        "client_msg_id": "d264d496-80c0-4784-bf95-e285af0364da",
+        "type": "message",
+        "text": "HI Guys... I am in need of a Capabilities list so that I can present it to different organizations who need some level of validation before they engage. I understand that this group was created to tackle this (maybe) ? Happy to help in any way as this is crucial as I am chasing a few pipelines and will need this content pretty soon.",
+        "user": "U010K2675CP",
+        "ts": "1586636212.011600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCHe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HI Guys... I am in need of a Capabilities list so that I can present it to different organizations who need some level of validation before they engage. I understand that this group was created to tackle this (maybe) ? Happy to help in any way as this is crucial as I am chasing a few pipelines and will need this content pretty soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca7b226e-5967-4339-ac7e-6778a53c900f",
+        "type": "message",
+        "text": "I have bandwidth this weekend to help with this task.",
+        "user": "U010K2675CP",
+        "ts": "1586636459.012800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nBXl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have bandwidth this weekend to help with this task."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea85aa65-bcdb-400b-9045-40c5b58ebf40",
+        "type": "message",
+        "text": "Hi <@U010K2675CP> , this channel was made so we can get our landing page up and running. I am sure that will help you to refer people to our page when they ask for more info. Does that information help you?",
+        "user": "U011F7L4G8L",
+        "ts": "1586636987.014200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U011F7L4G8L",
+            "ts": "1586637009.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cg=E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010K2675CP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , this channel was made so we can get our landing page up and running. I am sure that will help you to refer people to our page when they ask for more info. Does that information help you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586637432.014500",
+        "user": "U011CJW7GA3",
+        "text": "<@U011CJW7GA3> has joined the channel"
+    },
+    {
+        "client_msg_id": "923A004A-DBF0-4D5A-852A-22CD80A8B984",
+        "type": "message",
+        "text": "<@U010K2675CP> I think you are talking about <#C011MH24XK5|proj-mutual-aid> which will be incorporated into the site. That is being led by <@U010SKPP7CJ>. The current scope is slightly different then what you are describing but it\u2019s worth a conversation",
+        "user": "U0107A7161E",
+        "ts": "1586638918.017100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D5C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010K2675CP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think you are talking about "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C011MH24XK5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which will be incorporated into the site. That is being led by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010SKPP7CJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". The current scope is slightly different then what you are describing but it\u2019s worth a conversation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13f29bd4-33b5-4754-b415-c5d119268ae5",
+        "type": "message",
+        "text": "actually Mike Endale pointed me to this group. Let me explain. I am talking to gov't officials who (some at least) will need a little convincing. I think verbal discussion are good, but if we can give them collateral, it will help legitimize the group so that we can get quick reaction. The landing page is crucial, but the likes of the folks that I am speaking to will not spend 1 sec validating us by going to a website.",
+        "user": "U010K2675CP",
+        "ts": "1586640870.019100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BZf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "actually Mike Endale pointed me to this group. Let me explain. I am talking to gov't officials who (some at least) will need a little convincing. I think verbal discussion are good, but if we can give them collateral, it will help legitimize the group so that we can get quick reaction. The landing page is crucial, but the likes of the folks that I am speaking to will not spend 1 sec validating us by going to a website."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586640870.019100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586646344.023500",
+        "reply_users": [
+            "U0106M26108",
+            "U010K2675CP"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a9050bf0-b2bf-4059-bd5a-8cadd91bfddd",
+        "type": "message",
+        "text": "Happy to help you here too, but my immediate need is a one pager that looks fantastic that I can float. I am also planning to send this to other organizations as the groups and projects gel...",
+        "user": "U010K2675CP",
+        "ts": "1586640943.020300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gTw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to help you here too, but my immediate need is a one pager that looks fantastic that I can float. I am also planning to send this to other organizations as the groups and projects gel..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2834c50d-4e27-411a-834a-7e197aa9b8c9",
+        "type": "message",
+        "text": "Hey, <@U010K2675CP>! So this is a channel tackling the landing page. The 1 pager boiler copy is done by content at <#CVBQ5H16D|awareness-content>.",
+        "user": "U0106M26108",
+        "ts": "1586646169.023200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1586646186.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKQPb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010K2675CP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! So this is a channel tackling the landing page. The 1 pager boiler copy is done by content at "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CVBQ5H16D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586640870.019100",
+        "parent_user_id": "U010K2675CP"
+    },
+    {
+        "client_msg_id": "9dc8ada3-8d04-4dec-917e-2766aa53d2cb",
+        "type": "message",
+        "text": "This looks like customer/population facing content. Am I missing something?",
+        "user": "U010K2675CP",
+        "ts": "1586646344.023500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7my",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This looks like customer/population facing content. Am I missing something?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586640870.019100",
+        "parent_user_id": "U010K2675CP"
+    }
+]

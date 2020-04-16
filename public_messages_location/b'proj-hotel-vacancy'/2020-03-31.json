@@ -1,0 +1,217 @@
+[
+    {
+        "client_msg_id": "7299b359-6655-48a0-b9ea-4f3b91e6c51f",
+        "type": "message",
+        "text": "<@U010X5LSV53> <@UV8B0679P> my assumption is  the telegram bot to update occupancy status (occupied rooms)of quarantine centers(hotel, apartment, school), registration will done with web form. data will be easily sync,",
+        "user": "U010MHWSRPH",
+        "ts": "1585628324.083600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=R=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " my assumption is  the telegram bot to update occupancy status (occupied rooms)of quarantine centers(hotel, apartment, school), registration will done with web form. data will be easily sync,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4117b48c-82b0-4879-a708-2e479eefce9a",
+        "type": "message",
+        "text": "<@U010MHWSRPH> the idea was that all data entry as well as showing the result happens within the bot and not a web dashboard",
+        "user": "UV8B0679P",
+        "ts": "1585629086.084700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IzCG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010MHWSRPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the idea was that all data entry as well as showing the result happens within the bot and not a web dashboard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f223f44-cc9c-493a-8660-a50295ab25af",
+        "type": "message",
+        "text": "The reason being that folks on the ground will most likely have a phone near them than a computer screen to fiddle to enter data",
+        "user": "UV8B0679P",
+        "ts": "1585629118.085300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s+d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The reason being that folks on the ground will most likely have a phone near them than a computer screen to fiddle to enter data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7c35472-0950-40ad-82e9-cbca4bbbcb68",
+        "type": "message",
+        "text": "ok <@UV8B0679P>, <@U010X5LSV53> so when break it down, the bot will only show hotel vacancies for travelers that need to be quarantined and assuming  there will be  API so that we can fetch ? am I right",
+        "user": "U010MHWSRPH",
+        "ts": "1585629913.089100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1/=Fb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so when break it down, the bot will only show hotel vacancies for travelers that need to be quarantined and assuming  there will be  API so that we can fetch ? am I right"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "009c26bc-d613-4ed2-a6a2-0c8d6e28ca66",
+        "type": "message",
+        "text": "no, the solution we\u2019re trying about is more rudimentary \u2014 we\u2019ll just ask them to enter what available space they have every hour",
+        "user": "UV8B0679P",
+        "ts": "1585630031.089800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gnt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no, the solution we\u2019re trying about is more rudimentary \u2014 we\u2019ll just ask them to enter what available space they have every hour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c20a9779-ab7c-4506-a44b-7b214184734f",
+        "type": "message",
+        "text": "I don\u2019t expect there will be an API",
+        "user": "UV8B0679P",
+        "ts": "1585630041.090100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C3+s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don\u2019t expect there will be an API"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e697645-a5d2-429c-817e-f67262bc3e91",
+        "type": "message",
+        "text": "ok <@UV8B0679P> will do it right away",
+        "user": "U010MHWSRPH",
+        "ts": "1585631333.097800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bm1E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will do it right away"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

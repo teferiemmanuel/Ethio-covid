@@ -1,0 +1,450 @@
+[
+    {
+        "client_msg_id": "d08aaeda-7cb2-42aa-a92f-688d7427710a",
+        "type": "message",
+        "text": "I am currently working on EthCovid19Track App for Android, and anyone who is behind this Case Api Endpoints <https://api.pmo.gov.et/v1/cases/> can you guys add the following parameters also, it will be helpful. Thanks for exposing the API to public and third-party app developers.\nDays Since Start, Total Cases, Deaths, Recovered, Active Cases, Region.\n\n\u2022 Days Since Start - show the number of days between the first report of a case of coronavirus in that region and today.\n\u2022 Total Cases - show the number of confirmed cases from the first report till now at the national level\n\u2022 Deaths - show the number of deceased at the national level\n\u2022 Recovered - show the number of recoveries at the national level\n\u2022 Active Cases - show the number of cases (Total - Recovered) at the national level\n\u2022 Region - show the affected region/state so far, the number of cases at the region/state level and the location information.\n```[\n\t{\n\t\t\"start\": 1583971200,\n\t\t\"total\": 23,\n\t\t\"stable\": 18,\n\t\t\"critical\": 1,\n\t\t\"recovered\": 3,\n\t\t\"deceased\": 0,\n\t\t\"regions\": [\n\t\t\t{\n\t\t\t\t\"region\": \"Addis Ababa\",\n\t\t\t\t\"coordinates\": [9.005401, 38.763611],\n\t\t\t\t\"total\": 18\n\t\t\t},\n\t\t\t{\n\t\t\t\t\"region\": \"Oromiya\",\n\t\t\t\t\"coordinates\": [8.514477, 39.269257],\n\t\t\t\t\"total\": 5\n\t\t\t}\n\t\t]\n\t}```",
+        "user": "U010N2S4RUJ",
+        "ts": "1585567644.081300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010N2S4RUJ",
+            "ts": "1585577589.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XMku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am currently working on EthCovid19Track App for Android, and anyone who is behind this Case Api Endpoints "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://api.pmo.gov.et/v1/cases/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you guys add the following parameters also, it will be helpful. Thanks for exposing the API to public and third-party app developers.\nDays Since Start, Total Cases, Deaths, Recovered, Active Cases, Region.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Days Since Start - show the number of days between the first report of a case of coronavirus in that region and today."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Total Cases - show the number of confirmed cases from the first report till now at the national level"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Deaths - show the number of deceased at the national level"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recovered - show the number of recoveries at the national level"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Active Cases - show the number of cases (Total - Recovered) at the national level"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Region - show the affected region/state so far, the number of cases at the region/state level and the location information."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[\n\t{\n\t\t\"start\": 1583971200,\n\t\t\"total\": 23,\n\t\t\"stable\": 18,\n\t\t\"critical\": 1,\n\t\t\"recovered\": 3,\n\t\t\"deceased\": 0,\n\t\t\"regions\": [\n\t\t\t{\n\t\t\t\t\"region\": \"Addis Ababa\",\n\t\t\t\t\"coordinates\": [9.005401, 38.763611],\n\t\t\t\t\"total\": 18\n\t\t\t},\n\t\t\t{\n\t\t\t\t\"region\": \"Oromiya\",\n\t\t\t\t\"coordinates\": [8.514477, 39.269257],\n\t\t\t\t\"total\": 5\n\t\t\t}\n\t\t]\n\t}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585567644.081300",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1586249766.240700",
+        "reply_users": [
+            "UV81AMFSP",
+            "U010N2S4RUJ",
+            "U0112B1TNQ7",
+            "U010LJ2BUCW"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "A989AD55-DE42-47BA-B9B6-7BD7235F7CF6",
+        "type": "message",
+        "text": "Any lawyers <!here> that can help us draft an NDA for delivery platform employees participating in <#C010W2ZJN6L|proj-delivery> ?",
+        "user": "U0107AYF16H",
+        "ts": "1585587881.084300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ujjw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any lawyers "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that can help us draft an NDA for delivery platform employees participating in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010W2ZJN6L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d893d17-064b-457f-addb-33ba5fd26b56",
+        "type": "message",
+        "text": "Hello. I am a lawyer. I can help with the drafting. :slightly_smiling_face:",
+        "user": "U010U4E7G94",
+        "ts": "1585587997.085200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h=lAX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello. I am a lawyer. I can help with the drafting. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585587997.085200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585809572.131800",
+        "reply_users": [
+            "U0107AYF16H",
+            "U0111TN69N2"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "720aef61-7e5b-454b-bdc3-a5fe7a7d04ec",
+        "type": "message",
+        "text": "Have you looked at <https://api.pmo.gov.et/v1/patients/|https://api.pmo.gov.et/v1/patients/> too? Are those data missing there as well or cant be computed?",
+        "user": "UV81AMFSP",
+        "ts": "1585588436.085300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV81AMFSP",
+            "ts": "1585588614.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dtin0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you looked at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://api.pmo.gov.et/v1/patients/",
+                                "text": "https://api.pmo.gov.et/v1/patients/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " too? Are those data missing there as well or cant be computed?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585567644.081300",
+        "parent_user_id": "U010N2S4RUJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1222f311-e60e-4876-96a4-ed4c284f22fa",
+        "type": "message",
+        "text": "Also needed/would be useful: An open-source, scalable and easily customizable video conference server-client system would serve thousands of public servants work from home during Covi19. Any recommendations in that regard from people with knowledge of different such tools with pros and cons <@UV8B0679P>",
+        "user": "UV81AMFSP",
+        "ts": "1585588875.088500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QG0RU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also needed/would be useful: An open-source, scalable and easily customizable video conference server-client system would serve thousands of public servants work from home during Covi19. Any recommendations in that regard from people with knowledge of different such tools with pros and cons "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585588875.088500",
+        "reply_count": 12,
+        "reply_users_count": 6,
+        "latest_reply": "1586248788.239100",
+        "reply_users": [
+            "U010APHG8Q1",
+            "UV81AMFSP",
+            "U010T4YS7JM",
+            "U010L1RJMUN",
+            "UV6JHDP0S",
+            "U0115DWP9T9"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "db8672a6-6b0c-4e58-8fa9-edbfe4cd3ee0",
+        "type": "message",
+        "text": "I just learned about <https://jitsi.org/>",
+        "user": "U010APHG8Q1",
+        "ts": "1585588929.088600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Jitsi",
+                "title": "Jitsi.org - develop and deploy full-featured video conferencing",
+                "title_link": "https://jitsi.org/",
+                "text": "Free open-source video conferencing for web &amp; mobile. Make a call, launch on your own servers in minutes, integrate into your app, or develop something new",
+                "fallback": "Jitsi: Jitsi.org - develop and deploy full-featured video conferencing",
+                "image_url": "https://jitsi.org/wp-content/uploads/2017/06/jitsi-front.png",
+                "image_width": 400,
+                "image_height": 250,
+                "from_url": "https://jitsi.org/",
+                "image_bytes": 277016,
+                "service_icon": "https://335wvf48o1332cksy23mw1pj-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/cropped-jitsi-512x512-180x180.png",
+                "id": 1,
+                "original_url": "https://jitsi.org/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H/A4l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just learned about "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://jitsi.org/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585588875.088500",
+        "parent_user_id": "UV81AMFSP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010YSN9GSK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d01dd2dc-fd57-40ad-8b24-bed751ac0ebf",
+        "type": "message",
+        "text": "And it's really good",
+        "user": "U010APHG8Q1",
+        "ts": "1585588942.088900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9v5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And it's really good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585588875.088500",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "5497a88c-6557-4c03-b101-56c66d1a53d6",
+        "type": "message",
+        "text": "awesome! thank you for your quick response sis. moving our thread to <#C010W2ZJN6L|proj-delivery>",
+        "user": "U0107AYF16H",
+        "ts": "1585597405.090100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X7GWm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awesome! thank you for your quick response sis. moving our thread to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010W2ZJN6L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585587997.085200",
+        "parent_user_id": "U010U4E7G94",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010U4E7G94"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f3e7d260-465e-4600-aef3-ed04821ade3a",
+        "type": "message",
+        "text": "Anybody with Adobe Illustrator or photoshop skills, Please create us Ethiopian characters for *geolocation tracking &amp; online testing app*, we have a goal of finishing the project in 3 days so please reply if you got the skills or know someone who does.",
+        "user": "U010JB58NSC",
+        "ts": "1585597740.094400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2=M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anybody with Adobe Illustrator or photoshop skills, Please create us Ethiopian characters for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "geolocation tracking & online testing app",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", we have a goal of finishing the project in 3 days so please reply if you got the skills or know someone who does."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

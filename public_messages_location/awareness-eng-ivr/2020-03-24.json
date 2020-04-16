@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "67c46e09-4d28-4ae3-b667-25161cb005a8",
+        "type": "message",
+        "text": "Yeah Im in contact with Bekure",
+        "user": "UVB595TCJ",
+        "ts": "1585083402.087400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fF+Vr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah Im in contact with Bekure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98c46dfc-6a9e-406d-96e5-a18c3f120f5d",
+        "type": "message",
+        "text": "I've sent emails to ATA folks - <@U0107JEKN0N> <@UV6JHDP0S> <@U010BSJ55MK> all been cc'd. The questions cover some of the additional things I thought of that cover all options discussed thus far.",
+        "user": "UVB595TCJ",
+        "ts": "1585083513.088900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qd0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've sent emails to ATA folks - "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BSJ55MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " all been cc'd. The questions cover some of the additional things I thought of that cover all options discussed thus far."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

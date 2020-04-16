@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "c09d215f-7cc9-4b8c-8577-c3323df690f5",
+        "type": "message",
+        "text": "Hello <@U011U24THJ6> - Thank you for joining us.",
+        "user": "U0107JERE9L",
+        "ts": "1586922928.372900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NPC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011U24THJ6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Thank you for joining us."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586886786.370700",
+        "parent_user_id": "U011U24THJ6"
+    }
+]

@@ -1,0 +1,1179 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584404632.000200",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel"
+    },
+    {
+        "client_msg_id": "39747a57-f299-4439-9e78-e9e5c17ee5e9",
+        "type": "message",
+        "text": ":wave::skin-tone-5:",
+        "user": "U0106M27EKS",
+        "ts": "1584471696.009800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L8h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U0107895NUX",
+                    "UV6JHDP0S"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f3453fb-ea05-4e4f-bf70-bea7d03930f6",
+        "type": "message",
+        "text": "greetings from addis :wave::skin-tone-5:",
+        "user": "UV9A3J397",
+        "ts": "1584475531.010500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vwI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "greetings from addis "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U0107895NUX",
+                    "UV6JHFS02"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c44831e0-5f5a-4f0d-b9c8-42939f3b42e6",
+        "type": "message",
+        "text": "Good evening everyone",
+        "user": "U0106UVNZV3",
+        "ts": "1584476532.011300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DGZQR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good evening everyone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107895NUX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ddcb6bf9-c863-4ea7-b8f6-d44a569d77f9",
+        "type": "message",
+        "text": "Hello, All - We\u2019ve setup a Zoom call for 6pm (Eastern) today. There are specific asks so this call should give us clarify on next steps. Call-in details are below:\n\nJoin Zoom Meeting\n<https://zoom.us/j/921756948>\n\nMeeting ID: 921 756 948\n\nOne tap mobile\n<tel:+13126266799,,921756948#|+13126266799,,921756948#> US (Chicago)\n<tel:+16465588656,,921756948#|+16465588656,,921756948#> US (New York)\n\nDial by your location\n        <tel:+13126266799|+1 312 626 6799> US (Chicago)\n        <tel:+16465588656|+1 646 558 8656> US (New York)\n        <tel:+12532158782|+1 253 215 8782> US\n        <tel:+13017158592|+1 301 715 8592> US\n        <tel:+13462487799|+1 346 248 7799> US (Houston)\n        <tel:+16699009128|+1 669 900 9128> US (San Jose)\nMeeting ID: 921 756 948\nFind your local number: <https://zoom.us/u/ab4tgsuX4S>",
+        "user": "U0107895NUX",
+        "ts": "1584478132.014500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qhPI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, All - We\u2019ve setup a Zoom call for 6pm (Eastern) today. There are specific asks so this call should give us clarify on next steps. Call-in details are below:\n\nJoin Zoom Meeting\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://zoom.us/j/921756948"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMeeting ID: 921 756 948\n\nOne tap mobile\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13126266799,,921756948#",
+                                "text": "+13126266799,,921756948#"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (Chicago)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+16465588656,,921756948#",
+                                "text": "+16465588656,,921756948#"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (New York)\n\nDial by your location\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13126266799",
+                                "text": "+1 312 626 6799"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (Chicago)\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+16465588656",
+                                "text": "+1 646 558 8656"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (New York)\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+12532158782",
+                                "text": "+1 253 215 8782"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13017158592",
+                                "text": "+1 301 715 8592"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13462487799",
+                                "text": "+1 346 248 7799"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (Houston)\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+16699009128",
+                                "text": "+1 669 900 9128"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (San Jose)\nMeeting ID: 921 756 948\nFind your local number: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://zoom.us/u/ab4tgsuX4S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JDFH1U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "164acf69-4941-4d20-9734-bc6fdd84c8b1",
+        "type": "message",
+        "text": "<!channel> - this is an emergency meeting that we can use all the hands we can get so that the asks are clear and give everyone time to ask questions. Please attend the call on time",
+        "user": "UV8B0679P",
+        "ts": "1584478717.015800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e0NBH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - this is an emergency meeting that we can use all the hands we can get so that the asks are clear and give everyone time to ask questions. Please attend the call on time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba918e52-0091-4f1b-bd1c-fc9837a53dae",
+        "type": "message",
+        "text": "HI everyone!\nWe had an online hackathon over the weekend here in Estonia. I can share with you some of the projects that were hacked and  launched in just 48 hours.",
+        "user": "UV9FL0WF5",
+        "ts": "1584478854.017200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LoDz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HI everyone!\nWe had an online hackathon over the weekend here in Estonia. I can share with you some of the projects that were hacked and  launched in just 48 hours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "994d07ff-0131-45cc-bad1-c8c0eda9a5bf",
+        "type": "message",
+        "text": "I will write everything down when I am done with work.",
+        "user": "UV9FL0WF5",
+        "ts": "1584478889.017500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3R+pW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will write everything down when I am done with work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108",
+                    "U0108RA0JJC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UVAS4H073",
+                    "U0106UVNZV3",
+                    "UV80W9PL3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "UV6JHDP0S",
+                    "UV83NPH0T"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65ae8ecb-dfef-47ce-87f0-6b278a070912",
+        "type": "message",
+        "text": "Great. Thanks <@UV9FL0WF5>",
+        "user": "UV8B0679P",
+        "ts": "1584479040.018100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RDzQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great. Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9FL0WF5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d8147ee-2a59-48ff-a1e1-4025295af393",
+        "type": "message",
+        "text": "<@UV8B0679P> I watched your discussions with  Solomon Kassa of EBS  from 2012 or 2013 just yesterday. What a coincidence! :grinning:",
+        "user": "UV9FL0WF5",
+        "ts": "1584479132.020300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N3Qyf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I watched your discussions with  Solomon Kassa of EBS  from 2012 or 2013 just yesterday. What a coincidence! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d20bd3d-921d-4f9c-b727-f6faffb34aba",
+        "type": "message",
+        "text": "Just joined this group and as I do catch up on threads, if we need to host any of the websites/apps or use any AWS services I can help on that.",
+        "user": "UV6JHDP0S",
+        "ts": "1584479159.020500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/n3zp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just joined this group and as I do catch up on threads, if we need to host any of the websites/apps or use any AWS services I can help on that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Woo hooo! Slack just generously donated our Slack and upgraded it to Pro account. Please say thanks to them on Twitter",
+        "files": [
+            {
+                "id": "FVB1MBU1F",
+                "created": 1584479700,
+                "timestamp": 1584479700,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UV8B0679P",
+                "editable": false,
+                "size": 95824,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-FVB1MBU1F/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-FVB1MBU1F/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-FVB1MBU1F-3b0b6d1175/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-FVB1MBU1F-3b0b6d1175/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-FVB1MBU1F-3b0b6d1175/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 75,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-FVB1MBU1F-3b0b6d1175/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 100,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-FVB1MBU1F-3b0b6d1175/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-FVB1MBU1F-3b0b6d1175/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 150,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-FVB1MBU1F-3b0b6d1175/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 167,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-FVB1MBU1F-3b0b6d1175/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 200,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-FVB1MBU1F-3b0b6d1175/image_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 214,
+                "image_exif_rotation": 1,
+                "original_w": 1582,
+                "original_h": 330,
+                "thumb_tiny": "AwAKADCqCG7BOO2TmkZcdCT+dItB6UAJg/3TRj/ZNJRQAY9jRg+hoooA/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/UV8B0679P/FVB1MBU1F/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-FVB1MBU1F-32b3c69a9b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Sp8d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Woo hooo! Slack just generously donated our Slack and upgraded it to Pro account. Please say thanks to them on Twitter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UV8B0679P",
+        "display_as_bot": false,
+        "ts": "1584479703.021400",
+        "client_msg_id": "da5b8661-e5ee-4bb3-ab44-bd521ec517bb",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV6JHDP0S",
+                    "UVAS4H073",
+                    "U0106M27EKS",
+                    "U0108576J77"
+                ],
+                "count": 4
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "UVAS4H073",
+                    "UVAS5KVR7",
+                    "U0104U7NVSQ",
+                    "U0106M27EKS",
+                    "U0108576J77",
+                    "U011870MD54"
+                ],
+                "count": 6
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108",
+                    "U01076XHPC0",
+                    "U01077MN7QQ",
+                    "UV80W9PL3",
+                    "U0107JERE9L"
+                ],
+                "count": 5
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U01077MN7QQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U01076XHPC0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U010H7X0DUL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d514c3d-c903-440f-a009-7def0c90b809",
+        "type": "message",
+        "text": "<!channel> - the meeting is starting now. Hop on\n\nJoin Zoom Meeting\n<https://zoom.us/j/921756948>\n\nMeeting ID: 921 756 948\n\nOne tap mobile\n<tel:+13126266799,,921756948#|+13126266799,,921756948#> US (Chicago)\n<tel:+16465588656,,921756948#|+16465588656,,921756948#> US (New York)\n\nDial by your location\n        <tel:+13126266799|+1 312 626 6799> US (Chicago)\n        <tel:+16465588656|+1 646 558 8656> US (New York)\n        <tel:+12532158782|+1 253 215 8782> US\n        <tel:+13017158592|+1 301 715 8592> US\n        <tel:+13462487799|+1 346 248 7799> US (Houston)\n        <tel:+16699009128|+1 669 900 9128> US (San Jose)\nMeeting ID: 921 756 948\nFind your local number: <https://zoom.us/u/ab4tgsuX4S>",
+        "user": "UV8B0679P",
+        "ts": "1584482490.023700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNDf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - the meeting is starting now. Hop on\n\nJoin Zoom Meeting\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://zoom.us/j/921756948"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMeeting ID: 921 756 948\n\nOne tap mobile\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13126266799,,921756948#",
+                                "text": "+13126266799,,921756948#"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (Chicago)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+16465588656,,921756948#",
+                                "text": "+16465588656,,921756948#"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (New York)\n\nDial by your location\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13126266799",
+                                "text": "+1 312 626 6799"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (Chicago)\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+16465588656",
+                                "text": "+1 646 558 8656"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (New York)\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+12532158782",
+                                "text": "+1 253 215 8782"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13017158592",
+                                "text": "+1 301 715 8592"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13462487799",
+                                "text": "+1 346 248 7799"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (Houston)\n        "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+16699009128",
+                                "text": "+1 669 900 9128"
+                            },
+                            {
+                                "type": "text",
+                                "text": " US (San Jose)\nMeeting ID: 921 756 948\nFind your local number: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://zoom.us/u/ab4tgsuX4S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584482490.023700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584534568.099100",
+        "reply_users": [
+            "U0104U9BMKN"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JDFH1U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1E04F77C-1596-4D60-A210-54ED92FF7A55",
+        "type": "message",
+        "text": "It\u2019s not connecting ",
+        "user": "U0107898C9M",
+        "ts": "1584484710.024700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OSwHv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It\u2019s not connecting "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01B6EFB1-67AC-4420-9012-B9C28A0C7BA2",
+        "type": "message",
+        "text": "Is it working for everyone?",
+        "user": "U0107898C9M",
+        "ts": "1584484733.025000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/+iG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it working for everyone?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c601f6ce-e647-45f3-a02f-ec8a7dd8b236",
+        "type": "message",
+        "text": "<@U0107898C9M> yes is working",
+        "user": "UV6JHDP0S",
+        "ts": "1584484768.025300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "673",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes is working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C7CB4247-36FE-4933-AE43-355B2B8E59DE",
+        "type": "message",
+        "text": "Let me try it on another device ",
+        "user": "U0107898C9M",
+        "ts": "1584484831.025800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1/Vi6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me try it on another device "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b124822-a742-4ca3-a02c-82f2bd124ae9",
+        "type": "message",
+        "text": "<!here> <https://docs.google.com/document/d/1WdwwF570sk5xBDpzsaufUbyqADM_LIUKrCb3lwAjgJ8/edit>",
+        "user": "U0106M27EKS",
+        "ts": "1584486258.028100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j08/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1WdwwF570sk5xBDpzsaufUbyqADM_LIUKrCb3lwAjgJ8/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C010695DKMM"
+        ],
+        "pinned_info": {
+            "channel": "C010695DKMM",
+            "pinned_by": "U0106M27EKS",
+            "pinned_ts": 1584486264
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0107JDFH1U",
+                    "U01076XHPC0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a897424a-626c-435e-b27c-eb1f0bd1d1fb",
+        "type": "message",
+        "text": "<https://github.com/Ethiopia-COVID19/platform-release>\nUse the following steps to run it locally\n```Step 1: Clone the Repo\n\ngit clone <https://github.com/Ethiopia-COVID19/platform-release.git>\n\nStep2 : Change to Ushahidi platform release directory\n\ncd platform-release/\n\nStep3: Run docker-compose\n\ndocker-compose up```\n",
+        "user": "U0107JEKN0N",
+        "ts": "1584488509.030000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107JEKN0N",
+            "ts": "1584488632.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "ushahidi/platform-release",
+                "text": "Releases of the Ushahidi Platform",
+                "title": "ushahidi/platform-release",
+                "footer": "<https://github.com/ushahidi/platform-release|ushahidi/platform-release>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1465142254,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "43",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Shell",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/ushahidi/platform-release",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kb+ER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/platform-release"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nUse the following steps to run it locally\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Step 1: Clone the Repo\n\ngit clone "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/platform-release.git"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nStep2 : Change to Ushahidi platform release directory\n\ncd platform-release/\n\nStep3: Run docker-compose\n\ndocker-compose up"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584488509.030000",
+        "reply_count": 19,
+        "reply_users_count": 2,
+        "latest_reply": "1584491661.042100",
+        "reply_users": [
+            "UV6JHDP0S",
+            "U0107JEKN0N"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0800dcd2-189f-411c-afef-61835124eada",
+        "type": "message",
+        "text": "Already Forked it to the COVID-19 organization.",
+        "user": "U0107JEKN0N",
+        "ts": "1584488681.030800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vRKRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Already Forked it to the COVID-19 organization."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8da3bb9-cc7f-468e-b7bb-5ea2c3973539",
+        "type": "message",
+        "text": "As I promised earlier, I'm gonna list out the projects that were successfully launched in less than 48 hours in Estonia. I have omitted some projects that I deemed are not applicable to the situation back home.\n\u2022 Real-time covid19 tracker with heatmaps\n\u2022 Workforce sharing platform\n\u2022 Medical volunteer management database\n\u2022 A platform to connect people at risk (for ex. the elderly) with volunteers.\n\u2022 A delivery service for groceries\n\u2022 Self assessment app\n\u2022 Corona bot to answer questions people might have",
+        "user": "UV9FL0WF5",
+        "ts": "1584489029.032700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=sq=+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As I promised earlier, I'm gonna list out the projects that were successfully launched in less than 48 hours in Estonia. I have omitted some projects that I deemed are not applicable to the situation back home.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Real-time covid19 tracker with heatmaps"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Workforce sharing platform"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Medical volunteer management database"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A platform to connect people at risk (for ex. the elderly) with volunteers."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A delivery service for groceries"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Self assessment app"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Corona bot to answer questions people might have"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584489029.032700",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1584681882.164100",
+        "reply_users": [
+            "U01095N0LTF",
+            "U0108BX8BEG",
+            "UV9FL0WF5"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UV8B0679P",
+                    "U01076XHPC0",
+                    "U0104U85DJQ",
+                    "U0107JERE9L",
+                    "U01095N0LTF",
+                    "U0102QX78GH",
+                    "U010CLFURT8"
+                ],
+                "count": 7
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0104U9BMKN",
+                    "UV9AYBY3C",
+                    "U0108BX8BEG",
+                    "UV6JHFS02",
+                    "U010FRS8Z1D",
+                    "U011870MD54"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f706289-a9f4-43fe-9412-63a29b78d55f",
+        "type": "message",
+        "text": "It would also be great if we can build something for kids. It could be a simple educational  game that would teach them how to protect both themselves and their families.",
+        "user": "UV9FL0WF5",
+        "ts": "1584489129.033900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2tGq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It would also be great if we can build something for kids. It could be a simple educational  game that would teach them how to protect both themselves and their families."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584489129.033900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584690234.165700",
+        "reply_users": [
+            "U010CLFURT8"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01077MN7QQ",
+                    "U0104U9BMKN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U01076XHPC0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

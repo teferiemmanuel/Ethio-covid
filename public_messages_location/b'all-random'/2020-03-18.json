@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "80e13833-c6c3-4aaa-b8ae-7998d0353668",
+        "type": "message",
+        "text": "<https://systems.jhu.edu/research/public-health/ncov-model-2/> background on the modeling done by john hopkins",
+        "user": "U0107AYF16H",
+        "ts": "1584499295.015800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TbIjK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://systems.jhu.edu/research/public-health/ncov-model-2/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " background on the modeling done by john hopkins"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584499295.015800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584565190.037600",
+        "reply_users": [
+            "U0107JERE9L",
+            "U0107AYF16H"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UVAL943JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "612269ad-a9e0-44cd-9207-e0b4b96ed49b",
+        "type": "message",
+        "text": "Hey <@U0107AYF16H> - Could you join the <#C010AAKGXDL|data-team> group and share such things there?",
+        "user": "U0107JERE9L",
+        "ts": "1584564654.037400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJkV2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Could you join the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010AAKGXDL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " group and share such things there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584499295.015800",
+        "parent_user_id": "U0107AYF16H"
+    },
+    {
+        "client_msg_id": "daa32b98-7d21-4525-bb36-7f3cc8ae3bd3",
+        "type": "message",
+        "text": "sure",
+        "user": "U0107AYF16H",
+        "ts": "1584565190.037600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pR2G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584499295.015800",
+        "parent_user_id": "U0107AYF16H"
+    }
+]

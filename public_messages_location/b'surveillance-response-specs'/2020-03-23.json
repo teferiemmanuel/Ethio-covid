@@ -1,0 +1,752 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584937998.040000",
+        "user": "U0106MECUD9",
+        "text": "<@U0106MECUD9> has joined the channel"
+    },
+    {
+        "client_msg_id": "9e73a606-b856-446d-aeb8-402404e79c80",
+        "type": "message",
+        "text": "how come their government issued id#'s not included?",
+        "user": "UVB595TCJ",
+        "ts": "1584940353.040200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iOq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how come their government issued id#'s not included?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584894699.026800",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "d084a049-bc0e-45eb-92f9-6864765b5562",
+        "type": "message",
+        "text": "Hey all, here is an update about the work done and the next steps in CommCare:\n<https://docs.google.com/document/d/1rlQnCUwmfwVJKUPWTLYFXw88wb0oVaX3bkR9hKhE2rA/edit#>",
+        "user": "U0105C870AC",
+        "ts": "1584942905.041200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UFb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all, here is an update about the work done and the next steps in CommCare:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1rlQnCUwmfwVJKUPWTLYFXw88wb0oVaX3bkR9hKhE2rA/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584942905.041200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584983583.042200",
+        "reply_users": [
+            "U01022PTXA7"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U010A0N4N0P",
+                    "U0107A7161E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U01022PTXA7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43264c6b-cc8b-4e80-87d4-75e5f51a57a4",
+        "type": "message",
+        "text": "This is awesome! Just so I don't mess up anything you've done, can we hop on a call quickly so you can show me where to access the forms and I can try to look at the workflow.",
+        "user": "U01022PTXA7",
+        "ts": "1584983583.042200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vad4a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is awesome! Just so I don't mess up anything you've done, can we hop on a call quickly so you can show me where to access the forms and I can try to look at the workflow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584942905.041200",
+        "parent_user_id": "U0105C870AC",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0105C870AC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a15dfe1-3f71-447b-939f-7bae394ecee3",
+        "type": "message",
+        "text": "We need to test and demo this today to some clinicians before going live. Is there a time that is good for you today to demo? <@U0105C870AC> and <@U01076XHPC0>? I can start to tag some clinicians once we have an identified time.",
+        "user": "U01022PTXA7",
+        "ts": "1584984281.043200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01022PTXA7",
+            "ts": "1584984337.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+zl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We need to test and demo this today to some clinicians before going live. Is there a time that is good for you today to demo? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105C870AC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? I can start to tag some clinicians once we have an identified time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cbc8e8f-0a58-43b8-8d13-d43bdbd4440f",
+        "type": "message",
+        "text": "<@U01022PTXA7> I am a bit busy at work now. May be after 5pm PT. Would that work?",
+        "user": "U0105C870AC",
+        "ts": "1584987541.044000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Pt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01022PTXA7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am a bit busy at work now. May be after 5pm PT. Would that work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "reply_count": 13,
+        "reply_users_count": 5,
+        "latest_reply": "1585430135.004600",
+        "reply_users": [
+            "U0107A7161E",
+            "U01022PTXA7",
+            "U01076XHPC0",
+            "U0105C870AC",
+            "UVC2L182V"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "54536183-4770-49da-a850-fc9488537f39",
+        "type": "message",
+        "text": "<@U01076XHPC0> can you meet any earlier? the earlier we get their feedback, the better.",
+        "user": "U0107A7161E",
+        "ts": "1584987984.044300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y/KHP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01076XHPC0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you meet any earlier? the earlier we get their feedback, the better."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "b310ff1a-6f9b-4203-a7a7-b80e97d67674",
+        "type": "message",
+        "text": "I'm running through the app now. Here is a document in our folder where I'll compile testing notes/questions. <https://docs.google.com/document/d/1meISLxJ8__wzfiZ9ca9dwiuqY07JZgu3kVzm6N3gqXI/edit>",
+        "user": "U01022PTXA7",
+        "ts": "1584989493.044500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01022PTXA7",
+            "ts": "1584989514.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m6=0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm running through the app now. Here is a document in our folder where I'll compile testing notes/questions. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1meISLxJ8__wzfiZ9ca9dwiuqY07JZgu3kVzm6N3gqXI/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0105C870AC",
+                    "U0107A7161E",
+                    "U01076XHPC0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d257b080-bc0e-4842-a49d-424a1a80a2d4",
+        "type": "message",
+        "text": "<@U0107A7161E> I can meet at 6:30pm EST.",
+        "user": "U01076XHPC0",
+        "ts": "1584993670.045200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JYm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can meet at 6:30pm EST."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0105C870AC",
+                    "U0107A7161E",
+                    "U01022PTXA7"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd99fe9b-81d6-4b45-8751-b78ad37a7ecb",
+        "type": "message",
+        "text": "<!channel> is there a central log in for CommCare? This would be for people who are wanting to review the forms",
+        "user": "U01022PTXA7",
+        "ts": "1585001409.046400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01022PTXA7",
+            "ts": "1585001436.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SU63f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is there a central log in for CommCare? This would be for people who are wanting to review the forms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585001409.046400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585001727.048000",
+        "reply_users": [
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "909B6E15-5F42-42D4-A8E9-A21191C024A1",
+        "type": "message",
+        "text": "Not that I know of but I think it makes sense to create a profile with \u2018read only\u2019 access. <@U0107A7161E> ",
+        "user": "U0105C870AC",
+        "ts": "1585001632.047700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0105C870AC",
+            "ts": "1585001650.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not that I know of but I think it makes sense to create a profile with \u2018read only\u2019 access. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585001632.047700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585002539.048300",
+        "reply_users": [
+            "U01022PTXA7"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV7TX2KR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85f6773c-6b4a-425e-998c-f429c035a665",
+        "type": "message",
+        "text": "<@U0105C870AC> i can add people and give them read-only access",
+        "user": "U0107A7161E",
+        "ts": "1585001727.048000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HVeM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105C870AC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i can add people and give them read-only access"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585001409.046400",
+        "parent_user_id": "U01022PTXA7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01076XHPC0",
+                    "U0105C870AC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9478250d-156b-4f5e-a860-239e4072b194",
+        "type": "message",
+        "text": "Thats a good call! I think we do!",
+        "user": "U01022PTXA7",
+        "ts": "1585002539.048300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OK2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thats a good call! I think we do!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585001632.047700",
+        "parent_user_id": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "17ad59d0-8c4e-4b57-94d8-d80a667f81f3",
+        "type": "message",
+        "text": "So who can meet now\u2026 should I host it?",
+        "user": "U01076XHPC0",
+        "ts": "1585002557.048500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QDC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So who can meet now\u2026 should I host it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U01022PTXA7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef882f66-8162-4cc9-b541-040515f572c5",
+        "type": "message",
+        "text": "I can meet. sure, you can host it!",
+        "user": "U01022PTXA7",
+        "ts": "1585002615.048700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01022PTXA7",
+            "ts": "1585002653.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J7S8O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can meet. sure, you can host it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "917dc93a-0aa5-4349-9c32-58517b9dad97",
+        "type": "message",
+        "text": "<https://schrodinger.zoom.us/j/952130196>",
+        "user": "U01076XHPC0",
+        "ts": "1585002666.049200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "call",
+                        "call_id": "R010LD7PPQU",
+                        "block_id": "l1vF",
+                        "api_decoration_available": false,
+                        "call": {
+                            "v1": {
+                                "id": "R010LD7PPQU",
+                                "app_id": "A5GE9BMQC",
+                                "app_icon_urls": {
+                                    "image_32": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_32.png",
+                                    "image_36": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_36.png",
+                                    "image_48": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_48.png",
+                                    "image_64": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_64.png",
+                                    "image_72": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_72.png",
+                                    "image_96": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_96.png",
+                                    "image_128": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_128.png",
+                                    "image_192": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_192.png",
+                                    "image_512": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_512.png",
+                                    "image_1024": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_1024.png",
+                                    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-21/245295805989_06e77af1bfb8e3c81d4d_original.png"
+                                },
+                                "date_start": 1585002667,
+                                "active_participants": [],
+                                "all_participants": [],
+                                "display_id": "952-130-196",
+                                "join_url": "https://schrodinger.zoom.us/j/952130196",
+                                "name": "Zoom meeting",
+                                "created_by": "U010G2AU7M2",
+                                "date_end": 0,
+                                "channels": [
+                                    "C010GQS9HNY"
+                                ],
+                                "is_dm_call": false,
+                                "was_rejected": false,
+                                "was_missed": false,
+                                "was_accepted": false,
+                                "has_ended": false
+                            }
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "B0103N007NE",
+                "app_unfurl_url": "https://schrodinger.zoom.us/j/952130196",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IBL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://schrodinger.zoom.us/j/952130196"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "5c31a963-2fb0-4023-9cd2-647c9cf3848f",
+        "type": "message",
+        "text": "I'll join in 5",
+        "user": "U0107A7161E",
+        "ts": "1585002690.049500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wO4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll join in 5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "cb0b68d4-a445-4c47-a1bd-458743e635fa",
+        "type": "message",
+        "text": "Sure",
+        "user": "U01076XHPC0",
+        "ts": "1585002698.049700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XHfXo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "910ba502-ba81-435e-9050-b393b68412c5",
+        "type": "message",
+        "text": "can I loop in Heloma nd Naol so they can give feedback on data structure for dashboard and analytics?",
+        "user": "U0107A7161E",
+        "ts": "1585003986.050000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1585004009.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Nez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can I loop in Heloma nd Naol so they can give feedback on data structure for dashboard and analytics?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC"
+    },
+    {
+        "client_msg_id": "fb8a069f-fd5b-417a-8bfc-282fad4bc4a1",
+        "type": "message",
+        "text": "we can also do it as a second conversation if you think it would be better as a second conversation",
+        "user": "U0107A7161E",
+        "ts": "1585004068.050300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6YI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we can also do it as a second conversation if you think it would be better as a second conversation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584987541.044000",
+        "parent_user_id": "U0105C870AC"
+    }
+]

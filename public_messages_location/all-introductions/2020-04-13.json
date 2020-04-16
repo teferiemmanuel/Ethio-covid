@@ -1,0 +1,312 @@
+[
+    {
+        "client_msg_id": "2bfe58a2-3055-41b5-b304-5aa6143a5916",
+        "type": "message",
+        "text": "Hello everyone, Great to be part of this team.\n\nMy Name is Gemmechu Mohammed, I'm 4th year\u00a0 Software Engineering Student at AAIT, I worked at iCog-Labs and Bluemoon as ML engineer, I'm here representing my team, we are software students in AAiT lead by an ex-Google and Palantir software/ml engineer. we trained for 3-month to get summer internship at Top silicon Valley companies and already we are getting offers. Currently we dedicated all our time to fight the crisis, we competed in the Global Hack (<https://theglobalhack.com/>) to fight against COVID-19 where more than 500 projects competed globally and yesterday we get the result am proud to say we made it to the finals.\u00a0 For more info about our team and our Demo I have put link below.\n\nDemo:\u00a0<https://youtu.be/CFX1-bXLhTc>\nWebpage:\u00a0<https://www.a2sv.org/>",
+        "user": "U011NKA5RNW",
+        "ts": "1586763258.352400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Home | The Global Hack",
+                "title_link": "https://theglobalhack.com/",
+                "text": "Global hack is the biggest online hackathon in the world fighting off the crisis to battle the problems we are facing as a global society after the immediate corona crisis is over. We are bringing together world class mentors and globally talented teams to build the solutions for the better future. Together.",
+                "fallback": "Home | The Global Hack",
+                "image_url": "https://theglobalhack.com/img/global_hack_key_social.jpg",
+                "from_url": "https://theglobalhack.com/",
+                "image_width": 379,
+                "image_height": 250,
+                "image_bytes": 511107,
+                "service_icon": "https://theglobalhack.com/img/apple-touch-icon.png",
+                "service_name": "theglobalhack.com",
+                "id": 1,
+                "original_url": "https://theglobalhack.com/"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "A2SV  COVID-19 Symptom tracking App - Hackathon Demo",
+                "title_link": "https://youtu.be/CFX1-bXLhTc",
+                "author_name": "Gemmechu Mohammed",
+                "author_link": "https://www.youtube.com/channel/UCtPGEb9HARmSlQQoxmO6m_w",
+                "thumb_url": "https://i.ytimg.com/vi/CFX1-bXLhTc/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: A2SV  COVID-19 Symptom tracking App - Hackathon Demo",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/CFX1-bXLhTc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/CFX1-bXLhTc",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 2,
+                "original_url": "https://youtu.be/CFX1-bXLhTc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RMR5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, Great to be part of this team.\n\nMy Name is Gemmechu Mohammed, I'm 4th year\u00a0 Software Engineering Student at AAIT, I worked at iCog-Labs and Bluemoon as ML engineer, I'm here representing my team, we are software students in AAiT lead by an ex-Google and Palantir software/ml engineer. we trained for 3-month to get summer internship at Top silicon Valley companies and already we are getting offers. Currently we dedicated all our time to fight the crisis, we competed in the Global Hack ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://theglobalhack.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") to fight against COVID-19 where more than 500 projects competed globally and yesterday we get the result am proud to say we made it to the finals.\u00a0 For more info about our team and our Demo I have put link below.\n\nDemo:\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/CFX1-bXLhTc"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWebpage:\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.a2sv.org/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010LJ2BUCW",
+                    "U010YSN9GSK",
+                    "U011NKA5RNW",
+                    "U0101KKMPFC",
+                    "U010FLU0CRM",
+                    "U0107JERE9L",
+                    "U0105C7GP08",
+                    "UVAL943JP",
+                    "U01150H1NF8",
+                    "U0107MQG4SV"
+                ],
+                "count": 10
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0107JERE9L",
+                    "U0111JYSE23"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37b0a1d1-421d-4dfc-b984-b634314df2ac",
+        "type": "message",
+        "text": "Hi <@U011PGU642F> Welcome! Please join our <#C010GQUEBSQ|proj-diy-gear> channel. <@U0107JERE9L>",
+        "user": "UVAL943JP",
+        "ts": "1586796263.355300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OjYz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011PGU642F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Welcome! Please join our "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010GQUEBSQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586727049.350800",
+        "parent_user_id": "U011PGU642F"
+    },
+    {
+        "client_msg_id": "4419ba77-e61f-458e-acf3-615d08d13b09",
+        "type": "message",
+        "text": "Welcome <@U011JBVDJ59>. Thank you for joining us. Please share some of your findings about materials for face masks. I am also working with <@U0111JYSE23> for PPE alternative so this connection is very timely.",
+        "user": "U0107JERE9L",
+        "ts": "1586799232.355600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tsWm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011JBVDJ59"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Thank you for joining us. Please share some of your findings about materials for face masks. I am also working with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0111JYSE23"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for PPE alternative so this connection is very timely."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586727049.350800",
+        "parent_user_id": "U011PGU642F"
+    },
+    {
+        "client_msg_id": "509ca2e2-c9a1-413b-9865-352e34d7db99",
+        "type": "message",
+        "text": "Great, thanks both! <@U0111JYSE23> is my colleague and good friend, so happy to provide support remotely on fact-finding and materials testing where I can. Joined the channel - look forward to working with you guys!",
+        "user": "U011PGU642F",
+        "ts": "1586799900.355800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XXZAl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great, thanks both! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0111JYSE23"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is my colleague and good friend, so happy to provide support remotely on fact-finding and materials testing where I can. Joined the channel - look forward to working with you guys!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586727049.350800",
+        "parent_user_id": "U011PGU642F",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6652288-a0d8-48f1-a5b1-5217e4da5d17",
+        "type": "message",
+        "text": "Hello Everyone,\n\nIt's great to be here. My name is Daniel Nigusse. I am an Electromechanical Engineer and COO at Ibrave Software Engineering PLC. I am also co-lead at <https://www.meetup.com/GDG-Addis/|GDGAddis> (Software developers community based in Addis Ababa). It's a pleasure to be part of such group. I hope there is something I can help in any way possible.",
+        "user": "U011QN89HFC",
+        "ts": "1586804191.359700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "GDG Addis (Addis Abeba, Ethiopia)",
+                "title_link": "https://www.meetup.com/GDG-Addis/",
+                "text": "Google Developers Group (GDG) Addis is run by passionate individuals in the developer community. This is a space to get new ideas, learn from industry experts, engage with peers, use Google Technologi",
+                "fallback": "Meetup: GDG Addis (Addis Abeba, Ethiopia)",
+                "image_url": "https://secure.meetupstatic.com/photos/event/d/9/9/5/600_481375701.jpeg",
+                "from_url": "https://www.meetup.com/GDG-Addis/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 47438,
+                "service_icon": "https://www.meetup.com/mu_static/en-US/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https://www.meetup.com/GDG-Addis/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Everyone,\n\nIt's great to be here. My name is Daniel Nigusse. I am an Electromechanical Engineer and COO at Ibrave Software Engineering PLC. I am also co-lead at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.meetup.com/GDG-Addis/",
+                                "text": "GDGAddis"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Software developers community based in Addis Ababa). It's a pleasure to be part of such group. I hope there is something I can help in any way possible."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U011NKA5RNW",
+                    "U01150H1NF8",
+                    "U0107MQG4SV"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

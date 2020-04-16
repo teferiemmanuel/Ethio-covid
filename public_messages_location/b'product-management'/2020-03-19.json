@@ -1,0 +1,1191 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584641991.000200",
+        "user": "U010B7Q6XE0",
+        "text": "<@U010B7Q6XE0> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584641991.000300",
+        "user": "U010B7Q6XE0",
+        "text": "<@U010B7Q6XE0> set the channel purpose: A space for PMs to ideate technical solutions, prioritize them, and then assign tasks",
+        "purpose": "A space for PMs to ideate technical solutions, prioritize them, and then assign tasks"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584642002.000500",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel",
+        "inviter": "U010B7Q6XE0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584642379.000700",
+        "user": "U010ALA8BTJ",
+        "text": "<@U010ALA8BTJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584642387.000900",
+        "user": "UVALWECMQ",
+        "text": "<@UVALWECMQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584642396.001100",
+        "user": "U01099PUZGV",
+        "text": "<@U01099PUZGV> has joined the channel"
+    },
+    {
+        "client_msg_id": "f0198732-d687-4a28-b50a-b865df8a17ed",
+        "type": "message",
+        "text": "Unfortunately, I'm new here and busy with work at the moment, so I'll need to do some catching up. Will be hopping back in after work. I just wanted to get the ball rolling with this. Anyone, feel free to take the lead. If there are any open ideas that we should explore further, please add them here :blush:",
+        "user": "U010B7Q6XE0",
+        "ts": "1584642805.004200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dC4Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unfortunately, I'm new here and busy with work at the moment, so I'll need to do some catching up. Will be hopping back in after work. I just wanted to get the ball rolling with this. Anyone, feel free to take the lead. If there are any open ideas that we should explore further, please add them here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584642857.004400",
+        "user": "UVB9ZSPCH",
+        "text": "<@UVB9ZSPCH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584642890.004700",
+        "user": "U0107A7161E",
+        "text": "<@U0107A7161E> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584642926.004900",
+        "user": "U0107JERE9L",
+        "text": "<@U0107JERE9L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584643053.005000",
+        "user": "U010B7Q6XE0",
+        "text": "<@U010B7Q6XE0> set the channel purpose: A space for PMs to ideate technical solutions, prioritize them, and then assign tasks. This is for anyone who understands what the current needs are and can take a creative approach to defining solutions around those needs!",
+        "purpose": "A space for PMs to ideate technical solutions, prioritize them, and then assign tasks. This is for anyone who understands what the current needs are and can take a creative approach to defining solutions around those needs!"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584643083.005200",
+        "user": "U010B7Q6XE0",
+        "text": "<@U010B7Q6XE0> set the channel purpose: A space for people to ideate technical solutions, prioritize them, and then assign tasks. This is for anyone who understands what the current needs are and can take a creative approach to defining solutions around those needs!",
+        "purpose": "A space for people to ideate technical solutions, prioritize them, and then assign tasks. This is for anyone who understands what the current needs are and can take a creative approach to defining solutions around those needs!"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584643187.005500",
+        "user": "UV6JHDP0S",
+        "text": "<@UV6JHDP0S> has joined the channel"
+    },
+    {
+        "client_msg_id": "40895983-b560-4228-8919-94e8b9f6c29f",
+        "type": "message",
+        "text": "Hi peeps! What are the needs that we've identified so far?",
+        "user": "U0107A7161E",
+        "ts": "1584643228.006200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jK2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi peeps! What are the needs that we've identified so far?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e032bdfb-ab1c-4954-8f78-65a624eaa69f",
+        "type": "message",
+        "text": "I'm interest in resource sharing and mutual aid networks",
+        "user": "U0107A7161E",
+        "ts": "1584643228.006400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1584643296.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ehD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm interest in resource sharing and mutual aid networks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584643875.006700",
+        "user": "U010F0NNU78",
+        "text": "<@U010F0NNU78> has joined the channel"
+    },
+    {
+        "client_msg_id": "955DE9AB-14D2-448C-A3B2-7574EA2F0D80",
+        "type": "message",
+        "text": "<@U0107A7161E> Hi! Awesome,you can dump those resources @ <#C010AAKGXDL|data-team> pool for now. Once the slack channel set we will organize it in different trades. ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584644042.009400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B9+P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi! Awesome,you can dump those resources @ "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010AAKGXDL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pool for now. Once the slack channel set we will organize it in different trades. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584644195.009600",
+        "user": "U01087PJBNG",
+        "text": "<@U01087PJBNG> has joined the channel"
+    },
+    {
+        "client_msg_id": "40de7159-bca9-434c-a007-1034a624a394",
+        "type": "message",
+        "text": "Hey <@U0107A7161E> - What do you mean by resource sharing and mutual aid networks? Do you have resources around the virus and Ethiopia? Are you more into the tech or low tech solutions? We can guide you towards where you would be a best fit",
+        "user": "U0107JERE9L",
+        "ts": "1584644502.011200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrrU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - What do you mean by resource sharing and mutual aid networks? Do you have resources around the virus and Ethiopia? Are you more into the tech or low tech solutions? We can guide you towards where you would be a best fit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "027e7684-299d-4297-9a9d-3041c4596027",
+        "type": "message",
+        "text": "Hi <@U0107JERE9L>! I was thinking something more comprehensive but similar to what students in boston did after evictions: <https://crmutualaid.com/>",
+        "user": "U0107A7161E",
+        "ts": "1584644585.011800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1584644678.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I was thinking something more comprehensive but similar to what students in boston did after evictions: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://crmutualaid.com/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584644585.011800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584647780.013300",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a139fbe5-982e-4f36-ba38-02f6b26fab35",
+        "type": "message",
+        "text": "so connecting people with resources to people who need those resources",
+        "user": "U0107A7161E",
+        "ts": "1584644602.012300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZsI/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so connecting people with resources to people who need those resources"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584644602.012300",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1584658026.048500",
+        "reply_users": [
+            "UVB9ZSPCH",
+            "U0107A7161E",
+            "U0107JERE9L",
+            "U0106M26108"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584645361.012600",
+        "user": "UVALABD6F",
+        "text": "<@UVALABD6F> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584646157.012800",
+        "user": "UVC2LHU9X",
+        "text": "<@UVC2LHU9X> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584647271.013000",
+        "user": "U010787AZ2T",
+        "text": "<@U010787AZ2T> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584647355.013200",
+        "user": "U010BSJ55MK",
+        "text": "<@U010BSJ55MK> has joined the channel"
+    },
+    {
+        "client_msg_id": "66bf0173-f53c-4eb4-ad17-a8e23e5b9494",
+        "type": "message",
+        "text": "Hey <@U0107A7161E> - I think there is already a group working on this. Let me verify and get back to you.",
+        "user": "U0107JERE9L",
+        "ts": "1584647780.013300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xf74A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I think there is already a group working on this. Let me verify and get back to you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584644585.011800",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584648171.017000",
+        "user": "UV6JJDDKL",
+        "text": "<@UV6JJDDKL> has joined the channel"
+    },
+    {
+        "client_msg_id": "94DA7E16-E138-4B1E-91C8-722C095D451B",
+        "type": "message",
+        "text": "Hi all. Hope everyone is well. Joined very recently so I am not sure where the need is currently. However, Ethiopian Community Mutual Alliance Association has a site which I help maintain and can be used to host some of the dashboard and news update ideas mentioned.",
+        "user": "UVC2LHU9X",
+        "ts": "1584648185.017100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zgW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all. Hope everyone is well. Joined very recently so I am not sure where the need is currently. However, Ethiopian Community Mutual Alliance Association has a site which I help maintain and can be used to host some of the dashboard and news update ideas mentioned."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584648185.017100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584650448.025400",
+        "reply_users": [
+            "UVB9ZSPCH",
+            "UVC2LHU9X"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584648531.017300",
+        "user": "U0106M27EKS",
+        "text": "<@U0106M27EKS> has joined the channel"
+    },
+    {
+        "client_msg_id": "EE9D4AED-C95D-40A6-95E5-56ED8C43E4B1",
+        "type": "message",
+        "text": "Hi <@U0107A7161E> can you clarify your Q?",
+        "user": "UVB9ZSPCH",
+        "ts": "1584649828.018000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3IZIk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you clarify your Q?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584644602.012300",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "4583895F-9520-4F19-BAF8-6162C12248E5",
+        "type": "message",
+        "text": "Hi <@UVC2LHU9X> Wel come! Can you download those resources and share them @ <#C010AAKGXDL|data-team> ?\nCheck of those doc\u2019s are translated to diff languages,that would be a winner! When you post then try to organize them so that they make send to the trade and also don\u2019t forget to refer resources. Thanks ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584650023.022100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVC2LHU9X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Wel come! Can you download those resources and share them @ "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010AAKGXDL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?\nCheck of those doc\u2019s are translated to diff languages,that would be a winner! When you post then try to organize them so that they make send to the trade and also don\u2019t forget to refer resources. Thanks "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584648185.017100",
+        "parent_user_id": "UVC2LHU9X"
+    },
+    {
+        "client_msg_id": "bcc0087d-e55c-4b66-9a21-c211b95c4e3f",
+        "type": "message",
+        "text": "Hi <@UVB9ZSPCH>. I was thinking of a way (if this doesnt already exist) to connected people to share resources. Since people will be impacted differently, we can facilitate connecting people in their community to other who can offer support or help.\n\nIn disaster response, mutual aid can be a good stop gap measure to address needs before they can be addressed by the government. This is done normally by tapping into existing networks like (neighborhood or city organizations, LOCAL religious orgs, informal medical or funerary groups, or leagues of sports teams, etc.)\n\nFor example, boston is doing this for students who were kicked out of their dorms. Linking the conversation with <@U0107JERE9L> below. <https://ethiopia-covid19.slack.com/archives/C010CNGTLKF/p1584644585011800>",
+        "user": "U0107A7161E",
+        "ts": "1584650086.022300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1584650410.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010CNGTLKF/p1584644585011800",
+                "fallback": "[March 19th, 2020 12:03 PM] samralakew: Hi <@U0107JERE9L>! I was thinking something more comprehensive but similar to what students in boston did after evictions: <https://crmutualaid.com/>",
+                "ts": "1584644585.011800",
+                "author_id": "U0107A7161E",
+                "author_subname": "Samra Lakew",
+                "channel_id": "C010CNGTLKF",
+                "channel_name": "product-management",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Hi <@U0107JERE9L>! I was thinking something more comprehensive but similar to what students in boston did after evictions: <https://crmutualaid.com/>",
+                "author_name": "Samra Lakew",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107A7161E",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-18/1010401783760_4b935ef07924db0d489d_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C010CNGTLKF/p1584644585011800",
+                "footer": "Thread in #product-management"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NkAn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I was thinking of a way (if this doesnt already exist) to connected people to share resources. Since people will be impacted differently, we can facilitate connecting people in their community to other who can offer support or help.\n\nIn disaster response, mutual aid can be a good stop gap measure to address needs before they can be addressed by the government. This is done normally by tapping into existing networks like (neighborhood or city organizations, LOCAL religious orgs, informal medical or funerary groups, or leagues of sports teams, etc.)\n\nFor example, boston is doing this for students who were kicked out of their dorms. Linking the conversation with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " below. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010CNGTLKF/p1584644585011800"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584644602.012300",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "C9C1417E-8234-4685-A848-1AA5CF7E8651",
+        "type": "message",
+        "text": "Hey <@UVB9ZSPCH>. Glad to be here. I have added the site info to the the Google Sheet <https://docs.google.com/spreadsheets/d/1f3FmGk1ywa77TEQLFPaBnOUn9RpVV5Zkb_77v34Tul0/edit?usp=drive_open&amp;ouid=0|https://docs.google.com/spreadsheets/d/1f3FmGk1ywa77TEQLFPaBnOUn9RpVV5Zkb_77v34Tul0/edit?usp=drive_open&amp;ouid=0>. Will join the data-team. Which docs? (I am willing to discuss in a call (Skype, Teams, over the phone) to better understand. ",
+        "user": "UVC2LHU9X",
+        "ts": "1584650448.025400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fBk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Glad to be here. I have added the site info to the the Google Sheet "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1f3FmGk1ywa77TEQLFPaBnOUn9RpVV5Zkb_77v34Tul0/edit?usp=drive_open&ouid=0",
+                                "text": "https://docs.google.com/spreadsheets/d/1f3FmGk1ywa77TEQLFPaBnOUn9RpVV5Zkb_77v34Tul0/edit?usp=drive_open&ouid=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Will join the data-team. Which docs? (I am willing to discuss in a call (Skype, Teams, over the phone) to better understand. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584648185.017100",
+        "parent_user_id": "UVC2LHU9X"
+    },
+    {
+        "client_msg_id": "7a091a57-096a-4408-b3f2-9277d22b0a48",
+        "type": "message",
+        "text": "<@UV8B0679P> <@U0106M26108> <@U0107AYF16H> <@UVAL943JP> - Does our dashboard, bot IT heavy work cover what Samra is suggesting? There is a lot going on so I want to make sure there isn't duplicate work.",
+        "user": "U0107JERE9L",
+        "ts": "1584650987.027200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H5+bH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVAL943JP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Does our dashboard, bot IT heavy work cover what Samra is suggesting? There is a lot going on so I want to make sure there isn't duplicate work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584644602.012300",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584651584.027500",
+        "user": "U0100B5MHDG",
+        "text": "<@U0100B5MHDG> has joined the channel"
+    },
+    {
+        "client_msg_id": "C8AB60BC-1A05-48DE-B506-35AFE9B724AB",
+        "type": "message",
+        "text": "Oho I see,that\u2019s awesome :clap::skin-tone-4: \nSo we have a handful of trade such as <#CVB97NQDP|communication-folks> \n<#CV8GEDED8|mereja> \nI will defer this request to <@U0106M26108> ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584652158.029100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T5H6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oho I see,that\u2019s awesome "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nSo we have a handful of trade such as "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CVB97NQDP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CV8GEDED8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I will defer this request to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584644602.012300",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584657065.045000",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    },
+    {
+        "client_msg_id": "74371131-3441-4efd-8b78-d1b8c7eb588b",
+        "type": "message",
+        "text": "Just some thoughts to spark ideation - so I'm not a local in Ethiopia nor am I an epidemiologist, so I don't want to prescribe solutions before better understanding what the actual needs are based on problems that've been identified from those more educated on what's going on. I'm planning to have a call with my cousin in Addis tomorrow so that he can give me a better picture of what things look like over there, but in the meantime I think we should really listen to those in the group who are local so we can optimize our efforts around initiatives that  1) have the greatest impact and 2) can be executed quickly. There are a few big-picture projects (reporting, etc) in the works, so I think this is a good place to discuss smaller picture projects targeting specific communities where we can provide immediate value.\n\nFrom a PM perspective, this is how I look at things:\n\u2022 The main goal of any initiative we take is to contain the spread of the virus. Everything else seems to fall under this...but correct me if I am wrong.\n\u2022 Time is an essential variable here, so anything we do should be quickly shippable and have an immediate impact. We should take advantage of existing tools/communication channels when possible.\n\u2022 Generally understood \"best\" ways to contain the virus are education (hygiene, communication of risks/symptoms, treatment, etc.), protection (staying home, covering cough, cleaning) and anything else in support of these - live streaming service for church or mobile payments, for instance \n\u2022 In general, the population we are building for has low access to tech/internet access, so we should keep this in mind with any considerations (i.e. perhaps some solutions require someone local to help facilitate, etc.). The elderly population is most vulnerable and has least access. Many have access to phones, but what about those who don't?  \n\u2022 Some solutions may not require a technical element! Worth keeping in mind.\nHope that this starts some conversations around what we can begin to do in support.",
+        "user": "U010B7Q6XE0",
+        "ts": "1584657574.047300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vGTsS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just some thoughts to spark ideation - so I'm not a local in Ethiopia nor am I an epidemiologist, so I don't want to prescribe solutions before better understanding what the actual needs are based on problems that've been identified from those more educated on what's going on. I'm planning to have a call with my cousin in Addis tomorrow so that he can give me a better picture of what things look like over there, but in the meantime I think we should really listen to those in the group who are local so we can optimize our efforts around initiatives that  1) have the greatest impact and 2) can be executed quickly. There are a few big-picture projects (reporting, etc) in the works, so I think this is a good place to discuss smaller picture projects targeting specific communities where we can provide immediate value.\n\nFrom a PM perspective, this is how I look at things:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The main goal of any initiative we take is to contain the spread of the virus. Everything else seems to fall under this...but correct me if I am wrong."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Time is an essential variable here, so anything we do should be quickly shippable and have an immediate impact. We should take advantage of existing tools/communication channels when possible."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Generally understood \"best\" ways to contain the virus are education (hygiene, communication of risks/symptoms, treatment, etc.), protection (staying home, covering cough, cleaning) and anything else in support of these - live streaming service for church or mobile payments, for instance "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In general, the population we are building for has low access to tech/internet access, so we should keep this in mind with any considerations (i.e. perhaps some solutions require someone local to help facilitate, etc.). The elderly population is most vulnerable and has least access. Many have access to phones, but what about those who don't?  "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Some solutions may not require a technical element! Worth keeping in mind."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nHope that this starts some conversations around what we can begin to do in support."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584657574.047300",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1584659046.052700",
+        "reply_users": [
+            "U0107JERE9L",
+            "UVB9ZSPCH",
+            "U010B7Q6XE0"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108",
+                    "U0107A7161E",
+                    "U010AASPU7Q"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0106M26108",
+                    "UVB9ZSPCH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7890692b-41b0-4d14-8204-2bd932e0a02e",
+        "type": "message",
+        "text": "<@U0107A7161E>, you on it!\n\nBut yea, currently we don\u2019t have this particular initiative in the works. We all got together originally over building software solutions, specifically catering to asks that we know DO NOT exist there.\n\nAlthough I can\u2019t say for sure, regarding it\u2019s existence (maybe we can throw this in the <https://docs.google.com/spreadsheets/d/1TteOUncrCUHNY5xOK9V1l9jAZw4mcWeXQHDSLtCY0tE/edit?usp=sharing|doc here> &amp; folks on the ground can share), otherwise, the common thread on this topic has been staying in &amp; around software, since most of the people here are abroad &amp; we need some sort of focus.\n\nThrow it on the doc, though! Who knows? We might learn of an org or initiative doing the work that we can support!",
+        "user": "U0106M26108",
+        "ts": "1584657928.047400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wvnyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you on it!\n\nBut yea, currently we don\u2019t have this particular initiative in the works. We all got together originally over building software solutions, specifically catering to asks that we know DO NOT exist there.\n\nAlthough I can\u2019t say for sure, regarding it\u2019s existence (maybe we can throw this in the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1TteOUncrCUHNY5xOK9V1l9jAZw4mcWeXQHDSLtCY0tE/edit?usp=sharing",
+                                "text": "doc here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & folks on the ground can share), otherwise, the common thread on this topic has been staying in & around software, since most of the people here are abroad & we need some sort of focus.\n\nThrow it on the doc, though! Who knows? We might learn of an org or initiative doing the work that we can support!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584644602.012300",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "7771FC71-D0D2-447E-B887-58E7E90BF5E4",
+        "type": "message",
+        "text": "Thank you Sefanit! That makes sense. I will throw it on doc ",
+        "user": "U0107A7161E",
+        "ts": "1584658026.048500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvE8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Sefanit! That makes sense. I will throw it on doc "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584644602.012300",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "BBA3C430-CEBB-48D6-A1AA-CB9929B72AAD",
+        "type": "message",
+        "text": "<@U010B7Q6XE0> these are very important perspectives and help us to outline goal and game plan. Can you creat a google folder and plug the bulletin there so that PM team develop it as we go? ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584658712.051400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t3hz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " these are very important perspectives and help us to outline goal and game plan. Can you creat a google folder and plug the bulletin there so that PM team develop it as we go? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010B7Q6XE0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b73cba3-a5c0-4c1f-b284-e4558850ce7a",
+        "type": "message",
+        "text": "Hello <@U010B7Q6XE0> - I am total agreement with the points you raised. I am focusing on the low/no tech solutions to some of the urgent /high impact things. Towards that end, I created folders and asked folks to generate ideas for 3 main ideas.",
+        "user": "U0107JERE9L",
+        "ts": "1584658755.051500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oxe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I am total agreement with the points you raised. I am focusing on the low/no tech solutions to some of the urgent /high impact things. Towards that end, I created folders and asked folks to generate ideas for 3 main ideas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584657574.047300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "fedd218c-c691-4ce5-b8c3-938abc3dc1a6",
+        "type": "message",
+        "text": "Please add anything relevant to them at the corresponding google drive.\nWe are looking for actionable items so it can be used asap.\nTHANK YOU!\n\n1) Low tech ideas to identify and track folks that are positive.\nSpreadsheet - <https://drive.google.com/drive/folders/1hFYPAI-i-HsgAlTYyTFrCcDASNLkSX7x?usp=sharing>\n\n2. Creative campaigns - graphics &amp; content around reducing stigma of being potentially infected\n\nSpreadsheet -  <https://drive.google.com/drive/folders/1hpqhvzBOx4o9w9676SGsT0c-4LJpP4n4?usp=sharing>\n\n\n3. Ideas to help and protect the healthcare workers. Eg.. nurses in the US are creating DIY protective gear. Any information on details of material to do that or other ideas.\n\nSpreadsheet -  <https://drive.google.com/drive/folders/1lVap5ylRncPf_dZA0b5qT_qZiUj0ziD7?usp=sharing>",
+        "user": "U0107JERE9L",
+        "ts": "1584658764.051700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "76jn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please add anything relevant to them at the corresponding google drive.\nWe are looking for actionable items so it can be used asap.\nTHANK YOU!\n\n1) Low tech ideas to identify and track folks that are positive.\nSpreadsheet - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1hFYPAI-i-HsgAlTYyTFrCcDASNLkSX7x?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n2. Creative campaigns - graphics & content around reducing stigma of being potentially infected\n\nSpreadsheet -  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1hpqhvzBOx4o9w9676SGsT0c-4LJpP4n4?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n3. Ideas to help and protect the healthcare workers. Eg.. nurses in the US are creating DIY protective gear. Any information on details of material to do that or other ideas.\n\nSpreadsheet -  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1lVap5ylRncPf_dZA0b5qT_qZiUj0ziD7?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584657574.047300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "74b576de-66a4-49df-aa6a-a77e701bd225",
+        "type": "message",
+        "text": "If you have ideas or can get a group together to address some of these problems/ideas, that would be great.",
+        "user": "U0107JERE9L",
+        "ts": "1584658798.051900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OzerW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you have ideas or can get a group together to address some of these problems/ideas, that would be great."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584657574.047300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "BA460A67-2967-45F4-8622-25C7256A1F87",
+        "type": "message",
+        "text": "<@U0107JERE9L> like minds:hugging_face:",
+        "user": "UVB9ZSPCH",
+        "ts": "1584658819.052500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " like minds"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584657574.047300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "b312479f-6cf7-45aa-ba2d-e1b9655e9854",
+        "type": "message",
+        "text": "amazing! When I finish up with work tonight I will take a look and bring on some others I know who might also be able to help",
+        "user": "U010B7Q6XE0",
+        "ts": "1584659046.052700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EVPfb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "amazing! When I finish up with work tonight I will take a look and bring on some others I know who might also be able to help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584657574.047300",
+        "parent_user_id": "U010B7Q6XE0"
+    }
+]

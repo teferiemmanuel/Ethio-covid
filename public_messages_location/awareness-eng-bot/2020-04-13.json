@@ -1,0 +1,522 @@
+[
+    {
+        "client_msg_id": "534a92d2-b2a7-44b5-b47c-a6311d785bd3",
+        "type": "message",
+        "text": "Thanks for sharing, <@UV8B0679P>! Looking through the source of at least two of the apps, it's clear that the API is not being used today but that's okay because we've never been clear on how the API should be leveraged for the bots.",
+        "user": "U0105ALMEKU",
+        "ts": "1586747767.103000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qcze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for sharing, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Looking through the source of at least two of the apps, it's clear that the API is not being used today but that's okay because we've never been clear on how the API should be leveraged for the bots."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "2fa7aa52-a44a-4e04-97f8-e7c07065eda4",
+        "type": "message",
+        "text": "Hi <@UVA2XJDPC>\u00a0<@UV6JJDDKL>\u00a0<@U010BSJ55MK>\u00a0<@U010JAMHQUC>\u00a0and <@U0107JDFH1U>, is it possible to have you gents complete filling out the spreadsheet by end of day today? Shouldn't take more than 5 mins. If you're not the right PoC, just simply plus in the right person.",
+        "user": "U0105ALMEKU",
+        "ts": "1586796121.104000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m2fK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVA2XJDPC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JJDDKL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BSJ55MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JAMHQUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JDFH1U"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", is it possible to have you gents complete filling out the spreadsheet by end of day today? Shouldn't take more than 5 mins. If you're not the right PoC, just simply plus in the right person."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632383.084200",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "type": "message",
+        "text": "<!channel> In parallel to the Launch Tracker above, I've gone ahead and generated a requirements doc for us to sign-off and build-towards. Each of the currently listed bot owners (<@UVA2XJDPC>\u00a0<@UV6JJDDKL>\u00a0<@U010BSJ55MK>\u00a0<@U010JAMHQUC>\u00a0<@U0107JDFH1U>) &amp; <@UV8B0679P> have been listed as individuals who need to sign off. This will help us align on what should be launched going forward. Could you all kindly review the doc and provide your feedback/comments/approvals by end of day Wednesday?\n\n<https://docs.google.com/document/d/1V0BPp6yum4s5vlUgWJ9sJRXQqpCO8Ak4vUIDf_C2vys/edit#>",
+        "files": [
+            {
+                "id": "F011KMUQ90E",
+                "created": 1586756439,
+                "timestamp": 1586756439,
+                "name": "[DRAFT] COVID-19 Self-Diagnosis Bots - Requirements Doc",
+                "title": "[DRAFT] COVID-19 Self-Diagnosis Bots - Requirements Doc",
+                "mimetype": "application/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "GSuite Document",
+                "user": "U0105ALMEKU",
+                "editable": false,
+                "size": 6694,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/document/d/1V0BPp6yum4s5vlUgWJ9sJRXQqpCO8Ak4vUIDf_C2vys/edit#",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011KMUQ90E-068954fa98/_draft__covid-19_self-diagnosis_bots_-_requirements_doc_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011KMUQ90E-068954fa98/_draft__covid-19_self-diagnosis_bots_-_requirements_doc_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011KMUQ90E-068954fa98/_draft__covid-19_self-diagnosis_bots_-_requirements_doc_360.png",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011KMUQ90E-068954fa98/_draft__covid-19_self-diagnosis_bots_-_requirements_doc_480.png",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011KMUQ90E-068954fa98/_draft__covid-19_self-diagnosis_bots_-_requirements_doc_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011KMUQ90E-068954fa98/_draft__covid-19_self-diagnosis_bots_-_requirements_doc_720.png",
+                "thumb_720_w": 557,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011KMUQ90E-068954fa98/_draft__covid-19_self-diagnosis_bots_-_requirements_doc_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011KMUQ90E-068954fa98/_draft__covid-19_self-diagnosis_bots_-_requirements_doc_960.png",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011KMUQ90E-068954fa98/_draft__covid-19_self-diagnosis_bots_-_requirements_doc_1024.png",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 1035,
+                "thumb_tiny": "AwAwACXRJwe9G4+jflSMRnnH50Bl9R+BoAcMn1H1owfWm7l9f1o3L/e/WgB9FICCODS0AIRz0zQRx0oxz1owfWgBtH5UGigBwpaQUtACE89aM8daXFGKAGUU7bRj3oABS0AYooA//9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0105ALMEKU/F011KMUQ90E/_draft__covid-19_self-diagnosis_bots_-_requirements_doc",
+                "is_starred": false,
+                "external_id": "1V0BPp6yum4s5vlUgWJ9sJRXQqpCO8Ak4vUIDf_C2vys",
+                "external_url": "https://docs.google.com/document/d/1V0BPp6yum4s5vlUgWJ9sJRXQqpCO8Ak4vUIDf_C2vys/edit#",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gNmAO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " In parallel to the Launch Tracker above, I've gone ahead and generated a requirements doc for us to sign-off and build-towards. Each of the currently listed bot owners ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVA2XJDPC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JJDDKL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BSJ55MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JAMHQUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JDFH1U"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have been listed as individuals who need to sign off. This will help us align on what should be launched going forward. Could you all kindly review the doc and provide your feedback/comments/approvals by end of day Wednesday?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1V0BPp6yum4s5vlUgWJ9sJRXQqpCO8Ak4vUIDf_C2vys/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0105ALMEKU",
+        "display_as_bot": false,
+        "x_files": [
+            "F011KMUQ90E"
+        ],
+        "ts": "1586796357.107400",
+        "client_msg_id": "d27cfcc6-b398-4e13-8ed2-1dd6503e7742",
+        "thread_ts": "1586796357.107400",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1586899644.125100",
+        "reply_users": [
+            "U0105ALMEKU",
+            "U0107898C9M"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2053719a-fd15-40ef-879d-8620a2ac37b0",
+        "type": "message",
+        "text": "PS - Thanks <@U010L4EAWBZ> for the contributions as well!",
+        "user": "U0105ALMEKU",
+        "ts": "1586796466.108000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fAkB3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PS - Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L4EAWBZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the contributions as well!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586796357.107400",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "903fc389-769c-4721-80c0-cda8c9ed1dd7",
+        "type": "message",
+        "text": "<@U0105ALMEKU> sure. I will look forward.",
+        "user": "UV6JJDDKL",
+        "ts": "1586796893.108900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gx=N=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105ALMEKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sure. I will look forward."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105ALMEKU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "235B0D4D-B240-41A1-8C89-79362BF2742C",
+        "type": "message",
+        "text": "I have built some of the features you listed on the telegram bot, <https://t.me/covid_robot|https://t.me/covid_robot> ",
+        "user": "U0107898C9M",
+        "ts": "1586809941.110200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107898C9M",
+            "ts": "1586809959.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Telegram",
+                "title": "COVID19",
+                "title_link": "https://t.me/covid_robot",
+                "text": "This bot is for Reporting, Statistics of the world/Ethiopia, Tips and Symptoms for COVID19. Feedback : @blk47",
+                "fallback": "Telegram: COVID19",
+                "thumb_url": "https://cdn4.telesco.pe/file/Yn7oXqvx20rdBdoZs6wX4NaPOA5iwcsk3Shh0UlVtuiy2lFpl1pKf9ziYsKnaeIsQyCC_9_xWJzMFPlNIc-MhDNZTJ7WIE1REUkjf03PKNeIJAYfxO_NVQzFRf8NZr1qENK96hQwCMN6WWwNvlG0mtw8h0_kAsMZN3ACvfkejKBbYX3kWjuRLSpJk1JwniL9I0ocri28LdGUiwzCDJtKqnyR82a_mL2gTsWhacqa6rlvvJysTHt7Lb9d921S-J3A4ARmHW5s0hC2a6wCJiDJajxaPa5qsy0cqGtSwIWDdVr-4r-XXgvB2zJ7PEs-mjfzhhy1vv6vYJj02DlB7oR1Cg.jpg",
+                "from_url": "https://t.me/covid_robot",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "service_icon": "http://telegram.org/favicon.ico?3",
+                "id": 1,
+                "original_url": "https://t.me/covid_robot"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkFbY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have built some of the features you listed on the telegram bot, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://t.me/covid_robot",
+                                "text": "https://t.me/covid_robot"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586796357.107400",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "client_msg_id": "cd26112a-04e3-48d3-b3e6-ff6e3ab6ba4d",
+        "type": "message",
+        "text": "Gotcha!",
+        "user": "U0105ALMEKU",
+        "ts": "1586810966.110900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QzU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gotcha!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586796357.107400",
+        "parent_user_id": "U0105ALMEKU"
+    },
+    {
+        "type": "message",
+        "text": "<@U0107898C9M>, happy to hear that! In that case, do you mind updating this doc with the details:\n<https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0>",
+        "files": [
+            {
+                "id": "F011VJYM6G4",
+                "created": 1586631911,
+                "timestamp": 1586631911,
+                "name": "Covid Bots Feature Set",
+                "title": "COVID-19 Bots, Apps, and Sites - Launch Tracker",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0105ALMEKU",
+                "editable": false,
+                "size": 438299,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_360.png",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_480.png",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_720.png",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_960.png",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011VJYM6G4-d56fa98fb6/covid_bots_feature_set_1024.png",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1449,
+                "thumb_tiny": "AwAwACHSJOeKOfWg9aWgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0105ALMEKU/F011VJYM6G4/covid_bots_feature_set",
+                "is_starred": false,
+                "external_id": "1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY",
+                "external_url": "https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5lioL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", happy to hear that! In that case, do you mind updating this doc with the details:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1sSzKLhdDm9mBCtO1WCI2-2IJs9BsdOGaT9-v1AfuGFY/edit#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0105ALMEKU",
+        "display_as_bot": false,
+        "x_files": [
+            "F011VJYM6G4"
+        ],
+        "ts": "1586811000.111100",
+        "client_msg_id": "05b13d89-0f8b-448b-a6bd-4ecea94a49b4",
+        "thread_ts": "1586796357.107400",
+        "parent_user_id": "U0105ALMEKU"
+    }
+]

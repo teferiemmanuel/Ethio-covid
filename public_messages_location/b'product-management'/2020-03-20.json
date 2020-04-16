@@ -1,0 +1,829 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584664685.056700",
+        "user": "U010AASPU7Q",
+        "text": "<@U010AASPU7Q> has joined the channel"
+    },
+    {
+        "client_msg_id": "d8b116f5-88ba-4330-88e3-757f7eb114e1",
+        "type": "message",
+        "text": "Came across an idea from <@U01084LG140> about making grocery delivery available for elderly. Question for locals - if stores had a delivery option, do you think it would be accessible/utilized? Does something similar exist already?",
+        "user": "U010B7Q6XE0",
+        "ts": "1584668519.059300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7QikG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Came across an idea from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01084LG140"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about making grocery delivery available for elderly. Question for locals - if stores had a delivery option, do you think it would be accessible/utilized? Does something similar exist already?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "reply_count": 33,
+        "reply_users_count": 7,
+        "latest_reply": "1585152059.000800",
+        "reply_users": [
+            "U010AASPU7Q",
+            "U010B7Q6XE0",
+            "U0107JERE9L",
+            "U01084LG140",
+            "U010787AZ2T",
+            "UVA8BCCBV",
+            "UVAL943JP"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584668524.059500",
+        "user": "U01084LG140",
+        "text": "<@U01084LG140> has joined the channel",
+        "inviter": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "52453c34-6ecd-4def-8bcb-6498af5fac8b",
+        "type": "message",
+        "text": "yeah, have you heard of <https://addismercato.com/en/> ? I'm sure there are other small competitors, but I've seen alot of advertisements for addis mercato. Unsure of how much it's actually used on ground tho",
+        "user": "U010AASPU7Q",
+        "ts": "1584669564.059600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Addis Mercato",
+                "title_link": "https://addismercato.com/en/",
+                "text": "Welcome to Ethiopia's first end-to-end online marketplace.\u00a0We bring the store to you!Try hassle-free shopping for a change! No need to fight traffic or parking. Go ahead and select fresh food items from the best supermarkets and stores in town and experience our top-notch customer service.\u00a0We encourage you to register and start placing items in your cart so we can deliver them straight to your doorstep!\u00a0Please refer to the videos below to learn how to\u00a0Register\u00a0and\u00a0Save Your Address\u00a0in your profile.\u130d\u1265\u12ed\u1275\u12ce\u1295 \u1208\u121b\u1243\u1208\u120d \u12a0\u12f2\u1235 \u1218\u122d\u12ab\u1276 \u12e8\u121a\u12eb\u1235\u1348\u120d\u130d\u12ce\u1275\u1295 \u1201\u1209 \u12a5\u1264\u1275\u12ce \u12f5\u1228\u1235 \u12eb\u1240\u122d\u1263\u120d\u1362\u00a0\u12a8\u12a6\u1295\u120b\u12ed\u1295 \u1231\u1243\u127d\u1295 \u121b\u1295\u129b\u12cd\u1295\u121d \u121d\u122d\u1275 \u121b\u12d8\u12dd \u12a8\u1348\u1208\u1309 \u12db\u122c\u12cd\u1291 \u12ed\u1218\u12dd\u1308\u1261\u1293 \u1275\u12d5\u12db\u12dd\u12ce\u1295 \u12eb\u1235\u1308\u1261\u1362\u12a8\u12da\u1205 \u1260\u1273\u127d \u1263\u1208\u12cd \u126a\u12f2\u12ee \u12a5\u1295\u12f4\u1275\u00a0\u12a5\u1295\u12f0\u121a\u1218\u12d8\u1308\u1261\u00a0\u12a5\u1293\u00a0\u12a0\u12f5\u122b\u123b\u12ce\u1275\u1295 \u12a5\u1295\u12f0\u121a\u1320\u1241\u1219\u1295\u00a0\u12ed\u1218\u120d\u12a8\u1271\u1362Learn how to:1) How to Register and Save Your Address\u1260\u12da\u1205 \u126a\u12f2\u12ee \u12a5\u1295\u12f4\u1275 \u12a0\u12f5\u122b\u123b \u12a5\u1295\u12f0\u121a\u12eb\u1235\u1240\u121d\u1321 \u12a5\u1293\u1233\u12ed\u12ce\u1273\u1208\u1295\u13622) Item Selection and Checkout\u1240\u1325\u120e\u121d \u130d\u1265\u12ed\u1275\u1293 \u12ad\u134d\u12eb \u12a0\u12f0\u122b\u1228\u130d \u1260\u12da\u1205 \u126a\u12f5\u12ee \u12ed\u1218\u120d\u12a8\u1271\u1362English Version: How to Register and Save Delivery Address on <http://AddisMercato.com|AddisMercato.com>",
+                "fallback": "Addis Mercato",
+                "image_url": "https://addismercato.com/images/simplecms/logo_addis.png",
+                "from_url": "https://addismercato.com/en/",
+                "image_width": 498,
+                "image_height": 250,
+                "image_bytes": 18361,
+                "service_icon": "https://addismercato.com/images/simplecms/appleIcon_addis_icon.png",
+                "service_name": "addismercato.com",
+                "id": 1,
+                "original_url": "https://addismercato.com/en/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1hae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah, have you heard of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://addismercato.com/en/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? I'm sure there are other small competitors, but I've seen alot of advertisements for addis mercato. Unsure of how much it's actually used on ground tho"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "a946e678-5488-4ae6-a069-44f119d245e5",
+        "type": "message",
+        "text": "super interesting, thanks for sharing. I'm familiar w/ <https://deliveraddis.com/|Deliver Addis> but not this. Speaking with my cousin who is well connected there tomorrow - will ask him if he can connect us with them or similar resources. Would love to chat with them about how we could help support making this more widely available",
+        "user": "U010B7Q6XE0",
+        "ts": "1584670797.059900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Deliver Addis: Online restaurant delivery in Addis Ababa",
+                "title_link": "https://deliveraddis.com/",
+                "text": "Ethiopia's #1 online delivery service featuring some of the best spots in town.",
+                "fallback": "Deliver Addis: Online restaurant delivery in Addis Ababa",
+                "image_url": "https://deliveraddis.com/img/fb-image.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https://deliveraddis.com/",
+                "image_bytes": 68017,
+                "service_icon": "https://deliveraddis.com/img/apple-touch-icon-57x57.png",
+                "service_name": "Deliver Addis: Ethiopia's leading online delivery service for restaurants & more.",
+                "id": 1,
+                "original_url": "https://deliveraddis.com/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B0G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "super interesting, thanks for sharing. I'm familiar w/ "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://deliveraddis.com/",
+                                "text": "Deliver Addis"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but not this. Speaking with my cousin who is well connected there tomorrow - will ask him if he can connect us with them or similar resources. Would love to chat with them about how we could help support making this more widely available"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "d11298ed-d0d2-4496-a064-39bae5ccd336",
+        "type": "message",
+        "text": "Great progress <@U010B7Q6XE0>... If there is a way to make this happen, lets see if we can include medicine and or hand sanitizes as things we could include for the folks that are high risk. I am not certain we will have access to all that yet but clearing up the possibilities with the carriers is a good idea. Keep going.",
+        "user": "U0107JERE9L",
+        "ts": "1584675856.060200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xcA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great progress "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "... If there is a way to make this happen, lets see if we can include medicine and or hand sanitizes as things we could include for the folks that are high risk. I am not certain we will have access to all that yet but clearing up the possibilities with the carriers is a good idea. Keep going."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010B7Q6XE0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec18d574-0d78-41be-b5b7-6a8dd3da3750",
+        "type": "message",
+        "text": "<@U010B7Q6XE0> Also would be interesting to see if these delivery services offer telephone ordering, or if it is possible to have a person as a middle man that can order for people that do not have access to the necessary internet/device requirements. Just to make it accessible to more people on the ground.",
+        "user": "U01084LG140",
+        "ts": "1584687500.060400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nqGTk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Also would be interesting to see if these delivery services offer telephone ordering, or if it is possible to have a person as a middle man that can order for people that do not have access to the necessary internet/device requirements. Just to make it accessible to more people on the ground."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "392a92d1-59db-4206-9993-b32d4c1596ca",
+        "type": "message",
+        "text": "Just received this Yelp like review of a local Grocery Delivery....\n\nFor those interested, we just gave this online grocery delivery service a try and were pleased. Delivery man was wearing gloves and respectfully kept his distance, as did we. \n<https://asbeza.net|https://asbeza.net>",
+        "user": "U010787AZ2T",
+        "ts": "1584690875.060600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just received this Yelp like review of a local Grocery Delivery....\n\nFor those interested, we just gave this online grocery delivery service a try and were pleased. Delivery man was wearing gloves and respectfully kept his distance, as did we. \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://asbeza.net",
+                                "text": "https://asbeza.net"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "f8d5dfcd-573c-4029-b151-9dc5cd1da470",
+        "type": "message",
+        "text": "Also a Kebele around CMC is driving around with a megaphone encouraging people to stay home and offering home delivery of the basic items such as oil, sugar, oil, ... from the kebele, especially to elderly people.",
+        "user": "U010787AZ2T",
+        "ts": "1584691070.060800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIcd1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also a Kebele around CMC is driving around with a megaphone encouraging people to stay home and offering home delivery of the basic items such as oil, sugar, oil, ... from the kebele, especially to elderly people."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "a161d1c0-d8b3-43ab-965a-d7733a660124",
+        "type": "message",
+        "text": "<@U01084LG140> Great point - telephone ordering is seems like it would be the most accessible. Will look into this",
+        "user": "U010B7Q6XE0",
+        "ts": "1584711007.061100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WUFwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084LG140"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Great point - telephone ordering is seems like it would be the most accessible. Will look into this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "e516afca-ea01-4809-a429-2ba213962c0e",
+        "type": "message",
+        "text": "<@U010787AZ2T> thank you for sharing! this is great - will try to get in touch with them to learn more about how they operate/see if we can work together",
+        "user": "U010B7Q6XE0",
+        "ts": "1584711047.061300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Wl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010787AZ2T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you for sharing! this is great - will try to get in touch with them to learn more about how they operate/see if we can work together"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "b66f2856-4637-492d-998d-cbf5b76fcbb4",
+        "type": "message",
+        "text": "<@U010B7Q6XE0> I just sent an invite to the owner/founder of Asbeza",
+        "user": "U010787AZ2T",
+        "ts": "1584722865.061500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NA4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I just sent an invite to the owner/founder of Asbeza"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "b25a4741-bbe5-4413-987c-f381349129ff",
+        "type": "message",
+        "text": "Perfect. Just spoke w/ my cousin in Addis and he mentioned <https://zmallshop.com/deliveries/addis-ababa|Zmall> as another grocery delivery option as well. I'm having him join the group because he has some really interesting perspective on current initiatives/what is worth working on. He did mention that many elders already live w/ children/grandchildren who can help w/ picking up necessities. Zmall also has an option for ordering over the phone which helps w/ the idea of supporting those w/ low tech access",
+        "user": "U010B7Q6XE0",
+        "ts": "1584723559.061700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mvDWl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect. Just spoke w/ my cousin in Addis and he mentioned "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://zmallshop.com/deliveries/addis-ababa",
+                                "text": "Zmall"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as another grocery delivery option as well. I'm having him join the group because he has some really interesting perspective on current initiatives/what is worth working on. He did mention that many elders already live w/ children/grandchildren who can help w/ picking up necessities. Zmall also has an option for ordering over the phone which helps w/ the idea of supporting those w/ low tech access"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "9e9a7bcd-d823-44d6-af22-c26396b7ade4",
+        "type": "message",
+        "text": "He mentioned that these companies like Asbeza/Zmall are small, so getting them to support more people would require getting all of them on board",
+        "user": "U010B7Q6XE0",
+        "ts": "1584723623.061900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5dn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He mentioned that these companies like Asbeza/Zmall are small, so getting them to support more people would require getting all of them on board"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "24b1b097-733d-42d9-bc75-de207c83fafd",
+        "type": "message",
+        "text": "<@U010FBDN5QQ> thoughts here on the general idea of getting goods delivered w/ support of existing tools like these?",
+        "user": "U010B7Q6XE0",
+        "ts": "1584725168.062100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lBy8i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010FBDN5QQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thoughts here on the general idea of getting goods delivered w/ support of existing tools like these?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584725171.062400",
+        "user": "U010FBDN5QQ",
+        "text": "<@U010FBDN5QQ> has joined the channel",
+        "inviter": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "96c21439-7e41-44c5-8888-97274f012d52",
+        "type": "message",
+        "text": "<@U010B7Q6XE0> All of them are small...Startups...but this is the moment for them to scale.\nAsbeza charges 96birr whether you order 1birr or a 1,000birr worth of groceries. The issue will be who will cover the cost of delivery. Maybe this is where the external funding can come into play. \n<@U01087PJBNG>, wanna include this in your 1-pager?",
+        "user": "U010787AZ2T",
+        "ts": "1584726103.062500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "siKb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " All of them are small...Startups...but this is the moment for them to scale.\nAsbeza charges 96birr whether you order 1birr or a 1,000birr worth of groceries. The issue will be who will cover the cost of delivery. Maybe this is where the external funding can come into play. \n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01087PJBNG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", wanna include this in your 1-pager?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "b4c42f5a-d2a4-4aad-bc44-e1a005d4f91a",
+        "type": "message",
+        "text": "Yes, I agree that the cost of service seems to be the biggest hurdle at the moment. I'm curious if we can support them financially/convince them that reducing costs during this crisis can expand their reach now and is an opportunity to grow their user base and potentially create longer term revenue after the crisis is dealt with. <@U010FBDN5QQ> might have some insights here as he is familiar with building business partnerships in Addis",
+        "user": "U010B7Q6XE0",
+        "ts": "1584726929.062700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Tkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I agree that the cost of service seems to be the biggest hurdle at the moment. I'm curious if we can support them financially/convince them that reducing costs during this crisis can expand their reach now and is an opportunity to grow their user base and potentially create longer term revenue after the crisis is dealt with. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010FBDN5QQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " might have some insights here as he is familiar with building business partnerships in Addis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "435e0a60-b774-46ad-86d3-26ddab046948",
+        "type": "message",
+        "text": "I think the best next steps here are to also get on the phone with people working at these companies to discuss further. It is late there now but I will reach out to them all via email/phone over the weekend to begin the conversation.",
+        "user": "U010B7Q6XE0",
+        "ts": "1584727050.062900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qgQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the best next steps here are to also get on the phone with people working at these companies to discuss further. It is late there now but I will reach out to them all via email/phone over the weekend to begin the conversation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "ca68a74c-3243-431a-ba51-da084b8f4dc1",
+        "type": "message",
+        "text": "In the meantime, please keep adding other delivery tools that you know of here so we can grow the list.",
+        "user": "U010B7Q6XE0",
+        "ts": "1584727081.063100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jHFOk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the meantime, please keep adding other delivery tools that you know of here so we can grow the list."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "a57d5877-8ffe-4d0f-a5f7-bc3ebfe5ece9",
+        "type": "message",
+        "text": ":+1::skin-tone-2:",
+        "user": "U010787AZ2T",
+        "ts": "1584727154.063300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QfUW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "d4d6155a-f0ee-4b32-b59e-0ede296082ed",
+        "type": "message",
+        "text": "<https://www.kedamegebeya.com/|Kedame Gebeya>\n<https://twitter.com/onkato_com?lang=en|Onkato>\n<https://helloomarket.com|HellooMarket> (delivers food+goods, perhaps leverage their delivery network)",
+        "user": "U010B7Q6XE0",
+        "ts": "1584727450.063500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010B7Q6XE0",
+            "ts": "1584728087.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QRrTM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.kedamegebeya.com/",
+                                "text": "Kedame Gebeya"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/onkato_com?lang=en",
+                                "text": "Onkato"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://helloomarket.com",
+                                "text": "HellooMarket"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (delivers food+goods, perhaps leverage their delivery network)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "7fb663a8-2d1c-449f-b612-af42a776466d",
+        "type": "message",
+        "text": "<@U010B7Q6XE0> Do you think ride-hailing services such as RIDE and ZayRide would be interested in these kind of initiatives? I believe ZayRide already offers delivery services and are also actively involved in the COVID19 situation. Worth a shot if someone has connections with them.",
+        "user": "U01084LG140",
+        "ts": "1584731000.063900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BaTS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do you think ride-hailing services such as RIDE and ZayRide would be interested in these kind of initiatives? I believe ZayRide already offers delivery services and are also actively involved in the COVID19 situation. Worth a shot if someone has connections with them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "3254663e-b2cc-4094-a4de-6d00bf72821c",
+        "type": "message",
+        "text": "Good point - can you look into this/see if anyone has connections there in this group?",
+        "user": "U010B7Q6XE0",
+        "ts": "1584731880.064100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r4T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good point - can you look into this/see if anyone has connections there in this group?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    },
+    {
+        "client_msg_id": "d390ba05-78b3-4fc8-83e1-0901d8428010",
+        "type": "message",
+        "text": "Habtamu (founder) is very active on linkedin. I'd highly suggest just reaching out to him once we finalize the specific ask",
+        "user": "U010AASPU7Q",
+        "ts": "1584732076.064300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Thr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Habtamu (founder) is very active on linkedin. I'd highly suggest just reaching out to him once we finalize the specific ask"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010B7Q6XE0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de5f50e7-eb2e-4fcc-8492-904732a13fc3",
+        "type": "message",
+        "text": "Yeah, right now I think the ask is to open a line of communication w/ them to learn if they're already doing anything to support Ethiopians at this time and whether they are interested in our support. From there I think we can work collaboratively with them to outline how we can best work together. I don't think we want to push any specific ideas on them quite yet since there are so many unknown variables.",
+        "user": "U010B7Q6XE0",
+        "ts": "1584735719.064600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZgMK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, right now I think the ask is to open a line of communication w/ them to learn if they're already doing anything to support Ethiopians at this time and whether they are interested in our support. From there I think we can work collaboratively with them to outline how we can best work together. I don't think we want to push any specific ideas on them quite yet since there are so many unknown variables."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584668519.059300",
+        "parent_user_id": "U010B7Q6XE0"
+    }
+]

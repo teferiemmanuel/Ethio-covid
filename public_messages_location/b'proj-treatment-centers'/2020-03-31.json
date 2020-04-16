@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "562D8C39-DC48-4ECA-A46A-5232D8B369D4",
+        "type": "message",
+        "text": "California Building Code: Appendix \u201cO\u201d Emergency Housing :<https://up.codes/viewer/california/ibc-2018/chapter/new_O/emergency-housing#new_O|https://up.codes/viewer/california/ibc-2018/chapter/new_O/emergency-housing#new_O>",
+        "user": "UVB9ZSPCH",
+        "ts": "1585622770.022100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "UpCodes",
+                "title": "Searchable platform for building codes",
+                "title_link": "https://up.codes/viewer/california/ibc-2018/chapter/new_O/emergency-housing#new_O",
+                "text": "Explore a searchable database of US construction and building code. Code regulations are consolidated by state and city for easier navigation.",
+                "fallback": "UpCodes: Searchable platform for building codes",
+                "image_url": "https://up.codes/assets/images/upcodes_ogimage_mobile.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https://up.codes/viewer/california/ibc-2018/chapter/new_O/emergency-housing#new_O",
+                "image_bytes": 821276,
+                "service_icon": "https://up.codes/favicon.png",
+                "id": 1,
+                "original_url": "https://up.codes/viewer/california/ibc-2018/chapter/new_O/emergency-housing#new_O"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Lqg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "California Building Code: Appendix \u201cO\u201d Emergency Housing :"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://up.codes/viewer/california/ibc-2018/chapter/new_O/emergency-housing#new_O",
+                                "text": "https://up.codes/viewer/california/ibc-2018/chapter/new_O/emergency-housing#new_O"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

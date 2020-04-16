@@ -1,0 +1,154 @@
+[
+    {
+        "client_msg_id": "a9a09d52-5941-45b4-bf53-59f3f9002571",
+        "type": "message",
+        "text": "<@UV8B0679P> How did this go?",
+        "user": "U01085512G5",
+        "ts": "1586828586.219800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ag1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " How did this go?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586733406.210800",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "e08257e4-2749-4438-8eaa-cd271128cd11",
+        "type": "message",
+        "text": "The meeting went very well, <@U01085512G5> - the team at INSA was super impressed \u2014 they are going to use it",
+        "user": "UV8B0679P",
+        "ts": "1586839464.220000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xv0t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The meeting went very well, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - the team at INSA was super impressed \u2014 they are going to use it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586733406.210800",
+        "parent_user_id": "UV8B0679P",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0107A7161E",
+                    "U010N3BFN4F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1c5235a-8cc7-42a5-bc06-f9a28282a0ae",
+        "type": "message",
+        "text": "They said they have an ongoing internal process that they\u2019ll start running this with",
+        "user": "UV8B0679P",
+        "ts": "1586839489.220200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mm9mF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They said they have an ongoing internal process that they\u2019ll start running this with"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586733406.210800",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586843633.221000",
+        "user": "UVB9ZSPCH",
+        "text": "<@UVB9ZSPCH> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "client_msg_id": "168968b1-b81c-422b-833e-dee53fd0669e",
+        "type": "message",
+        "text": "AWESOME!",
+        "user": "U01085512G5",
+        "ts": "1586869951.221300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S9f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AWESOME!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586733406.210800",
+        "parent_user_id": "UV8B0679P"
+    }
+]

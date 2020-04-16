@@ -1,0 +1,461 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "Reminder: \"Daily civic engagement call is in 15 minutes: <https://mit.zoom.us/j/830540249>\" @",
+        "user": "USLACKBOT",
+        "ts": "1586276118.109100",
+        "team": "TV5KELEUS",
+        "thread_ts": "1586276118.109100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586276812.109500",
+        "reply_users": [
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Going to be 5 min late^",
+        "user": "U0107A7161E",
+        "ts": "1586276812.109500",
+        "thread_ts": "1586276118.109100",
+        "root": {
+            "bot_id": "B01",
+            "type": "message",
+            "text": "Reminder: \"Daily civic engagement call is in 15 minutes: <https://mit.zoom.us/j/830540249>\" @",
+            "user": "USLACKBOT",
+            "ts": "1586276118.109100",
+            "team": "TV5KELEUS",
+            "thread_ts": "1586276118.109100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1586276812.109500",
+            "reply_users": [
+                "U0107A7161E"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KI5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Going to be 5 min late^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3397FA51-3B53-44E5-9919-DDFCC4C784B7"
+    },
+    {
+        "client_msg_id": "30c2f532-d61d-4cef-97c2-d4a1998d5590",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C010VNXB4H2/p1586183378000100>",
+        "user": "U0107A7161E",
+        "ts": "1586279747.109900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010VNXB4H2/p1586183378000100",
+                "fallback": "[April 6th, 2020 7:29 AM] killyishere: Draft guidelines under preparation at the Association of Ethiopian Architects",
+                "ts": "1586183378.000100",
+                "author_id": "U01017GFFB4",
+                "author_subname": "Anteneh",
+                "channel_id": "C010VNXB4H2",
+                "channel_name": "proj-treatment-centers",
+                "is_msg_unfurl": true,
+                "text": "Draft guidelines under preparation at the Association of Ethiopian Architects",
+                "author_name": "Anteneh",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U01017GFFB4",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-20/1014086406405_47cc6295a7e2af611fea_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F011PA7EZG8",
+                        "created": 1586183372,
+                        "timestamp": 1586183372,
+                        "name": "06.04.20 GUIDELINES FOR COVID-19 1400.pdf",
+                        "title": "06.04.20 GUIDELINES FOR COVID-19 1400.pdf",
+                        "mimetype": "application/pdf",
+                        "filetype": "pdf",
+                        "pretty_type": "PDF",
+                        "user": "U01017GFFB4",
+                        "editable": false,
+                        "size": 19964174,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011PA7EZG8/06.04.20_guidelines_for_covid-19_1400.pdf",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011PA7EZG8/download/06.04.20_guidelines_for_covid-19_1400.pdf",
+                        "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011PA7EZG8-76a7660687/06.04.20_guidelines_for_covid-19_1400_thumb_pdf.png",
+                        "thumb_pdf_w": 935,
+                        "thumb_pdf_h": 1210,
+                        "permalink": "https://ethiopia-covid19.slack.com/files/U01017GFFB4/F011PA7EZG8/06.04.20_guidelines_for_covid-19_1400.pdf",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F011PA7EZG8-5a4294c333",
+                        "has_rich_preview": false
+                    }
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C010VNXB4H2/p1586183378000100",
+                "footer": "Posted in #proj-treatment-centers"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8C1+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010VNXB4H2/p1586183378000100"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":fire::fire:",
+        "files": [
+            {
+                "id": "F011B208SV8",
+                "created": 1586283896,
+                "timestamp": 1586283896,
+                "name": "07042020__ACOVIDRT_Presentation.pdf",
+                "title": "07042020__ACOVIDRT_Presentation.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U011F7L4G8L",
+                "editable": false,
+                "size": 1471681,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011B208SV8/07042020__acovidrt_presentation.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011B208SV8/download/07042020__acovidrt_presentation.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011B208SV8-f1c1237556/07042020__acovidrt_presentation_thumb_pdf.png",
+                "thumb_pdf_w": 1528,
+                "thumb_pdf_h": 1528,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U011F7L4G8L/F011B208SV8/07042020__acovidrt_presentation.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011B208SV8-505a696cd8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "ts": "1586297622.110700",
+        "thread_ts": "1586297622.110700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586300926.113100",
+        "reply_users": [
+            "UV8B0679P",
+            "U011F7L4G8L"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UV8B0679P",
+                    "UV6JHDP0S",
+                    "U0106M26108",
+                    "U0107JERE9L",
+                    "U0106M27EKS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UV8B0679P",
+                    "UV6JHDP0S",
+                    "U0106M26108",
+                    "U0107JERE9L",
+                    "U0106M27EKS",
+                    "U010CLFURT8",
+                    "UVA8BCCBV"
+                ],
+                "count": 7
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "UV8B0679P",
+                    "UV6JHDP0S",
+                    "U0107JERE9L",
+                    "U0106M27EKS",
+                    "U010CLFURT8"
+                ],
+                "count": 5
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U0106M26108",
+                    "U0106M27EKS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U0106M26108",
+                    "U0107A7161E",
+                    "U010CLFURT8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "unicorn_face",
+                "users": [
+                    "U0106M26108",
+                    "U0107A7161E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "woman-cartwheeling::skin-tone-4",
+                "users": [
+                    "U0106M26108",
+                    "U0107A7161E",
+                    "U010CLFURT8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "earth_africa",
+                "users": [
+                    "U0106M26108",
+                    "U0107A7161E",
+                    "U010CLFURT8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5361D138-0510-4E25-BF9E-A691026366C2",
+        "type": "message",
+        "text": "HOLLLLY SHIT!",
+        "user": "UV8B0679P",
+        "ts": "1586300629.111200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8P1z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HOLLLLY SHIT!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586297622.110700",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "6AFCA14C-C2BB-4486-861A-46B11B0676BF",
+        "type": "message",
+        "text": "This looks great!",
+        "user": "UV8B0679P",
+        "ts": "1586300636.111600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bsei",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This looks great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586297622.110700",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "81D9E73F-600A-4309-BE71-42224D7E1AD4",
+        "type": "message",
+        "text": "Yup really knocked it out of the park. Let me know what logo we want to go with (dots or stripes on Africa)",
+        "user": "U011F7L4G8L",
+        "ts": "1586300926.113100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j3dj9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup really knocked it out of the park. Let me know what logo we want to go with (dots or stripes on Africa)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586297622.110700",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Which logo do we like better?",
+        "ts": "1586301171.113600",
+        "bot_id": "BVB9JEN3T",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-b0ea17a1-be7d-4476-a667-4957e9305dff-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Which logo do we like better?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: View info",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":pushpin: Capture Decision from Poll",
+                                "emoji": true
+                            },
+                            "value": "capture_decision_from_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":gear: Go to Settings",
+                                "emoji": true
+                            },
+                            "value": "go_to_settings_from_poll",
+                            "url": "https://simplepoll.rocks/dashboard/ethiopia-covid19/settings/"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-b0ea17a1-be7d-4476-a667-4957e9305dff-vote-1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Africa with Dots    `9`\n<@UV8B0679P>, <@U0106M26108>, <@UV6JHDP0S>, <@U0107JERE9L>, <@U011F7L4G8L>, <@U0107A7161E>, <@U010L27MB25>, <@U0106M27EKS>, <@U0116DL92E9>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-1",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-b0ea17a1-be7d-4476-a667-4957e9305dff-vote-2",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Africa with stripes\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-2",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "tjn",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U011F7L4G8L> with /poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "BVB9JEN3T",
+            "ts": "1586342557.000000"
+        }
+    }
+]

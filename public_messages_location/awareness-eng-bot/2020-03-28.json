@@ -1,0 +1,273 @@
+[
+    {
+        "client_msg_id": "e7e38503-f474-486e-addb-6bd1374e894c",
+        "type": "message",
+        "text": "hi all ..... let's see where we are on bot development?",
+        "user": "U0100658QEP",
+        "ts": "1585407812.004100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k5Apt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi all ..... let's see where we are on bot development?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B3634026-F7E3-461E-96BF-D2583A8827D2",
+        "type": "message",
+        "text": "<@U0100658QEP> well I\u2019m working on a way where you can self diagnosis, I have added a real time data, with a mortality rate calculation, also I\u2019ve added a feature where people input a country name and it return the stat ",
+        "user": "U0107898C9M",
+        "ts": "1585409269.008100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iFgf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0100658QEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " well I\u2019m working on a way where you can self diagnosis, I have added a real time data, with a mortality rate calculation, also I\u2019ve added a feature where people input a country name and it return the stat "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0100658QEP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4dde2a2f-e22e-4d2c-9358-33ac7588fc6b",
+        "type": "message",
+        "text": "Thats awesome specially i just love the search per country feature",
+        "user": "U0100658QEP",
+        "ts": "1585409462.009800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ahgd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thats awesome specially i just love the search per country feature"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd30ba12-e35a-48a2-8a63-9cb326eb7258",
+        "type": "message",
+        "text": "<@U0107898C9M> But i just noticed two stat on ur menu",
+        "user": "U0100658QEP",
+        "ts": "1585409713.010700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nux0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " But i just noticed two stat on ur menu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58CE7A80-297C-401D-860C-8FF5210BA443",
+        "type": "message",
+        "text": "<@U0100658QEP> two stat ?",
+        "user": "U0107898C9M",
+        "ts": "1585409746.011400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tgmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0100658QEP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " two stat ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43610C3D-4907-4F45-84F3-93163F84A9F9",
+        "type": "message",
+        "text": "Also is there an official data to estimate the self diagnosis, I just finished the mean and I need the data",
+        "user": "U0107898C9M",
+        "ts": "1585409831.013800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also is there an official data to estimate the self diagnosis, I just finished the mean and I need the data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5eee028a-d89f-4e7e-af8f-c5641ff59cb3",
+        "type": "message",
+        "text": "Yeah there are two menus on ur bot with same purpose the \"world statistics \" and \" statistics \"",
+        "user": "U0100658QEP",
+        "ts": "1585410089.015800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2XPj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah there are two menus on ur bot with same purpose the \"world statistics \" and \" statistics \""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c69585b6-56f5-48af-9004-e94c341ab09f",
+        "type": "message",
+        "text": "you can mereg them so some one can get global and local sat together",
+        "user": "U0100658QEP",
+        "ts": "1585410508.016800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LvN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can mereg them so some one can get global and local sat together"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ea4b46c-3b6b-4279-b6f7-1fbb82c5e81a",
+        "type": "message",
+        "text": "And u can put per country search as an inline menu",
+        "user": "U0100658QEP",
+        "ts": "1585410523.017200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nOST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And u can put per country search as an inline menu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "749B2659-550D-4662-8D0D-ACDE03EAEA34",
+        "type": "message",
+        "text": "The first button gets you a quick stat of Ethiopia and world merge and the country search it just shows you the world stat before searching for country Incase you only want the world stat, in the log I see lots of people using it ",
+        "user": "U0107898C9M",
+        "ts": "1585411797.021100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WYa+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The first button gets you a quick stat of Ethiopia and world merge and the country search it just shows you the world stat before searching for country Incase you only want the world stat, in the log I see lots of people using it "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

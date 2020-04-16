@@ -1,0 +1,850 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586390839.027900",
+        "user": "U010874LAQJ",
+        "text": "<@U010874LAQJ> has joined the channel",
+        "inviter": "U010RM5TX1R"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586396677.028100",
+        "user": "U0107JYJYD7",
+        "text": "<@U0107JYJYD7> has joined the channel",
+        "inviter": "U010986778X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586397003.028300",
+        "user": "U010J9EHT9S",
+        "text": "<@U010J9EHT9S> has joined the channel",
+        "inviter": "U010986778X"
+    },
+    {
+        "client_msg_id": "6c892563-bd50-44a1-9e45-b50270dcc6c3",
+        "type": "message",
+        "text": "it would be great if we can get in touch with him to help.",
+        "user": "U010986778X",
+        "ts": "1586412288.028500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BFfvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it would be great if we can get in touch with him to help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586374288.026900",
+        "parent_user_id": "U011BGST4BG"
+    },
+    {
+        "client_msg_id": "b4cda549-dc66-43ca-bc26-c64d2b04ea14",
+        "type": "message",
+        "text": "I'll try to get a hold of him",
+        "user": "U011BGST4BG",
+        "ts": "1586413209.028700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qSLRu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll try to get a hold of him"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586374288.026900",
+        "parent_user_id": "U011BGST4BG"
+    },
+    {
+        "client_msg_id": "79b9380a-8c15-4a78-b834-f889064d6447",
+        "type": "message",
+        "text": "<@U010K7Q2K2A> we need you and to other doctors here as well,",
+        "user": "U01007VTP8A",
+        "ts": "1586427415.029800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SDYJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010K7Q2K2A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we need you and to other doctors here as well,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586427419.030000",
+        "user": "U010K7Q2K2A",
+        "text": "<@U010K7Q2K2A> has joined the channel",
+        "inviter": "U01007VTP8A"
+    },
+    {
+        "client_msg_id": "b3d05820-5885-463f-9221-2d4e1c0622c5",
+        "type": "message",
+        "text": "Hello everyone, I am here to help as much as I can. I know biomedical engineers too.",
+        "user": "U010WD6EW2V",
+        "ts": "1586449729.032300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+tF3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, I am here to help as much as I can. I know biomedical engineers too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010RM5TX1R",
+                    "U010986778X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Thank you <@U0104U85DJQ> for sharing this. Worth a watch! The tl;dw version is that a small team (&lt;10 people) of ethiopian researchers have developed several prototypes of DIY ventilators based on open source documents from Spanish engineers. The team is doing this through their company, NERD (:slightly_smiling_face:), and are exclusively focused on research. They have updated their prototypes by gathering feedback from medical professional and are open to additional feedback and assistance. Their prototype is continuously ongoing updates, but is ready for mass manufacturing (but again, that's not their role).",
+        "user": "U011BGST4BG",
+        "ts": "1586462631.032600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U011BGST4BG",
+            "ts": "1586462855.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "\u1208\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1273\u121b\u121a\u12ce\u127d \u126c\u1295\u1275\u120c\u1270\u122d \u12e8\u1230\u1229\u1275 \u12a2\u1275\u12ee\u1335\u12eb\u12ca\u12eb\u1295  | Ethiopia",
+                "title_link": "https://www.youtube.com/watch?v=cM5KKikAEVY",
+                "author_name": "Andafta",
+                "author_link": "https://www.youtube.com/channel/UCwMHDoJO6cHO6LN1BItFsPQ",
+                "thumb_url": "https://i.ytimg.com/vi/cM5KKikAEVY/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: \u1208\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1273\u121b\u121a\u12ce\u127d \u126c\u1295\u1275\u120c\u1270\u122d \u12e8\u1230\u1229\u1275 \u12a2\u1275\u12ee\u1335\u12eb\u12ca\u12eb\u1295  | Ethiopia",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/cM5KKikAEVY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=cM5KKikAEVY",
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1586457218474300",
+                "is_share": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ruoK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0104U85DJQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for sharing this. Worth a watch! The tl;dw version is that a small team (<10 people) of ethiopian researchers have developed several prototypes of DIY ventilators based on open source documents from Spanish engineers. The team is doing this through their company, NERD ("
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), and are exclusively focused on research. They have updated their prototypes by gathering feedback from medical professional and are open to additional feedback and assistance. Their prototype is continuously ongoing updates, but is ready for mass manufacturing (but again, that's not their role)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586462631.032600",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1586827732.101500",
+        "reply_users": [
+            "U011BGST4BG",
+            "U010986778X",
+            "U0107JERE9L",
+            "U010RM5TX1R"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010RM5TX1R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98befc16-57d2-4180-a762-ca29cefb2598",
+        "type": "message",
+        "text": "<https://www.facebook.com/Neerrdd/?ref=nf&amp;hc_ref=ARSJB8adG-BCdB78Rs7uYUfErip3uI1U8mxonqDbEjTCMIN2Yni4tUuTwHlVRgAEAoQ>",
+        "user": "U011BGST4BG",
+        "ts": "1586462912.032800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "NERD",
+                "title_link": "https://www.facebook.com/Neerrdd/?ref=nf&hc_ref=ARSJB8adG-BCdB78Rs7uYUfErip3uI1U8mxonqDbEjTCMIN2Yni4tUuTwHlVRgAEAoQ",
+                "text": "NERD, Addis Ababa, Ethiopia. 668 likes \u00b7 931 talking about this. N.E.R.D Center is a research and development Garage founded to provide workshop resources for the next generation of world changing ideas.",
+                "fallback": "NERD",
+                "from_url": "https://www.facebook.com/Neerrdd/?ref=nf&hc_ref=ARSJB8adG-BCdB78Rs7uYUfErip3uI1U8mxonqDbEjTCMIN2Yni4tUuTwHlVRgAEAoQ",
+                "thumb_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p200x200/92276774_114921496834022_9076566056062943232_n.jpg?_nc_cat=104&_nc_sid=dbb9e7&_nc_ohc=pLdqrknXyvMAX_JAVio&_nc_ht=scontent-iad3-1.xx&_nc_tp=6&oh=90fc73dfd8c12c73e3391fdf715f4791&oe=5EB36442",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https://www.facebook.com/Neerrdd/?ref=nf&amp;hc_ref=ARSJB8adG-BCdB78Rs7uYUfErip3uI1U8mxonqDbEjTCMIN2Yni4tUuTwHlVRgAEAoQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NbUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.facebook.com/Neerrdd/?ref=nf&hc_ref=ARSJB8adG-BCdB78Rs7uYUfErip3uI1U8mxonqDbEjTCMIN2Yni4tUuTwHlVRgAEAoQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586462631.032600",
+        "parent_user_id": "U011BGST4BG"
+    },
+    {
+        "client_msg_id": "ed147dac-6cab-44b9-8097-b1a2c6d490d8",
+        "type": "message",
+        "text": "<@U011BGST4BG> I reached out the NERD group and haven't heard back yet. <@U011J64BXCY> is point of contact.",
+        "user": "U010986778X",
+        "ts": "1586463650.033100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qNSkW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011BGST4BG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I reached out the NERD group and haven't heard back yet. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011J64BXCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is point of contact."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586462631.032600",
+        "parent_user_id": "U011BGST4BG"
+    },
+    {
+        "client_msg_id": "e55c37ce-df42-4c69-abec-654866b6a995",
+        "type": "message",
+        "text": "<@U011BGST4BG> - Do you know if their prototype has already been approved by the EFDA?",
+        "user": "U0107JERE9L",
+        "ts": "1586463754.033300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011BGST4BG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Do you know if their prototype has already been approved by the EFDA?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586462631.032600",
+        "parent_user_id": "U011BGST4BG"
+    },
+    {
+        "client_msg_id": "2515942b-5c16-4aba-89ca-c455cd569278",
+        "type": "message",
+        "text": "Ah, great! I'm just learning about them. Also I just got a response from Ezedin, I'm going to try to call him tomorrow.",
+        "user": "U011BGST4BG",
+        "ts": "1586463786.033500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vwoIT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, great! I'm just learning about them. Also I just got a response from Ezedin, I'm going to try to call him tomorrow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586462631.032600",
+        "parent_user_id": "U011BGST4BG"
+    },
+    {
+        "client_msg_id": "e41444c8-afec-46f2-88f8-80e07b1f101e",
+        "type": "message",
+        "text": "<@U0107JERE9L>, no clue but they mentioned on the video that they have been in communication with MOH and other governmental agencies, so I think they are aware of the necessary guidelines. I'd imagine they would attempt to conform to them.",
+        "user": "U011BGST4BG",
+        "ts": "1586463861.033700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U011BGST4BG",
+            "ts": "1586464021.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cla=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", no clue but they mentioned on the video that they have been in communication with MOH and other governmental agencies, so I think they are aware of the necessary guidelines. I'd imagine they would attempt to conform to them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586462631.032600",
+        "parent_user_id": "U011BGST4BG"
+    },
+    {
+        "client_msg_id": "c82b5652-96b6-4004-a0e1-dab9c6ab5ed0",
+        "type": "message",
+        "text": "Oh wonderful.. let us know about your conversation with Ezedin. I wonder if he has a prototype also approved by the EFDA.\nFinding existing groups that have already gone past that hurdle are the fastest way to manufacture at scale.",
+        "user": "U0107JERE9L",
+        "ts": "1586464296.034100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7lpH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh wonderful.. let us know about your conversation with Ezedin. I wonder if he has a prototype also approved by the EFDA.\nFinding existing groups that have already gone past that hurdle are the fastest way to manufacture at scale."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586462631.032600",
+        "parent_user_id": "U011BGST4BG"
+    },
+    {
+        "client_msg_id": "7c99a041-40a4-4d14-8597-73edd1b185d4",
+        "type": "message",
+        "text": "I agree! I'll keep you posted on any developments on my side.",
+        "user": "U011BGST4BG",
+        "ts": "1586464532.034300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6/k+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree! I'll keep you posted on any developments on my side."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586462631.032600",
+        "parent_user_id": "U011BGST4BG"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586468605.034800",
+        "user": "U0107AXNR4Z",
+        "text": "<@U0107AXNR4Z> has joined the channel",
+        "inviter": "U010986778X"
+    },
+    {
+        "type": "message",
+        "text": "<!channel> I\u2019d like to thank our health professionals for their contribution to gather our user requirements.\n\nI\u2019ve summarized our user requirements and links to Medtronic open source files and other related research in the attached document. <https://drive.google.com/file/d/1WitcPoqPPmHopEo9YMWe8MoB9p_oZJxK/view?usp=sharing>\n\nOur engineers can now define our design input (product specifications) to address the needs outlined below by reviewing/leveraging Medtronic open source files and other research findings. All documents are also outlined in the attached word document.\n\nThe goal of our U.S engineering team is to provide the Ethiopia Ministry of Health and manufacturing with a \u201crecipe\u201d to rapidly manufacture mechanical ventilators that meet minimally acceptable clinical requirements.\n\nWe are going to divide up the technical team into four major functions (biomedical/clinical, mechanical, clinical, software, and electrical engineering). Please comment below to join team you\u2019d like.\n\nYou are welcome to join more than one team and we can have multiple people for each role. Please comment below \u2013 stating what team you\u2019d like to join.\n*BIOMEDICAL/CLINICAL ENGINEERING TEAM*\n*Doctors: <@U010WD6EW2V>* \n*Engineers:*\n<@U0107JYJYD7> <@UV8F3SRGA>\n*Project Engineer/Lead:*\n\n*MECHANICAL ENGINEERING TEAM*\n*Engineers:*\n*Project Engineer: <@U010ZJYV6AU>* \n*Medtronic Files:*\n*Other Resources:*\n\n*ELECTRICAL ENGINEERING TEAM*\n*Engineers: <@U010874LAQJ>* \n*Project Engineer: <@U010RM5TX1R>* \n\n*SOFTWARE ENGINEERING TEAM*\n*Engineers: <@U011GAJPJAG>* \n*Project Engineer:*",
+        "files": [
+            {
+                "id": "F01257DF9S4",
+                "created": 1586472815,
+                "timestamp": 1586472815,
+                "name": "USER NEED REQUIREMENTS and RESOURCES.docx",
+                "title": "USER NEED REQUIREMENTS and RESOURCES.docx",
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U010986778X",
+                "editable": false,
+                "size": 18417,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F01257DF9S4/user_need_requirements_and_resources.docx",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F01257DF9S4/download/user_need_requirements_and_resources.docx",
+                "converted_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F01257DF9S4-65bba78e91/user_need_requirements_and_resources_converted.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F01257DF9S4-65bba78e91/user_need_requirements_and_resources_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010986778X/F01257DF9S4/user_need_requirements_and_resources.docx",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F01257DF9S4-9f28edbfdc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Ee",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I\u2019d like to thank our health professionals for their contribution to gather our user requirements.\n\nI\u2019ve summarized our user requirements and links to Medtronic open source files and other related research in the attached document. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/file/d/1WitcPoqPPmHopEo9YMWe8MoB9p_oZJxK/view?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOur engineers can now define our design input (product specifications) to address the needs outlined below by reviewing/leveraging Medtronic open source files and other research findings. All documents are also outlined in the attached word document.\n\nThe goal of our U.S engineering team is to provide the Ethiopia Ministry of Health and manufacturing with a \u201crecipe\u201d to rapidly manufacture mechanical ventilators that meet minimally acceptable clinical requirements.\n\nWe are going to divide up the technical team into four major functions (biomedical/clinical, mechanical, clinical, software, and electrical engineering). Please comment below to join team you\u2019d like.\n\nYou are welcome to join more than one team and we can have multiple people for each role. Please comment below \u2013 stating what team you\u2019d like to join.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "BIOMEDICAL/CLINICAL ENGINEERING TEAM",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Doctors: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010WD6EW2V",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Engineers:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JYJYD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8F3SRGA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Project Engineer/Lead:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "MECHANICAL ENGINEERING TEAM",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Engineers:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Project Engineer: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010ZJYV6AU",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Medtronic Files:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Other Resources:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ELECTRICAL ENGINEERING TEAM",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Engineers: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010874LAQJ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Project Engineer: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010RM5TX1R",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "SOFTWARE ENGINEERING TEAM",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Engineers: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011GAJPJAG",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Project Engineer:",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010986778X",
+        "display_as_bot": false,
+        "ts": "1586472817.036400",
+        "edited": {
+            "user": "U010986778X",
+            "ts": "1586498601.000000"
+        },
+        "client_msg_id": "13baf67a-7a93-4d7f-8f39-032a25212bb1",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0107JERE9L",
+        "ts": "1586473154.036800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[April 7th, 2020 10:35 AM] eliasmu: Making rapidly deployable ventilators from Breast pumps. This seems like a promising idea worth watching over the coming days. The engineers seem to be waiting for some approval to release their design.  <https://twitter.com/abmakulec/status/1247179817763684353>\n\nSome prototypes were on youtube <https://www.youtube.com/watch?v=BdSaXrxfXks>\n<@U0107JERE9L>",
+                "ts": "1586270118.300700",
+                "author_id": "UVADRT9K3",
+                "author_subname": "Elias",
+                "channel_id": "C0106LZBVCY",
+                "channel_name": "all-project-ideas",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Making rapidly deployable ventilators from Breast pumps. This seems like a promising idea worth watching over the coming days. The engineers seem to be waiting for some approval to release their design.  <https://twitter.com/abmakulec/status/1247179817763684353>\n\nSome prototypes were on youtube <https://www.youtube.com/watch?v=BdSaXrxfXks>\n<@U0107JERE9L>",
+                "author_name": "Elias",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UVADRT9K3",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-19/1014922577207_40df2f9323ede10f37da_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1586270118300700?thread_ts=1586270118300700&cid=C0106LZBVCY",
+                "is_share": true,
+                "footer": "Thread in #all-project-ideas"
+            }
+        ]
+    }
+]

@@ -1,0 +1,541 @@
+[
+    {
+        "client_msg_id": "D5238800-B712-4742-9690-1050C892C84D",
+        "type": "message",
+        "text": "<https://youtu.be/SkKct-8TrBc|https://youtu.be/SkKct-8TrBc>",
+        "user": "U010A0P7EK1",
+        "ts": "1585877624.075300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Restaurants Are Our Family",
+                "title_link": "https://youtu.be/SkKct-8TrBc",
+                "author_name": "Grubhub",
+                "author_link": "https://www.youtube.com/user/grubhub",
+                "thumb_url": "https://i.ytimg.com/vi/SkKct-8TrBc/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Restaurants Are Our Family",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/SkKct-8TrBc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/SkKct-8TrBc",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/SkKct-8TrBc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VV+b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/SkKct-8TrBc",
+                                "text": "https://youtu.be/SkKct-8TrBc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C9818590-B5E8-4B94-9145-FAE76F0377B9",
+        "type": "message",
+        "text": "Great example of an Ad",
+        "user": "U010A0P7EK1",
+        "ts": "1585877634.075700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dULw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great example of an Ad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F4F10A1F-A219-45EC-B73F-2BF1D169642B",
+        "type": "message",
+        "text": "At Friendship, yes. Not the others. Do we know which items? I can\u2019t promise I\u2019ll find wholesale prices, but can get retail and we go from there. Let\u2019s maybe do a list of 10-15 items in 1kg quantities?\n\nTomatoes\nOnions\nVegetable Oil\nBread \nInjera\nCheese\nRed Meat\nFish\nChicken\n...",
+        "user": "U010UM8QBQA",
+        "ts": "1585899762.080600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XZsZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At Friendship, yes. Not the others. Do we know which items? I can\u2019t promise I\u2019ll find wholesale prices, but can get retail and we go from there. Let\u2019s maybe do a list of 10-15 items in 1kg quantities?"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Tomatoes"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Onions"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Vegetable Oil\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bread "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Injera"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Cheese"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Red Meat"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Fish"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Chicken"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585846111.070100",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "client_msg_id": "fad3f432-4afe-4cc6-ac38-51191e9762e8",
+        "type": "message",
+        "text": "*Food Pricing in Addis Ababa*\n<https://docs.google.com/spreadsheets/d/1DEjtiZ-sD1WH_eC_i_jqA7lV6-MM2tLfYuG3YF4u-Nw/edit?usp=sharing>\n\n*<@U0107A7161E>* *<@U010B7Q6XE0>* does this type of information collection support the project? There are retail supermarkets, retail grocery stores/ souks, and wholesale (which comes from Merkato/ Piassa on a daily basis and is a bit harder to track down).",
+        "user": "U010UM8QBQA",
+        "ts": "1585903029.080900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LCeS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Food Pricing in Addis Ababa",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1DEjtiZ-sD1WH_eC_i_jqA7lV6-MM2tLfYuG3YF4u-Nw/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "does this type of information collection support the project? There are retail supermarkets, retail grocery stores/ souks, and wholesale (which comes from Merkato/ Piassa on a daily basis and is a bit harder to track down)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585846111.070100",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011C8K3ACW",
+                "created": 1585918166,
+                "timestamp": 1585918166,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010UM8QBQA",
+                "editable": false,
+                "size": 214260,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011C8K3ACW/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011C8K3ACW/download/image_from_ios.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011C8K3ACW-d17c1b12d9/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011C8K3ACW-d17c1b12d9/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011C8K3ACW-d17c1b12d9/image_from_ios_360.jpg",
+                "thumb_360_w": 288,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011C8K3ACW-d17c1b12d9/image_from_ios_480.jpg",
+                "thumb_480_w": 385,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011C8K3ACW-d17c1b12d9/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011C8K3ACW-d17c1b12d9/image_from_ios_720.jpg",
+                "thumb_720_w": 577,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011C8K3ACW-d17c1b12d9/image_from_ios_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 998,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011C8K3ACW-d17c1b12d9/image_from_ios_960.jpg",
+                "thumb_960_w": 769,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011C8K3ACW-d17c1b12d9/image_from_ios_1024.jpg",
+                "thumb_1024_w": 821,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 1550,
+                "thumb_tiny": "AwAwACZ2KcqBjg05uB2p0Y+XJ65xxQO2lxPs6jJBB9uajK44xVnI3FdxyDik2DIODznr9KBFbFFTlRgcDoKbgUAKPpTWfBCjjJ5I7UrttAGcE8ZpjIWG3pxjIoYDsKEJ3fhTFlGdrHr0NRxlo32S8jsTTHQvLheg6ntSGW8HNLinLgilxT3AhlIbGDyDnmlD46mlMZPemspHbP4VleZVoiTLvTHr0Jpi/InHI9T3p+GbnkdqUR7jz0H61e+hIIe5FPyPQUoQUbBVCP/Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010UM8QBQA/F011C8K3ACW/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011C8K3ACW-b21fdd4520",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HeFkd",
+                "elements": []
+            }
+        ],
+        "user": "U010UM8QBQA",
+        "display_as_bot": false,
+        "ts": "1585918181.081500",
+        "client_msg_id": "D9E834AD-DA29-42E5-B429-72B2049B0E75"
+    },
+    {
+        "client_msg_id": "264EFCF0-39C9-4CC6-89FF-4C0FF9D10CB3",
+        "type": "message",
+        "text": "ZMall/ ETTA the Logistics Partners you\u2019ve discussed with <@U010B7Q6XE0> \u2014 the others will probably also reduce food/ delivery pricing to stay competitive. ",
+        "user": "U010UM8QBQA",
+        "ts": "1585918264.083100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kJC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ZMall/ ETTA the Logistics Partners you\u2019ve discussed with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \u2014 the others will probably also reduce food/ delivery pricing to stay competitive. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E",
+                    "U010SKPP7CJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7de8213-2465-4948-9ce3-d589c9e25dce",
+        "type": "message",
+        "text": "We are looking into 100 ETB orders delivered as well",
+        "user": "U010YSN9GSK",
+        "ts": "1585918744.083600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "icEbd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are looking into 100 ETB orders delivered as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E",
+                    "U010SKPP7CJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d87f6857-c675-45ae-ac83-341c113837bf",
+        "type": "message",
+        "text": "Nice",
+        "user": "U010UM8QBQA",
+        "ts": "1585919998.083900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AAg+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ada86de6-7429-475e-ad35-5046d4857a47",
+        "type": "message",
+        "text": "<@U010YSN9GSK> one hotel in Bole is saying free delivery for buildings/ offices that are walking distance",
+        "user": "U010UM8QBQA",
+        "ts": "1585920087.085200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o2bk7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010YSN9GSK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " one hotel in Bole is saying free delivery for buildings/ offices that are walking distance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49980b62-f5f2-4675-a6a1-018822d07141",
+        "type": "message",
+        "text": "Thanks, Kal! I know we need a cost breakdown of grocery items however I think we would want to get a onetime wholesale rate instead of daily prices so that we can buy in bulk but I defer to <@U010B7Q6XE0>",
+        "user": "U0107A7161E",
+        "ts": "1585922077.087000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T/Fw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Kal! I know we need a cost breakdown of grocery items however I think we would want to get a onetime wholesale rate instead of daily prices so that we can buy in bulk but I defer to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010B7Q6XE0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585846111.070100",
+        "parent_user_id": "U010UM8QBQA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57198864-cf30-4331-989e-1ab35c5591f7",
+        "type": "message",
+        "text": "<@U010UM8QBQA> Yes, this would be useful! But before you do too much work (perhaps unnecessarily), I'd wait until I have conversations with the wholesale suppliers. I'm speaking w/ a few folks today/tomorrow so I might be able to find the wholesale prices. Will let you know",
+        "user": "U010B7Q6XE0",
+        "ts": "1585923663.087200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TZD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010UM8QBQA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes, this would be useful! But before you do too much work (perhaps unnecessarily), I'd wait until I have conversations with the wholesale suppliers. I'm speaking w/ a few folks today/tomorrow so I might be able to find the wholesale prices. Will let you know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585846111.070100",
+        "parent_user_id": "U010UM8QBQA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

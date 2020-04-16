@@ -1,0 +1,766 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584681336.000200",
+        "user": "UV6JJDDKL",
+        "text": "<@UV6JJDDKL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584681337.000400",
+        "user": "UV6JHDP0S",
+        "text": "<@UV6JHDP0S> has joined the channel",
+        "inviter": "UV6JJDDKL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584681337.000600",
+        "user": "U0108U3S7HV",
+        "text": "<@U0108U3S7HV> has joined the channel",
+        "inviter": "UV6JJDDKL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584681337.000800",
+        "user": "UV6JJDDKL",
+        "text": "<@UV6JJDDKL> set the channel purpose: Dedicated to bot design , API integration and Deployment",
+        "purpose": "Dedicated to bot design , API integration and Deployment"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584681337.000900",
+        "user": "U0107898C9M",
+        "text": "<@U0107898C9M> has joined the channel",
+        "inviter": "UV6JJDDKL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584693709.000200",
+        "user": "UVBBJUPGT",
+        "text": "<@UVBBJUPGT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "app_conversation_join",
+        "ts": "1584693836.000400",
+        "user": "UV9AG9PLH",
+        "text": "<@UV9AG9PLH> was added to this conversation",
+        "inviter": "UV6JJDDKL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584694054.000600",
+        "user": "U010AMAA7KR",
+        "text": "<@U010AMAA7KR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584694373.000800",
+        "user": "U0105C8NJU8",
+        "text": "<@U0105C8NJU8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584715461.001900",
+        "user": "UVAL943JP",
+        "text": "<@UVAL943JP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@UV8B0679P> <!here> <@U010A7SS5PW> <@U010AMAA7KR> <@U0107898C9M> <@UVD6SD63D> <@UV83NPH0T> can everyone please add their suggestion on this Viber bot by <@UV6JJDDKL>",
+        "files": [
+            {
+                "id": "F01024YCX6E",
+                "created": 1584716558,
+                "timestamp": 1584716558,
+                "name": "RecordIt-1584715857.MOV",
+                "title": "File from iOS",
+                "mimetype": "video/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "UVAL943JP",
+                "editable": false,
+                "size": 7622765,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F01024YCX6E/recordit-1584715857.mov",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F01024YCX6E/download/recordit-1584715857.mov",
+                "thumb_video": "https://files.slack.com/files-tmb/TV5KELEUS-F01024YCX6E-373b559bbe/recordit-1584715857_thumb_video.jpeg",
+                "permalink": "https://ethiopia-covid19.slack.com/files/UVAL943JP/F01024YCX6E/recordit-1584715857.mov",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F01024YCX6E-b83cdbde24",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GBD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010A7SS5PW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010AMAA7KR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVD6SD63D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV83NPH0T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can everyone please add their suggestion on this Viber bot by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JJDDKL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UVAL943JP",
+        "display_as_bot": false,
+        "ts": "1584716585.002500",
+        "edited": {
+            "user": "UVAL943JP",
+            "ts": "1584716868.000000"
+        },
+        "thread_ts": "1584716585.002500",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1584723699.017300",
+        "reply_users": [
+            "U0107898C9M",
+            "UV6JJDDKL"
+        ],
+        "subscribed": false,
+        "pinned_to": [
+            "C010FHCRBPZ"
+        ],
+        "pinned_info": {
+            "channel": "C010FHCRBPZ",
+            "pinned_by": "UVAL943JP",
+            "pinned_ts": 1584716882
+        }
+    },
+    {
+        "client_msg_id": "9cd5b80f-f0ce-44fb-9c67-db69429f0a01",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584713324421000>",
+        "user": "UVAL943JP",
+        "ts": "1584716697.003300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584713324421000",
+                "fallback": "[March 20th, 2020 7:08 AM] danielritsc: <@U010A7SS5PW> <@U010AMAA7KR>  <@U0107898C9M>  <@UVD6SD63D> <@UV83NPH0T> Now 1st draft of the viber bot is ready . I need your reveiw on content and sections to further improve.\nPlease, test it and let me kn\u00f2w .\n Thanks\n\nAlso scan this addresss to access bot using your viber application.\n\nEnjoy!",
+                "ts": "1584713324.421000",
+                "author_id": "UV6JJDDKL",
+                "author_subname": "Daniel Adenew",
+                "channel_id": "CV6K393C2",
+                "channel_name": "introductions",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "<@U010A7SS5PW> <@U010AMAA7KR>  <@U0107898C9M>  <@UVD6SD63D> <@UV83NPH0T> Now 1st draft of the viber bot is ready . I need your reveiw on content and sections to further improve.\nPlease, test it and let me kn\u00f2w .\n Thanks\n\nAlso scan this addresss to access bot using your viber application.\n\nEnjoy!",
+                "author_name": "Daniel Adenew",
+                "author_link": "https://ethiopia-covid19.slack.com/team/UV6JJDDKL",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-19/1002979137889_770d0c6906fb7b3f2c34_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F010EPCJPM3",
+                        "created": 1584713256,
+                        "timestamp": 1584713256,
+                        "name": "Screenshot_20200320-170639_Viber.jpg",
+                        "title": "3595",
+                        "mimetype": "image/jpeg",
+                        "filetype": "jpg",
+                        "pretty_type": "JPEG",
+                        "user": "UV6JJDDKL",
+                        "editable": false,
+                        "size": 122834,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010EPCJPM3/screenshot_20200320-170639_viber.jpg",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010EPCJPM3/download/screenshot_20200320-170639_viber.jpg",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010EPCJPM3-cebf19a330/screenshot_20200320-170639_viber_64.jpg",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010EPCJPM3-cebf19a330/screenshot_20200320-170639_viber_80.jpg",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010EPCJPM3-cebf19a330/screenshot_20200320-170639_viber_360.jpg",
+                        "thumb_360_w": 166,
+                        "thumb_360_h": 360,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010EPCJPM3-cebf19a330/screenshot_20200320-170639_viber_480.jpg",
+                        "thumb_480_w": 222,
+                        "thumb_480_h": 480,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010EPCJPM3-cebf19a330/screenshot_20200320-170639_viber_160.jpg",
+                        "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010EPCJPM3-cebf19a330/screenshot_20200320-170639_viber_720.jpg",
+                        "thumb_720_w": 332,
+                        "thumb_720_h": 720,
+                        "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010EPCJPM3-cebf19a330/screenshot_20200320-170639_viber_800.jpg",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 1733,
+                        "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010EPCJPM3-cebf19a330/screenshot_20200320-170639_viber_960.jpg",
+                        "thumb_960_w": 443,
+                        "thumb_960_h": 960,
+                        "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010EPCJPM3-cebf19a330/screenshot_20200320-170639_viber_1024.jpg",
+                        "thumb_1024_w": 473,
+                        "thumb_1024_h": 1024,
+                        "image_exif_rotation": 1,
+                        "original_w": 1080,
+                        "original_h": 2340,
+                        "thumb_tiny": "AwAwABamM45Umjt92lWRlGBSiViccUxDPrSU5+TmkxTAmi5TnrTiBjoKiCSAYCtRtl/ut+VIV0Nf71NqQo5GSrZ+lN8t/wC6fypjui7RUX2hP9qjz0/2qZjyskPSk/OozOmP4vyo89P9qgOVn//Z",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/UV6JJDDKL/F010EPCJPM3/screenshot_20200320-170639_viber.jpg",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F010EPCJPM3-f646795410",
+                        "has_rich_preview": false
+                    }
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584713324421000",
+                "footer": "Thread in #introductions"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QF0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584713324421000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc80a8ea-009e-4f35-894b-c2fb0ef8882b",
+        "type": "message",
+        "text": "I think the first important comment i have for my self is to add Muli-lingual features ? If a user asked first which langauge to use and then flow will be adjusted accrodingly.",
+        "user": "UV6JJDDKL",
+        "ts": "1584716817.004600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "91Bl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the first important comment i have for my self is to add Muli-lingual features ? If a user asked first which langauge to use and then flow will be adjusted accrodingly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8756ee37-8c9a-44a7-ba58-5c8c2a8581c4",
+        "type": "message",
+        "text": "Nice bot!",
+        "user": "U010AMAA7KR",
+        "ts": "1584718810.005400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cjgD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice bot!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a4d387c-95e3-425a-bda0-d50f3718f346",
+        "type": "message",
+        "text": "Language is the first thing I observer as comment for this channel. The contents needs to be in Amharic by default then change to other languages when someone change the language.",
+        "user": "U010AMAA7KR",
+        "ts": "1584718897.006900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010AMAA7KR",
+            "ts": "1584718930.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fYm0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Language is the first thing I observer as comment for this channel. The contents needs to be in Amharic by default then change to other languages when someone change the language."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2e612d3-6ba3-498c-945b-c1d2db3bc7ad",
+        "type": "message",
+        "text": "We could get a help from people who join the channel as as translator.",
+        "user": "U010AMAA7KR",
+        "ts": "1584719577.007800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mXfQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We could get a help from people who join the channel as as translator."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7135399d-364c-4c1a-aa29-59afba5f2cb5",
+        "type": "message",
+        "text": "And why the Reload? <@UV6JJDDKL>",
+        "user": "U010AMAA7KR",
+        "ts": "1584719680.008200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZYbl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And why the Reload? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JJDDKL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DCFECA3F-C5A3-4C42-8843-19DAD4F2DA37",
+        "type": "message",
+        "text": "This is awesome I like it, so we need to match the keyboards for viber/telegram/WhatsApp etc... so that it has the same input and output also since we can\u2019t wait for new api server to push the data, we need to use the same firebase node to store the data, sounds good?",
+        "user": "U0107898C9M",
+        "ts": "1584721012.013100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107898C9M",
+            "ts": "1584721079.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "40k0I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is awesome I like it, so we need to match the keyboards for viber/telegram/WhatsApp etc... so that it has the same input and output also since we can\u2019t wait for new api server to push the data, we need to use the same firebase node to store the data, sounds good?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584716585.002500",
+        "parent_user_id": "UVAL943JP"
+    },
+    {
+        "client_msg_id": "03ba33aa-67d8-4422-9352-9aca5ab44137",
+        "type": "message",
+        "text": "<@U010AMAA7KR> Wil try to get rid of reload on the next version and also default would be amahric. There was some technial issue with Viber itself, hiding menus when screen changes.",
+        "user": "UV6JJDDKL",
+        "ts": "1584723046.014400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0L5E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010AMAA7KR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Wil try to get rid of reload on the next version and also default would be amahric. There was some technial issue with Viber itself, hiding menus when screen changes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "447b3d3c-c47c-4a4d-920a-4255bd754ed8",
+        "type": "message",
+        "text": "<@U0107898C9M> Yes uniform experience across bots.",
+        "user": "UV6JJDDKL",
+        "ts": "1584723092.014500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TW+e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes uniform experience across bots."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584716585.002500",
+        "parent_user_id": "UVAL943JP"
+    },
+    {
+        "client_msg_id": "A8E87F3C-4CC5-4580-A172-9153C1BF52C2",
+        "type": "message",
+        "text": "<https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing|https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing>",
+        "user": "U0107898C9M",
+        "ts": "1584723552.015700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Qa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing",
+                                "text": "https://docs.google.com/spreadsheets/d/1rAb8Egdp8tqeAF-hTJSXHnK2MFRxpcOaw1dED5HgbXo/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584716585.002500",
+        "parent_user_id": "UVAL943JP"
+    },
+    {
+        "client_msg_id": "B95E206B-E03F-4B17-AE93-C74F79A609F6",
+        "type": "message",
+        "text": "So based on this sheet create a list of keyboard or add keyboard on list ",
+        "user": "U0107898C9M",
+        "ts": "1584723699.017300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qup",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So based on this sheet create a list of keyboard or add keyboard on list "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584716585.002500",
+        "parent_user_id": "UVAL943JP"
+    },
+    {
+        "client_msg_id": "b10dfed2-b360-42e9-b641-d113a9a59dc7",
+        "type": "message",
+        "text": "Who can is leading this effort?",
+        "user": "UV6JHDP0S",
+        "ts": "1584727371.017700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "izS4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who can is leading this effort?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584728373.017900",
+        "user": "UVD6SD63D",
+        "text": "<@UVD6SD63D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584732983.018100",
+        "user": "U010BSJ55MK",
+        "text": "<@U010BSJ55MK> has joined the channel"
+    },
+    {
+        "client_msg_id": "6453eb62-09de-44f9-8389-7c74bf0dd545",
+        "type": "message",
+        "text": "<@UV6JJDDKL> <!here> <@U0107898C9M> Not sure who asked but someone mentioned you wanted some bots hosted for dev. LMK",
+        "user": "UV6JHDP0S",
+        "ts": "1584736074.019300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dber",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JJDDKL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Not sure who asked but someone mentioned you wanted some bots hosted for dev. LMK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "227065DA-8DBF-4613-994F-29978E9994A5",
+        "type": "message",
+        "text": "Okay guys the bot is up and running on my server, added a real-time live statistics you can check it out right here \n\n<https://t.me/Covid_robot|https://t.me/Covid_robot>",
+        "user": "U0107898C9M",
+        "ts": "1584744124.020800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107898C9M",
+            "ts": "1584747646.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Telegram",
+                "title": "COVID19",
+                "title_link": "https://t.me/Covid_robot",
+                "text": "You can contact @Covid_robot right away.",
+                "fallback": "Telegram: COVID19",
+                "thumb_url": "https://telegram.org/img/t_logo.png",
+                "from_url": "https://t.me/Covid_robot",
+                "thumb_width": 236,
+                "thumb_height": 236,
+                "service_icon": "http://telegram.org/favicon.ico?3",
+                "id": 1,
+                "original_url": "https://t.me/Covid_robot"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VpaB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay guys the bot is up and running on my server, added a real-time live statistics you can check it out right here \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://t.me/Covid_robot",
+                                "text": "https://t.me/Covid_robot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584744124.020800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584745657.021300",
+        "reply_users": [
+            "UVD6SD63D"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVD6SD63D",
+                    "UVAL943JP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c0fcbcc-2dba-4994-8b9a-aa3539f8bfcd",
+        "type": "message",
+        "text": "awesome",
+        "user": "UVD6SD63D",
+        "ts": "1584745657.021300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CGex",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awesome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584744124.020800",
+        "parent_user_id": "U0107898C9M"
+    }
+]

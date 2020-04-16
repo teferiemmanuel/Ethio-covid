@@ -1,0 +1,829 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584713575.000200",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584713576.000300",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> set the channel purpose: Building amazing bots",
+        "purpose": "Building amazing bots"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584713596.000500",
+        "user": "UV6JJDDKL",
+        "text": "<@UV6JJDDKL> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584713596.000700",
+        "user": "U010BSJ55MK",
+        "text": "<@U010BSJ55MK> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584713597.000900",
+        "user": "U0107898C9M",
+        "text": "<@U0107898C9M> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584713597.001100",
+        "user": "U0107JDFH1U",
+        "text": "<@U0107JDFH1U> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "a66a3b3a-11c1-4e4e-b2b4-933656441fb8",
+        "type": "message",
+        "text": "<!channel> - good people. Y\u2019all are working on bots",
+        "user": "UV8B0679P",
+        "ts": "1584713606.001400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Nc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - good people. Y\u2019all are working on bots"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0966d08-f2b8-45d9-8091-3331eaf3b0fb",
+        "type": "message",
+        "text": "Ther will be official bots for WhatsApp &amp; Telegram",
+        "user": "UV8B0679P",
+        "ts": "1584713648.002200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WXK/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ther will be official bots for WhatsApp & Telegram"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ab345e9-eca2-4484-a07f-45b064deb8db",
+        "type": "message",
+        "text": "<@UV6JJDDKL> just posted one for Viber",
+        "user": "UV8B0679P",
+        "ts": "1584713668.002600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Xjh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JJDDKL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just posted one for Viber"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9de677b1-d862-4c77-adef-54bbd291aea4",
+        "type": "message",
+        "text": "Can you three chat",
+        "user": "UV8B0679P",
+        "ts": "1584713672.002900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KHCu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you three chat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20c05fab-0815-4632-a1ef-cb06ad2ced80",
+        "type": "message",
+        "text": "Who is working on what ?",
+        "user": "UV6JJDDKL",
+        "ts": "1584713683.003300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i=w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who is working on what ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6fe8d4d-7822-4d37-b588-467538c4b721",
+        "type": "message",
+        "text": "and harmonize it so that it\u2019s consistent and the data comes from a single source",
+        "user": "UV8B0679P",
+        "ts": "1584713684.003500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G76xD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and harmonize it so that it\u2019s consistent and the data comes from a single source"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "499b404d-2758-4047-9e06-5221551c7793",
+        "type": "message",
+        "text": "Samson is leading WhatsApp and Telegram with the help with Sal",
+        "user": "UV8B0679P",
+        "ts": "1584713705.004500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Samson is leading WhatsApp and Telegram with the help with Sal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ede1048-69d1-4cf7-9bd8-ccbf95cff613",
+        "type": "message",
+        "text": "Next i m.planning to build a whatsup bot ? I want to lead this becuase we need to follow same standard",
+        "user": "UV6JJDDKL",
+        "ts": "1584713726.005300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S7J78",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Next i m.planning to build a whatsup bot ? I want to lead this becuase we need to follow same standard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E72282D1-8C92-44F2-A2CE-110113B1473A",
+        "type": "message",
+        "text": "Yes is there any body working on sms ",
+        "user": "U010BSJ55MK",
+        "ts": "1584713731.005600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pHY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes is there any body working on sms "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C696A209-8180-4EBC-BFCA-A6F11500698D",
+        "type": "message",
+        "text": "We have a working bit for sms WhatsApp and telegram ",
+        "user": "U010BSJ55MK",
+        "ts": "1584713743.006000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FTjfb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have a working bit for sms WhatsApp and telegram "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E6A69FC1-1B4B-42E4-91AE-16ACBA35C8C1",
+        "type": "message",
+        "text": "We are waiting on confirmation of the content from Moh team ",
+        "user": "U010BSJ55MK",
+        "ts": "1584713755.006500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4j1P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are waiting on confirmation of the content from Moh team "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eafb110e-18b0-4267-848c-de836f39c66f",
+        "type": "message",
+        "text": "Okay.",
+        "user": "UV6JJDDKL",
+        "ts": "1584713778.007100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yng",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35EE6B06-94F5-478D-A905-538DE98368DC",
+        "type": "message",
+        "text": "Is there any one who is working in FB? ",
+        "user": "U010BSJ55MK",
+        "ts": "1584713783.007300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ll53J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there any one who is working in FB? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EC96329A-5A96-4887-8FCB-BB2CB814F359",
+        "type": "message",
+        "text": "We need someone there ",
+        "user": "U010BSJ55MK",
+        "ts": "1584713793.007600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/Qc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We need someone there "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5dc4668b-f615-4f99-823b-659ad4c87b23",
+        "type": "message",
+        "text": "Guess not. I will take that assigment",
+        "user": "UV6JJDDKL",
+        "ts": "1584713830.008000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eDb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guess not. I will take that assigment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db6687fb-6306-4ec3-91b7-73b9f69ade72",
+        "type": "message",
+        "text": "<@UV8B0679P> thanks. Did you get my list ?",
+        "user": "UV6JJDDKL",
+        "ts": "1584713854.008600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wt6VP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks. Did you get my list ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3326c2b5-d7de-434a-b403-8e607da2c338",
+        "type": "message",
+        "text": "<@U010BSJ55MK>, <@U0107JDFH1U> (former FB Engineer) is working on the FB Messenger bot",
+        "user": "UV8B0679P",
+        "ts": "1584713979.009200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RV8iO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010BSJ55MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JDFH1U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (former FB Engineer) is working on the FB Messenger bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ae1c518-6f46-4e0e-80a3-a26a482a2249",
+        "type": "message",
+        "text": "we\u2019ll get an update from him",
+        "user": "UV8B0679P",
+        "ts": "1584713986.009400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7bH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we\u2019ll get an update from him"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e3f4d1a-73aa-475f-b5d2-dde65f2d87dc",
+        "type": "message",
+        "text": "today",
+        "user": "UV8B0679P",
+        "ts": "1584713988.009600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o6EVJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584713988.009600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584763058.014800",
+        "reply_users": [
+            "U010BSJ55MK"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "82d1b077-8934-4240-80bf-8e841f707b15",
+        "type": "message",
+        "text": "<@UV6JJDDKL> - can you share the list?",
+        "user": "UV8B0679P",
+        "ts": "1584713997.009900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zj/o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JJDDKL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - can you share the list?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e7d1c1c-0bbe-499e-bc5d-a5626b7d8ac5",
+        "type": "message",
+        "text": "Sorry a lot of ish going on :smile:",
+        "user": "UV8B0679P",
+        "ts": "1584714004.010300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rqF=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry a lot of ish going on "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93d7c867-2bf1-45f7-8e28-936bf258ca6d",
+        "type": "message",
+        "text": "I did on you PM",
+        "user": "UV6JJDDKL",
+        "ts": "1584714011.010600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YsBkA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did on you PM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584714011.010600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584714061.011000",
+        "reply_users": [
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "30DF2A6A-55AA-40E4-934E-B69B48AA5681",
+        "type": "message",
+        "text": "Woow that is awesome!  ",
+        "user": "U010BSJ55MK",
+        "ts": "1584714027.010900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O2GwO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Woow that is awesome!  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24514cf0-f5f5-405e-a415-8eee47917eaa",
+        "type": "message",
+        "text": "let me check",
+        "user": "UV8B0679P",
+        "ts": "1584714061.011000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o0Le",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let me check"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584714011.010600",
+        "parent_user_id": "UV6JJDDKL"
+    },
+    {
+        "client_msg_id": "c094283a-3a92-42f9-8bcf-6f6b59dc8f02",
+        "type": "message",
+        "text": "@Mike do you have offical facebook page ? I really need this ?",
+        "user": "UV6JJDDKL",
+        "ts": "1584715217.011900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tHT=o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@Mike do you have offical facebook page ? I really need this ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584715217.011900",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1584770504.015400",
+        "reply_users": [
+            "U010BSJ55MK",
+            "UV6JJDDKL"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d49c4c69-6d17-470f-8a4e-ee7067ebb296",
+        "type": "message",
+        "text": "Not yet - they are in the process of deciding the official channels",
+        "user": "UV8B0679P",
+        "ts": "1584715251.012400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k4b0G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not yet - they are in the process of deciding the official channels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a462d87a-f9b7-4fd9-a750-1a0ac8250dd0",
+        "type": "message",
+        "text": "okay, Thanks!",
+        "user": "UV6JJDDKL",
+        "ts": "1584715479.012600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TaAC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay, Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B283F091-0526-41DE-8D3D-346642A183F6",
+        "type": "message",
+        "text": "Okay guys the bot is up and running on my server, added a real live statistics you can check it out right here \n\n<https://t.me/Covid_robot|https://t.me/Covid_robot>",
+        "user": "U0107898C9M",
+        "ts": "1584744142.012900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Telegram",
+                "title": "COVID19",
+                "title_link": "https://t.me/Covid_robot",
+                "text": "You can contact @Covid_robot right away.",
+                "fallback": "Telegram: COVID19",
+                "thumb_url": "https://telegram.org/img/t_logo.png",
+                "from_url": "https://t.me/Covid_robot",
+                "thumb_width": 236,
+                "thumb_height": 236,
+                "service_icon": "http://telegram.org/favicon.ico?3",
+                "id": 1,
+                "original_url": "https://t.me/Covid_robot"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1btc8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay guys the bot is up and running on my server, added a real live statistics you can check it out right here \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://t.me/Covid_robot",
+                                "text": "https://t.me/Covid_robot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

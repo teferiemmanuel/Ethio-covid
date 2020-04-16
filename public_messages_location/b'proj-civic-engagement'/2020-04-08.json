@@ -1,0 +1,286 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586313617.117000",
+        "user": "U010CLFURT8",
+        "text": "<@U010CLFURT8> has joined the channel",
+        "inviter": "U011F7L4G8L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586313617.117200",
+        "user": "U010Z2M1W6Q",
+        "text": "<@U010Z2M1W6Q> has joined the channel",
+        "inviter": "U011F7L4G8L"
+    },
+    {
+        "client_msg_id": "4ef6443a-d680-476b-bd8d-a46ee44c8886",
+        "type": "message",
+        "text": "Options #1 wins! Here is the link to brand items: <https://drive.google.com/open?id=1Ohmg6WD4Nk2PMfqCorSAPg18XJKfTDGR>",
+        "user": "U0107A7161E",
+        "ts": "1586361741.120400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M1vz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Options #1 wins! Here is the link to brand items: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/open?id=1Ohmg6WD4Nk2PMfqCorSAPg18XJKfTDGR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C010HJ1JF42"
+        ],
+        "pinned_info": {
+            "channel": "C010HJ1JF42",
+            "pinned_by": "U0107A7161E",
+            "pinned_ts": 1586362883
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U010CLFURT8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "Reminder: \"Daily civic engagement call is in 15 minutes: <https://mit.zoom.us/j/830540249>\" @",
+        "user": "USLACKBOT",
+        "ts": "1586362510.121100",
+        "team": "TV5KELEUS"
+    },
+    {
+        "client_msg_id": "05A4534D-4604-407F-9FC8-B228B6E575FA",
+        "type": "message",
+        "text": "<!channel> I can\u2019t make today\u2019s meeting anymore. Feel free to meet and take notes in the minutes doc. I have a couple open actions for myself still ",
+        "user": "U0107A7161E",
+        "ts": "1586363304.123900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QobL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can\u2019t make today\u2019s meeting anymore. Feel free to meet and take notes in the minutes doc. I have a couple open actions for myself still "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586363304.123900",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1586400336.128600",
+        "reply_users": [
+            "U010L27MB25",
+            "U010SKPP7CJ",
+            "U011B8Y6N8N",
+            "U0107A7161E"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U010SBSQC9K",
+                    "UV6JHDP0S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D57AFA21-4CA3-40CC-AE21-043B457DD71C",
+        "type": "message",
+        "text": "Aiming to go live on tomorrow\u2019s call!",
+        "user": "U0107A7161E",
+        "ts": "1586363313.124400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Bc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aiming to go live on tomorrow\u2019s call!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69c2177c-4f7b-4e75-aab5-88677241e775",
+        "type": "message",
+        "text": "I'd also let Samra know that I can't make calls on M/W. Update from me is that my posts should be redrafted within 24 hours. Feel free to assign another task to me / any other updates. Thanks!",
+        "user": "U010L27MB25",
+        "ts": "1586363394.124600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gn0R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd also let Samra know that I can't make calls on M/W. Update from me is that my posts should be redrafted within 24 hours. Feel free to assign another task to me / any other updates. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586363304.123900",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "49a5bdc4-bea0-43ca-a0b0-b584b9762d95",
+        "type": "message",
+        "text": "<@U010L27MB25>  which blog \nBoth? I was updating the minute?",
+        "user": "U010SKPP7CJ",
+        "ts": "1586366059.125200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nxmCn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010L27MB25"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  which blog \nBoth? I was updating the minute?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586363304.123900",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "fbcc33f8-5022-4568-9ab2-0cd08a985451",
+        "type": "message",
+        "text": "Dashboarding and Hot vacancy bot",
+        "user": "U010L27MB25",
+        "ts": "1586366211.125400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dashboarding and Hot vacancy bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586363304.123900",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "ad1243a4-583f-4567-ba9e-d2cae9bd9778",
+        "type": "message",
+        "text": "K",
+        "user": "U010SKPP7CJ",
+        "ts": "1586366569.125600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cA+Jt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "K"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586363304.123900",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "36805B18-A3B0-440E-A83B-BC5684402375",
+        "type": "message",
+        "text": "Let me know if you need a second set of eyes on the blogs. I can review/edit. ",
+        "user": "U011B8Y6N8N",
+        "ts": "1586380369.128000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hOjh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me know if you need a second set of eyes on the blogs. I can review/edit. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586363304.123900",
+        "parent_user_id": "U0107A7161E"
+    }
+]

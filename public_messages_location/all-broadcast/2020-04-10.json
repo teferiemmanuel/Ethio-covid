@@ -1,0 +1,500 @@
+[
+    {
+        "client_msg_id": "3c794d6b-1ee5-4b3a-b520-6635a9466807",
+        "type": "message",
+        "text": "*<!channel>*\u00a0All-hands for Sprint #3 is TONIGHT @ 6:00pm PST / 9pm EST / 4am EAT\u00a0:sunglasses:\u00a0--&gt; meeting link:\u00a0<https://mit.zoom.us/j/921756948>\n\n[For the following all-hands calls, we will rotate meeting times so that our team members on the ground can join us]",
+        "user": "U0107A7161E",
+        "ts": "1586542679.295500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1586543227.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bXB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0All-hands for Sprint #3 is TONIGHT @ 6:00pm PST / 9pm EST / 4am EAT\u00a0"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0--> meeting link:\u00a0"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://mit.zoom.us/j/921756948"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n[For the following all-hands calls, we will rotate meeting times so that our team members on the ground can join us]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "partytime",
+                "users": [
+                    "U010059R6BT",
+                    "U0106M26108",
+                    "U010986778X",
+                    "U010K2Q0D8F",
+                    "U0107JERE9L",
+                    "U0106M27EKS",
+                    "U010JHVF19U"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "UV6JJDDKL",
+                    "UV8B0679P",
+                    "U0106M26108",
+                    "U0107JERE9L",
+                    "U0106M27EKS",
+                    "U010JHVF19U",
+                    "UVA8BCCBV"
+                ],
+                "count": 7
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UV8B0679P",
+                    "U0106M26108",
+                    "U0107JERE9L",
+                    "U0106M27EKS",
+                    "U01023RPHPU",
+                    "U010JHVF19U"
+                ],
+                "count": 6
+            },
+            {
+                "name": "woman-cartwheeling::skin-tone-4",
+                "users": [
+                    "U0106M26108",
+                    "U0107JERE9L",
+                    "U0106M27EKS",
+                    "U010JHVF19U"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010JHVF19U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3E5BFABA-63CA-4062-853E-7463F734D796",
+        "type": "message",
+        "text": "*<!channel>*\u00a0:rotating_light:\u00a0*VERY IMPORTANT ANNOUNCEMENT:*\u00a0This community is for people who want to work together to respond to COVID-19. We have heard a couple complaints from a couple people that they were being harassed or DMs were slid with ulterior motives. We will not tolerate that \u2014 our community will not tolerate that!\n\nIf you experienced this, we are genuinely sorry that it happened. DM me, or any of the ops leads (<@U0106M26108>,\u00a0<@U0107A7161E>,\u00a0<@UV6JHDP0S>,\u00a0<@U0107JERE9L>,\u00a0<@U0106M27EKS>,\u00a0<@U010GUEQVPF>,\u00a0<@U0107AYF16H>) &amp; we will take care of this.\n\nIf you are an offender, be warned. BS like this will not be tolerated and you will be banned from this channel.\n\nBe courteous. Be decent.",
+        "user": "UV8B0679P",
+        "ts": "1586560110.306600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV8B0679P",
+            "ts": "1586587645.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ef5L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "VERY IMPORTANT ANNOUNCEMENT:\u00a0",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "This community is for people who want to work together to respond to COVID-19. We have heard a couple complaints from a couple people that they were being harassed or DMs were slid with ulterior motives. We will not tolerate that \u2014 our community will not tolerate that!\n\nIf you experienced this, we are genuinely sorry that it happened. DM me, or any of the ops leads ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M27EKS"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010GUEQVPF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") & we will take care of this.\n\nIf you are an offender, be warned. BS like this will not be tolerated and you will be banned from this channel.\n\nBe courteous. Be decent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586560110.306600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586562240.311400",
+        "reply_users": [
+            "U0106M26108",
+            "UV8B0679P"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "disappointed",
+                "users": [
+                    "U0105C870AC",
+                    "U0106M26108",
+                    "U0111A9R6JK",
+                    "UVB9ZSPCH",
+                    "U010K2Q0D8F",
+                    "U0107JDFH1U",
+                    "U0106M27EKS",
+                    "U0107JEKN0N",
+                    "U010C2V8YCF",
+                    "U01020VNEE7",
+                    "UV9A3J397"
+                ],
+                "count": 11
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U011F7L4G8L",
+                    "U010ZJYV6AU",
+                    "U010LCNSHDY",
+                    "U010F234GJJ",
+                    "UVB9ZSPCH",
+                    "U0107JC5CCD",
+                    "U01084P3CG0",
+                    "UVA8BCCBV",
+                    "U010YC7MX2Q",
+                    "U0106M27EKS",
+                    "UVALWD1MG",
+                    "U010K2Q0D8F",
+                    "U011680TZL5",
+                    "U010Z9NDLHW",
+                    "U010K3X390E",
+                    "UVC2KTGGH",
+                    "UV9A3J397",
+                    "U010LGW2A5A"
+                ],
+                "count": 18
+            },
+            {
+                "name": "fist::skin-tone-4",
+                "users": [
+                    "U0106M26108",
+                    "U0111A9R6JK",
+                    "U010SPW4HJB",
+                    "UVB9ZSPCH",
+                    "U010ETDKCA1",
+                    "UVA8BCCBV",
+                    "U0106M27EKS",
+                    "U010C2V8YCF",
+                    "U010729GXR7",
+                    "U01087PJBNG"
+                ],
+                "count": 10
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U0106M26108",
+                    "U0105C870AC",
+                    "UVB9ZSPCH",
+                    "U0113Q2GAHM",
+                    "U010729GXR7"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U011D9WUJMU",
+                    "UVB9ZSPCH",
+                    "U010J0B824V",
+                    "U010DA5KZ3M",
+                    "U01051X26HJ",
+                    "U010729GXR7",
+                    "U01076AUPNE"
+                ],
+                "count": 7
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U010U8HF7PY",
+                    "UVB9ZSPCH",
+                    "U011MT7GULD",
+                    "U010NFEBL9L",
+                    "U0108SD3DA4",
+                    "U010729GXR7"
+                ],
+                "count": 6
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U01016H47M1",
+                    "UV7TX2KR9",
+                    "UVB9ZSPCH",
+                    "U01085512G5",
+                    "UVAL943JP",
+                    "U010C2V8YCF",
+                    "U01023RPHPU",
+                    "U010VJ6A17W",
+                    "U0108MYHZ0C",
+                    "U01051X26HJ",
+                    "UV80W9PL3",
+                    "U010A8YEUP9",
+                    "U010729GXR7",
+                    "UV9A3J397"
+                ],
+                "count": 14
+            },
+            {
+                "name": "potable_water",
+                "users": [
+                    "U010A0P7EK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4948785b-1492-49d9-973b-a9cf597e7a34",
+        "type": "message",
+        "text": "Guess it\u2019s about that time. Really thought it wasn\u2019t going to be necessary smh.\n\nThrowing creating a \u201ccode of conduct\u201d on the list! :pensive:",
+        "user": "U0106M26108",
+        "ts": "1586560352.308700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WiH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guess it\u2019s about that time. Really thought it wasn\u2019t going to be necessary smh.\n\nThrowing creating a \u201ccode of conduct\u201d on the list! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pensive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586560110.306600",
+        "parent_user_id": "UV8B0679P",
+        "reactions": [
+            {
+                "name": "arrow_up_small",
+                "users": [
+                    "U0106M27EKS",
+                    "U0113Q2GAHM",
+                    "U010L0BFTTQ",
+                    "U01087PJBNG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "165862f3-ae89-4eb5-83b1-53be83dce111",
+        "type": "message",
+        "text": "*<!channel>*\u00a0\n[Action Requested] Hi, everyone!\u00a0<@U0106M26108>\u00a0and I are curating a list of civic activists, journalist, government officials, notable health professionals across all social media channels, and we would love your help! We are looking for your input in collecting the handles of any key public health voices (left intentionally broad) across Ethiopia by\u00a0*Sunday, April 12th.*\n\nFor this round we are placing a premium on accounts with content that is not predominantly Amharic (i.e. Oromigna, Tigrigna, Somali) to ensure adequate regional representation, but please feel free to add any accounts that you can think of in Amharic as well. No lower bound on follower count for now. Thanks in advance!\n\n<https://docs.google.com/spreadsheets/d/1SSJNLymrIN6vSDGHB_xMjvl1ifHvTf_DdwKyI42dJew/edit#gid=0>",
+        "user": "U010N7HGNNR",
+        "ts": "1586561870.310700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010N7HGNNR",
+            "ts": "1586567446.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2jQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0\n[Action Requested] Hi, everyone!\u00a0"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0and I are curating a list of civic activists, journalist, government officials, notable health professionals across all social media channels, and we would love your help! We are looking for your input in collecting the handles of any key public health voices (left intentionally broad) across Ethiopia by\u00a0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sunday, April 12th.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFor this round we are placing a premium on accounts with content that is not predominantly Amharic (i.e. Oromigna, Tigrigna, Somali) to ensure adequate regional representation, but please feel free to add any accounts that you can think of in Amharic as well. No lower bound on follower count for now. Thanks in advance!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1SSJNLymrIN6vSDGHB_xMjvl1ifHvTf_DdwKyI42dJew/edit#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586561870.310700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586566673.314300",
+        "reply_users": [
+            "U010K2675CP",
+            "U0106M26108"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BFAF8C16-B1FD-44C0-B9D7-E8708A4A3680",
+        "type": "message",
+        "text": "I agree",
+        "user": "UV8B0679P",
+        "ts": "1586562240.311400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X+P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586560110.306600",
+        "parent_user_id": "UV8B0679P"
+    }
+]

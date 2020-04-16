@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "de27b450-9af0-4406-a299-f79f24bd17c8",
+        "type": "message",
+        "text": "<https://www.covid19structures.com>",
+        "user": "U01017GFFB4",
+        "ts": "1586262358.000500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Covid-19 Structures",
+                "title_link": "https://www.covid19structures.com/",
+                "text": "The Czarnowski Collective is ready to support drive-thru testing and triage center initiatives with on-demand tent structures during the COVID-19 pandemic",
+                "fallback": "Covid-19 Structures",
+                "thumb_url": "http://static1.squarespace.com/static/5e85fff654e4de2e11389b28/t/5e85ffff54e4de2e11389c19/1584388574479/czar-collective-black%402x.png?format=1500w",
+                "from_url": "https://www.covid19structures.com/",
+                "thumb_width": 917,
+                "thumb_height": 48,
+                "service_icon": "https://assets.squarespace.com/universal/default-favicon.ico",
+                "service_name": "covid19structures.com",
+                "id": 1,
+                "original_url": "https://www.covid19structures.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "La0p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.covid19structures.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

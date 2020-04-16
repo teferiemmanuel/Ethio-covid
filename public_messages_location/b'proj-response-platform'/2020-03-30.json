@@ -1,0 +1,1227 @@
+[
+    {
+        "client_msg_id": "F86F40D3-297D-4EBE-AAD5-22DCE36106C9",
+        "type": "message",
+        "text": "<!channel> can you give me a status update here what was done so far?",
+        "user": "UV8B0679P",
+        "ts": "1585527336.050100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hPj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you give me a status update here what was done so far?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585527387.050600",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585527402.051000",
+        "user": "U01084NU2NL",
+        "text": "<@U01084NU2NL> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "client_msg_id": "13dd5088-36df-41c8-ac69-37aecf5fc729",
+        "type": "message",
+        "text": "I couldn't figure out where and how the communities, medical ... are stored",
+        "user": "UV9AYBY3C",
+        "ts": "1585527438.051500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VP0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I couldn't figure out where and how the communities, medical ... are stored"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a3c3a97-76a7-47d4-8b5a-82f888035c6b",
+        "type": "message",
+        "text": "this is literally an empty table with just an id and timestamps",
+        "user": "UV9AYBY3C",
+        "ts": "1585527513.052100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV9AYBY3C",
+            "ts": "1585527600.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vaw=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is literally an empty table with just an id and timestamps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d7b99bf-693e-4ae7-9f41-f1eee61a18cb",
+        "type": "message",
+        "text": "<https://github.com/bengeos/CovidCallReporterApi/blob/master/database/migrations/2020_03_26_040341_create_community_reports_table.php#L17-L18>",
+        "user": "UV9AYBY3C",
+        "ts": "1585527569.052400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[bengeos/CovidCallReporterApi] database/migrations/2020_03_26_040341_create_community_reports_table.php:17-18",
+                "text": "```\n            $table-&gt;bigIncrements('id');\n            $table-&gt;timestamps();\n```",
+                "title": "database/migrations/2020_03_26_040341_create_community_reports_table.php:17-18",
+                "footer": "<https://github.com/bengeos/CovidCallReporterApi|bengeos/CovidCallReporterApi>",
+                "id": 1,
+                "title_link": "https://github.com/bengeos/CovidCallReporterApi/blob/master/database/migrations/2020_03_26_040341_create_community_reports_table.php#L17-L18",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/bengeos/CovidCallReporterApi/blob/master/database/migrations/2020_03_26_040341_create_community_reports_table.php#L17-L18",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Py3/8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.com/bengeos/CovidCallReporterApi/blob/master/database/migrations/2020_03_26_040341_create_community_reports_table.php#L17-L18"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3799B9F2-28B4-4932-86F4-4F3033B3DB4F",
+        "type": "message",
+        "text": "<@UV9AYBY3C> - have you looked at the data structure from here: <https://github.com/Ethiopia-COVID19/api-gateway#data-structure|https://github.com/Ethiopia-COVID19/api-gateway#data-structure>",
+        "user": "UV8B0679P",
+        "ts": "1585527635.053600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/api-gateway",
+                "text": "COVID-19 Forms API",
+                "title": "Ethiopia-COVID19/api-gateway",
+                "footer": "<https://github.com/Ethiopia-COVID19/api-gateway|Ethiopia-COVID19/api-gateway>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585073210,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "3",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/api-gateway#data-structure",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2cN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9AYBY3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - have you looked at the data structure from here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway#data-structure",
+                                "text": "https://github.com/Ethiopia-COVID19/api-gateway#data-structure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d4cff7f-fae3-4f11-a6b7-d5d60883224b",
+        "type": "message",
+        "text": "Yes, i have",
+        "user": "UV9AYBY3C",
+        "ts": "1585527672.054000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZIBm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, i have"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68e39cd6-ed34-45b8-877d-da22655a01f0",
+        "type": "message",
+        "text": "that's straight forward",
+        "user": "UV9AYBY3C",
+        "ts": "1585527686.054700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's straight forward"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "156C0EE9-E21A-4B0E-845A-CC54DEDBB4EA",
+        "type": "message",
+        "text": "So that\u2019s the data structure that will be stored",
+        "user": "UV8B0679P",
+        "ts": "1585527697.055000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z6/5l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So that\u2019s the data structure that will be stored"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28701a0f-f17b-4e7e-8185-0ea020cf89d4",
+        "type": "message",
+        "text": "I meant from the laravel side",
+        "user": "UV9AYBY3C",
+        "ts": "1585527735.055500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Zkmr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I meant from the laravel side"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E33C0184-E993-4D01-82EA-5352D521CC46",
+        "type": "message",
+        "text": "On the Laravel side, the form will be similar to the toll free except with the same fields as the one in the data structure",
+        "user": "UV8B0679P",
+        "ts": "1585527779.056600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "coIz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On the Laravel side, the form will be similar to the toll free except with the same fields as the one in the data structure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "905BA8A3-BB19-4B1E-9094-513BB7E1D2AC",
+        "type": "message",
+        "text": "Let\u2019s step back;\n\n1. Have you guys finished working on the Auth flow?",
+        "user": "UV8B0679P",
+        "ts": "1585527804.057200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WOS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let\u2019s step back;\n\n1. Have you guys finished working on the Auth flow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E22EE583-429E-445C-93BB-7D8865679E8E",
+        "type": "message",
+        "text": "If not, do we know who is working on it?",
+        "user": "UV8B0679P",
+        "ts": "1585527821.057700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UPzp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If not, do we know who is working on it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a9fcb8d-3157-4d09-b80e-436ecf5a719a",
+        "type": "message",
+        "text": "I got that, just need some creds to test it on",
+        "user": "UV9AYBY3C",
+        "ts": "1585527921.058400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QjAN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got that, just need some creds to test it on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E406D685-E701-4644-B631-698CA4CEF3D6",
+        "type": "message",
+        "text": "<@U0107JEKN0N> can you help <@UV9AYBY3C> get the credentials?",
+        "user": "UV8B0679P",
+        "ts": "1585527950.059100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kyo7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you help "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9AYBY3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get the credentials?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa8a97ba-7d46-41b6-9d6a-27f4dc7f97e6",
+        "type": "message",
+        "text": "Sure",
+        "user": "U0107JEKN0N",
+        "ts": "1585528303.059300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585529658.059500",
+        "user": "U0103EHQLEM",
+        "text": "<@U0103EHQLEM> has joined the channel"
+    },
+    {
+        "client_msg_id": "F9D1C19E-D5BE-43FD-B95A-3B60EC3A3F2F",
+        "type": "message",
+        "text": "<@UV8B0679P> what features are left ? ",
+        "user": "U0103EHQLEM",
+        "ts": "1585530178.060600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sZY3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what features are left ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E06D7038-4BFF-4C12-89DD-EEF29377D121",
+        "type": "message",
+        "text": "<@U0103EHQLEM> reach out to <@U01112AP83Y>, <@U0109P8FR2T> and <@UV9AYBY3C> ",
+        "user": "UV8B0679P",
+        "ts": "1585530477.061300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "604s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0103EHQLEM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reach out to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01112AP83Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109P8FR2T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9AYBY3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65B17643-C1BD-40F2-8F99-CE0CFD200CA8",
+        "type": "message",
+        "text": "<@UV9AYBY3C> <@U01112AP83Y> <@U0109P8FR2T> hey guys what\u2019s left? How can I help you with? ",
+        "user": "U0103EHQLEM",
+        "ts": "1585530590.063000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XNAu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9AYBY3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01112AP83Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109P8FR2T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hey guys what\u2019s left? How can I help you with? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9218339C-C11E-485C-935A-18B207108773",
+        "type": "message",
+        "text": "I got added to this channel.   Can I help?",
+        "user": "U01084NU2NL",
+        "ts": "1585530850.063500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got added to this channel.   Can I help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77e21cb5-f8e7-4ef5-b228-c7b7935688d2",
+        "type": "message",
+        "text": "Progress ...\n<https://github.com/bengeos/CovidCallReporterApi/pull/2>",
+        "user": "UV9AYBY3C",
+        "ts": "1585538301.064000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "author_name": "SamAsEnd",
+                "fallback": "[bengeos/CovidCallReporterApi] #2 [WIP] aws integration work in progress",
+                "text": "I have created three jobs (`CommunitiesPushJob`, `MedicalFacilitiesPushJob` and `TollFreePushJob`) to be invoked from any controller to submit the form request data to aws api gateway with cognito authentication.\n\nEg.\n\n```\nCommunitiesPushJob::dispatchNow([\n    'firstName'=&gt; 'Samson',\n    'lastName'=&gt; 'Endale',\n    'age'=&gt; '26',\n    'sex'=&gt; 'Male',\n    // ... form request in\n    // ... <https://github.com/Ethiopia-COVID19/api-gateway#data-structure> schema\n]);\n```\n\nIt's possible to delay or push the job into the background using aws sqs or a simple redis queue worker.",
+                "title": "#2 [WIP] aws integration work in progress",
+                "footer": "<https://github.com/bengeos/CovidCallReporterApi|bengeos/CovidCallReporterApi>",
+                "id": 1,
+                "title_link": "https://github.com/bengeos/CovidCallReporterApi/pull/2",
+                "author_link": "https://github.com/SamAsEnd",
+                "author_icon": "https://avatars1.githubusercontent.com/u/9657132?v=4",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585538257,
+                "color": "36a64f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/bengeos/CovidCallReporterApi/pull/2",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V+2N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Progress ...\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/bengeos/CovidCallReporterApi/pull/2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585538301.064000",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1585540182.065000",
+        "reply_users": [
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "59d00039-a9ac-4604-b9e6-346cfd56d4fa",
+        "type": "message",
+        "text": "I will hook it with the form request data when i figure out more",
+        "user": "UV9AYBY3C",
+        "ts": "1585538359.064700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r3=rK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will hook it with the form request data when i figure out more"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01112AP83Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d524426-40d3-4f9b-a0fe-5c3212b2e42c",
+        "type": "message",
+        "text": "This looks promising!",
+        "user": "UV8B0679P",
+        "ts": "1585540180.064800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UqI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This looks promising!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585538301.064000",
+        "parent_user_id": "UV9AYBY3C"
+    },
+    {
+        "client_msg_id": "0760b2e5-f464-4e42-b8fc-f17cacf844d6",
+        "type": "message",
+        "text": "Great job",
+        "user": "UV8B0679P",
+        "ts": "1585540182.065000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jYB5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great job"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585538301.064000",
+        "parent_user_id": "UV9AYBY3C"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585569044.065600",
+        "user": "UVAAL9MLK",
+        "text": "<@UVAAL9MLK> has joined the channel"
+    },
+    {
+        "client_msg_id": "39E6ED49-461A-453B-B2A2-26899AB3A15A",
+        "type": "message",
+        "text": "<!channel> - checking where the team is on this?",
+        "user": "UV8B0679P",
+        "ts": "1585574734.066400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wdk0F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - checking where the team is on this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efeaf07f-f379-47d7-a6ff-a1b0261fb948",
+        "type": "message",
+        "text": "<@U010E0XSX4Y> <@UVAS4H073> - welcome",
+        "user": "UV8B0679P",
+        "ts": "1585581656.067400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010E0XSX4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVAS4H073"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - welcome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585581658.067600",
+        "user": "U010E0XSX4Y",
+        "text": "<@U010E0XSX4Y> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585581658.067800",
+        "user": "UVAS4H073",
+        "text": "<@UVAS4H073> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "1effaa50-2f8f-4bb2-89a6-9674c00200af",
+        "type": "message",
+        "text": "<@U010P3WHTBN> - join this channel",
+        "user": "UV8B0679P",
+        "ts": "1585588601.068300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010P3WHTBN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - join this channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585588604.068500",
+        "user": "U010P3WHTBN",
+        "text": "<@U010P3WHTBN> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "7666d5c0-1e05-4f9f-9d86-72c6f08716e9",
+        "type": "message",
+        "text": "Hey guys",
+        "user": "UV9AYBY3C",
+        "ts": "1585598019.068700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z2afs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8084a72a-42f0-49a7-a1b5-20c41f8a2117",
+        "type": "message",
+        "text": "any updates",
+        "user": "UV9AYBY3C",
+        "ts": "1585598024.068900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zEDpT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any updates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21C52F81-40B5-43F7-B564-499AA8EF2E1B",
+        "type": "message",
+        "text": "Hey Samson",
+        "user": "UV8B0679P",
+        "ts": "1585600988.069100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=WSO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Samson"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E15491A3-AD52-4887-BDBF-32202457E33F",
+        "type": "message",
+        "text": "So Bini told me that you guys spoke",
+        "user": "UV8B0679P",
+        "ts": "1585601004.069600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hxL4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So Bini told me that you guys spoke"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10777CBD-2B42-4D71-A6BE-8A2B2CFF7DE5",
+        "type": "message",
+        "text": "That idea right now is to do a batch POST every minute using a cron job",
+        "user": "UV8B0679P",
+        "ts": "1585601048.070800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sB4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That idea right now is to do a batch POST every minute using a cron job"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0EF873FC-1769-48A1-9C4C-BA5265D22359",
+        "type": "message",
+        "text": "Instead of doing it on the fly",
+        "user": "UV8B0679P",
+        "ts": "1585601061.071200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xto7p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Instead of doing it on the fly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2506112-d41f-4d93-b4b4-ed42a0233803",
+        "type": "message",
+        "text": "Hey Mike",
+        "user": "UV9AYBY3C",
+        "ts": "1585601491.071400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A=+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Mike"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebc47cd2-b7ad-4f8e-bc79-2f45ca03e69b",
+        "type": "message",
+        "text": "Yeah, i have talked with Bini in the morning",
+        "user": "UV9AYBY3C",
+        "ts": "1585601519.071900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R5I/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, i have talked with Bini in the morning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f1f4f99-1c81-4a86-923f-ca8f06de6edd",
+        "type": "message",
+        "text": "He did mentions the part about cron job ...",
+        "user": "UV9AYBY3C",
+        "ts": "1585601584.072600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TyR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He did mentions the part about cron job ..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9266d4c7-796d-4c1a-8931-3e2733001faf",
+        "type": "message",
+        "text": "I was almost done",
+        "user": "UV9AYBY3C",
+        "ts": "1585601613.073100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was almost done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C778C23D-B596-4780-B616-B0C90DD9C8D2",
+        "type": "message",
+        "text": "Cool",
+        "user": "UV8B0679P",
+        "ts": "1585602807.073800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "628",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EDB2B193-F9B6-4E35-9DAB-6672542183C9",
+        "type": "message",
+        "text": "So we can connect and figure it out",
+        "user": "UV8B0679P",
+        "ts": "1585602816.074200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So we can connect and figure it out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CEFB43E8-6943-46E1-BB36-EBBA52F3B72C",
+        "type": "message",
+        "text": "For now, we have a work around",
+        "user": "UV8B0679P",
+        "ts": "1585602822.074500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hmu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For now, we have a work around"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "client_msg_id": "6d49c2d1-cdd0-440f-a430-88864d9a1edf",
+        "type": "message",
+        "text": "This was posted by Arduino on LinkedIn today- \"To address the worldwide shortages of ventilators, a team of 40+ medical experts and engineers from Israel have released the open source blueprints for AmboVent \u2014 a low-cost machine made with Arduino and other off-the-shelf components.\"  <https://members.smoove.io//view.ashx?message=h44803226O122324982O219654O122394144&amp;r=1009>      <https://members.smoove.io//view.ashx?message=h44803226O122324982O219654O122394144&amp;r=1009|AmboVent>",
+        "user": "U010RM5TX1R",
+        "ts": "1585876050.142600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010RM5TX1R",
+            "ts": "1585876347.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UPm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This was posted by Arduino on LinkedIn today- \"To address the worldwide shortages of ventilators, a team of 40+ medical experts and engineers from Israel have released the open source blueprints for AmboVent \u2014 a low-cost machine made with Arduino and other off-the-shelf components.\"  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://members.smoove.io//view.ashx?message=h44803226O122324982O219654O122394144&r=1009"
+                            },
+                            {
+                                "type": "text",
+                                "text": "      "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://members.smoove.io//view.ashx?message=h44803226O122324982O219654O122394144&r=1009",
+                                "text": "AmboVent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVALAR52P",
+                    "U010EQU5E6N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U011D9WUJMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26FC824C-34EB-4CA7-92F4-A8A228C3BEE3",
+        "type": "message",
+        "text": "You\u2019re already talking. :ok_hand:",
+        "user": "U0116DL92E9",
+        "ts": "1585894027.143700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IRpaV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You\u2019re already talking. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761649.110400",
+        "parent_user_id": "U0116DL92E9"
+    },
+    {
+        "type": "message",
+        "text": "Attached is a document outlining the minimum specification & clinical requirements for rapidly manufactured ventilators.",
+        "files": [
+            {
+                "id": "F011CLNRNAJ",
+                "created": 1585938651,
+                "timestamp": 1585938651,
+                "name": "RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf",
+                "title": "RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010986778X",
+                "editable": false,
+                "size": 108513,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011CLNRNAJ/rmvs001_rapidly_manufactured_ventilator_specification__pdf.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011CLNRNAJ/download/rmvs001_rapidly_manufactured_ventilator_specification__pdf.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011CLNRNAJ-de7dd964be/rmvs001_rapidly_manufactured_ventilator_specification__pdf_thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010986778X/F011CLNRNAJ/rmvs001_rapidly_manufactured_ventilator_specification__pdf.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011CLNRNAJ-0c815f5cdb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dVx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Attached is a document outlining the minimum specification & clinical requirements for rapidly manufactured ventilators."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010986778X",
+        "display_as_bot": false,
+        "ts": "1585938653.147500",
+        "client_msg_id": "cec68df0-d155-4ba2-b701-b521c4e50b00",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0100NR1PDY",
+                    "UVALAR52P",
+                    "U010RM5TX1R"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585949917.148500",
+        "user": "U011J64BXCY",
+        "text": "<@U011J64BXCY> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    }
+]

@@ -1,0 +1,557 @@
+[
+    {
+        "client_msg_id": "457edeb3-53fc-476c-b2a6-5fa719909678",
+        "type": "message",
+        "text": "This is an interesting group that gathers many DIY ideas : <https://www.facebook.com/groups/670932227050506>",
+        "user": "U011BGST4BG",
+        "ts": "1586571083.250400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Open Source COVID19 Medical Supplies",
+                "title_link": "https://www.facebook.com/groups/670932227050506",
+                "text": "Welcome to the Open Source COVID19 Medical Supplies Facebook Group! This is a place to share promising open-source designs for key supplies and ideas for how to work together, to find collaborators,...",
+                "fallback": "Open Source COVID19 Medical Supplies",
+                "from_url": "https://www.facebook.com/groups/670932227050506",
+                "thumb_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/c90.0.200.200a/p200x200/92150942_10102998614190073_3802328684518440960_o.jpg?_nc_cat=107&_nc_sid=ca434c&_nc_ohc=q4YcWUuuL4oAX_3zhHz&_nc_ht=scontent-iad3-1.xx&oh=e0a5d9b05f6e70819c86735d0aaa74d7&oe=5EB53452",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https://www.facebook.com/groups/670932227050506"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pgpm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is an interesting group that gathers many DIY ideas : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.facebook.com/groups/670932227050506"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586602246.250900",
+        "user": "U011GJGD135",
+        "text": "<@U011GJGD135> has joined the channel",
+        "inviter": "U011J82BTTP"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011CHZH4TZ",
+                "created": 1586612552,
+                "timestamp": 1586612552,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U011GJGD135",
+                "editable": false,
+                "size": 82139,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011CHZH4TZ/image_from_ios.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011CHZH4TZ/download/image_from_ios.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHZH4TZ-6d123bf8dd/image_from_ios_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHZH4TZ-6d123bf8dd/image_from_ios_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHZH4TZ-6d123bf8dd/image_from_ios_360.png",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHZH4TZ-6d123bf8dd/image_from_ios_480.png",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHZH4TZ-6d123bf8dd/image_from_ios_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHZH4TZ-6d123bf8dd/image_from_ios_720.png",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHZH4TZ-6d123bf8dd/image_from_ios_800.png",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHZH4TZ-6d123bf8dd/image_from_ios_960.png",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011CHZH4TZ-6d123bf8dd/image_from_ios_1024.png",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "thumb_tiny": "AwAwABqm53BflC4HbvTMU4dP/rUh61RYKPmH1roMH1rAX7w+tbxPPU/lSYmYQ6f/AF6afpUgd8dT+VN8xvWq0FqIv3h9a6CsFXO4ZNb1Swd+pz/btSUueMc/nSY70yhV+8PrXQVz6/eH1rfpMln/2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U011GJGD135/F011CHZH4TZ/image_from_ios.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011CHZH4TZ-0a98017faa",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "44f",
+                "elements": []
+            }
+        ],
+        "user": "U011GJGD135",
+        "display_as_bot": false,
+        "ts": "1586612560.251300",
+        "client_msg_id": "ADB080ED-D0C5-46F7-A4E9-911BF04CD8AE"
+    },
+    {
+        "client_msg_id": "CF3406DF-4683-4CE7-95DC-B5BEDE212E53",
+        "type": "message",
+        "text": "Sorry wrong message",
+        "user": "U011GJGD135",
+        "ts": "1586612911.251900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wSvUZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry wrong message"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb10f3dc-877e-486d-8ce4-7e7686ab8409",
+        "type": "message",
+        "text": "Dear  all , Hannicha has found some fashion designers and manufacturers who can still provide fabric. But she needs sponsors /donators to finance this. Could you try to help her find some sponsors, or enterprises who would be willing to participate financially?  Thank you for your attention.",
+        "user": "U011CUU89U5",
+        "ts": "1586621591.252200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "epxM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear  all , Hannicha has found some fashion designers and manufacturers who can still provide fabric. But she needs sponsors /donators to finance this. Could you try to help her find some sponsors, or enterprises who would be willing to participate financially?  Thank you for your attention."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586251239.218000",
+        "parent_user_id": "U011CUU89U5"
+    },
+    {
+        "client_msg_id": "83da0296-34b2-4478-9710-503c1e3b2cc6",
+        "type": "message",
+        "text": "If so please contact Hanniccha on <mailto:hananext@gmail.com|hananext@gmail.com> :heart:",
+        "user": "U011CUU89U5",
+        "ts": "1586621614.252400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k0rF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If so please contact Hanniccha on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hananext@gmail.com",
+                                "text": "hananext@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586251239.218000",
+        "parent_user_id": "U011CUU89U5"
+    },
+    {
+        "client_msg_id": "c713b471-40fa-49f7-bba1-682676112f33",
+        "type": "message",
+        "text": "Dear\u00a0all , Hannicha has found some fashion designers and manufacturers who can still provide fabric. But she needs sponsors /donators to finance this. Could you try to help her find some sponsors, or enterprises who would be willing to participate financially?\u00a0Thank you for your attention. You can contact her  via  : <mailto:hananext@gmail.com|hananext@gmail.com>.  Thank you for your attention :hugging_face:",
+        "user": "U011CUU89U5",
+        "ts": "1586621862.253400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JY5ZR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear\u00a0all , Hannicha has found some fashion designers and manufacturers who can still provide fabric. But she needs sponsors /donators to finance this. Could you try to help her find some sponsors, or enterprises who would be willing to participate financially?\u00a0Thank you for your attention. You can contact her  via  : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hananext@gmail.com",
+                                "text": "hananext@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".  Thank you for your attention "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586621862.253400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586622423.253500",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a458d31d-cfd3-4006-b0fc-b5a0bc2880b9",
+        "type": "message",
+        "text": "Hello <@U011CUU89U5>  - I reached out to Hannicha after your initial post to connect her with someone that works with the fashion designers. Please send me the details of the amount  and I look into what we can do to help.",
+        "user": "U0107JERE9L",
+        "ts": "1586622423.253500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011CUU89U5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  - I reached out to Hannicha after your initial post to connect her with someone that works with the fashion designers. Please send me the details of the amount  and I look into what we can do to help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586621862.253400",
+        "parent_user_id": "U011CUU89U5"
+    },
+    {
+        "client_msg_id": "406fda0f-99f9-4bfe-be4d-9a943ed65b1a",
+        "type": "message",
+        "text": "Another excellent video instructions in Amarigna for DIY masks :  <https://www.youtube.com/watch?v=iC9SVTM_Dxg>",
+        "user": "U011BGST4BG",
+        "ts": "1586641914.254400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Ethiopia: Make a Face Mask at Home",
+                "title_link": "https://www.youtube.com/watch?v=iC9SVTM_Dxg",
+                "author_name": "Sabegn Sabegn",
+                "author_link": "https://www.youtube.com/channel/UC-dpd21C6FuzbNMa0YbtHDg",
+                "thumb_url": "https://i.ytimg.com/vi/iC9SVTM_Dxg/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Ethiopia: Make a Face Mask at Home",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/iC9SVTM_Dxg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=iC9SVTM_Dxg",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=iC9SVTM_Dxg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "URxNT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another excellent video instructions in Amarigna for DIY masks :  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=iC9SVTM_Dxg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U010GUEQVPF",
+                    "U011JC1RXGE",
+                    "U0107JERE9L"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011NR1LH19",
+                "created": 1586646995,
+                "timestamp": 1586646995,
+                "name": "PHOTO-2020-04-12-01-21-44.jpg",
+                "title": "File from iOS (12)",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0116DL92E9",
+                "editable": false,
+                "size": 60652,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011NR1LH19/photo-2020-04-12-01-21-44.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011NR1LH19/download/photo-2020-04-12-01-21-44.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011NR1LH19-fedfa619fb/photo-2020-04-12-01-21-44_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011NR1LH19-fedfa619fb/photo-2020-04-12-01-21-44_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011NR1LH19-fedfa619fb/photo-2020-04-12-01-21-44_360.jpg",
+                "thumb_360_w": 253,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011NR1LH19-fedfa619fb/photo-2020-04-12-01-21-44_480.jpg",
+                "thumb_480_w": 338,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011NR1LH19-fedfa619fb/photo-2020-04-12-01-21-44_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011NR1LH19-fedfa619fb/photo-2020-04-12-01-21-44_720.jpg",
+                "thumb_720_w": 506,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011NR1LH19-fedfa619fb/photo-2020-04-12-01-21-44_800.jpg",
+                "thumb_800_w": 563,
+                "thumb_800_h": 800,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011NR1LH19-fedfa619fb/photo-2020-04-12-01-21-44_960.jpg",
+                "thumb_960_w": 675,
+                "thumb_960_h": 960,
+                "image_exif_rotation": 1,
+                "original_w": 720,
+                "original_h": 1024,
+                "thumb_tiny": "AwAwACHTprEZ606oWHWgCXcvqKUEGoFByKmHagBaKMijIoAKhb75+tTd6gb75oAF6/jUw7fSoV6/jUw7fSgBtFO20baAFqFhzU1M8v3oAYo5FSimiPBHNPFABRRRQB//2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0116DL92E9/F011NR1LH19/photo-2020-04-12-01-21-44.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011NR1LH19-672099b018",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U0116DL92E9",
+        "display_as_bot": false,
+        "ts": "1586647024.255400"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011VN3NBNY",
+                "created": 1586646994,
+                "timestamp": 1586646994,
+                "name": "PHOTO-2020-04-12-01-21-13.jpg",
+                "title": "File from iOS (8)",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0116DL92E9",
+                "editable": false,
+                "size": 73577,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011VN3NBNY/photo-2020-04-12-01-21-13.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011VN3NBNY/download/photo-2020-04-12-01-21-13.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NBNY-0459391c38/photo-2020-04-12-01-21-13_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NBNY-0459391c38/photo-2020-04-12-01-21-13_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NBNY-0459391c38/photo-2020-04-12-01-21-13_360.jpg",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NBNY-0459391c38/photo-2020-04-12-01-21-13_480.jpg",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NBNY-0459391c38/photo-2020-04-12-01-21-13_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NBNY-0459391c38/photo-2020-04-12-01-21-13_720.jpg",
+                "thumb_720_w": 508,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NBNY-0459391c38/photo-2020-04-12-01-21-13_800.jpg",
+                "thumb_800_w": 565,
+                "thumb_800_h": 800,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NBNY-0459391c38/photo-2020-04-12-01-21-13_960.jpg",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "image_exif_rotation": 1,
+                "original_w": 723,
+                "original_h": 1024,
+                "thumb_tiny": "AwAwACHS4AoBU0N92mfhQA8H1AFLTB/u0o6/doAdRSbh60bh60ADdKbg+lK/SkH0P4UAGD6H86UDnv8AnR/31Sgc96AIqKfs96NnvQA4jIpNuO5p1FADAT64/CnD60Y4paACiiigD//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0116DL92E9/F011VN3NBNY/photo-2020-04-12-01-21-13.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011VN3NBNY-a713b79827",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U0116DL92E9",
+        "display_as_bot": false,
+        "ts": "1586647024.255700"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011VN3NE04",
+                "created": 1586646994,
+                "timestamp": 1586646994,
+                "name": "PHOTO-2020-04-12-01-21-44.jpg",
+                "title": "File from iOS (9)",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0116DL92E9",
+                "editable": false,
+                "size": 70124,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011VN3NE04/photo-2020-04-12-01-21-44.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011VN3NE04/download/photo-2020-04-12-01-21-44.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NE04-06d647eacf/photo-2020-04-12-01-21-44_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NE04-06d647eacf/photo-2020-04-12-01-21-44_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NE04-06d647eacf/photo-2020-04-12-01-21-44_360.jpg",
+                "thumb_360_w": 252,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NE04-06d647eacf/photo-2020-04-12-01-21-44_480.jpg",
+                "thumb_480_w": 336,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NE04-06d647eacf/photo-2020-04-12-01-21-44_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NE04-06d647eacf/photo-2020-04-12-01-21-44_720.jpg",
+                "thumb_720_w": 504,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NE04-06d647eacf/photo-2020-04-12-01-21-44_800.jpg",
+                "thumb_800_w": 560,
+                "thumb_800_h": 800,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011VN3NE04-06d647eacf/photo-2020-04-12-01-21-44_960.jpg",
+                "thumb_960_w": 672,
+                "thumb_960_h": 960,
+                "image_exif_rotation": 1,
+                "original_w": 717,
+                "original_h": 1024,
+                "thumb_tiny": "AwAwACHSJAHNNLA9DRJ92mRj56AJC6AcsBTqpXP3B9auJ90UALRSZHrRketADZfu/jTVpZfu/jSL1oArXH3RV1fuiqVx91frV0DAAoAZRTtvvRt96AEl+6PrTV7/AEqRl3DrSBMd6AKdz0TnvV6oJLcSY+bGPap6ACiiigD/2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0116DL92E9/F011VN3NE04/photo-2020-04-12-01-21-44.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011VN3NE04-9fd7019776",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U0116DL92E9",
+        "display_as_bot": false,
+        "ts": "1586647025.256000"
+    },
+    {
+        "client_msg_id": "9D1D29A6-9D94-4559-8EB3-1031975482E4",
+        "type": "message",
+        "text": "Trying to load the new directive for manufacturing and procurement of COVID19 related gear and material but my internet is not good. Does anyone else have it? Can you share here? ",
+        "user": "U0116DL92E9",
+        "ts": "1586647525.258300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LBYa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trying to load the new directive for manufacturing and procurement of COVID19 related gear and material but my internet is not good. Does anyone else have it? Can you share here? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

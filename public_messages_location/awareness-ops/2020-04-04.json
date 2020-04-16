@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "0C50CA5A-0152-41F3-9CF7-C56A1DD318FF",
+        "type": "message",
+        "text": "Should we do to kick off for this weekend\u2019s sprint?",
+        "user": "UV8B0679P",
+        "ts": "1585965895.033600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "psJMa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should we do to kick off for this weekend\u2019s sprint?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585332345.004900",
+        "parent_user_id": "U0106M26108"
+    },
+    {
+        "client_msg_id": "72F842E5-71C1-4574-BAE2-5D95BFC34E92",
+        "type": "message",
+        "text": "<@U0106M27EKS> can you get copies you have so that we can tweet and retweet?",
+        "user": "UV8B0679P",
+        "ts": "1585965932.034700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lluio",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106M27EKS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you get copies you have so that we can tweet and retweet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585332345.004900",
+        "parent_user_id": "U0106M26108"
+    }
+]

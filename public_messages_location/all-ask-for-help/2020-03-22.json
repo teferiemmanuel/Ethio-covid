@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1584847889.000300",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has renamed the channel from \"question\" to \"all-ask-for-help\"",
+        "old_name": "question",
+        "name": "all-ask-for-help"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584847908.000400",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> set the channel purpose: Ask fellow collaborators for help on anything! You may utilize the following commands:\n\n/translate, /feedback, /code, /strategy, /copyreview",
+        "purpose": "Ask fellow collaborators for help on anything! You may utilize the following commands:\n\n/translate, /feedback, /code, /strategy, /copyreview"
+    },
+    {
+        "client_msg_id": "915A82F1-4143-4AC7-B4D0-53CDA155242E",
+        "type": "message",
+        "text": "Hi. I\u2019ve been working w some prominent biotech folks (Laura Deming; Fred Turner)  in Los Angeles who raised $800k and scaled COVID testing from 0 to 10k tests a day in two weeks. They want to do the same internationally, but are looking for scientists/labs to collaborate with. Any chance you have Ethiopian labs/scientists that would want to collaborate in your network?",
+        "user": "U010622M3LK",
+        "ts": "1584882920.008500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vo/9w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi. I\u2019ve been working w some prominent biotech folks (Laura Deming; Fred Turner)  in Los Angeles who raised $800k and scaled COVID testing from 0 to 10k tests a day in two weeks. They want to do the same internationally, but are looking for scientists/labs to collaborate with. Any chance you have Ethiopian labs/scientists that would want to collaborate in your network?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584882920.008500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584896962.011700",
+        "reply_users": [
+            "U0107AYF16H"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7C309031-FFAF-4157-A72F-D6426CFEA6A8",
+        "type": "message",
+        "text": "Awesome, Parth thank you! <@U0107JERE9L> can you please put him in touch with folks from hakim ethio? Cc: <@UV8B0679P> ",
+        "user": "U0107AYF16H",
+        "ts": "1584896962.011700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h2MI6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, Parth thank you! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you please put him in touch with folks from hakim ethio? Cc: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584882920.008500",
+        "parent_user_id": "U010622M3LK"
+    }
+]

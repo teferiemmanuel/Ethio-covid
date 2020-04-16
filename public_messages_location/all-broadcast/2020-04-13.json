@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "91fdb2a6-733d-4bda-a8b9-3eabb05cc2c7",
+        "type": "message",
+        "text": "<!channel> Demo-day for Sprint #3 is Tuesday at 11:30AM PST/2:30 EST/9:30PM -- we are going to be alternating times so that our teammates in Europe and Ethiopian can join us! --&gt; meeting link: <https://mit.zoom.us/j/99168062759>",
+        "user": "U0107A7161E",
+        "ts": "1586738999.333400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1586806676.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vzb5E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Demo-day for Sprint #3 is Tuesday at 11:30AM PST/2:30 EST/9:30PM -- we are going to be alternating times so that our teammates in Europe and Ethiopian can join us! --> meeting link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://mit.zoom.us/j/99168062759"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C010695DKMM"
+        ],
+        "pinned_info": {
+            "channel": "C010695DKMM",
+            "pinned_by": "U0106M26108",
+            "pinned_ts": 1586829686
+        },
+        "reactions": [
+            {
+                "name": "flag-et",
+                "users": [
+                    "UV8B0679P",
+                    "U011BGST4BG",
+                    "U010APHG8Q1",
+                    "U0107JERE9L",
+                    "U011J5MQY3E"
+                ],
+                "count": 5
+            },
+            {
+                "name": "100",
+                "users": [
+                    "UV8B0679P",
+                    "U011BGST4BG",
+                    "U0107JERE9L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U011JC1RXGE",
+                    "U011BGST4BG",
+                    "U0107JERE9L",
+                    "UV8B0679P"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U011BGST4BG",
+                    "U010APHG8Q1",
+                    "U0107JERE9L",
+                    "UV8B0679P"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010U8HF7PY",
+                    "U0107JERE9L",
+                    "UV8B0679P",
+                    "U011J5MQY3E"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

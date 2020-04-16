@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "ceec5f38-534c-49bd-be1e-3708a1a32379",
+        "type": "message",
+        "text": "<https://twitter.com/odgac/status/1243594281400631298>",
+        "user": "U0107AG9U8Z",
+        "ts": "1585418375.068400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/odgac|@odgac>: <https://twitter.com/jeremyphoward|@jeremyphoward> <https://twitter.com/PetrLudwig|@PetrLudwig> hey! made one; <https://pbs.twimg.com/media/EUIiRE6WkAEwCWb.jpg>",
+                "ts": 1585330956,
+                "author_name": "agdo",
+                "author_link": "https://twitter.com/odgac/status/1243594281400631298",
+                "author_icon": "https://pbs.twimg.com/profile_images/1239294363227820032/frvLvIB3_normal.jpg",
+                "author_subname": "@odgac",
+                "text": "<https://twitter.com/jeremyphoward|@jeremyphoward> <https://twitter.com/PetrLudwig|@PetrLudwig> hey! made one; <https://pbs.twimg.com/media/EUIiRE6WkAEwCWb.jpg>",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/odgac/status/1243594281400631298",
+                "image_url": "https://pbs.twimg.com/media/EUIiRE6WkAEwCWb.jpg",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 44763,
+                "id": 1,
+                "original_url": "https://twitter.com/odgac/status/1243594281400631298",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l+mi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/odgac/status/1243594281400631298"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ACC7734C-8641-434A-B6EC-622D4AD6F38D",
+        "type": "message",
+        "text": " <http://covid19.kpolom.com>",
+        "user": "U010CQ6P9C4",
+        "ts": "1585432724.069900",
+        "team": "TV5KELEUS"
+    },
+    {
+        "client_msg_id": "E76D6C5D-9700-4CCD-9792-67BF55CF56FB",
+        "type": "message",
+        "text": "Self test ^^",
+        "user": "U010CQ6P9C4",
+        "ts": "1585432743.070300",
+        "team": "TV5KELEUS"
+    }
+]

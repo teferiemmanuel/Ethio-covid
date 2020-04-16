@@ -1,0 +1,988 @@
+[
+    {
+        "client_msg_id": "85e81cca-5fe3-41f1-86aa-23051da78576",
+        "type": "message",
+        "text": "What is the appropriate slack channel for `centralized home page for the <http://covid19.et|covid19.et> website` which this repo appears to be setup for <https://github.com/Ethiopia-COVID19/covid-19-homepage> ?",
+        "user": "U010059R6BT",
+        "ts": "1585968803.372800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/covid-19-homepage",
+                "text": "The central homepage for <http://covid19.et|covid19.et>",
+                "title": "Ethiopia-COVID19/covid-19-homepage",
+                "footer": "<https://github.com/Ethiopia-COVID19/covid-19-homepage|Ethiopia-COVID19/covid-19-homepage>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585444669,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Vue",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "6 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/covid-19-homepage",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iyzi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is the appropriate slack channel for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "centralized home page for the covid19.et website",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " which this repo appears to be setup for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/covid-19-homepage"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585968803.372800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585968983.373000",
+        "reply_users": [
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a9b6c136-e098-405a-b4d1-1bec895a8817",
+        "type": "message",
+        "text": "<#C0110VDA0HM|awareness-site>",
+        "user": "U0107A7161E",
+        "ts": "1585968983.373000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FeAJM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C0110VDA0HM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585968803.372800",
+        "parent_user_id": "U010059R6BT",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U010059R6BT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2cadce97-4257-4135-b03e-9ccf13b9f617",
+        "type": "message",
+        "text": "Hello, we have added a new feature to help you check corona stats locally(with cities) and worldwide <https://tena.et/update> please let me know your comments for future improvment.thanks!",
+        "user": "U010JAMHQUC",
+        "ts": "1585991250.376100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010JAMHQUC",
+            "ts": "1585991282.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, we have added a new feature to help you check corona stats locally(with cities) and worldwide "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://tena.et/update"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please let me know your comments for future improvment.thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010DGZP3AR",
+                    "U010SKPP7CJ",
+                    "U0104F8P8US",
+                    "U010CAJ8V6D",
+                    "U010K3X390E",
+                    "UV8B0679P",
+                    "UVB9ZSPCH",
+                    "UV9A3SXC1"
+                ],
+                "count": 8
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U01023RPHPU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cfef058-8d00-439d-a174-31a1ad6f7f82",
+        "type": "message",
+        "text": "Great Job, Nice to see you <@U010JAMHQUC>",
+        "user": "U010CAJ8V6D",
+        "ts": "1586000399.377800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c6Wg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great Job, Nice to see you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JAMHQUC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86A825E4-FE32-408F-A1EB-392B2EFDB271",
+        "type": "message",
+        "text": "Hi folks. \n\n\nA friend shared a resource I wanted to pass along in case it\u2019s of any interest to folks. An app just launched called \"I-report Covid\", which is a self report tool for people to fill out around the world! It uses blockchain technology and will become an open database for anyone to use in real time and study this pandemic going forward. The goal is to help build an open global database to fight COVID-19! The team is beginning to translate the tool into multiple languages and Is interested in collaborating with anyone and everyone if it is of use. \n<https://ireport-covid.app/|https://ireport-covid.app/>\n#ireportcovid",
+        "user": "U0107DX4VNU",
+        "ts": "1586012359.381900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "COVID-19 Worldwide Survey - IReport-Covid App",
+                "title_link": "https://ireport-covid.app/",
+                "text": "Short anonymous survey - open to all, powered by Algorand blockchain",
+                "fallback": "COVID-19 Worldwide Survey - IReport-Covid App",
+                "image_url": "https://ireport-covid.app/og2-3840x1920.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https://ireport-covid.app/",
+                "image_bytes": 706007,
+                "service_icon": "https://ireport-covid.app/apple-touch-icon.png",
+                "service_name": "ireport-covid.app",
+                "id": 1,
+                "original_url": "https://ireport-covid.app/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPxs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi folks. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA friend shared a resource I wanted to pass along in case it\u2019s of any interest to folks. An app just launched called \"I-report Covid\", which is a self report tool for people to fill out around the world! It uses blockchain technology and will become an open database for anyone to use in real time and study this pandemic going forward. The goal is to help build an open global database to fight COVID-19! The team is beginning to translate the tool into multiple languages and Is interested in collaborating with anyone and everyone if it is of use. \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ireport-covid.app/",
+                                "text": "https://ireport-covid.app/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n#ireportcovid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I've made a coronavirus visualization of cases regarding Ethiopia. Any suggestion would help\n<https://covid-eth-visualizer.herokuapp.com/|https://covid-eth-visualizer.herokuapp.com/>",
+        "files": [
+            {
+                "id": "F0113STU92N",
+                "created": 1586017886,
+                "timestamp": 1586017886,
+                "name": "FB_IMG_15860178777076049.jpg",
+                "title": "FB_IMG_15860178777076049.jpg",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0112B1TNQ7",
+                "editable": false,
+                "size": 10238,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0113STU92N/fb_img_15860178777076049.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0113STU92N/download/fb_img_15860178777076049.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F0113STU92N-3de17f1a48/fb_img_15860178777076049_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F0113STU92N-3de17f1a48/fb_img_15860178777076049_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F0113STU92N-3de17f1a48/fb_img_15860178777076049_360.jpg",
+                "thumb_360_w": 360,
+                "thumb_360_h": 170,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F0113STU92N-3de17f1a48/fb_img_15860178777076049_480.jpg",
+                "thumb_480_w": 480,
+                "thumb_480_h": 227,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F0113STU92N-3de17f1a48/fb_img_15860178777076049_160.jpg",
+                "image_exif_rotation": 1,
+                "original_w": 714,
+                "original_h": 338,
+                "thumb_tiny": "AwAWADCmKAwJxmjtSbRsLAAN2GeaBpXHDPrRQmT1opkhSr99fqKQ0q/fX6igBtGaSigBc4ozSUUALmlTl1+optOT/WL9RQM//9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0112B1TNQ7/F0113STU92N/fb_img_15860178777076049.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0113STU92N-c2e858e3ae",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cukf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've made a coronavirus visualization of cases regarding Ethiopia. Any suggestion would help\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://covid-eth-visualizer.herokuapp.com/",
+                                "text": "https://covid-eth-visualizer.herokuapp.com/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0112B1TNQ7",
+        "display_as_bot": false,
+        "ts": "1586017897.385400",
+        "client_msg_id": "289f2401-b68d-42d5-90a5-492385fd7012",
+        "thread_ts": "1586017897.385400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586141550.436100",
+        "reply_users": [
+            "U011680TZL5",
+            "U0112B1TNQ7"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV9A3SXC1",
+                    "U010YC7H7UP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6EE83EB5-6A4C-47E0-8413-B6394CB3542B",
+        "type": "message",
+        "text": "<@U011680TZL5> heat map like this? ",
+        "user": "U010U8HF7PY",
+        "ts": "1586020226.386700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zV3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011680TZL5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " heat map like this? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586020226.386700",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1586021952.388500",
+        "reply_users": [
+            "U011680TZL5",
+            "U0112B1TNQ7"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "267cc082-0feb-4af5-bea2-4c4537945bbe",
+        "type": "message",
+        "text": "Yes! Exactly.",
+        "user": "U011680TZL5",
+        "ts": "1586020482.387400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Xf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes! Exactly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586020226.386700",
+        "parent_user_id": "U010U8HF7PY"
+    },
+    {
+        "client_msg_id": "28d7cd77-edcc-48b4-b43c-31f3c07fdab7",
+        "type": "message",
+        "text": "But intensity of color representing larger cases",
+        "user": "U011680TZL5",
+        "ts": "1586020534.387600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U011680TZL5",
+            "ts": "1586020543.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mzvL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But intensity of color representing larger cases"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586020226.386700",
+        "parent_user_id": "U010U8HF7PY"
+    },
+    {
+        "client_msg_id": "37300e9b-dff6-4436-bdca-16886e881419",
+        "type": "message",
+        "text": "Hi biniyam,\nOne suggestion for your consideration: make intensity of color represent how many cases so regions with larger count would have dark red and less cases would be lighter.",
+        "user": "U011680TZL5",
+        "ts": "1586020724.388100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lv4UM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi biniyam,\nOne suggestion for your consideration: make intensity of color represent how many cases so regions with larger count would have dark red and less cases would be lighter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586017897.385400",
+        "parent_user_id": "U0112B1TNQ7"
+    },
+    {
+        "client_msg_id": "0f38ce1f-2dc9-4557-8ed8-8185005f9423",
+        "type": "message",
+        "text": "<@U011680TZL5> I was going for that. But the plugin behaves differently when it's deployed . I'll fix it soon",
+        "user": "U0112B1TNQ7",
+        "ts": "1586021471.388300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCsTx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011680TZL5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I was going for that. But the plugin behaves differently when it's deployed . I'll fix it soon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586020226.386700",
+        "parent_user_id": "U010U8HF7PY"
+    },
+    {
+        "client_msg_id": "1af28046-ba43-4585-8727-3d97d01855a7",
+        "type": "message",
+        "text": "<@U0112B1TNQ7> sounds good!",
+        "user": "U011680TZL5",
+        "ts": "1586021952.388500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cf=i9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0112B1TNQ7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sounds good!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586020226.386700",
+        "parent_user_id": "U010U8HF7PY"
+    },
+    {
+        "client_msg_id": "32444d96-0d3e-421d-90fa-0d9ecfd5e5b3",
+        "type": "message",
+        "text": "<!here> Hi all, please read this &amp; support what you can. She needs all the support to get the supplies transported to addis. Thanks!!\n\nif you want to verify and want to know more about the organization. Here is the link <https://www.humanivillages.org/project-team.html> scroll to the bottom to see who they are working with.\n\nProjects <https://www.humanivillages.org/well-project.html>\n\n\"Hi,\n\nHospitals and clinics in Ethiopia are not equipped with Personal Protective Equipment (PPE)\nand they are in dire need.\u00a0\u00a0Thanks to Mrs Carlson who is a Register Nurse from\u00a0Lodi California\nhas secured\u00a0donated medical supplies (masks and gloves and gowns) ready to ship from Oakland port direct to Ethiopia.\u00a0\n\nShe needs you to help fund her effort by donating for transportation.\u00a0Due to worldwide medial supply shortages, it's becoming increasingly difficult to secure much-needed\u00a0\nsupplies so let\u2019s help to get these containers out of the duck into the hands of those who need it\u00a0\nas quickly as possible.\nMrs Carlson is humbled by the outpouring of support from Ethiopian Diaspora.\"\n\n<https://www.gofundme.com/f/1ytr8pzgqo?utm_source=customer&amp;utm_medium=copy_link&amp;utm_campaign=m_pd+share-sheet>",
+        "user": "U01020VNEE7",
+        "ts": "1586026589.390800",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01020VNEE7",
+            "ts": "1586037759.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "gofundme.com",
+                "title": "Humani's Ethiopia Covid 19 Support organized by Shellie Carlson",
+                "title_link": "https://www.gofundme.com/f/1ytr8pzgqo?utm_source=customer&utm_medium=copy_link&utm_campaign=m_pd+share-sheet",
+                "text": "HELP ETHIOPIA WITH COVID-19!!! YOU CAN MAKE A DIFFERENCE AND AND ENORMOUS IMPACT By\u2026 Shellie Carlson needs your support for Humani's Ethiopia Covid 19 Support",
+                "fallback": "gofundme.com: Humani's Ethiopia Covid 19 Support organized by Shellie Carlson",
+                "image_url": "https://i.ytimg.com/vi/xVNMKy3aq6o/0.jpg",
+                "from_url": "https://www.gofundme.com/f/1ytr8pzgqo?utm_source=customer&utm_medium=copy_link&utm_campaign=m_pd+share-sheet",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 11934,
+                "service_icon": "https://www.gofundme.com/favicon.ico",
+                "id": 1,
+                "original_url": "https://www.gofundme.com/f/1ytr8pzgqo?utm_source=customer&amp;utm_medium=copy_link&amp;utm_campaign=m_pd+share-sheet"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FtRIB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi all, please read this & support what you can. She needs all the support to get the supplies transported to addis. Thanks!!\n\nif you want to verify and want to know more about the organization. Here is the link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.humanivillages.org/project-team.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": " scroll to the bottom to see who they are working with.\n\nProjects "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.humanivillages.org/well-project.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\"Hi,\n\nHospitals and clinics in Ethiopia are not equipped with Personal Protective Equipment (PPE)\nand they are in dire need.\u00a0\u00a0Thanks to Mrs Carlson who is a Register Nurse from\u00a0Lodi California\nhas secured\u00a0donated medical supplies (masks and gloves and gowns) ready to ship from Oakland port direct to Ethiopia.\u00a0\n\nShe needs you to help fund her effort by donating for transportation.\u00a0Due to worldwide medial supply shortages, it's becoming increasingly difficult to secure much-needed\u00a0\nsupplies so let\u2019s help to get these containers out of the duck into the hands of those who need it\u00a0\nas quickly as possible.\nMrs Carlson is humbled by the outpouring of support from Ethiopian Diaspora.\"\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.gofundme.com/f/1ytr8pzgqo?utm_source=customer&utm_medium=copy_link&utm_campaign=m_pd+share-sheet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026589.390800",
+        "reply_count": 10,
+        "reply_users_count": 5,
+        "latest_reply": "1586048400.395800",
+        "reply_users": [
+            "U010APHG8Q1",
+            "UV8B0679P",
+            "U0107JERE9L",
+            "U0106M27EKS",
+            "U01020VNEE7"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV7TWB6HZ",
+                    "UVB9ZSPCH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e210c157-1c01-4f43-9327-93463ecba5d0",
+        "type": "message",
+        "text": "<@UV8B0679P> <@U0107A7161E> Are we verifying these? Do we have a way?",
+        "user": "U010APHG8Q1",
+        "ts": "1586026704.391200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZWc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Are we verifying these? Do we have a way?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026589.390800",
+        "parent_user_id": "U01020VNEE7"
+    },
+    {
+        "client_msg_id": "f2908499-efa3-4381-a4fc-1de02b530478",
+        "type": "message",
+        "text": "I have received a few gofundme links, I'm not sure how many of them are real",
+        "user": "U010APHG8Q1",
+        "ts": "1586026736.391400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sr17M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have received a few gofundme links, I'm not sure how many of them are real"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026589.390800",
+        "parent_user_id": "U01020VNEE7"
+    },
+    {
+        "client_msg_id": "c9735948-b57b-4e7d-90b3-980b5f3fa545",
+        "type": "message",
+        "text": "I actually don\u2019t know a way to do that tbh",
+        "user": "UV8B0679P",
+        "ts": "1586026959.391600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1OlE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I actually don\u2019t know a way to do that tbh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026589.390800",
+        "parent_user_id": "U01020VNEE7"
+    },
+    {
+        "client_msg_id": "aedaec8c-d526-4c7c-a6d3-dd4bdb8329df",
+        "type": "message",
+        "text": "<@U010APHG8Q1> :point_up::skin-tone-5:",
+        "user": "UV8B0679P",
+        "ts": "1586026972.391800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DCt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026589.390800",
+        "parent_user_id": "U01020VNEE7"
+    },
+    {
+        "client_msg_id": "991ba02f-a7a5-467c-acba-1d95b24a01b1",
+        "type": "message",
+        "text": "<@UV8B0679P> - I have a 3 member detective group for DIY gears. Maybe we can just have a team for vetting in general. Mine are all based  in Ethiopia.",
+        "user": "U0107JERE9L",
+        "ts": "1586027035.392000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107JERE9L",
+            "ts": "1586027053.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I have a 3 member detective group for DIY gears. Maybe we can just have a team for vetting in general. Mine are all based  in Ethiopia."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026589.390800",
+        "parent_user_id": "U01020VNEE7"
+    },
+    {
+        "client_msg_id": "6fcd5022-2adb-483e-b881-0671cdada373",
+        "type": "message",
+        "text": "<@U0107JERE9L> that was what I was gonna suggest.",
+        "user": "U010APHG8Q1",
+        "ts": "1586027099.392300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qIrI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that was what I was gonna suggest."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026589.390800",
+        "parent_user_id": "U01020VNEE7"
+    },
+    {
+        "client_msg_id": "eece46c1-e3a6-4efa-b236-bca9c2e0c48f",
+        "type": "message",
+        "text": "Eshi <@U010APHG8Q1> - DM me - we can set a criteria for the team and have them work on looking into things like this. .",
+        "user": "U0107JERE9L",
+        "ts": "1586027183.392500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bVk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eshi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - DM me - we can set a criteria for the team and have them work on looking into things like this. ."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026589.390800",
+        "parent_user_id": "U01020VNEE7"
+    },
+    {
+        "client_msg_id": "2C3A9CC6-B902-4070-AE00-4590E18ABAB3",
+        "type": "message",
+        "text": "Yeah <@U01020VNEE7> I think it would be helpful for everyone to state what you know about the people behind this and why you\u2019re supporting. Maybe edit your original message so everyone can see?",
+        "user": "U0106M27EKS",
+        "ts": "1586034566.394300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "id9f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01020VNEE7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think it would be helpful for everyone to state what you know about the people behind this and why you\u2019re supporting. Maybe edit your original message so everyone can see?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026589.390800",
+        "parent_user_id": "U01020VNEE7"
+    },
+    {
+        "client_msg_id": "99ae8967-cb68-4ce0-9f45-748c4fb5edac",
+        "type": "message",
+        "text": "<@U0106M27EKS> Don't know the person personally but found out about it through my network in the bay area. Looked up the the organization &amp; they are based here in walnut creek. Not far from where I live. It's legit &amp; I support what she is doing.\n\n<@U010APHG8Q1> <@U0107JERE9L> Hi, you guys can use this link to vet &amp; varify based on your criteria. <https://www.humanivillages.org/project-team.html>",
+        "user": "U01020VNEE7",
+        "ts": "1586036909.395000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01020VNEE7",
+            "ts": "1586039195.000000"
+        },
+        "attachments": [
+            {
+                "title": "Project Team",
+                "title_link": "https://www.humanivillages.org/project-team.html",
+                "text": "Jodie lived 13 years in Ethiopia, 1964-1977.\u00a0 Worked in Education for 20 years, Completed Masters in Anthropology from U.C Berkeley, 1993,\u00a0 Worked U.C. Berkeley, Supervisor of Office Services and...",
+                "fallback": "Project Team",
+                "image_url": "https://www.humanivillages.org/uploads/6/2/2/4/62248397/3790396.jpeg?168",
+                "from_url": "https://www.humanivillages.org/project-team.html",
+                "image_width": 157,
+                "image_height": 250,
+                "image_bytes": 10268,
+                "service_icon": "https://www.humanivillages.org/favicon.ico",
+                "service_name": "humanivillages.org",
+                "id": 1,
+                "original_url": "https://www.humanivillages.org/project-team.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K9o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106M27EKS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Don't know the person personally but found out about it through my network in the bay area. Looked up the the organization & they are based here in walnut creek. Not far from where I live. It's legit & I support what she is doing.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi, you guys can use this link to vet & varify based on your criteria. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.humanivillages.org/project-team.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586026589.390800",
+        "parent_user_id": "U01020VNEE7",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0106M27EKS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

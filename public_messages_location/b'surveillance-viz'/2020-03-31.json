@@ -1,0 +1,550 @@
+[
+    {
+        "client_msg_id": "bfb1a0cd-a006-4628-9b05-548d2ca574f5",
+        "type": "message",
+        "text": "Hi :slightly_smiling_face:",
+        "user": "U010GCYJZCL",
+        "ts": "1585671340.097600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6UdL6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4d2d882-db2a-4d2e-913a-0135e3549e7b",
+        "type": "message",
+        "text": "new to this channel. I need directions",
+        "user": "U010GCYJZCL",
+        "ts": "1585671352.097900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cTx9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "new to this channel. I need directions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41eca4fa-5aae-4c4d-8537-6ef32d84061b",
+        "type": "message",
+        "text": "I would like to join this team",
+        "user": "U010GCYJZCL",
+        "ts": "1585671365.098300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Emo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would like to join this team"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c81af0c-f7e9-48f9-ba2b-d042b898e310",
+        "type": "message",
+        "text": "<@U01078QCG2C> I think you the team leader right. Hi",
+        "user": "U010GCYJZCL",
+        "ts": "1585673232.099000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sbW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think you the team leader right. Hi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585673232.099000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585675351.105300",
+        "reply_users": [
+            "U01078QCG2C",
+            "U010GCYJZCL"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f6e7e66c-879f-492d-bc6f-6f638f0fb398",
+        "type": "message",
+        "text": "<!here> i dropped off for a few days, but a lot's changed very quickly.\nis there updated docs on running the dash locally, so i can pick up some issues/tickets?",
+        "user": "UV9A3J397",
+        "ts": "1585673934.100000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8gviS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i dropped off for a few days, but a lot's changed very quickly.\nis there updated docs on running the dash locally, so i can pick up some issues/tickets?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06556de0-cc38-4a00-a8ae-12c893dc42bb",
+        "type": "message",
+        "text": "<@UV9A3J397> yes alot has changed, the backend is to be changed to AWS. And it is decided to only make it an operational dashboard for internal monitoring by MOH. And current status is, we are waiting for a unified statistical data api end point. Currently they do not provide such api. So I opend an issue on backend (api getway) project.",
+        "user": "U01051X26HJ",
+        "ts": "1585674334.105000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b8dfX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9A3J397"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes alot has changed, the backend is to be changed to AWS. And it is decided to only make it an operational dashboard for internal monitoring by MOH. And current status is, we are waiting for a unified statistical data api end point. Currently they do not provide such api. So I opend an issue on backend (api getway) project."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f47bf1cd-edc7-40f3-9f1a-0536365dbb45",
+        "type": "message",
+        "text": "Hi <@U010GCYJZCL>, I\u2019ll message you directly to see what you might be interested in working on",
+        "user": "U01078QCG2C",
+        "ts": "1585675294.105100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ekxEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010GCYJZCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I\u2019ll message you directly to see what you might be interested in working on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585673232.099000",
+        "parent_user_id": "U010GCYJZCL"
+    },
+    {
+        "client_msg_id": "f0f1e4fa-5b94-4e3f-bc7a-da7c5c74f3f6",
+        "type": "message",
+        "text": "alright. Thanks",
+        "user": "U010GCYJZCL",
+        "ts": "1585675351.105300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bVn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alright. Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585673232.099000",
+        "parent_user_id": "U010GCYJZCL"
+    },
+    {
+        "client_msg_id": "6776ea69-a795-4bf0-9c2f-7e8b018bbcbd",
+        "type": "message",
+        "text": "so ... is the decision point that we're in a holding pattern until the api is available?",
+        "user": "UV9A3J397",
+        "ts": "1585675490.105900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV9A3J397",
+            "ts": "1585675508.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zSO34",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so ... is the decision point that we're in a holding pattern until the api is available?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1603485c-263a-4cd4-9ff9-468605062f88",
+        "type": "message",
+        "text": "the API Gateway is ready \u2014 but I think what <@U01051X26HJ> is saying is for the stat, is that correct?",
+        "user": "UV8B0679P",
+        "ts": "1585675537.106900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UT==s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the API Gateway is ready \u2014 but I think what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is saying is for the stat, is that correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87c24596-89c5-4696-b945-611047c3d0a3",
+        "type": "message",
+        "text": "What you can do is mock the data using static JSON and build out the UI component wiring",
+        "user": "UV8B0679P",
+        "ts": "1585675554.107300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hje9o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What you can do is mock the data using static JSON and build out the UI component wiring"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ced953a0-d544-4b18-83bf-7618f1688d03",
+        "type": "message",
+        "text": "that makes sense <@UV8B0679P>",
+        "user": "UV9A3J397",
+        "ts": "1585675698.107600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zyt/k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that makes sense "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76615c3f-c37c-4c3a-9021-a9261c9bd9fa",
+        "type": "message",
+        "text": "are there docs on the auth flow setup for local?",
+        "user": "UV9A3J397",
+        "ts": "1585675731.108100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wj9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are there docs on the auth flow setup for local?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585675731.108100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585676117.109000",
+        "reply_users": [
+            "UV8B0679P",
+            "UV9A3J397"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c6aedef3-e779-4b89-a9a5-68386b247716",
+        "type": "message",
+        "text": "(sorry, got to the party late and playing catch up)",
+        "user": "UV9A3J397",
+        "ts": "1585675786.108400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FgCC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(sorry, got to the party late and playing catch up)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a8c9eae-5feb-4e41-8571-67ea228a6530",
+        "type": "message",
+        "text": "Yup: <https://github.com/Ethiopia-COVID19/api-gateway>",
+        "user": "UV8B0679P",
+        "ts": "1585675958.108600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/api-gateway",
+                "text": "COVID-19 Forms API",
+                "title": "Ethiopia-COVID19/api-gateway",
+                "footer": "<https://github.com/Ethiopia-COVID19/api-gateway|Ethiopia-COVID19/api-gateway>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585073210,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "4",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/api-gateway",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GRAF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585675731.108100",
+        "parent_user_id": "UV9A3J397",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV9A3J397"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff480c63-dcd7-4755-b93f-5e877b1413ac",
+        "type": "message",
+        "text": "sweet. makes sense that i was lost. i was looking at the dash repo for docs :face_palm::skin-tone-5:",
+        "user": "UV9A3J397",
+        "ts": "1585676117.109000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N4q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sweet. makes sense that i was lost. i was looking at the dash repo for docs "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_palm",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585675731.108100",
+        "parent_user_id": "UV9A3J397"
+    },
+    {
+        "client_msg_id": "914c484d-ce3b-44bc-aebe-6316a81fbf3f",
+        "type": "message",
+        "text": "Yes <@UV8B0679P>, for now using mock data works.",
+        "user": "U01051X26HJ",
+        "ts": "1585676243.109200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jV3eI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", for now using mock data works."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

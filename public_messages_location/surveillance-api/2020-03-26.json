@@ -1,0 +1,243 @@
+[
+    {
+        "client_msg_id": "83261391-9d3f-4af7-9454-0aa908c7c3d5",
+        "type": "message",
+        "text": "<@U01078QCG2C> - Are these issues still valid? <https://github.com/Ethiopia-COVID19/Covid19.ET/issues>",
+        "user": "U010059R6BT",
+        "ts": "1585196533.025800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PEPb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Are these issues still valid? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/Covid19.ET/issues"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585196533.025800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585197778.026600",
+        "reply_users": [
+            "U01078QCG2C"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c9e08180-f788-437f-9221-c7111542e368",
+        "type": "message",
+        "text": "Yes! I would recommend tackling those if you\u2019re wanting to get started",
+        "user": "U01078QCG2C",
+        "ts": "1585197778.026600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ekbg4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes! I would recommend tackling those if you\u2019re wanting to get started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585196533.025800",
+        "parent_user_id": "U010059R6BT",
+        "reactions": [
+            {
+                "name": "partytime",
+                "users": [
+                    "U010059R6BT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2c1ea60-97fe-49ab-8c2f-85f9d9b041f3",
+        "type": "message",
+        "text": "<!channel> Hi everyone, since the integration to commcare has been suspended, I cloned and diverged (to CDC format) the repo of @mdshi found <https://github.com/mdshi/covid19-commcare-api>. if anyone is interested on taking a look, here is the link <https://github.com/amenski/covid19-Rest-api> as well <@U0107A7161E> if there are tasks I can take on please let me know.",
+        "user": "U01076CDQ8J",
+        "ts": "1585224462.031300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "amenski/covid19-Rest-api",
+                "title": "amenski/covid19-Rest-api",
+                "footer": "<https://github.com/amenski/covid19-Rest-api|amenski/covid19-Rest-api>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585149639,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Java",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "9 minutes ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/amenski/covid19-Rest-api",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVVm+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi everyone, since the integration to commcare has been suspended, I cloned and diverged (to CDC format) the repo of @mdshi found "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/mdshi/covid19-commcare-api"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". if anyone is interested on taking a look, here is the link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/amenski/covid19-Rest-api"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as well "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if there are tasks I can take on please let me know."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585224462.031300",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1585501360.041900",
+        "reply_users": [
+            "U0107A7161E",
+            "U01076CDQ8J"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "57bdc85b-1088-420c-98ae-5be2a840f067",
+        "type": "message",
+        "text": "This is a good collection of public apis related to Corona <https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWVdaaU5qZGhNamxpWVRSayIsInQiOiJcL005Yit3YjUwUVdyQVJERncyUzBCZHZNTHRZMEF2U3JWMjF3WjdVUmFWY1lHck9cL1pEc0ZxanZQNitNVkNzQWN4Y1wvc2l1Vmoydzc5dmlLY1MxRUQxbUdvOWdVOU5sRjV2WUhhU3BuOEJFUHRcL0c0WjJ2TFZwRHByVjdHdW9peVYifQ%3D%3D|https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWVdaaU5qZGhNamxpWVRSayIsInQiOiJcL005Yit3YjUwUVdyQVJERncyUzBCZHZNTHRZMEF2U3JWMjF3WjdVUmFWY1lHck9cL1pEc0ZxanZQNitNVkNzQWN4Y1wvc2l1Vmoydzc5dmlLY1MxRUQxbUdvOWdVOU5sRjV2WUhhU3BuOEJFUHRcL0c0WjJ2TFZwRHByVjdHdW9peVYifQ%3D%3D>",
+        "user": "U010H8XC056",
+        "ts": "1585241412.033400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Postman COVID-19 API Resource Center | List of APIs and Blueprints",
+                "title_link": "https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWVdaaU5qZGhNamxpWVRSayIsInQiOiJcL005Yit3YjUwUVdyQVJERncyUzBCZHZNTHRZMEF2U3JWMjF3WjdVUmFWY1lHck9cL1pEc0ZxanZQNitNVkNzQWN4Y1wvc2l1Vmoydzc5dmlLY1MxRUQxbUdvOWdVOU5sRjV2WUhhU3BuOEJFUHRcL0c0WjJ2TFZwRHByVjdHdW9peVYifQ%3D%3D",
+                "text": "View our growing list of novel coronavirus (COVID-19) API collections to help fight this pandemic. And learn how to use our blueprints for quickly deploying new APIs from existing data sets.",
+                "fallback": "Postman COVID-19 API Resource Center | List of APIs and Blueprints",
+                "image_url": "https://assets.getpostman.com/covid-19/postman-covid-19-social-image.jpg",
+                "from_url": "https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWVdaaU5qZGhNamxpWVRSayIsInQiOiJcL005Yit3YjUwUVdyQVJERncyUzBCZHZNTHRZMEF2U3JWMjF3WjdVUmFWY1lHck9cL1pEc0ZxanZQNitNVkNzQWN4Y1wvc2l1Vmoydzc5dmlLY1MxRUQxbUdvOWdVOU5sRjV2WUhhU3BuOEJFUHRcL0c0WjJ2TFZwRHByVjdHdW9peVYifQ%3D%3D",
+                "image_width": 585,
+                "image_height": 250,
+                "image_bytes": 74401,
+                "service_icon": "https://covid-19-apis.postman.com/icons/icon-48x48.png?v=9a2f6f2a305951852f949fcec9a89efd",
+                "service_name": "covid-19-apis.postman.com",
+                "id": 1,
+                "original_url": "https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWVdaaU5qZGhNamxpWVRSayIsInQiOiJcL005Yit3YjUwUVdyQVJERncyUzBCZHZNTHRZMEF2U3JWMjF3WjdVUmFWY1lHck9cL1pEc0ZxanZQNitNVkNzQWN4Y1wvc2l1Vmoydzc5dmlLY1MxRUQxbUdvOWdVOU5sRjV2WUhhU3BuOEJFUHRcL0c0WjJ2TFZwRHByVjdHdW9peVYifQ%3D%3D"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qot",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a good collection of public apis related to Corona "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWVdaaU5qZGhNamxpWVRSayIsInQiOiJcL005Yit3YjUwUVdyQVJERncyUzBCZHZNTHRZMEF2U3JWMjF3WjdVUmFWY1lHck9cL1pEc0ZxanZQNitNVkNzQWN4Y1wvc2l1Vmoydzc5dmlLY1MxRUQxbUdvOWdVOU5sRjV2WUhhU3BuOEJFUHRcL0c0WjJ2TFZwRHByVjdHdW9peVYifQ%3D%3D",
+                                "text": "https://covid-19-apis.postman.com/?mkt_tok=eyJpIjoiWVdaaU5qZGhNamxpWVRSayIsInQiOiJcL005Yit3YjUwUVdyQVJERncyUzBCZHZNTHRZMEF2U3JWMjF3WjdVUmFWY1lHck9cL1pEc0ZxanZQNitNVkNzQWN4Y1wvc2l1Vmoydzc5dmlLY1MxRUQxbUdvOWdVOU5sRjV2WUhhU3BuOEJFUHRcL0c0WjJ2TFZwRHByVjdHdW9peVYifQ%3D%3D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U0107JE2S94",
+                    "U010L2CFYUW",
+                    "U01084LBM5W"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01069Z58V8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

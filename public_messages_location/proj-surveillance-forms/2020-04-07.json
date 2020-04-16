@@ -1,0 +1,805 @@
+[
+    {
+        "client_msg_id": "da64effb-fbe1-473d-8a94-5edfe43216c8",
+        "type": "message",
+        "text": "<!here> do you guys want to do a sync to see where we are before people wind down for the day?",
+        "user": "U01084NU2NL",
+        "ts": "1586222807.087500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zJ63",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you guys want to do a sync to see where we are before people wind down for the day?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586222807.087500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1586223318.088700",
+        "reply_users": [
+            "U0109ELFV4Y",
+            "U01084NU2NL",
+            "UV9A3J397"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2869CFAF-FE31-4E50-87D3-6AB2FDC0B2F7",
+        "type": "message",
+        "text": "Yes let\u2019s sync, I\u2019m around starting in 15 mins",
+        "user": "U0109ELFV4Y",
+        "ts": "1586223025.088200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2aRrB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes let\u2019s sync, I\u2019m around starting in 15 mins"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586222807.087500",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "b903afdb-5fef-4d9b-8f0b-9d4c608dda83",
+        "type": "message",
+        "text": "How about 7PM PST?  In 30 mins?",
+        "user": "U01084NU2NL",
+        "ts": "1586223051.088400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How about 7PM PST?  In 30 mins?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586222807.087500",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0109ELFV4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37c2af3b-a531-452e-9159-c258fce0d6af",
+        "type": "message",
+        "text": "sure :thumbsup::skin-tone-5:",
+        "user": "UV9A3J397",
+        "ts": "1586223318.088700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zmq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586222807.087500",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "type": "message",
+        "text": "Is this worth a PR or throw away?",
+        "files": [
+            {
+                "id": "F011BEWLKQF",
+                "created": 1586223381,
+                "timestamp": 1586223381,
+                "name": "screencapture-localhost-3001-port-of-entry-form-1586223281966.png",
+                "title": "screencapture-localhost-3001-port-of-entry-form-1586223281966.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UV9A3J397",
+                "editable": false,
+                "size": 425757,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011BEWLKQF/screencapture-localhost-3001-port-of-entry-form-1586223281966.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011BEWLKQF/download/screencapture-localhost-3001-port-of-entry-form-1586223281966.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011BEWLKQF-ee18ddf67d/screencapture-localhost-3001-port-of-entry-form-1586223281966_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011BEWLKQF-ee18ddf67d/screencapture-localhost-3001-port-of-entry-form-1586223281966_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011BEWLKQF-ee18ddf67d/screencapture-localhost-3001-port-of-entry-form-1586223281966_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 251,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011BEWLKQF-ee18ddf67d/screencapture-localhost-3001-port-of-entry-form-1586223281966_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 335,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011BEWLKQF-ee18ddf67d/screencapture-localhost-3001-port-of-entry-form-1586223281966_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011BEWLKQF-ee18ddf67d/screencapture-localhost-3001-port-of-entry-form-1586223281966_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 502,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011BEWLKQF-ee18ddf67d/screencapture-localhost-3001-port-of-entry-form-1586223281966_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 558,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011BEWLKQF-ee18ddf67d/screencapture-localhost-3001-port-of-entry-form-1586223281966_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 670,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011BEWLKQF-ee18ddf67d/screencapture-localhost-3001-port-of-entry-form-1586223281966_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 714,
+                "image_exif_rotation": 1,
+                "original_w": 3360,
+                "original_h": 2344,
+                "thumb_tiny": "AwAhADC6beED/VrTfIiP/LJKnop3YWIfs0X/ADxSgW0PeJamoouwsQm3hz/qlpfs0H/PJae3WnDpRdhYD0oHTikJHqKAeOSKQC0UZHqKTIHegBaKMj1FGR6igDDooorpMhV60N1oXrQ3WgBKKKKAP//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/UV9A3J397/F011BEWLKQF/screencapture-localhost-3001-port-of-entry-form-1586223281966.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011BEWLKQF-11508e550a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9sGZ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is this worth a PR or throw away?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UV9A3J397",
+        "display_as_bot": false,
+        "ts": "1586223387.089500",
+        "client_msg_id": "153c8833-a56a-4308-841f-ac01c140ec2c",
+        "thread_ts": "1586223387.089500",
+        "reply_count": 8,
+        "reply_users_count": 7,
+        "latest_reply": "1586244234.098400",
+        "reply_users": [
+            "U0109ELFV4Y",
+            "U0107JEKN0N",
+            "UV8B0679P",
+            "UV9A3J397",
+            "UV6JHDP0S",
+            "U01084NU2NL",
+            "U0103EHQLEM"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107JEKN0N",
+                    "UV8B0679P",
+                    "U0109ELFV4Y",
+                    "UV6JHDP0S",
+                    "U01084NU2NL",
+                    "U0115055LQP"
+                ],
+                "count": 6
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U01084NU2NL",
+                    "U0103EHQLEM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a26a0af3-77bc-42d2-b1af-c754477bff7a",
+        "type": "message",
+        "text": "<!here> :point_up::skin-tone-5:",
+        "user": "UV9A3J397",
+        "ts": "1586223397.089900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g/CP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27CF4AFE-3843-4077-A5C0-211345BB6122",
+        "type": "message",
+        "text": "Looks great, def PR :slightly_smiling_face:",
+        "user": "U0109ELFV4Y",
+        "ts": "1586223477.090400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xBr==",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks great, def PR "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586223387.089500",
+        "parent_user_id": "UV9A3J397"
+    },
+    {
+        "client_msg_id": "f94b42b7-5487-4c26-8e78-1c058dfa783d",
+        "type": "message",
+        "text": "It\u2019s really nice <@UV9A3J397>",
+        "user": "U0107JEKN0N",
+        "ts": "1586223599.090700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dLU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It\u2019s really nice "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9A3J397"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586223387.089500",
+        "parent_user_id": "UV9A3J397"
+    },
+    {
+        "client_msg_id": "5398bcfa-991a-4f9b-a31d-a09c4c6b0c9c",
+        "type": "message",
+        "text": "LOOKS FANTASTIC, <@UV9A3J397>!",
+        "user": "UV8B0679P",
+        "ts": "1586223916.090900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y/PC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LOOKS FANTASTIC, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9A3J397"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586223387.089500",
+        "parent_user_id": "UV9A3J397"
+    },
+    {
+        "client_msg_id": "2b302d31-6037-4429-a22b-e88aabcdb568",
+        "type": "message",
+        "text": "alrighty then; will cleanup and spush the PR in a bit",
+        "user": "UV9A3J397",
+        "ts": "1586223949.091200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kOh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alrighty then; will cleanup and spush the PR in a bit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586223387.089500",
+        "parent_user_id": "UV9A3J397"
+    },
+    {
+        "client_msg_id": "786e95cb-c840-430e-b058-3e48c4e98f1d",
+        "type": "message",
+        "text": "THIS IS DOPE!!!!!!! <@UV9A3J397>",
+        "user": "UV6JHDP0S",
+        "ts": "1586224423.091600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "czlC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "THIS IS DOPE!!!!!!! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9A3J397"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586223387.089500",
+        "parent_user_id": "UV9A3J397"
+    },
+    {
+        "client_msg_id": "D77BBFED-1D03-458C-86FC-720160C02C23",
+        "type": "message",
+        "text": "Dude of course it\u2019s PR worthy!  Looks awesome. ",
+        "user": "U01084NU2NL",
+        "ts": "1586224491.092200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SvH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dude of course it\u2019s PR worthy!  Looks awesome. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586223387.089500",
+        "parent_user_id": "UV9A3J397"
+    },
+    {
+        "client_msg_id": "354343ba-b37d-4984-95b0-7bfd4efb2131",
+        "type": "message",
+        "text": "PR is here <@U0109ELFV4Y> <https://github.com/Ethiopia-COVID19/Project-Surveillance-Forms/pull/15/>",
+        "user": "UV9A3J397",
+        "ts": "1586224754.092600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HGunG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PR is here "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/Project-Surveillance-Forms/pull/15/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586223387.089500",
+        "parent_user_id": "UV9A3J397",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0109ELFV4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28c4f14c-e2f6-48ac-8162-04504a1bf4dd",
+        "type": "message",
+        "text": "<!here> Doing a quick sync now.  <https://us04web.zoom.us/j/6129315429>",
+        "user": "U01084NU2NL",
+        "ts": "1586224821.093500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ccQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Doing a quick sync now.  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/6129315429"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586224821.093500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586224891.093600",
+        "reply_users": [
+            "U0109ELFV4Y"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cf17a1f5-1e2d-4536-a0ea-7b3d8cd99101",
+        "type": "message",
+        "text": "gotta admit us in",
+        "user": "U0109ELFV4Y",
+        "ts": "1586224891.093600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "noMh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gotta admit us in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586224821.093500",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "65d744d9-c966-444b-9af8-83fa21164a0c",
+        "type": "message",
+        "text": "FYI <!here> hit a bunch of merge conflicts on all three forms when creating the PR. I *think* i've resolved all of them, but just a heads up to whomever gets to review/merge it to give give a once-over",
+        "user": "UV9A3J397",
+        "ts": "1586226997.094600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV9A3J397",
+            "ts": "1586227016.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uUxrU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hit a bunch of merge conflicts on all three forms when creating the PR. I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "think",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " i've resolved all of them, but just a heads up to whomever gets to review/merge it to give give a once-over"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0109ELFV4Y",
+                    "UV6JHDP0S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c2d6113-ef3a-4096-94a5-728e46da2661",
+        "type": "message",
+        "text": "<!here> New look and feel changes deployed. Looks awesome <@UV9A3J397>!",
+        "user": "U0109ELFV4Y",
+        "ts": "1586231123.095400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hjKdZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " New look and feel changes deployed. Looks awesome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV9A3J397"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107JEKN0N",
+                    "UV6JHDP0S",
+                    "U01084NU2NL",
+                    "UV8B0679P"
+                ],
+                "count": 4
+            },
+            {
+                "name": "pray::skin-tone-5",
+                "users": [
+                    "UV9A3J397",
+                    "UV6JHDP0S",
+                    "U01084NU2NL",
+                    "UV8B0679P"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0104F8P8US"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586235903.096200",
+        "user": "U0106MECUD9",
+        "text": "<@U0106MECUD9> has joined the channel"
+    },
+    {
+        "client_msg_id": "f94384e1-ef41-46d0-b981-eaff9937981f",
+        "type": "message",
+        "text": "<@U010E1P3EGM>",
+        "user": "U010A8YEUP9",
+        "ts": "1586240291.096300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4=/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010E1P3EGM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586197621.072500",
+        "parent_user_id": "U010A8YEUP9",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010E1P3EGM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586244079.097100",
+        "user": "U010E1P3EGM",
+        "text": "<@U010E1P3EGM> has joined the channel"
+    },
+    {
+        "client_msg_id": "366D1ACD-B2C5-44F3-B7C0-8F0DA1FE2725",
+        "type": "message",
+        "text": "<@UV9A3J397> it seems really nice but what about the form links? I think they need some pimp. ",
+        "user": "U0103EHQLEM",
+        "ts": "1586244234.098400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oLbUm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9A3J397"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it seems really nice but what about the form links? I think they need some pimp. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586223387.089500",
+        "parent_user_id": "UV9A3J397",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV9A3J397"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586282397.099200",
+        "user": "UV9AYBY3C",
+        "text": "<@UV9AYBY3C> has joined the channel",
+        "inviter": "U01084NU2NL"
+    }
+]

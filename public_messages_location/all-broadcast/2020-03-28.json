@@ -1,0 +1,550 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel>: :wave::skin-tone-5: hello my beautiful people! As mentioned on the call this morning, starting *right now (12am EST / 9pm PST)* we\u2019re hosting another Weekend Hackathon :dancer::skin-tone-5:\n\nThe goal is to spend the next *48 hours* shipping code, marketing assets, research on supplies and logistics support for other on the ground efforts, all to help save lives!\n\n*Background*\nWe\u2019ve come up with a set of tasks based on communication with the Ethiopian Ministry of Health and our assessment of the most critical needs on the ground currently. But if you have another idea to build or ship something, go ahead and create your own team (use the Google Doc below).\n\n*Asks*\nThere are 11 teams, so join one! Specifics about each team and the tasks are listed here: <http://www.bit.ly/ethiohackscovid19>\n\n*Deliverables*\nWe\u2019ll host an All-Hands meeting for each team to present what they\u2019ve done on *Sunday at 12am EST / 9pm PST*! Google Calendar Invites to follow.\n\n*How do I get started?*\nAll 11 teams have Slack channels you can join and ping the lead for direction. If something is not clear, feel free to reach out to <@UV8B0679P> <@U0106M26108>",
+        "files": [
+            {
+                "id": "F010MD9L8EP",
+                "created": 1585368036,
+                "timestamp": 1585368036,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UV8B0679P",
+                "editable": false,
+                "size": 254529,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010MD9L8EP/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010MD9L8EP/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010MD9L8EP-f11fdda486/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010MD9L8EP-f11fdda486/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010MD9L8EP-f11fdda486/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010MD9L8EP-f11fdda486/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 240,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010MD9L8EP-f11fdda486/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010MD9L8EP-f11fdda486/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 360,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010MD9L8EP-f11fdda486/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 400,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010MD9L8EP-f11fdda486/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 480,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 512,
+                "thumb_tiny": "AwAYADDPH1qWGd4ciPHPqKiqVHjAAMQJHU560NXAk+3Teq/lR9um9V/Kk3xf88R+dJvi/wCeA/Op5V2HdjZZ5J9ocjjpgYqMqR1qR5I8ECIA46g9KiJJ61SVhAKXOfQU3vRQA8HP8WPrQSR/FmmGloAXPHTn1pKKKAP/2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/UV8B0679P/F010MD9L8EP/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010MD9L8EP-b9abd2b244",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": " hello my beautiful people! As mentioned on the call this morning, starting "
+                            },
+                            {
+                                "type": "text",
+                                "text": "right now (12am EST / 9pm PST)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " we\u2019re hosting another Weekend Hackathon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dancer",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe goal is to spend the next "
+                            },
+                            {
+                                "type": "text",
+                                "text": "48 hours",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " shipping code, marketing assets, research on supplies and logistics support for other on the ground efforts, all to help save lives!\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Background",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe\u2019ve come up with a set of tasks based on communication with the Ethiopian Ministry of Health and our assessment of the most critical needs on the ground currently. But if you have another idea to build or ship something, go ahead and create your own team (use the Google Doc below).\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Asks",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThere are 11 teams, so join one! Specifics about each team and the tasks are listed here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www.bit.ly/ethiohackscovid19"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Deliverables",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe\u2019ll host an All-Hands meeting for each team to present what they\u2019ve done on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sunday at 12am EST / 9pm PST",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Google Calendar Invites to follow.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "How do I get started?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAll 11 teams have Slack channels you can join and ping the lead for direction. If something is not clear, feel free to reach out to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UV8B0679P",
+        "display_as_bot": false,
+        "ts": "1585368040.058100",
+        "edited": {
+            "user": "UV8B0679P",
+            "ts": "1585368636.000000"
+        },
+        "client_msg_id": "8aa1d684-8271-4cbe-87d0-b3cd9043c975",
+        "pinned_to": [
+            "C010695DKMM"
+        ],
+        "pinned_info": {
+            "channel": "C010695DKMM",
+            "pinned_by": "U0106M27EKS",
+            "pinned_ts": 1585368067
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M27EKS",
+                    "U0107A7161E",
+                    "UV8B0679P",
+                    "U0106M26108",
+                    "U010BSJ55MK",
+                    "U01088D7UTH",
+                    "UVB9ZSPCH",
+                    "U0107JERE9L",
+                    "U010K2Q0D8F",
+                    "U010AAT0414",
+                    "UVA8BCCBV",
+                    "U0107JDFH1U",
+                    "U010KF5DW4W",
+                    "U010SPW4HJB",
+                    "U0109D9RQTV"
+                ],
+                "count": 15
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U0106M27EKS",
+                    "U0105C870AC",
+                    "UV8B0679P",
+                    "U0106M26108",
+                    "U010BSJ55MK",
+                    "UVB9ZSPCH",
+                    "U0107JERE9L",
+                    "U0107JE2S94",
+                    "U0103EHQLEM",
+                    "U010SPW4HJB"
+                ],
+                "count": 10
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "U0106M27EKS",
+                    "UV8B0679P",
+                    "U01076XHPC0",
+                    "U010LGW2A5A",
+                    "U0106M26108",
+                    "U010BSJ55MK",
+                    "U0109G64E31",
+                    "UVB9ZSPCH",
+                    "U0107JERE9L",
+                    "UVC2L182V",
+                    "U010K2Q0D8F",
+                    "U0108SWQ4CF",
+                    "U0107JE2S94",
+                    "U0103EHQLEM",
+                    "U01087PJBNG",
+                    "U010VSAKD1S",
+                    "U010APHG8Q1",
+                    "U010SPW4HJB"
+                ],
+                "count": 18
+            },
+            {
+                "name": "github",
+                "users": [
+                    "U0106M27EKS",
+                    "UV8B0679P",
+                    "U01076XHPC0",
+                    "U0107JERE9L"
+                ],
+                "count": 4
+            },
+            {
+                "name": "facepunch::skin-tone-5",
+                "users": [
+                    "U010L1RJMUN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "189828f0-b1d8-4294-9617-d2d040055a5b",
+        "type": "message",
+        "text": "<!channel> - is there anyone here work at Zoom or has a contact? Need to talk to their Enterprise Sales team today. Can you help? DM me",
+        "user": "UV8B0679P",
+        "ts": "1585405946.070300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV8B0679P",
+            "ts": "1585406058.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+aVI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - is there anyone here work at Zoom or has a contact? Need to talk to their Enterprise Sales team today. Can you help? DM me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585405946.070300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585418749.073700",
+        "reply_users": [
+            "U0106M26108",
+            "UV8B0679P"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5b07e21-c99f-40f3-b44f-89ca4d5b0733",
+        "type": "message",
+        "text": "A friend connected me to a habesha brother there! He wants to hop on a zoom call tomorrow to see how he can help. Invited him to our slack, will loop you in on the email as well :sunglasses:",
+        "user": "U0106M26108",
+        "ts": "1585417867.072900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R08",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A friend connected me to a habesha brother there! He wants to hop on a zoom call tomorrow to see how he can help. Invited him to our slack, will loop you in on the email as well "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585405946.070300",
+        "parent_user_id": "UV8B0679P",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107AYF16H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "551E8D58-58BC-4A9B-82DC-9285B2392CF6",
+        "type": "message",
+        "text": "You are awesome, <@U0106M26108>!",
+        "user": "UV8B0679P",
+        "ts": "1585418749.073700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GyJ9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You are awesome, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585405946.070300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "0a7d78c4-3402-46e4-adce-a9dbafa9e07c",
+        "type": "message",
+        "text": "<!channel>\nHello,\nIf you are looking for ways to contribute, there is an ambitious project called <#C010GQUEBSQ|proj-diy-gear> - where we are trying to research, source and create protective equipment alternatives in Ethiopia. We are looking to get the following things completed for this weekend's Hackathon .\n\n\u2022 Comprehensive list of the textile and plastic factories in Ethiopia with a POC for getting quotes.\u00a0\n\u2022 Research and identify any existing companies who are working on producing DIY gears in Ethiopia.\n\u2022 Comprehensive list of all centers that have 3D printers Ethiopia with POCs for each. \nIf you are based in Ethiopia and would like ot be a part of this project, please join the channel  <#C010GQUEBSQ|proj-diy-gear>  and start on the tasks listed above.",
+        "user": "U0107JERE9L",
+        "ts": "1585430089.080400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "44U+/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHello,\nIf you are looking for ways to contribute, there is an ambitious project called "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010GQUEBSQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - where we are trying to research, source and create protective equipment alternatives in Ethiopia. We are looking to get the following things completed for this weekend's Hackathon .\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Comprehensive list of the textile and plastic factories in Ethiopia with a POC for getting quotes.\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Research and identify any existing companies who are working on producing DIY gears in Ethiopia."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Comprehensive list of all centers that have 3D printers Ethiopia with POCs for each. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIf you are based in Ethiopia and would like ot be a part of this project, please join the channel  "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010GQUEBSQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  and start on the tasks listed above."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "UV8B0679P",
+                    "U0107A7161E",
+                    "U0111A9R6JK",
+                    "UVALAR52P",
+                    "UVB9ZSPCH",
+                    "U0106M27EKS"
+                ],
+                "count": 6
+            },
+            {
+                "name": "flag-et",
+                "users": [
+                    "UV8B0679P",
+                    "U0106M26108",
+                    "U0107A7161E",
+                    "U0111A9R6JK",
+                    "UVB9ZSPCH",
+                    "U0106M27EKS",
+                    "U010GM0PVTJ",
+                    "U010NBXJN06"
+                ],
+                "count": 8
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108",
+                    "U0102QX78GH",
+                    "UVB9ZSPCH",
+                    "U0106M27EKS"
+                ],
+                "count": 4
+            },
+            {
+                "name": "mask",
+                "users": [
+                    "U0106M26108",
+                    "U0106M27EKS",
+                    "U01087PJBNG"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

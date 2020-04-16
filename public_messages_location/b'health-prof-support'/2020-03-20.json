@@ -1,0 +1,666 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584717601.000200",
+        "user": "UVB9ZSPCH",
+        "text": "<@UVB9ZSPCH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584717602.000300",
+        "user": "UVB9ZSPCH",
+        "text": "<@UVB9ZSPCH> set the channel purpose: This page admin by HakimEthio-Health&amp;Wellnes awarness group: HakimEthio will help provide acess to heath workers in Ethiopia and promot awarness on COVID-19 on thire social media platform. \n<https://m.facebook.com/HakimEthio/reviews>",
+        "purpose": "This page admin by HakimEthio-Health&amp;Wellnes awarness group: HakimEthio will help provide acess to heath workers in Ethiopia and promot awarness on COVID-19 on thire social media platform. \n<https://m.facebook.com/HakimEthio/reviews>"
+    },
+    {
+        "client_msg_id": "D63C26E4-C77C-4AE9-8F17-81C43DDA12B0",
+        "type": "message",
+        "text": "<@U0102ENM0CT> Welcome,all yours!",
+        "user": "UVB9ZSPCH",
+        "ts": "1584721863.000400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UVB9ZSPCH",
+            "ts": "1584721945.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A0em",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0102ENM0CT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Welcome,all yours!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584721890.000600",
+        "user": "U0102ENM0CT",
+        "text": "<@U0102ENM0CT> has joined the channel"
+    },
+    {
+        "client_msg_id": "4414ab42-1716-44a4-b99c-db4d23a2c231",
+        "type": "message",
+        "text": "Thank you guys! Here to help!",
+        "user": "U0102ENM0CT",
+        "ts": "1584722057.001200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xiX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you guys! Here to help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584722373.001400",
+        "user": "U010CQ6P9C4",
+        "text": "<@U010CQ6P9C4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584722555.001600",
+        "user": "UVAL943JP",
+        "text": "<@UVAL943JP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584723028.001800",
+        "user": "U0107JERE9L",
+        "text": "<@U0107JERE9L> has joined the channel"
+    },
+    {
+        "client_msg_id": "E425AC9D-8737-4EEC-9D97-47AFB2376A67",
+        "type": "message",
+        "text": "<@U0102ENM0CT> <#CV8HM0HDY|language-assistance> \n\n<https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit?usp=sharing|https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit?usp=sharing>",
+        "user": "UVB9ZSPCH",
+        "ts": "1584723686.002200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aDZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0102ENM0CT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CV8HM0HDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit?usp=sharing",
+                                "text": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584723686.002200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584723777.002700",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d542afac-ed02-4ffb-8c1a-bbdcb807d547",
+        "type": "message",
+        "text": "Just seeing this since I can't really do much in this space but it looks so good!! Well done <@UVB9ZSPCH> and team working on this",
+        "user": "U0107JERE9L",
+        "ts": "1584723777.002700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OZH5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just seeing this since I can't really do much in this space but it looks so good!! Well done "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and team working on this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584723686.002200",
+        "parent_user_id": "UVB9ZSPCH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4DF7F332-8963-4B49-A24D-032E3FACBDD3",
+        "type": "message",
+        "text": "Working space on google doc:\n\n<https://docs.google.com/document/d/13Ylx1kyJIKDC2JgA7q8TtW-oHlfAzmuAdPGfVfBLlbI/edit?disco=AAAAJOSag4M&amp;ts=5e743f38&amp;usp=comment_email_document&amp;usp_dm=false|https://docs.google.com/document/d/13Ylx1kyJIKDC2JgA7q8TtW-oHlfAzmuAdPGfVfBLlbI/edit?disco=AAAAJOSag4M&amp;ts=5e743f38&amp;usp=comment_email_document&amp;usp_dm=false>",
+        "user": "UVB9ZSPCH",
+        "ts": "1584723861.003600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NsvOw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Working space on google doc:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/13Ylx1kyJIKDC2JgA7q8TtW-oHlfAzmuAdPGfVfBLlbI/edit?disco=AAAAJOSag4M&ts=5e743f38&usp=comment_email_document&usp_dm=false",
+                                "text": "https://docs.google.com/document/d/13Ylx1kyJIKDC2JgA7q8TtW-oHlfAzmuAdPGfVfBLlbI/edit?disco=AAAAJOSag4M&ts=5e743f38&usp=comment_email_document&usp_dm=false"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C3F747B6-ED62-41FC-9A57-2A12DBE757A8",
+        "type": "message",
+        "text": "Ads draft and executed will be posted on: :point_down:<https://drive.google.com/drive/u/1/folders/1EvafOrjG0wsosBaL4dmPcpQLPPPHLfM6|https://drive.google.com/drive/u/1/folders/1EvafOrjG0wsosBaL4dmPcpQLPPPHLfM6>",
+        "user": "UVB9ZSPCH",
+        "ts": "1584724337.005100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZnF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ads draft and executed will be posted on: "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_down"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/u/1/folders/1EvafOrjG0wsosBaL4dmPcpQLPPPHLfM6",
+                                "text": "https://drive.google.com/drive/u/1/folders/1EvafOrjG0wsosBaL4dmPcpQLPPPHLfM6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584724337.005100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584726336.009300",
+        "reply_users": [
+            "U0107JERE9L",
+            "UVB9ZSPCH"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "59551FB3-C7BD-4117-B79F-05C5DE870D2F",
+        "type": "message",
+        "text": "<@UVAL943JP> <@U0107JERE9L> can you help populating the final product generating from <#CVBQ5H16D|ui-ux> on each folder.",
+        "user": "UVB9ZSPCH",
+        "ts": "1584724505.007900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQSSS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVAL943JP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you help populating the final product generating from "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CVBQ5H16D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on each folder."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8500d460-45b0-4022-86ec-1a7f17170499",
+        "type": "message",
+        "text": "What do you mean by final product generating? <@UVB9ZSPCH>\n\nI am adding things from the ideas in the google drive already.",
+        "user": "U0107JERE9L",
+        "ts": "1584725024.008100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KAoy3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you mean by final product generating? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI am adding things from the ideas in the google drive already."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584724337.005100",
+        "parent_user_id": "UVB9ZSPCH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584725661.008400",
+        "user": "U0108RA0JJC",
+        "text": "<@U0108RA0JJC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584725723.008600",
+        "user": "U01007VTP8A",
+        "text": "<@U01007VTP8A> has joined the channel"
+    },
+    {
+        "client_msg_id": "D805F11C-B7AD-46DD-8705-B737BCB3DB97",
+        "type": "message",
+        "text": "<@U0107JERE9L> referring product coming out of <#CVBQ5H16D|ui-ux> ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584726336.009300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "coe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " referring product coming out of "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CVBQ5H16D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584724337.005100",
+        "parent_user_id": "UVB9ZSPCH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584727377.009600",
+        "user": "U010FNN079C",
+        "text": "<@U010FNN079C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584727394.009800",
+        "user": "U010CH2M90F",
+        "text": "<@U010CH2M90F> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584728295.010000",
+        "user": "UVD6SD63D",
+        "text": "<@UVD6SD63D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584736453.010200",
+        "user": "U010318AHEE",
+        "text": "<@U010318AHEE> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "B0E316A7-9759-4EDD-AE97-C4A182CAA928",
+        "type": "message",
+        "text": "<@U010318AHEE> Welcome Dr. Azeb A. Alemu! ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584737422.011800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5iG5m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010318AHEE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Welcome Dr. Azeb A. Alemu! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e85c4fcf-20d3-454c-a156-a50c4c970480",
+        "type": "message",
+        "text": "<@UVB9ZSPCH> <@U0107JERE9L> thank you for having me.",
+        "user": "U010318AHEE",
+        "ts": "1584737642.012400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w71o/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you for having me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "383f3f4f-2409-4921-b692-59081dc73b02",
+        "type": "message",
+        "text": "Hello <!here>\n\nI am happy to find that there is a focus on the healthcare workers. They are key in this war.\nThis is the folder where we are pushing for ideas and initiatives to help and protect them. Keeping them safe is paramount.\n\nI am trying to drive 2 specific things under this project:\n\n1. What information can we share with the healthcare workers so they can protect themselves? This is urgent so we need this in a PDF version first. And we need it to be translated in the main languages. \n2. How can we aid in providing protective gear? DIY masks etc... (Similar to this video <https://www.youtube.com/watch?v=Wg-cwD4Edac>)\n\nThe goal for the two initiatives is to complete within the next 24-48 hours.\nIt will make a big difference.\n\n<https://drive.google.com/drive/folders/1lVap5ylRncPf_dZA0b5qT_qZiUj0ziD7?usp=sharing>",
+        "user": "U0107JERE9L",
+        "ts": "1584738272.013700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "DIY face masks in 10 seconds &amp; improve cheaper masks #coronavirus  #facemask",
+                "title_link": "https://www.youtube.com/watch?v=Wg-cwD4Edac",
+                "author_name": "Genius Asian",
+                "author_link": "https://www.youtube.com/user/corgLLC",
+                "thumb_url": "https://i.ytimg.com/vi/Wg-cwD4Edac/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: DIY face masks in 10 seconds & improve cheaper masks #coronavirus  #facemask",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/Wg-cwD4Edac?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=Wg-cwD4Edac",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=Wg-cwD4Edac"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pndt9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI am happy to find that there is a focus on the healthcare workers. They are key in this war.\nThis is the folder where we are pushing for ideas and initiatives to help and protect them. Keeping them safe is paramount.\n\nI am trying to drive 2 specific things under this project:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What information can we share with the healthcare workers so they can protect themselves? This is urgent so we need this in a PDF version first. And we need it to be translated in the main languages. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How can we aid in providing protective gear? DIY masks etc... (Similar to this video "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.youtube.com/watch?v=Wg-cwD4Edac"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nThe goal for the two initiatives is to complete within the next 24-48 hours.\nIt will make a big difference.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1lVap5ylRncPf_dZA0b5qT_qZiUj0ziD7?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UV6JJDDKL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0298B238-3161-4F83-8ECE-2B16B184E9E1",
+        "type": "message",
+        "text": "<@U0107JERE9L> Thank you girl:clap::skin-tone-4::clap::skin-tone-4:",
+        "user": "UVB9ZSPCH",
+        "ts": "1584738531.014400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZvdfJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you girl"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

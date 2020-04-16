@@ -1,0 +1,1057 @@
+[
+    {
+        "client_msg_id": "cc7ca117-7bba-4159-80cd-48b1661c5fd4",
+        "type": "message",
+        "text": "<@U01084NU2NL> <@U0109ELFV4Y> as per suggested changes, (<https://docs.google.com/document/d/1sDul-G0_yOVh86xuGUxSlXxPzbrv05IGh_cBy0yqoJw/edit>)  I\u2019ve added the following fields to `communities` and `passengers` collections: cc: <@UV8B0679P>\n```    fatigue: { type: Boolean },\n    underlyingConditions: {\n      chronicLungDisease: { type: Boolean },\n      heartDisease: { type: Boolean },\n      liverDisease: { type: Boolean },\n      renalDisease: { type: Boolean },\n      autoimmuneDisease: { type: Boolean },\n      cancer: { type: Boolean },\n      diabetes: { type: Boolean },\n      hiv: { type: Boolean },\n      pregnancy: { type: Boolean },\n    },```",
+        "user": "U0107JEKN0N",
+        "ts": "1586186155.239200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107JEKN0N",
+            "ts": "1586186233.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zKVob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as per suggested changes, ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1sDul-G0_yOVh86xuGUxSlXxPzbrv05IGh_cBy0yqoJw/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")  I\u2019ve added the following fields to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "communities",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "passengers",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " collections: cc: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "    fatigue: { type: Boolean },\n    underlyingConditions: {\n      chronicLungDisease: { type: Boolean },\n      heartDisease: { type: Boolean },\n      liverDisease: { type: Boolean },\n      renalDisease: { type: Boolean },\n      autoimmuneDisease: { type: Boolean },\n      cancer: { type: Boolean },\n      diabetes: { type: Boolean },\n      hiv: { type: Boolean },\n      pregnancy: { type: Boolean },\n    },"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "0BB6B91F-CDB7-4561-83C0-DDE5315CD914",
+        "type": "message",
+        "text": "Thanks <@U0107JEKN0N>!  <@U0107EMK8UD> <@U0107DX4VNU> is it safe to assume that these fields should be added to the medical facilities form as well?  Would be great to update that doc to reflect that so the developers know exactly what needs to change on that form as well.  :pray::skin-tone-4:",
+        "user": "U01084NU2NL",
+        "ts": "1586187661.242300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1586187696.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZZNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is it safe to assume that these fields should be added to the medical facilities form as well?  Would be great to update that doc to reflect that so the developers know exactly what needs to change on that form as well.  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "82D3A187-02DB-4B36-92A2-60B3D7E11F04",
+        "type": "message",
+        "text": "Awesome <@U0107JEKN0N>   Let us know if you need any final review! Appreciate everyone\u2019s work!",
+        "user": "U0107DX4VNU",
+        "ts": "1586187670.242700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RWN5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   Let us know if you need any final review! Appreciate everyone\u2019s work!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "2B15E3D5-C012-4AD5-BB89-3B1A2401F34D",
+        "type": "message",
+        "text": "<@U01084NU2NL>, I can make updates to the doc now.",
+        "user": "U0107DX4VNU",
+        "ts": "1586187712.243700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8CWG3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I can make updates to the doc now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00d4101c-0e98-4afa-a30e-5fd9d2d01d9c",
+        "type": "message",
+        "text": "<@U01084NU2NL> <@U0107JEKN0N> - updated doc; tried to be as clear as possible all the requested changes for each form (including medical facilities). thanks.",
+        "user": "U0107DX4VNU",
+        "ts": "1586188974.244000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KcO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - updated doc; tried to be as clear as possible all the requested changes for each form (including medical facilities). thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U01084NU2NL",
+                    "UV8B0679P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5539c8d4-b7a8-4690-b09a-660c2155da6d",
+        "type": "message",
+        "text": "<@U0107DX4VNU> I've added <@U0107JEKN0N>'s changes to the doc too, to make it easier for devs to cross reference.   Please approve the changes when you get a chance.",
+        "user": "U01084NU2NL",
+        "ts": "1586189395.244400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QTx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I've added "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s changes to the doc too, to make it easier for devs to cross reference.   Please approve the changes when you get a chance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "c58e2937-e9de-4c1b-ab6a-ff0d75cf19b7",
+        "type": "message",
+        "text": "Actually I'll just add a line saying the API gateway reflects these changes and link to it instead.   I don't want to have multiple sources of truth if <@U0107JEKN0N> has to make changes to the  API Gateway.",
+        "user": "U01084NU2NL",
+        "ts": "1586189467.244600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1586189550.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WXlLT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually I'll just add a line saying the API gateway reflects these changes and link to it instead.   I don't want to have multiple sources of truth if "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has to make changes to the  API Gateway."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107DX4VNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59b63208-99fc-4aab-ae27-0c086c452a90",
+        "type": "message",
+        "text": "<@U0107JEKN0N> when are you planning on updating the API docs to reflect the new changes?",
+        "user": "U01084NU2NL",
+        "ts": "1586189523.244800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KjgxM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " when are you planning on updating the API docs to reflect the new changes?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "e4857918-a4de-49ad-8b7f-74d49f00de2d",
+        "type": "message",
+        "text": "<@U01084NU2NL> sorry I was on another call",
+        "user": "U0107JEKN0N",
+        "ts": "1586192563.245400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tc63u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry I was on another call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "1a1d8862-2894-479a-a565-02cfbd43d999",
+        "type": "message",
+        "text": "All good.",
+        "user": "U01084NU2NL",
+        "ts": "1586192576.245600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8jMk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "fe469d91-53eb-4b50-9187-570e66c9485c",
+        "type": "message",
+        "text": "I\u2019ve updated the API readme file with the changes",
+        "user": "U0107JEKN0N",
+        "ts": "1586192577.245800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+H5M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019ve updated the API readme file with the changes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "49b07494-3b8f-492b-8867-274cefb260c1",
+        "type": "message",
+        "text": "Please look at <https://github.com/Ethiopia-COVID19/api-gateway#data-structure>",
+        "user": "U0107JEKN0N",
+        "ts": "1586192639.246000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/api-gateway",
+                "text": "Ethiopia CoVID-19 API Gateway",
+                "title": "Ethiopia-COVID19/api-gateway",
+                "footer": "<https://github.com/Ethiopia-COVID19/api-gateway|Ethiopia-COVID19/api-gateway>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585073210,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "5",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/api-gateway#data-structure",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPSz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please look at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway#data-structure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "cb6398fb-61c5-461b-bfd3-0143cb5c3524",
+        "type": "message",
+        "text": "Have you also made the changes to the Medical Facilities forms?",
+        "user": "U01084NU2NL",
+        "ts": "1586192680.246300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FfrY3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you also made the changes to the Medical Facilities forms?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "f2c900af-39cc-48ed-9d61-25d522e58e5f",
+        "type": "message",
+        "text": "Not yet. Let me do that now.",
+        "user": "U0107JEKN0N",
+        "ts": "1586192725.246500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "84x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not yet. Let me do that now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8117916-5677-4f8d-a028-dd5bcc7421e9",
+        "type": "message",
+        "text": "Do your models support embedded models?   I am sorry you are having to make these changes in three different places. :slightly_smiling_face:",
+        "user": "U01084NU2NL",
+        "ts": "1586192802.246800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Na0h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do your models support embedded models?   I am sorry you are having to make these changes in three different places. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "ae299399-9443-4153-9438-52ab3106f542",
+        "type": "message",
+        "text": "FYI here\u2019 the schema <https://github.com/Ethiopia-COVID19/api-gateway/tree/master/models>",
+        "user": "U0107JEKN0N",
+        "ts": "1586192884.247000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38F2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI here\u2019 the schema "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway/tree/master/models"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "34a113a9-c883-42dd-8d4a-468ce8e29038",
+        "type": "message",
+        "text": "It\u2019s not a big deal, I\u2019ll update them all",
+        "user": "U0107JEKN0N",
+        "ts": "1586192896.247200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GIdo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It\u2019s not a big deal, I\u2019ll update them all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "631b7520-a821-428c-95d1-674636d37217",
+        "type": "message",
+        "text": "Made some minor edits to the translation for \u201cUnderlying conditions\u201d and \u201cGeneral information\u201d sections for all the forms on the doc.",
+        "user": "U0107EMK8UD",
+        "ts": "1586195869.247600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=J2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Made some minor edits to the translation for \u201cUnderlying conditions\u201d and \u201cGeneral information\u201d sections for all the forms on the doc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "3739354c-ba49-4709-9d9a-084753ab4011",
+        "type": "message",
+        "text": "<@U01084NU2NL> model changes are deployed.",
+        "user": "U0107JEKN0N",
+        "ts": "1586196054.247800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IuDRz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " model changes are deployed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "a11c5d40-212a-40d3-8d50-eb10475aab91",
+        "type": "message",
+        "text": "<@U01119ZG719> Think we will be able to get these values from the MoH datasets being collected.",
+        "user": "U010UJ2C1FS",
+        "ts": "1586198240.248100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CD1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01119ZG719"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Think we will be able to get these values from the MoH datasets being collected."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "1894895e-9306-4dad-8295-f3cd5a24daed",
+        "type": "message",
+        "text": "<@U0102QX78GH> actually we will going to test the stochastic model. The plan is to tp predict the  outbreak in city/grid cell with Origin-Destination Matrix and SEIR Model. We have a plan to use a human mobility data if we have access to those dataset from INSA.",
+        "user": "U01119ZG719",
+        "ts": "1586198260.248300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uu6E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0102QX78GH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " actually we will going to test the stochastic model. The plan is to tp predict the  outbreak in city/grid cell with Origin-Destination Matrix and SEIR Model. We have a plan to use a human mobility data if we have access to those dataset from INSA."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "95fd13a9-3e59-4206-b0a4-668e1b774b1b",
+        "type": "message",
+        "text": "Key question is how will we ship this.\n\n<@U01078QCG2C> <@UV8B0679P>\nCould we include a link to jems app or maybe even include it in within an iframe?",
+        "user": "U010UJ2C1FS",
+        "ts": "1586198590.248500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "peC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Key question is how will we ship this.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01078QCG2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCould we include a link to jems app or maybe even include it in within an iframe?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "F05F3540-1916-47DA-ABFB-86DB5C3A8BD3",
+        "type": "message",
+        "text": "We could",
+        "user": "UV8B0679P",
+        "ts": "1586199402.248800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dgC1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We could"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "d5ab425b-d783-47ae-afe4-1d9d677907d7",
+        "type": "message",
+        "text": "Yeah we could add it in. I would make a ticket to link it for now in github and we\u2019ll try to get consensus on whether to link vs embed it.",
+        "user": "U01078QCG2C",
+        "ts": "1586199685.249000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1586199761.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q7K6d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah we could add it in. I would make a ticket to link it for now in github and we\u2019ll try to get consensus on whether to link vs embed it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586101721.211900",
+        "parent_user_id": "U010UJ2C1FS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UJ2C1FS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0107EMK8UD> <@U0107DX4VNU> if you are working on translation. You may already be aware that a lot of translation was done a couple week ago in this <https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0|sheet> that will definitely have overlap with these forms Please see the surveillance tab!",
+        "files": [
+            {
+                "id": "F010L0AGJPQ",
+                "created": 1584906231,
+                "timestamp": 1584906231,
+                "name": "Ethiopia COVID-19 Response Task Force | Language Team",
+                "title": "Ethiopia COVID-19 Response Task Force | Language Team",
+                "mimetype": "application/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U0107AYF16H",
+                "editable": false,
+                "size": 791736,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0",
+                "thumb_64": "https://a.slack-edge.com/80588/img/files/gsheet_64.png",
+                "thumb_360": "https://a.slack-edge.com/80588/img/files/gsheet_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107AYF16H/F010L0AGJPQ/ethiopia_covid-19_response_task_force___language_team",
+                "is_starred": false,
+                "external_id": "16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI",
+                "external_url": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OuX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you are working on translation. You may already be aware that a lot of translation was done a couple week ago in this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/16li9WXz-pXXDxKSHFOdnWKb8uyXN1V3q92K499d9zHI/edit#gid=0",
+                                "text": "sheet"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that will definitely have overlap with these forms Please see the surveillance tab!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107A7161E",
+        "display_as_bot": false,
+        "x_files": [
+            "F010L0AGJPQ"
+        ],
+        "ts": "1586205554.249600",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1586205722.000000"
+        },
+        "client_msg_id": "6b7c2bc7-dd13-4c89-a616-86d142778004",
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107DX4VNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef2dc6ac-4d7b-435c-9762-ccc7e616d4e5",
+        "type": "message",
+        "text": "Thanks Samra, we both are in the language translate channel as well",
+        "user": "U0107EMK8UD",
+        "ts": "1586205642.250300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XFL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Samra, we both are in the language translate channel as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586123018.221100",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E",
+                    "U0107DX4VNU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,431 @@
+[
+    {
+        "client_msg_id": "a143c5f9-8dc4-4945-8887-15dbac59bc9a",
+        "type": "message",
+        "text": "<@U01087PJBNG> :point_up:",
+        "user": "U010SKPP7CJ",
+        "ts": "1586776129.271900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01087PJBNG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586709659.268300",
+        "parent_user_id": "U011PQWKZUM"
+    },
+    {
+        "client_msg_id": "07f13744-f3f6-4d2c-8b3a-f773d9825ea7",
+        "type": "message",
+        "text": "<@U0107JERE9L>  please talk to @Dr<@U0116DMFK9N>\nfor any techincal question regarding material / chemical engineering",
+        "user": "U010SKPP7CJ",
+        "ts": "1586777130.274500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7YQtf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  please talk to @Dr"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0116DMFK9N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nfor any techincal question regarding material / chemical engineering"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e6ff4b6-fce2-40be-b062-9fec3ae87b27",
+        "type": "message",
+        "text": "<@U010SKPP7CJ> thank you for adding me to the group. Yes, happy to help.",
+        "user": "U0116DMFK9N",
+        "ts": "1586779596.275400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0116DMFK9N",
+            "ts": "1586779609.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010SKPP7CJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you for adding me to the group. Yes, happy to help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586779596.275400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586785200.275700",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8d74c3da-6e90-41fa-a4e9-32ce4f02ccf9",
+        "type": "message",
+        "text": "Hello <@U0116DMFK9N> - Thank you for joining us. I will reach out to you with my questions.",
+        "user": "U0107JERE9L",
+        "ts": "1586785200.275700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yWfdo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0116DMFK9N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Thank you for joining us. I will reach out to you with my questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586779596.275400",
+        "parent_user_id": "U0116DMFK9N"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0107JERE9L",
+        "ts": "1586785676.275900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[April 12th, 2020 5:30 PM] nichole.starr: Hi team, thanks for starting this group and all the work you are doing.\nI'm a surgical resident from the US (UCSF), was a Peace Corps Volunteer in Dessie, Ethiopia many years ago and have been living in Addis the past two years working with Lifebox on improving surgical safety.\nRegarding COVID-19, I'm working with Lifebox, and multiple partners from sub-Saharan Africa on preparing surgical systems for safe response to COVID - our recent publication and COVID-19 resources are here: <https://www.lifebox.org/covid-19-resources/>\nWe are also working with a lab at Stanford and the N95 decon team (<http://N95decon.org|N95decon.org>) to test multiple materials and reprocessing methods for masks and respirators, even gloves, to make sure they are effective and safe. If anyone has samples they would like tested, or reprocessing methods to suggest and test, please reach out, we can coordinate efforts.",
+                "ts": "1586727049.350800",
+                "author_id": "U011PGU642F",
+                "author_subname": "Nichole Starr",
+                "channel_id": "CV6K393C2",
+                "channel_name": "all-introductions",
+                "is_msg_unfurl": true,
+                "text": "Hi team, thanks for starting this group and all the work you are doing.\nI'm a surgical resident from the US (UCSF), was a Peace Corps Volunteer in Dessie, Ethiopia many years ago and have been living in Addis the past two years working with Lifebox on improving surgical safety.\nRegarding COVID-19, I'm working with Lifebox, and multiple partners from sub-Saharan Africa on preparing surgical systems for safe response to COVID - our recent publication and COVID-19 resources are here: <https://www.lifebox.org/covid-19-resources/>\nWe are also working with a lab at Stanford and the N95 decon team (<http://N95decon.org|N95decon.org>) to test multiple materials and reprocessing methods for masks and respirators, even gloves, to make sure they are effective and safe. If anyone has samples they would like tested, or reprocessing methods to suggest and test, please reach out, we can coordinate efforts.",
+                "author_name": "Nichole Starr",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U011PGU642F",
+                "author_icon": "https://secure.gravatar.com/avatar/3e8be6bea6011dd2df7824822b3540a8.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1586727049350800",
+                "is_share": true,
+                "footer": "Posted in #all-introductions"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0111JYSE23"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Massive amount of detail and research done by <@U010L1RJMUN> that we can use to prioritize who gets the face masks.",
+        "user": "U0107JERE9L",
+        "ts": "1586791664.276100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[April 13th, 2020 10:47 AM] yabebal: <@U0107JERE9L> and by location, priority could be *Addis Ketema followed by Kiros, Arada, Lideta, Colfe Keranio, Nifassilk, Lafto, Akaki Kality, Bole, Gulele and Yeka*\n> three major components of vulnerability among individuals and communities in Addis Ababa were identified: people with low income, children and elderly8 . These three groups are in general more vulnerable and have less adaptive capacity in the case of stress or shocks. The mapping was done per sub-city, by using two sources: Poverty Level Assessment of Addis Ababa 2015 (for income determination) and data from the Central Statistical Agency (CSA)\n\u2026\n> The map shows vulnerability weighted according to the population density per sub-city. It shows that Addis Ketema has the highest demand for ES. This is mainly the outcome of high vulnerability and high population density, followed by Arada and Lideta. Nifassilk Lafto, Kolfe and Gulele show somewhat average scores. On the other hand, Yeka, Kirkos and Akaki Kality represent the better off scenarios, while Bole has very low demand score because of its residents\u2019 low vulnerability.\n\u2026\n> It is important to highlight that the sub-city with the lowest supply and the highest demand is Addis Ketema followed by Kiros, Arada, Lideta, Colfe Keranio, Nifassilk, Lafto, Akaki Kality and Bole. Gulele and Yeka, on the other hand, show best situations with the highest scores in the city (10 out of 10) for total ES supply.",
+                "ts": "1586789240.238200",
+                "author_id": "U010L1RJMUN",
+                "author_subname": "yabebal",
+                "channel_id": "C0109GD5BGW",
+                "channel_name": "surveillance-response",
+                "is_msg_unfurl": true,
+                "text": "<@U0107JERE9L> and by location, priority could be *Addis Ketema followed by Kiros, Arada, Lideta, Colfe Keranio, Nifassilk, Lafto, Akaki Kality, Bole, Gulele and Yeka*\n> three major components of vulnerability among individuals and communities in Addis Ababa were identified: people with low income, children and elderly8 . These three groups are in general more vulnerable and have less adaptive capacity in the case of stress or shocks. The mapping was done per sub-city, by using two sources: Poverty Level Assessment of Addis Ababa 2015 (for income determination) and data from the Central Statistical Agency (CSA)\n\u2026\n> The map shows vulnerability weighted according to the population density per sub-city. It shows that Addis Ketema has the highest demand for ES. This is mainly the outcome of high vulnerability and high population density, followed by Arada and Lideta. Nifassilk Lafto, Kolfe and Gulele show somewhat average scores. On the other hand, Yeka, Kirkos and Akaki Kality represent the better off scenarios, while Bole has very low demand score because of its residents\u2019 low vulnerability.\n\u2026\n> It is important to highlight that the sub-city with the lowest supply and the highest demand is Addis Ketema followed by Kiros, Arada, Lideta, Colfe Keranio, Nifassilk, Lafto, Akaki Kality and Bole. Gulele and Yeka, on the other hand, show best situations with the highest scores in the city (10 out of 10) for total ES supply.",
+                "author_name": "yabebal",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010L1RJMUN",
+                "author_icon": "https://avatars.slack-edge.com/2020-04-01/1032699979809_a57469845cdd791722b4_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F012C4BFRKJ",
+                        "created": 1586789233,
+                        "timestamp": 1586789233,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U010L1RJMUN",
+                        "editable": false,
+                        "size": 366931,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F012C4BFRKJ/image.png",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F012C4BFRKJ/download/image.png",
+                        "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F012C4BFRKJ-dcd8be28b5/image_64.png",
+                        "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F012C4BFRKJ-dcd8be28b5/image_80.png",
+                        "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F012C4BFRKJ-dcd8be28b5/image_360.png",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 255,
+                        "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F012C4BFRKJ-dcd8be28b5/image_480.png",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 340,
+                        "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F012C4BFRKJ-dcd8be28b5/image_160.png",
+                        "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F012C4BFRKJ-dcd8be28b5/image_720.png",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 510,
+                        "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F012C4BFRKJ-dcd8be28b5/image_800.png",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 567,
+                        "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F012C4BFRKJ-dcd8be28b5/image_960.png",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 680,
+                        "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F012C4BFRKJ-dcd8be28b5/image_1024.png",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 725,
+                        "image_exif_rotation": 1,
+                        "original_w": 2372,
+                        "original_h": 1680,
+                        "thumb_tiny": "AwAhADDQmcRxlmBPsKqi9Tdho3Ax68068DsVwDtH86ifa+Nwyfes5TsyHKzLUNxHKxVM8DPNOmkWOMswJA9KrQRhZVZVx70mobzt4OwfzpqV1c0pe+9R8d0kjH5CFA65qeORWOFz681RslTB46d6uRoAwIFNM0nFImIBGDyKoXMLLJlQdp6VfzmmSPt2j1OKJJMxauR20JiBJbOe3pUxAYEEZB7GloppWGtCnJD5ZOwYUmp4YynJPXtSzvsCY/iYCpKLFuTaEXv9ajm+9H/vf0qRe/1qOb70f+9/SmQS0UUUAQ3P/LP/AHxUw6VDc/8ALP8A3xUw6UDP/9k=",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/U010L1RJMUN/F012C4BFRKJ/image.png",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F012C4BFRKJ-f2557b53c0",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0109GD5BGW/p1586789240238200",
+                "is_share": true,
+                "footer": "Posted in #surveillance-response"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7QjL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Massive amount of detail and research done by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that we can use to prioritize who gets the face masks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586791710.276400",
+        "user": "U010L1RJMUN",
+        "text": "<@U010L1RJMUN> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011QV24205",
+                "created": 1586797914,
+                "timestamp": 1586797914,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0111JYSE23",
+                "editable": false,
+                "size": 162068,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011QV24205/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011QV24205/download/image_from_ios.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011QV24205-7b660c1630/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011QV24205-7b660c1630/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011QV24205-7b660c1630/image_from_ios_360.jpg",
+                "thumb_360_w": 235,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011QV24205-7b660c1630/image_from_ios_480.jpg",
+                "thumb_480_w": 313,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011QV24205-7b660c1630/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011QV24205-7b660c1630/image_from_ios_720.jpg",
+                "thumb_720_w": 470,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011QV24205-7b660c1630/image_from_ios_800.jpg",
+                "thumb_800_w": 522,
+                "thumb_800_h": 800,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011QV24205-7b660c1630/image_from_ios_960.jpg",
+                "thumb_960_w": 626,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011QV24205-7b660c1630/image_from_ios_1024.jpg",
+                "thumb_1024_w": 668,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 788,
+                "original_h": 1208,
+                "thumb_tiny": "AwAwAB+muzZySGzRlf7xoHQf/Wpf89qYhpIx1am1J/ntTWI6f4UAKPu//qpf89qFRyoIViKd5b/3G/SgBnbg/wAqTnHUfpTzE552N+lJ5Ev9w0AW7cEwqMHpUvHctnOKjgdPs6AuoYDpmnHytvyzYPXqKBjRKDwc0jZznmnYjI+acfnQDGed6gehagD/2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0111JYSE23/F011QV24205/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011QV24205-7008f8b086",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IqSHQ",
+                "elements": []
+            }
+        ],
+        "user": "U0111JYSE23",
+        "display_as_bot": false,
+        "ts": "1586797922.276500",
+        "client_msg_id": "F6114B10-5EF8-404F-A9BE-8C1494D256F9",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107A7161E",
+                    "U0107JERE9L",
+                    "U011BGST4BG",
+                    "U011870MD54"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E",
+                    "U0107JERE9L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "partytime",
+                "users": [
+                    "U0107JERE9L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U0107JERE9L",
+                    "U011BGST4BG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U011J82BTTP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586807797.278000",
+        "user": "U011Y4SJ8R2",
+        "text": "<@U011Y4SJ8R2> has joined the channel",
+        "inviter": "U011JC1RXGE"
+    }
+]

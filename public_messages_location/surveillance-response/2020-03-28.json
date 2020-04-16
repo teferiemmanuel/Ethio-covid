@@ -1,0 +1,357 @@
+[
+    {
+        "client_msg_id": "8feb5c81-5314-4d9b-950b-49252a569de8",
+        "type": "message",
+        "text": "Hey everyone, regarding helping the MoH identifying hospitals at risk of going over capacity, I had a chat with <@U010T8D05UM> about an approach I was thinking of.\nSo far, the idea was to have the epidemic model work at smaller levels as well as the whole region. This is to help see how COVID-19 is spreading at smaller levels so we can get a good estimate on the influx of patients at specific health facilities. By looking at the capacity of each health facility, you can look at the forecast for that region and identify when the facility will be full or out of resources.\nHere's what I have so far:\n\u2022 Build a geofence using the geojson of the specific region/s you're interested in.\n\u2022 Filter to keep the cases identified within the geofence.\n\u2022 Use the data from those cases to run the model, working with SIR for now(the simplest model I found, to test this with), can be changed.\n\u2022 Return the forecast.\n\u2022 Use some portion of the forecasted infection rate(the percent of infected patients that end up hospitalized) as a measure of the number of incoming patients.\n\u2022 Keep a count of of all beds/the capacity of the facilities in that region, and using the forecast, keep on subtracting until the capacity reaches zero(and adding back when patients are released).\n\nI wrote up a scrappy python script for most of this, but if anyone wants to help in tying it up together or has additional comments, I'm all ears. Of course, this obviously needs more data to be robust, and as Gaelen mentioned, the main parameter that would be affected by regional differences would be the effective contact rate. This is just something to apply later on, once the reported cases start building up.",
+        "user": "U0100B5MHDG",
+        "ts": "1585404095.097700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0100B5MHDG",
+            "ts": "1585415161.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U=g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, regarding helping the MoH identifying hospitals at risk of going over capacity, I had a chat with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010T8D05UM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about an approach I was thinking of.\nSo far, the idea was to have the epidemic model work at smaller levels as well as the whole region. This is to help see how COVID-19 is spreading at smaller levels so we can get a good estimate on the influx of patients at specific health facilities. By looking at the capacity of each health facility, you can look at the forecast for that region and identify when the facility will be full or out of resources.\nHere's what I have so far:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Build a geofence using the geojson of the specific region/s you're interested in."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Filter to keep the cases identified within the geofence."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use the data from those cases to run the model, working with SIR for now(the simplest model I found, to test this with), can be changed."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Return the forecast."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use some portion of the forecasted infection rate(the percent of infected patients that end up hospitalized) as a measure of the number of incoming patients."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Keep a count of of all beds/the capacity of the facilities in that region, and using the forecast, keep on subtracting until the capacity reaches zero(and adding back when patients are released)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nI wrote up a scrappy python script for most of this, but if anyone wants to help in tying it up together or has additional comments, I'm all ears. Of course, this obviously needs more data to be robust, and as Gaelen mentioned, the main parameter that would be affected by regional differences would be the effective contact rate. This is just something to apply later on, once the reported cases start building up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585404095.097700",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1585408189.106500",
+        "reply_users": [
+            "U01078QCG2C",
+            "U0100B5MHDG"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ad934bd6-532c-4e5d-84cd-61201f67a11a",
+        "type": "message",
+        "text": "If you click on the facilities tab on the top of this project I started:\n<https://ethiopiacovidtracker-testingdashboard.com/>\n\nI\u2019m plotting a few sample hospitals/facilities in respective administrative zones using this google sheets table:\n<https://docs.google.com/spreadsheets/d/1Baiu0pMGf00zb1GDqlu9cYjWjSxGb7Ovctii6JkwlDA/edit?usp=sharing>\n\nWhen you hover over a region it shows the current facilities and resources available (beds, testing kits, etc). At the moment this is all just fake/test data. Could you use a source document like a spreadsheet to update the input metrics and maybe we can use your python script to update the geojson fence/overlay to show red/urgent resources are needed in a specific region?",
+        "user": "U01078QCG2C",
+        "ts": "1585406254.098000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1585406859.000000"
+        },
+        "attachments": [
+            {
+                "title": "React App",
+                "title_link": "https://ethiopiacovidtracker-testingdashboard.com/",
+                "text": "Web site created using create-react-app",
+                "fallback": "React App",
+                "from_url": "https://ethiopiacovidtracker-testingdashboard.com/",
+                "service_icon": "https://ethiopiacovidtracker-testingdashboard.com/logo192.png",
+                "service_name": "ethiopiacovidtracker-testingdashboard.com",
+                "id": 1,
+                "original_url": "https://ethiopiacovidtracker-testingdashboard.com/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+IBs9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you click on the facilities tab on the top of this project I started:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopiacovidtracker-testingdashboard.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI\u2019m plotting a few sample hospitals/facilities in respective administrative zones using this google sheets table:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1Baiu0pMGf00zb1GDqlu9cYjWjSxGb7Ovctii6JkwlDA/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWhen you hover over a region it shows the current facilities and resources available (beds, testing kits, etc). At the moment this is all just fake/test data. Could you use a source document like a spreadsheet to update the input metrics and maybe we can use your python script to update the geojson fence/overlay to show red/urgent resources are needed in a specific region?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585404095.097700",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "E752C5C4-1635-4642-82E5-BBCB10F59A3A",
+        "type": "message",
+        "text": "If I can get the geojson of the administrative zones you indicated on the site, I can use those as the geofences and run the model from data in those regions. But keep in mind this is for forecasting. You can do something like having a gradient indicate how close a region is to becoming over capacity(like green to red maybe), by looking at how far away the forecasted date at which health facilities in the selected region will fill up. And then have the script send you back the estimated date/geojson fence with the color gradient. I think that\u2019s definitely doable. ",
+        "user": "U0100B5MHDG",
+        "ts": "1585407257.105600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dJ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If I can get the geojson of the administrative zones you indicated on the site, I can use those as the geofences and run the model from data in those regions. But keep in mind this is for forecasting. You can do something like having a gradient indicate how close a region is to becoming over capacity(like green to red maybe), by looking at how far away the forecasted date at which health facilities in the selected region will fill up. And then have the script send you back the estimated date/geojson fence with the color gradient. I think that\u2019s definitely doable. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585404095.097700",
+        "parent_user_id": "U0100B5MHDG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5976a431-743d-48ed-8c95-8918b1d3482e",
+        "type": "message",
+        "text": "Cool, you can find the repo for the project here: <https://github.com/helomberhane/covid-case-tracker>",
+        "user": "U01078QCG2C",
+        "ts": "1585408080.105800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "helomberhane/covid-case-tracker",
+                "title": "helomberhane/covid-case-tracker",
+                "footer": "<https://github.com/helomberhane/covid-case-tracker|helomberhane/covid-case-tracker>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1584828598,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "5 days ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/helomberhane/covid-case-tracker",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPb5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool, you can find the repo for the project here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/helomberhane/covid-case-tracker"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585404095.097700",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "5e452da4-9e16-464a-b26c-89598a26055c",
+        "type": "message",
+        "text": "The geojson I used is under `src/data/ethiopia_administrative_zones_full.json`",
+        "user": "U01078QCG2C",
+        "ts": "1585408107.106100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1585408116.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Wyu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The geojson I used is under "
+                            },
+                            {
+                                "type": "text",
+                                "text": "src/data/ethiopia_administrative_zones_full.json",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585404095.097700",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "26e2cf3f-57ac-4c1a-ac28-b1c0e1bc88d8",
+        "type": "message",
+        "text": "Health facility data is in there also but I\u2019m using a subset of the data made from a spreadsheet here for the website:\n<https://docs.google.com/spreadsheets/d/1Baiu0pMGf00zb1GDqlu9cYjWjSxGb7Ovctii6JkwlDA/edit?usp=sharing>",
+        "user": "U01078QCG2C",
+        "ts": "1585408189.106500",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1585408206.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Up1q/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Health facility data is in there also but I\u2019m using a subset of the data made from a spreadsheet here for the website:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1Baiu0pMGf00zb1GDqlu9cYjWjSxGb7Ovctii6JkwlDA/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585404095.097700",
+        "parent_user_id": "U0100B5MHDG",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0100B5MHDG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

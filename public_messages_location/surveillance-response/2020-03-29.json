@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "00c210d7-ccf7-4e5c-a1b7-f685a702fc72",
+        "type": "message",
+        "text": "<https://healthsites.io/> has some information about the health facilities in the country. Most of the data is geonode based but could be ported to some other formats with a bit of scripting.",
+        "user": "U0106H0H5AQ",
+        "ts": "1585512051.111000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "healthsites.io",
+                "title_link": "https://healthsites.io/",
+                "text": "Building an open data commons of health facility data with OpenStreetMap",
+                "fallback": "healthsites.io",
+                "from_url": "https://healthsites.io/",
+                "service_icon": "https://healthsites.io/static/img/favicon.ico",
+                "service_name": "healthsites.io",
+                "id": 1,
+                "original_url": "https://healthsites.io/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JsPv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://healthsites.io/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has some information about the health facilities in the country. Most of the data is geonode based but could be ported to some other formats with a bit of scripting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010L1RJMUN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

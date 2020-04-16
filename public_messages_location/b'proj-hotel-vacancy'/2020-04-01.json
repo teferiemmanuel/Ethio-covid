@@ -1,0 +1,883 @@
+[
+    {
+        "client_msg_id": "55f02798-9339-450e-ba1c-39bd93e4212c",
+        "type": "message",
+        "text": "Hello folks, Please check hotel update telegram bot test, @AmanuelTest_bot ,directly enter rooms  available or select command. system check validation and update you<@UV8B0679P> <@U0107898C9M> <@U010X5LSV53>",
+        "user": "U010MHWSRPH",
+        "ts": "1585714062.102100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010MHWSRPH",
+            "ts": "1585722916.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello folks, Please check hotel update telegram bot test, @AmanuelTest_bot ,directly enter rooms  available or select command. system check validation and update you"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BA78BB54-B4E5-4B88-A680-A54F7D2F3B90",
+        "type": "message",
+        "text": "<@U010MHWSRPH> its not working ",
+        "user": "U0107898C9M",
+        "ts": "1585751804.102700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107898C9M",
+            "ts": "1585752013.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vyb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010MHWSRPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " its not working "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47eaeba1-740a-4377-8f00-d73de57f98c3",
+        "type": "message",
+        "text": "<@U0107898C9M>, I'm receiving user update,  which is not working for you",
+        "user": "U010MHWSRPH",
+        "ts": "1585757674.104400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010MHWSRPH",
+            "ts": "1585757763.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ALLBc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107898C9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I'm receiving user update,  which is not working for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5e0d732-7764-4c8d-a1fb-5c916fe1b2b6",
+        "type": "message",
+        "text": "<@U010X5LSV53>, I put valid input range from 1 to 200 , i received your inputs",
+        "user": "U010MHWSRPH",
+        "ts": "1585757855.106800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VaAQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I put valid input range from 1 to 200 , i received your inputs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a60bcee-db44-4fa6-a2f4-d9203d24aa47",
+        "type": "message",
+        "text": "I really dont get what your're trying to accomplish here.\nFor beginner, who is posting the numbers?\nHow does the Telegram account gets linked to the Quarantine Center?",
+        "user": "U010X5LSV53",
+        "ts": "1585758018.108200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010X5LSV53",
+            "ts": "1585758028.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bur",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I really dont get what your're trying to accomplish here.\nFor beginner, who is posting the numbers?\nHow does the Telegram account gets linked to the Quarantine Center?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d70fdec1-5fd4-47ee-acb1-417ae480afd7",
+        "type": "message",
+        "text": "<@U010X5LSV53>, the number will be posted from hotels side, <@UV8B0679P> am I right in this?",
+        "user": "U010MHWSRPH",
+        "ts": "1585760680.111100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ook",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", the number will be posted from hotels side, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " am I right in this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585760680.111100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585761030.112200",
+        "reply_users": [
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7a87cef0-16bb-4c0a-ba2b-c8559eea4f79",
+        "type": "message",
+        "text": "Hello all",
+        "user": "U010UM8QBQA",
+        "ts": "1585760882.111400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lAny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6a8aefe-928e-4d60-a936-30aa5a2000ed",
+        "type": "message",
+        "text": "I stumbled upon this group",
+        "user": "U010UM8QBQA",
+        "ts": "1585760914.111700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "62s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I stumbled upon this group"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf817d8f-9fd8-454d-900d-c5ea8ac1486a",
+        "type": "message",
+        "text": "Perhaps I can help?",
+        "user": "U010UM8QBQA",
+        "ts": "1585760924.111900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xmGG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perhaps I can help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecb53375-0fac-4262-aaa8-2342a16fa2a0",
+        "type": "message",
+        "text": "Yes",
+        "user": "UV8B0679P",
+        "ts": "1585761030.112200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V2w6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585760680.111100",
+        "parent_user_id": "U010MHWSRPH"
+    },
+    {
+        "client_msg_id": "ca49ddff-4f36-471e-a5ef-451574418c7e",
+        "type": "message",
+        "text": "I\u2019ve been working with a small boutique hotel in Bole, Addis Ababa (85 rooms)-- I conveniently also live right next door to them. I\u2019m sure they would be happy to support you in any telegram bot testing or \u201cposting from the hotels side\u201d.\n\nOne priority for this hotel is protecting its payroll (it employs 100+) and is struggling to keep them occupied as there is a very noticable decline in tourism. Other priorities include discounted meals/ delivery for those unable to leave their homes for grocery shopping or can\u2019t cook for themselves (we\u2019ve been using Zmall/ but Deliver Addis is just as good).\n\n<@U010MHWSRPH> and others let\u2019s chat when you have the time\u2026",
+        "user": "U010UM8QBQA",
+        "ts": "1585763492.125000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010UM8QBQA",
+            "ts": "1585767283.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yf8HH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019ve been working with a small boutique hotel in Bole, Addis Ababa (85 rooms)-- I conveniently also live right next door to them. I\u2019m sure they would be happy to support you in any telegram bot testing or \u201cposting from the hotels side\u201d.\n\nOne priority for this hotel is protecting its payroll (it employs 100+) and is struggling to keep them occupied as there is a very noticable decline in tourism. Other priorities include discounted meals/ delivery for those unable to leave their homes for grocery shopping or can\u2019t cook for themselves (we\u2019ve been using Zmall/ but Deliver Addis is just as good).\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010MHWSRPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and others let\u2019s chat when you have the time\u2026"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28271d76-a141-4590-9188-80d621d30373",
+        "type": "message",
+        "text": "Hi <@U010X5LSV53> I have a list of 40 some odd hotels in Addis Ababa, along with contact, and about 15 more fields of data. More than happy to share info as needed and can easily collect more if we know what we\u2019re looking for\u2026",
+        "user": "U010UM8QBQA",
+        "ts": "1585764077.125100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jofl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010X5LSV53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have a list of 40 some odd hotels in Addis Ababa, along with contact, and about 15 more fields of data. More than happy to share info as needed and can easily collect more if we know what we\u2019re looking for\u2026"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585482104.044100",
+        "parent_user_id": "U010X5LSV53"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011A7E153R",
+                "created": 1585764531,
+                "timestamp": 1585764531,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010UM8QBQA",
+                "editable": false,
+                "size": 800915,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011A7E153R/image_from_ios.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011A7E153R/download/image_from_ios.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011A7E153R-ff4dccd495/image_from_ios_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011A7E153R-ff4dccd495/image_from_ios_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011A7E153R-ff4dccd495/image_from_ios_360.png",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011A7E153R-ff4dccd495/image_from_ios_480.png",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011A7E153R-ff4dccd495/image_from_ios_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011A7E153R-ff4dccd495/image_from_ios_720.png",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011A7E153R-ff4dccd495/image_from_ios_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011A7E153R-ff4dccd495/image_from_ios_960.png",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011A7E153R-ff4dccd495/image_from_ios_1024.png",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 2208,
+                "thumb_tiny": "AwAwABu0LdO5J/GjyEPTNSUfnVXZNkR/Z48chhTfs69/51P9aMUuZhZdhwz74o/4CaQHnOf0pd3v+lIoCeOhFNyfWlJz3/Sm0xDs/Sjd9KAPal/4CKQxCc8cU2nn6Cm4NAj/2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010UM8QBQA/F011A7E153R/image_from_ios.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011A7E153R-5728aac2fc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A=q28",
+                "elements": []
+            }
+        ],
+        "user": "U010UM8QBQA",
+        "display_as_bot": false,
+        "ts": "1585764549.125600",
+        "client_msg_id": "7A3FC12D-E406-4D79-B862-3209431B0008"
+    },
+    {
+        "client_msg_id": "A5F360F1-CB1A-47B8-AE68-17EF26D16186",
+        "type": "message",
+        "text": "This is pretty cool\u2014 do you want me to share it with the Hotel Association of Owners? There\u2019s about 40 I know of in Addis Ababa... for other cities we can ask on Social Media...",
+        "user": "U010UM8QBQA",
+        "ts": "1585764595.127100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LoqQM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is pretty cool\u2014 do you want me to share it with the Hotel Association of Owners? There\u2019s about 40 I know of in Addis Ababa... for other cities we can ask on Social Media..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585764595.127100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1585769165.130800",
+        "reply_users": [
+            "UV8B0679P",
+            "U010UM8QBQA"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ada36f4b-9b39-40a9-9e7c-90d40d8e14a9",
+        "type": "message",
+        "text": "<@U010MHWSRPH>",
+        "user": "U010UM8QBQA",
+        "ts": "1585764694.127300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YoE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010MHWSRPH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "142b8aa7-2384-44c5-a62a-9a463645ed7b",
+        "type": "message",
+        "text": "<@U010UM8QBQA> I\u2019d coordinate this a little more",
+        "user": "UV8B0679P",
+        "ts": "1585766267.128000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "psLg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010UM8QBQA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I\u2019d coordinate this a little more"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585764595.127100",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "client_msg_id": "23e6cb4b-62f5-4df4-a252-228684b4840c",
+        "type": "message",
+        "text": "Before we share it",
+        "user": "UV8B0679P",
+        "ts": "1585766271.128200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3+o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Before we share it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585764595.127100",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "client_msg_id": "4b4122eb-ba5a-46b7-9fc4-4eb81a9d4add",
+        "type": "message",
+        "text": "Hello all, Is there any way that I can help you with?",
+        "user": "U01150H1NF8",
+        "ts": "1585769085.130300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RiU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all, Is there any way that I can help you with?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6638AF37-5E03-4FE8-8F6A-B64A231E7820",
+        "type": "message",
+        "text": "Okay ",
+        "user": "U010UM8QBQA",
+        "ts": "1585769165.130800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mdRxS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585764595.127100",
+        "parent_user_id": "U010UM8QBQA"
+    },
+    {
+        "client_msg_id": "c6f0a9da-408f-47a5-8969-af76e97c84bd",
+        "type": "message",
+        "text": "<@U01150H1NF8> yes, there is on going project using nodejs",
+        "user": "U010MHWSRPH",
+        "ts": "1585770235.132100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4e6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01150H1NF8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes, there is on going project using nodejs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8289797-bbc4-470c-a597-dc617391de84",
+        "type": "message",
+        "text": "<https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot>",
+        "user": "U010MHWSRPH",
+        "ts": "1585770240.132300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot",
+                "text": "Telegram Bot for Hotel vacancy update and Registration",
+                "title": "Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot",
+                "footer": "<https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot|Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585516336,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "3 days ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bIJHG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b62cbd1a-157d-476d-a79b-997d032859b5",
+        "type": "message",
+        "text": "I\u2019m available to chat, guys",
+        "user": "UV8B0679P",
+        "ts": "1585770390.132800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4YV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019m available to chat, guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa4c7a60-d68c-4f1a-882f-e0b74cccf5e4",
+        "type": "message",
+        "text": "Great",
+        "user": "U010UM8QBQA",
+        "ts": "1585770625.134400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C2d5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24e4fbea-90bd-4a75-8962-7de0991d5bc3",
+        "type": "message",
+        "text": "ok <@UV8B0679P> once we handled the update, we have one question, where and who to handle  registration of hotels and other places which  used as a quarantine center. so that we can send update",
+        "user": "U010MHWSRPH",
+        "ts": "1585770805.136000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LdvL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " once we handled the update, we have one question, where and who to handle  registration of hotels and other places which  used as a quarantine center. so that we can send update"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a5a6f39-db48-4baf-ae68-5e3b5c69e8e4",
+        "type": "message",
+        "text": "is there a zoom, <@U010MHWSRPH>?",
+        "user": "UV8B0679P",
+        "ts": "1585771453.136300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fiH/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is there a zoom, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010MHWSRPH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2adf850e-b8da-46a4-84c0-4c2f70e33546",
+        "type": "message",
+        "text": "<https://us04web.zoom.us/j/674065861?pwd=VW5jbzlFdlE1TjR0UXpkbnNCdFdPQT09>",
+        "user": "U010MHWSRPH",
+        "ts": "1585771503.136600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6IL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/674065861?pwd=VW5jbzlFdlE1TjR0UXpkbnNCdFdPQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26d56cd3-e340-4cb1-8802-e9e9ea6d7e04",
+        "type": "message",
+        "text": "we agreed to work on this points\n 1.\u00a0Register your hotel: Pre registration hotel link will be given which will expire\n2.\u00a0Update  hotel occupancy\n3.\u00a0View available hotel (new) :telegram bot user can ask and see available hotel rooms",
+        "user": "U010MHWSRPH",
+        "ts": "1585775979.137300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G7Ea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we agreed to work on this points\n 1.\u00a0Register your hotel: Pre registration hotel link will be given which will expire\n2.\u00a0Update  hotel occupancy\n3.\u00a0View available hotel (new) :telegram bot user can ask and see available hotel rooms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

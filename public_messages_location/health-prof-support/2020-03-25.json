@@ -1,0 +1,657 @@
+[
+    {
+        "client_msg_id": "1A5D8C4A-5433-4B4B-A769-8918F85B35CD",
+        "type": "message",
+        "text": "Happy to help in the future ",
+        "user": "U010SPW4HJB",
+        "ts": "1585136463.000500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QEGY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to help in the future "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "parent_user_id": "UVALWD1MG"
+    },
+    {
+        "client_msg_id": "FD950513-80FB-4C5A-813C-FEF2C208277E",
+        "type": "message",
+        "text": "Hi all, I\u2019m a Doctor of Public Health Candidate @ public health advisor in the US currently working on the COVID19 response here. Please let me know how I can be of any help! ",
+        "user": "U010SPW4HJB",
+        "ts": "1585136607.002200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LsAD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, I\u2019m a Doctor of Public Health Candidate @ public health advisor in the US currently working on the COVID19 response here. Please let me know how I can be of any help! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "248c211b-0d31-4792-b358-d7a5a1d29817",
+        "type": "message",
+        "text": "<@U010DUMV1T2> who do we know that can help here",
+        "user": "U01007VTP8A",
+        "ts": "1585144007.002700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DVUs8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010DUMV1T2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " who do we know that can help here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585144057.002900",
+        "user": "U010DUMV1T2",
+        "text": "<@U010DUMV1T2> has joined the channel",
+        "inviter": "U01007VTP8A"
+    },
+    {
+        "client_msg_id": "632ff9af-841c-4a33-a8ba-a8ee51f3ef98",
+        "type": "message",
+        "text": "Hello team, I need some assistance in developing a training manual. Anyone who has(or knows someone) with an environmental health background especially around the field infection control and prevention.",
+        "user": "U010H9HHT4M",
+        "ts": "1585145522.003100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z4L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello team, I need some assistance in developing a training manual. Anyone who has(or knows someone) with an environmental health background especially around the field infection control and prevention."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585145522.003100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585149030.003700",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "83292195-684C-4D7A-8130-505DDE917EBF",
+        "type": "message",
+        "text": "<!channel> :point_up:",
+        "user": "UVAL943JP",
+        "ts": "1585145777.003500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fn1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585145777.003500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585149050.003900",
+        "reply_users": [
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b7c81b1d-4dde-4aa0-a011-2762ca38645f",
+        "type": "message",
+        "text": "Hello <@U010H9HHT4M> -\n\nWe have gathered some information from WHO and similar sites but we also have several doctors in the channel and via email that can help with this effort. Do you have a list of topics that you specifically want or would the things in this document be enough for you need.\n\n<https://drive.google.com/open?id=143dzEW2SC7bv4_AMEpYZD5HoRoizwZFI>\n\nEither way, we can have people work with you to get this done as high priority. Please reach out to me directly.",
+        "user": "U0107JERE9L",
+        "ts": "1585149030.003700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vz9a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010H9HHT4M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -\n\nWe have gathered some information from WHO and similar sites but we also have several doctors in the channel and via email that can help with this effort. Do you have a list of topics that you specifically want or would the things in this document be enough for you need.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/open?id=143dzEW2SC7bv4_AMEpYZD5HoRoizwZFI"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEither way, we can have people work with you to get this done as high priority. Please reach out to me directly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585145522.003100",
+        "parent_user_id": "U010H9HHT4M"
+    },
+    {
+        "client_msg_id": "464e7141-bd36-4222-9330-1f93eb9e9281",
+        "type": "message",
+        "text": ":slightly_smiling_face: Thank you Tsega!",
+        "user": "U0107JERE9L",
+        "ts": "1585149050.003900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you Tsega!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585145777.003500",
+        "parent_user_id": "UVAL943JP"
+    },
+    {
+        "client_msg_id": "22d6a977-b53a-43bb-8ef7-a31c79a3315c",
+        "type": "message",
+        "text": "<@U0108RB6UU8> - Thank you for the explanation... I will work on getting a start on this..\n\n<@U01022PTXA7> <@UV8F3SRGA> <@U010JHVF19U> <@U010318AHEE> <@UVALWD1MG> <@UVB9ZSPCH> <@U010BJ06WTE> <@U010CLFURT8> <@UV8B0679P> <@U0107AYF16H> <@U0106M26108>\n\nMehlet is looking for _*research support as they prepare to launch a daily Health Segment on the Local News (ETV or FANA) for ~10mins.*_  The information has to be vetted by healthcare professionals.\n\nI think this could have very high impact for a large number of people. Since this is a merge of social awareness, content and medicine so I was thinking of using some of the topics identified for the social media awareness to start. But I think this needs more brainstorming for the daily content. Are there any recommendations?",
+        "user": "U0107JERE9L",
+        "ts": "1585154914.004100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fcPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0108RB6UU8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Thank you for the explanation... I will work on getting a start on this..\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01022PTXA7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8F3SRGA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JHVF19U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010318AHEE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVALWD1MG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BJ06WTE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010CLFURT8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMehlet is looking for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "research support as they prepare to launch a daily Health Segment on the Local News (ETV or FANA) for ~10mins. ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " The information has to be vetted by healthcare professionals.\n\nI think this could have very high impact for a large number of people. Since this is a merge of social awareness, content and medicine so I was thinking of using some of the topics identified for the social media awareness to start. But I think this needs more brainstorming for the daily content. Are there any recommendations?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584948871.050800",
+        "parent_user_id": "U0108RB6UU8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010JHVF19U",
+                    "UVB9ZSPCH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15daaf42-ddca-4155-858f-bb63050715f0",
+        "type": "message",
+        "text": "<@U0107JERE9L> someone from the <#C010AAKGXDL|awareness-research> group who knows how to write and read in Amharic would be ideal. <@U0107DX4VNU>, <@U0107EMK8UD> and <@U010FNN079C> have been really helpful to me",
+        "user": "UVALWD1MG",
+        "ts": "1585155097.004400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9WtVH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " someone from the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010AAKGXDL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " group who knows how to write and read in Amharic would be ideal. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010FNN079C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have been really helpful to me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584948871.050800",
+        "parent_user_id": "U0108RB6UU8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0106M26108",
+                    "U010JHVF19U"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1C75956B-2365-4520-A76C-07D6FD26BF25",
+        "type": "message",
+        "text": "<@U0107JERE9L> Great idea. Let me reach out to Yelena Weg they are really good at this. ",
+        "user": "U010JHVF19U",
+        "ts": "1585156768.006000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1Ea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Great idea. Let me reach out to Yelena Weg they are really good at this. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584948871.050800",
+        "parent_user_id": "U0108RB6UU8"
+    },
+    {
+        "client_msg_id": "05194c2e-5c31-4c38-9d10-525c32534431",
+        "type": "message",
+        "text": "<@U0107JERE9L> and <@U010JHVF19U> you ladies are awesome...thank you!",
+        "user": "U0108RB6UU8",
+        "ts": "1585158390.006300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HRmh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JHVF19U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you ladies are awesome...thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584948871.050800",
+        "parent_user_id": "U0108RB6UU8"
+    },
+    {
+        "client_msg_id": "B4399185-9E98-4399-94B8-1BF7B131591F",
+        "type": "message",
+        "text": "Hello team, sharing a resource that may be of use:\n\n<http://bit.ly/c19maskaction|http://bit.ly/c19maskaction>\n\nUS centered, but has resources on some actions to address mask shortages. May be useful in thinking about alternative PPE in ET. ",
+        "user": "U0107DX4VNU",
+        "ts": "1585170758.008300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "COVID-19 Mask Shortage Action Guide",
+                "title_link": "http://bit.ly/c19maskaction",
+                "text": "COVID-19 Mask Shortage Action Guide Version: 1.0 Last updated: Tues 3/24/2020 Jaspal S. Sandhu, PhD Professor of Practice, Maternal Child &amp; Adolescent Health School of Public Health, University of California, Berkeley <mailto:jaspal@berkeley.edu|jaspal@berkeley.edu>",
+                "fallback": "Google Docs: COVID-19 Mask Shortage Action Guide",
+                "image_url": "https://lh4.googleusercontent.com/e54SbeDKsw0xvEKYRLrAb09JP1n7rJLmQeZCIfZobbVbM2ozQInCt2rS_-mbCsAK19rWr2cLbQ",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "http://bit.ly/c19maskaction",
+                "image_bytes": 49175,
+                "service_icon": "https://ssl.gstatic.com/docs/presentations/images/favicon5.ico",
+                "id": 1,
+                "original_url": "http://bit.ly/c19maskaction"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UP7R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello team, sharing a resource that may be of use:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://bit.ly/c19maskaction",
+                                "text": "http://bit.ly/c19maskaction"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "US centered, but has resources on some actions to address mask shortages. May be useful in thinking about alternative PPE in ET. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U0107EMK8UD",
+                    "U0107JERE9L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Here is another resource that may be helpful in thinking about cloth  alternatives for N95",
+        "files": [
+            {
+                "id": "F010SH3C6HK",
+                "created": 1585171164,
+                "timestamp": 1585171164,
+                "name": "nicas_cloth_masks.docx",
+                "title": "nicas_cloth_masks.docx",
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U0107EMK8UD",
+                "editable": false,
+                "size": 31464,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010SH3C6HK/nicas_cloth_masks.docx",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010SH3C6HK/download/nicas_cloth_masks.docx",
+                "converted_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F010SH3C6HK-d1cc4e24d9/nicas_cloth_masks_converted.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F010SH3C6HK-d1cc4e24d9/nicas_cloth_masks_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107EMK8UD/F010SH3C6HK/nicas_cloth_masks.docx",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010SH3C6HK-0230daa9e3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/b9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is another resource that may be helpful in thinking about cloth  alternatives for N95"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107EMK8UD",
+        "display_as_bot": false,
+        "ts": "1585171167.009900",
+        "client_msg_id": "f3f9dce6-f9ca-48de-b88c-738a3af9a460"
+    }
+]

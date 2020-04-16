@@ -1,0 +1,696 @@
+[
+    {
+        "client_msg_id": "4d041399-6be6-4775-bfcf-e7551c04b662",
+        "type": "message",
+        "text": "<!channel>, hello familia! My friend is hosting a comedy show on Zoom, it\u2019s an awesome lineup of 5 diverse comics from across the US. Please join if you\u2019ve had a LOOOONG week &amp; want to have some laughs. *It starts RIGHT NOW!*\n\n*And every Friday &amp; Saturday at 7:30pm PST / 10:30pm EST.*\n\n<https://zoom.us/webinar/register/WN_gKHPnGJRRTSpkRImrV7dnA?fbclid=IwAR0UEwRko43LJIs8tHItdyM3E1Ar6pOuqaZRZgQjCIPy9sJ2eUtx6BrfXIo|Zoom Link> to see the show.\n\n<https://www.eventbrite.com/e/no-pants-comedy-comedians-from-the-tv-now-on-the-zoom-tickets-101046388468|Eventbrite Link> if you want to see who\u2019s on the lineup beforehand!",
+        "user": "U0106M26108",
+        "ts": "1586572710.250100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0106M26108",
+            "ts": "1586573789.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "no pants comedy - Comedians from the TV now on the Zoom!",
+                "title_link": "https://www.eventbrite.com/e/no-pants-comedy-comedians-from-the-tv-now-on-the-zoom-tickets-101046388468",
+                "text": "virtual comedy show experience where YOUR laughter is part of the show!",
+                "fallback": "Eventbrite: no pants comedy - Comedians from the TV now on the Zoom!",
+                "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F98184256%2F314739566935%2F1%2Foriginal.20200407-141213?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=0184de0d10578f083669b1a0e8e92bb4",
+                "from_url": "https://www.eventbrite.com/e/no-pants-comedy-comedians-from-the-tv-now-on-the-zoom-tickets-101046388468",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 38188,
+                "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/eba891/django/images/touch_icons/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https://www.eventbrite.com/e/no-pants-comedy-comedians-from-the-tv-now-on-the-zoom-tickets-101046388468"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dgx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", hello familia! My friend is hosting a comedy show on Zoom, it\u2019s an awesome lineup of 5 diverse comics from across the US. Please join if you\u2019ve had a LOOOONG week & want to have some laughs."
+                            },
+                            {
+                                "type": "text",
+                                "text": " It starts RIGHT NOW!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "And every Friday & Saturday at 7:30pm PST / 10:30pm EST.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://zoom.us/webinar/register/WN_gKHPnGJRRTSpkRImrV7dnA?fbclid=IwAR0UEwRko43LJIs8tHItdyM3E1Ar6pOuqaZRZgQjCIPy9sJ2eUtx6BrfXIo",
+                                "text": "Zoom Link"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to see the show.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.eventbrite.com/e/no-pants-comedy-comedians-from-the-tv-now-on-the-zoom-tickets-101046388468",
+                                "text": "Eventbrite Link"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you want to see who\u2019s on the lineup beforehand!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010GUEQVPF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "UVALWD1MG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79ec676b-1a43-431f-a6e0-7b1c28607faf",
+        "type": "message",
+        "text": "What\u2019s the testing turnaround time on testing here in Ethiopia currently? How much longer would it take to get a conclusive result this way?",
+        "user": "U010EJ90XSM",
+        "ts": "1586597163.251200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxOa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What\u2019s the testing turnaround time on testing here in Ethiopia currently? How much longer would it take to get a conclusive result this way?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586440448.240300",
+        "parent_user_id": "U010U8HF7PY"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011YJA3ND7",
+                "created": 1586613489,
+                "timestamp": 1586613489,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010UM8QBQA",
+                "editable": false,
+                "size": 28293,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011YJA3ND7/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011YJA3ND7/download/image_from_ios.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJA3ND7-c1583100bf/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJA3ND7-c1583100bf/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJA3ND7-c1583100bf/image_from_ios_360.jpg",
+                "thumb_360_w": 251,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJA3ND7-c1583100bf/image_from_ios_480.jpg",
+                "thumb_480_w": 335,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJA3ND7-c1583100bf/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJA3ND7-c1583100bf/image_from_ios_720.jpg",
+                "thumb_720_w": 503,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJA3ND7-c1583100bf/image_from_ios_800.jpg",
+                "thumb_800_w": 558,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 670,
+                "original_h": 960,
+                "thumb_tiny": "AwAwACHTprOo706jAPUUAQwswXEjhjnrU1JgegpaACik3D1o3D1oAMZHNIUBp1FADdgpQAOlLRQBDRT9nvRs96AH0UUUAIT70AYOc0EZNLQAUUUUAf/Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010UM8QBQA/F011YJA3ND7/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011YJA3ND7-f6b793f9c7",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F011MK67AAW",
+                "created": 1586613496,
+                "timestamp": 1586613496,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010UM8QBQA",
+                "editable": false,
+                "size": 65242,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011MK67AAW/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011MK67AAW/download/image_from_ios.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK67AAW-159dd5fee2/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK67AAW-159dd5fee2/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK67AAW-159dd5fee2/image_from_ios_360.jpg",
+                "thumb_360_w": 249,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK67AAW-159dd5fee2/image_from_ios_480.jpg",
+                "thumb_480_w": 332,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK67AAW-159dd5fee2/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK67AAW-159dd5fee2/image_from_ios_720.jpg",
+                "thumb_720_w": 497,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK67AAW-159dd5fee2/image_from_ios_800.jpg",
+                "thumb_800_w": 553,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 663,
+                "original_h": 960,
+                "thumb_tiny": "AwAwACHSJAFGRQ3Sm5+lADgfXFLkU0N9BSg5PWgBaKKKAEb7ppmTT2+6aZxQAuT6mlU5PU03j3py4zQA6iiigBCMik2/5zTqKAG7f85pQKNvNLQAUUUUAf/Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010UM8QBQA/F011MK67AAW/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011MK67AAW-b96176a7fa",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F011K7Z0HF0",
+                "created": 1586613502,
+                "timestamp": 1586613502,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010UM8QBQA",
+                "editable": false,
+                "size": 70281,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011K7Z0HF0/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011K7Z0HF0/download/image_from_ios.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011K7Z0HF0-534c4091e9/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011K7Z0HF0-534c4091e9/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011K7Z0HF0-534c4091e9/image_from_ios_360.jpg",
+                "thumb_360_w": 250,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011K7Z0HF0-534c4091e9/image_from_ios_480.jpg",
+                "thumb_480_w": 333,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011K7Z0HF0-534c4091e9/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011K7Z0HF0-534c4091e9/image_from_ios_720.jpg",
+                "thumb_720_w": 500,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011K7Z0HF0-534c4091e9/image_from_ios_800.jpg",
+                "thumb_800_w": 555,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 666,
+                "original_h": 960,
+                "thumb_tiny": "AwAwACHTpM+xoP3aZx6UAPUkjkYpaj49KcuM9MUAOxRiiigBP4aZ+NPP3aZ+FAC4HrSqOetGR7Uo69KAFooooAQ/dpmT61J2owPSgBm4+lOByaCD2paACiiigD//2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010UM8QBQA/F011K7Z0HF0/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011K7Z0HF0-1e4bce1f97",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01294UGGJU",
+                "created": 1586613514,
+                "timestamp": 1586613514,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010UM8QBQA",
+                "editable": false,
+                "size": 43807,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F01294UGGJU/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F01294UGGJU/download/image_from_ios.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UGGJU-69aa0d31c2/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UGGJU-69aa0d31c2/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UGGJU-69aa0d31c2/image_from_ios_360.jpg",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UGGJU-69aa0d31c2/image_from_ios_480.jpg",
+                "thumb_480_w": 338,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UGGJU-69aa0d31c2/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UGGJU-69aa0d31c2/image_from_ios_720.jpg",
+                "thumb_720_w": 507,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UGGJU-69aa0d31c2/image_from_ios_800.jpg",
+                "thumb_800_w": 563,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 676,
+                "original_h": 960,
+                "thumb_tiny": "AwAwACHTPApu6lPSmCgB2c//AKqUGk4P+RSigBaKTI9aMj1oAU9KZtNPooAZtNOAxS0UAR0U7b70bfegB1FFFABRSEUtABRRRQB//9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010UM8QBQA/F01294UGGJU/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F01294UGGJU-906d675ed1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p5N",
+                "elements": []
+            }
+        ],
+        "user": "U010UM8QBQA",
+        "ts": "1586613520.255300",
+        "client_msg_id": "D443166E-BAF4-4E48-8FE8-27BF8CB49A12",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010YSN9GSK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011YJAP457",
+                "created": 1586613533,
+                "timestamp": 1586613533,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010UM8QBQA",
+                "editable": false,
+                "size": 63288,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011YJAP457/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011YJAP457/download/image_from_ios.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJAP457-d96eafd4a1/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJAP457-d96eafd4a1/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJAP457-d96eafd4a1/image_from_ios_360.jpg",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJAP457-d96eafd4a1/image_from_ios_480.jpg",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJAP457-d96eafd4a1/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJAP457-d96eafd4a1/image_from_ios_720.jpg",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011YJAP457-d96eafd4a1/image_from_ios_800.jpg",
+                "thumb_800_w": 565,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 678,
+                "original_h": 960,
+                "thumb_tiny": "AwAwACHS4AoBU0H7tM/CgB4PqAKWmD/dpR1+7QA7FGKTcPWjcPWgAbpTcH0pX6Ug+h/CgBcH0P50Ac96P++qUDnvQBFRT9nvRs96AHEZFJtx3NOooAYCe5x+FOH1pccUUAFFFFAH/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010UM8QBQA/F011YJAP457/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011YJAP457-a3238f4543",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F011NERDT4K",
+                "created": 1586613537,
+                "timestamp": 1586613537,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010UM8QBQA",
+                "editable": false,
+                "size": 54649,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011NERDT4K/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011NERDT4K/download/image_from_ios.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011NERDT4K-a0c76ab819/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011NERDT4K-a0c76ab819/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011NERDT4K-a0c76ab819/image_from_ios_360.jpg",
+                "thumb_360_w": 246,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011NERDT4K-a0c76ab819/image_from_ios_480.jpg",
+                "thumb_480_w": 328,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011NERDT4K-a0c76ab819/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011NERDT4K-a0c76ab819/image_from_ios_720.jpg",
+                "thumb_720_w": 491,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011NERDT4K-a0c76ab819/image_from_ios_800.jpg",
+                "thumb_800_w": 546,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 655,
+                "original_h": 960,
+                "thumb_tiny": "AwAwACDSJwKTcKG+6KTP1oAUN7UoOe1N596cp9jQAjfdFJn3/WnEZFJtPtQAfj+tKP8APNGPp+VAGKAFooooAKKQj3paAP/Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010UM8QBQA/F011NERDT4K/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011NERDT4K-c117b3ba4a",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01294UTPEC",
+                "created": 1586613542,
+                "timestamp": 1586613542,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010UM8QBQA",
+                "editable": false,
+                "size": 70297,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F01294UTPEC/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F01294UTPEC/download/image_from_ios.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UTPEC-f79dcabcfd/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UTPEC-f79dcabcfd/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UTPEC-f79dcabcfd/image_from_ios_360.jpg",
+                "thumb_360_w": 245,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UTPEC-f79dcabcfd/image_from_ios_480.jpg",
+                "thumb_480_w": 327,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UTPEC-f79dcabcfd/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UTPEC-f79dcabcfd/image_from_ios_720.jpg",
+                "thumb_720_w": 490,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F01294UTPEC-f79dcabcfd/image_from_ios_800.jpg",
+                "thumb_800_w": 544,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 653,
+                "original_h": 960,
+                "thumb_tiny": "AwAwACDSPA4FGf8AZNB6Umf9o/lQAv4Uv4UwcD7x/KnA++aAA9DTKeehplAC/lSr+FNpydaAFP3TTKkooAZ+ApVpcHPtS0Af/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010UM8QBQA/F01294UTPEC/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F01294UTPEC-f3ed01e7bc",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F011MK6QX50",
+                "created": 1586613546,
+                "timestamp": 1586613546,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010UM8QBQA",
+                "editable": false,
+                "size": 66308,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011MK6QX50/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011MK6QX50/download/image_from_ios.jpg",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK6QX50-166502cfe7/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK6QX50-166502cfe7/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK6QX50-166502cfe7/image_from_ios_360.jpg",
+                "thumb_360_w": 251,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK6QX50-166502cfe7/image_from_ios_480.jpg",
+                "thumb_480_w": 335,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK6QX50-166502cfe7/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK6QX50-166502cfe7/image_from_ios_720.jpg",
+                "thumb_720_w": 502,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011MK6QX50-166502cfe7/image_from_ios_800.jpg",
+                "thumb_800_w": 558,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 669,
+                "original_h": 960,
+                "thumb_tiny": "AwAwACHTPApm72p56Go6AHZ9hSjnsKbx7flSr1/+tQA7A9KMD0oooAQ9DTKe3Q0ygAwKcv1po+uKevWgBaKKKACkwPSlooATA9KWk280tABRRRQB/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010UM8QBQA/F011MK6QX50/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011MK6QX50-6978c62fb2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+J0",
+                "elements": []
+            }
+        ],
+        "user": "U010UM8QBQA",
+        "ts": "1586613551.256200",
+        "client_msg_id": "AAF45AB8-90C9-4391-9376-E17591E51093",
+        "thread_ts": "1586613551.256200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586625198.263000",
+        "reply_users": [
+            "U010986778X"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D3ABAA47-7364-49AA-8598-3FF453616CDC",
+        "type": "message",
+        "text": "Should this help any of the teams\u2014 find attached received today from ",
+        "user": "U010UM8QBQA",
+        "ts": "1586613589.258100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/H82J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should this help any of the teams\u2014 find attached received today from "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D168B0CE-8EA6-46A0-A964-6CCDFBDCE43A",
+        "type": "message",
+        "text": "a business/ social media group ",
+        "user": "U010UM8QBQA",
+        "ts": "1586616567.259600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjybC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a business/ social media group "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586616567.259600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586685366.269100",
+        "reply_users": [
+            "UVAL943JP",
+            "U010UM8QBQA"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6A43C1DD-596F-48EF-B356-3EF9661B91C7",
+        "type": "message",
+        "text": "<@U010986778X> :point_up:",
+        "user": "UVAL943JP",
+        "ts": "1586624614.260800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ndP=5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010986778X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586616567.259600",
+        "parent_user_id": "U010UM8QBQA",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U010986778X"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BB03B89E-8F3D-4182-9A20-3AFEE048D8EA",
+        "type": "message",
+        "text": "<@U010UM8QBQA> we have a group working on ventilators. We need support from a regulatory standpoint. ",
+        "user": "U010986778X",
+        "ts": "1586625198.263000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sysux",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010UM8QBQA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we have a group working on ventilators. We need support from a regulatory standpoint. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586613551.256200",
+        "parent_user_id": "U010UM8QBQA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

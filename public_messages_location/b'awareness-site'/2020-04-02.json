@@ -1,0 +1,613 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585853277.000200",
+        "user": "U01085512G5",
+        "text": "<@U01085512G5> has joined the channel",
+        "inviter": "UV6JHDP0S"
+    },
+    {
+        "client_msg_id": "cffb4206-509f-47ba-99c3-e18f883b3b30",
+        "type": "message",
+        "text": "hey guys....Yosef here.",
+        "user": "U01085512G5",
+        "ts": "1585853356.000600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L8N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey guys....Yosef here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585853356.000600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585859778.002400",
+        "reply_users": [
+            "U0106M26108"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0b3656b9-b94a-4f9e-8ec0-e96b4ef44bb1",
+        "type": "message",
+        "text": "Welcome <@U01085512G5>!!!",
+        "user": "UV6JHDP0S",
+        "ts": "1585853970.001000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ygXyJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff843657-8c56-4e1d-a47a-95d8b19367b4",
+        "type": "message",
+        "text": "We\u2019re all still hashing out what things will look like <!here>, along with content but just wanted to share what the great <@U0115055LQP> has whipped up so far!!! :sunglasses:\n\n<https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/grid>",
+        "user": "U0106M26108",
+        "ts": "1585859762.002200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Covid-Eth",
+                "title_link": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/grid",
+                "text": "6 Screens, Last modified on Apr 02, 2020 20:06 GMT",
+                "fallback": "Covid-Eth",
+                "thumb_url": "https://public-v2links.adobecc.com/7f29a9fe-14b8-4eff-7528-878e1ec9a9da/component?params=component_id%3Ab92895c1-1fe6-4517-ac18-631bf920ac42&params=version%3A20&token=1585946163_da39a3ee_c358c88ec1a61820980a0abe7aeffe9954c7ec64&api_key=CometServer1",
+                "from_url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/grid",
+                "thumb_width": 960,
+                "thumb_height": 540,
+                "service_icon": "https://xd.adobe.com/static/images/xd_ios_webclip_192-b67df6d35882dc7f14c35c8a072b648cb164e4b6.png",
+                "service_name": "xd.adobe.com",
+                "id": 1,
+                "original_url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/grid"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qXrd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We\u2019re all still hashing out what things will look like "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", along with content but just wanted to share what the great "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has whipped up so far!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/grid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01085512G5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "321e67e4-5eba-4fdd-b48c-773275832f1b",
+        "type": "message",
+        "text": "WELCOME, YOSEF!!!!!!!!!!!!!! :raised_hands::skin-tone-4:",
+        "user": "U0106M26108",
+        "ts": "1585859778.002400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3dsEy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WELCOME, YOSEF!!!!!!!!!!!!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585853356.000600",
+        "parent_user_id": "U01085512G5"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585859826.002700",
+        "user": "U0106MECUD9",
+        "text": "<@U0106MECUD9> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "client_msg_id": "53ede134-507a-4ff5-9c21-a60b14f0dc9a",
+        "type": "message",
+        "text": "<@U0106MECUD9> has shared he\u2019s down to help on the dev side! :woman-cartwheeling::skin-tone-4:",
+        "user": "U0106M26108",
+        "ts": "1585859863.003600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iGka",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106MECUD9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has shared he\u2019s down to help on the dev side! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-cartwheeling",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10861e65-3d9f-4347-9f86-e8c8ec2cbc63",
+        "type": "message",
+        "text": "hello all",
+        "user": "U0106MECUD9",
+        "ts": "1585860044.003900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wSe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d35c2ff3-2d0b-439f-98f4-8d0ceec040e4",
+        "type": "message",
+        "text": "Hey <@U0106MECUD9>",
+        "user": "U01085512G5",
+        "ts": "1585860058.004200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5hND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106MECUD9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "deea4dce-1e33-4afe-8ad2-0d9d59251bba",
+        "type": "message",
+        "text": "When can we have a quick call to hash out details - tech stack, dev approach etc?",
+        "user": "U01085512G5",
+        "ts": "1585860121.005300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RsObT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When can we have a quick call to hash out details - tech stack, dev approach etc?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff3284c6-de2a-488a-b902-ccedbfc6a31e",
+        "type": "message",
+        "text": "I'm thinking a simple html/javascript site with Vue as framework - easier and quick with capabilities to build on top of in the future should there be a need",
+        "user": "U01085512G5",
+        "ts": "1585860219.006800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dmr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm thinking a simple html/javascript site with Vue as framework - easier and quick with capabilities to build on top of in the future should there be a need"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81cca694-53d6-475a-bd87-cbf55ab942fb",
+        "type": "message",
+        "text": "<@U0106MECUD9> Welcome bro!!! I am really excited for this effort yall",
+        "user": "UV6JHDP0S",
+        "ts": "1585860406.007400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106MECUD9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Welcome bro!!! I am really excited for this effort yall"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U0106MECUD9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585861842.007600",
+        "user": "U01075FCUE4",
+        "text": "<@U01075FCUE4> has joined the channel"
+    },
+    {
+        "client_msg_id": "c14545f2-1b92-41d4-9b77-b9745798e5cc",
+        "type": "message",
+        "text": "<!here>: Here is a site that can be a starting point for the awareness site using what <@U0115055LQP>\u2019s design: <https://github.com/oscarhealth/covid19-testing>",
+        "user": "UV8B0679P",
+        "ts": "1585864100.008700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "oscarhealth/covid19-testing",
+                "text": "COVID-19 Testing Site Finder with Risk Assessment",
+                "title": "oscarhealth/covid19-testing",
+                "footer": "<https://github.com/oscarhealth/covid19-testing|oscarhealth/covid19-testing>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1584990851,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "80",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/oscarhealth/covid19-testing",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bNa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Here is a site that can be a starting point for the awareness site using what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u2019s design: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/oscarhealth/covid19-testing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01085512G5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d12fd7b2-6cc1-4e32-90d8-dcd5041fdfc3",
+        "type": "message",
+        "text": "<@U0106M26108> when are we looking to have a call to iron out the details?",
+        "user": "U01085512G5",
+        "ts": "1585864576.010900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01085512G5",
+            "ts": "1585864582.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0106M26108"
+                            },
+                            {
+                                "type": "text",
+                                "text": " when are we looking to have a call to iron out the details?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d637250-35ab-40ee-8884-a2a9c45c6bd5",
+        "type": "message",
+        "text": "I'm planning to put something together tonight...like the shell VueJS project and possibly a few components.",
+        "user": "U01085512G5",
+        "ts": "1585865087.012400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xjP/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm planning to put something together tonight...like the shell VueJS project and possibly a few components."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1852d06-7884-43c6-b2dc-1f310d80d8c8",
+        "type": "message",
+        "text": "<@U0115055LQP> down for a quick call with <@U01085512G5> &amp; <@U0106MECUD9> right after your design call? Thinking in an hour?",
+        "user": "U0106M26108",
+        "ts": "1585865564.015800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mn3u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " down for a quick call with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01085512G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106MECUD9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " right after your design call? Thinking in an hour?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585865564.015800",
+        "reply_count": 22,
+        "reply_users_count": 5,
+        "latest_reply": "1585970053.040200",
+        "reply_users": [
+            "U0106M26108",
+            "U01085512G5",
+            "U0115055LQP",
+            "UV6JHDP0S",
+            "U0107AYF16H"
+        ],
+        "subscribed": false,
+        "pinned_to": [
+            "C0110VDA0HM"
+        ],
+        "pinned_info": {
+            "channel": "C0110VDA0HM",
+            "pinned_by": "U0106M26108",
+            "pinned_ts": 1585951608
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0115055LQP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586531032.000200",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586531038.000400",
+        "user": "U0107JERE9L",
+        "text": "<@U0107JERE9L> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1586531159.000500",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> set the channel purpose: [Lead by @ Yonatan Asrat of Tibeb Leather Works]",
+        "purpose": "[Lead by @ Yonatan Asrat of Tibeb Leather Works]"
+    }
+]

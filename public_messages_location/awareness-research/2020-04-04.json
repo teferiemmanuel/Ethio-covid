@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "eaa3985c-3ffd-4dfe-be24-57ca1a528107",
+        "type": "message",
+        "text": "<https://blog.datawrapper.de/coronaviruscharts/>",
+        "user": "UVALAR52P",
+        "ts": "1585966908.039800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Chartable",
+                "title": "17 (or so) responsible live visualizations about the coronavirus, for you to use",
+                "title_link": "https://blog.datawrapper.de/coronaviruscharts/",
+                "text": "Always up-to-date numbers about the COVID-19 cases that you can embed in your own articles.",
+                "fallback": "Chartable: 17 (or so) responsible live visualizations about the coronavirus, for you to use",
+                "image_url": "https://blog.datawrapper.de/img/200306-coronaviruscharts-f.png",
+                "ts": 1583506941,
+                "from_url": "https://blog.datawrapper.de/coronaviruscharts/",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 200893,
+                "service_icon": "https://blog.datawrapper.de/img/favicon/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https://blog.datawrapper.de/coronaviruscharts/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "icZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://blog.datawrapper.de/coronaviruscharts/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U010ARHF5BK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2fc3de3a-1118-486a-892a-94b819e1abd9",
+        "type": "message",
+        "text": "<https://thespinoff.co.nz/science/01-04-2020/covid-19-new-zealand-cases-mapped-and-charted-april-1/>",
+        "user": "UVALAR52P",
+        "ts": "1585967432.040100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "The Spinoff",
+                "title": "Covid-19: New Zealand cases mapped and charted, April 1",
+                "title_link": "https://thespinoff.co.nz/science/01-04-2020/covid-19-new-zealand-cases-mapped-and-charted-april-1/",
+                "text": "The third in our new series of charts, graphics and data visualisations by Chris McDowall, covering the Covid-19 epidemic within New Zealand. We\u2019ll publish the latest set each day on The Spinoff. This work is entirely funded by the generosity of The Spinoff Members Information about confirmed",
+                "fallback": "The Spinoff: Covid-19: New Zealand cases mapped and charted, April 1",
+                "image_url": "https://thespinoff.co.nz/wp-content/uploads/2020/03/bugz5.jpg",
+                "ts": 1585717483,
+                "from_url": "https://thespinoff.co.nz/science/01-04-2020/covid-19-new-zealand-cases-mapped-and-charted-april-1/",
+                "image_width": 417,
+                "image_height": 250,
+                "image_bytes": 116686,
+                "service_icon": "https://thespinoff.co.nz/favicon.png",
+                "id": 1,
+                "original_url": "https://thespinoff.co.nz/science/01-04-2020/covid-19-new-zealand-cases-mapped-and-charted-april-1/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NVvt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://thespinoff.co.nz/science/01-04-2020/covid-19-new-zealand-cases-mapped-and-charted-april-1/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U010ARHF5BK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "UVB9ZSPCH",
+        "ts": "1586014893.041400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[April 4th, 2020 8:36 AM] eshetu: Hello everyone,\u00a0\nIf any one of you need an aggregated data for covid-19 cases in Ethiopia, we have built a kind of proxy off of the API from the PMO and you can find them here:\n<https://www.sewasew.com/api/c_regions> \u2026 returns aggregated data for all regions in Ethiopia\n<https://www.sewasew.com/api/c_regions>/&lt;REG_CODE&gt; \u2026 returns aggregated data for specific region \u2026 you can get the code from the above end point as part of individual regions node.\n<https://www.sewasew.com/api/c_genders> \u2026 returns aggregated data by gender\n<https://www.sewasew.com/api/c_genders/>&lt;GEN_CODE&gt; \u2026 returns aggregated data for specific gender type\n\nYou can see these in action here : <https://www.sewasew.com/covid>\nWill be building more of these in the days to come and will make sure to share them here.\n\nCheers,",
+                "ts": "1586014608.274200",
+                "author_id": "U01077SBB5X",
+                "author_subname": "Eshetu",
+                "channel_id": "C0106LZBVCY",
+                "channel_name": "all-project-ideas",
+                "is_msg_unfurl": true,
+                "text": "Hello everyone,\u00a0\nIf any one of you need an aggregated data for covid-19 cases in Ethiopia, we have built a kind of proxy off of the API from the PMO and you can find them here:\n<https://www.sewasew.com/api/c_regions> \u2026 returns aggregated data for all regions in Ethiopia\n<https://www.sewasew.com/api/c_regions>/&lt;REG_CODE&gt; \u2026 returns aggregated data for specific region \u2026 you can get the code from the above end point as part of individual regions node.\n<https://www.sewasew.com/api/c_genders> \u2026 returns aggregated data by gender\n<https://www.sewasew.com/api/c_genders/>&lt;GEN_CODE&gt; \u2026 returns aggregated data for specific gender type\n\nYou can see these in action here : <https://www.sewasew.com/covid>\nWill be building more of these in the days to come and will make sure to share them here.\n\nCheers,",
+                "author_name": "Eshetu",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U01077SBB5X",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-24/1023035193472_710dea7c3ebe99056966_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0106LZBVCY/p1586014608274200",
+                "is_share": true,
+                "footer": "Posted in #all-project-ideas"
+            }
+        ]
+    }
+]

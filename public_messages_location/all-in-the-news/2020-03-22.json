@@ -1,0 +1,138 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584840379.000500",
+        "user": "U0108BWBKEG",
+        "text": "<@U0108BWBKEG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1584847802.000700",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> has renamed the channel from \"mediawatch\" to \"all-in-the-news\"",
+        "old_name": "mediawatch",
+        "name": "all-in-the-news"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1584847837.000800",
+        "user": "U0106M26108",
+        "text": "<@U0106M26108> set the channel purpose: Share COVID-19 related articles, videos, podcasts here, but please do so with consideration. Include a tweet-length description of why we should read it.",
+        "purpose": "Share COVID-19 related articles, videos, podcasts here, but please do so with consideration. Include a tweet-length description of why we should read it."
+    },
+    {
+        "client_msg_id": "7f8d7ae8-a0da-419c-a510-dde7332a2044",
+        "type": "message",
+        "text": "<https://t.me/shegahq/383|https://t.me/shegahq/383>",
+        "user": "UV7D89JGJ",
+        "ts": "1584859769.005800",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Telegram",
+                "title": "Shega",
+                "title_link": "https://t.me/shegahq/383",
+                "text": "Kudu Venture Is Looking for Ethiopian Startups and Entrepreneurs With Innovating Ideas to Combat COVID-19 : Check out the details here <http://bit.ly/2U8TVVh|bit.ly/2U8TVVh> @shegahq",
+                "fallback": "Telegram: Shega",
+                "thumb_url": "https://cdn4.telesco.pe/file/ns8MNqRRH78NLeav3qY7jURVQp-7elJc8wbD--8WQDxhB_K7TQ0Is9WXmaW8oay4P-O-rHTiIFxNECaWch9l_u9MIACpsVTSXNTtK8rpfFjOjgfLFy_SuBCaq3EuKos-cT8qbsDA4wrANi-_RjQOWaj-3IJVcsR2tsZUjBu3noIXoiyw3tlQgop9TO8aJ7Xfy7NwMn2uYjtWQbrOLdcF1dOrx2WtZj2WymWuotQmgN0f3zz5B585soYGe0JDSF1AgAJDcl5_v6l4xZD-zIhqR63OfcdSjMextrCsTLb5crpl4Wkk55GBaZbjYkXZDVW1qXdeQn7QWqGtZ4etgFKwDQ.jpg",
+                "from_url": "https://t.me/shegahq/383",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "service_icon": "http://telegram.org/favicon.ico?3",
+                "id": 1,
+                "original_url": "https://t.me/shegahq/383"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r7BKJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://t.me/shegahq/383",
+                                "text": "https://t.me/shegahq/383"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6adcff6a-9834-46a7-be1e-1fe7e4858907",
+        "type": "message",
+        "text": "Also check this out guys: It's happening this Monday.\n\n<https://boma.global/covid-19-summit/>",
+        "user": "U0107943J73",
+        "ts": "1584863962.006700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Boma Global",
+                "title": "Boma Global | COVID-19 Summit",
+                "title_link": "https://boma.global/covid-19-summit/",
+                "fallback": "Boma Global: Boma Global | COVID-19 Summit",
+                "image_url": "https://s3.amazonaws.com/media.boma.global/uploads/images/025d9a96dd3aa1534.max-600x600.format-jpeg.jpegquality-80.jpg",
+                "from_url": "https://boma.global/covid-19-summit/",
+                "image_width": 455,
+                "image_height": 250,
+                "image_bytes": 31918,
+                "service_icon": "https://boma.global/static/images/favicon.c8148c6fffef.ico",
+                "id": 1,
+                "original_url": "https://boma.global/covid-19-summit/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7SoH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also check this out guys: It's happening this Monday.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://boma.global/covid-19-summit/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02922cca-ed11-464e-96a2-512c44178d95",
+        "type": "message",
+        "text": "It's in partnership with Zoom and Facebook.",
+        "user": "U0107943J73",
+        "ts": "1584863980.007100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X+G3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's in partnership with Zoom and Facebook."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

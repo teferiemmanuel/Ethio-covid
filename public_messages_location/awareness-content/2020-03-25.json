@@ -1,0 +1,258 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585101616.000200",
+        "user": "U010GL3GY5D",
+        "text": "<@U010GL3GY5D> has joined the channel",
+        "inviter": "U0106M26108"
+    },
+    {
+        "client_msg_id": "7dbfbf10-5771-429e-96f7-50d0b59c557d",
+        "type": "message",
+        "text": "Hey all",
+        "user": "U010L2CFYUW",
+        "ts": "1585110940.000700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jqF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7d50bfa-6723-43f2-a99d-4059391140a5",
+        "type": "message",
+        "text": "I created this site: <https://ethiopia-covid19.slack.com/archives/C010LURPHJB/p1585087338015300>",
+        "user": "U010L2CFYUW",
+        "ts": "1585110949.001000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010LURPHJB/p1585087338015300",
+                "fallback": "[March 24th, 2020 3:02 PM] babraham42: <!here>: demo url <https://sleepy-chandrasekhar-5ec29d.netlify.com/>",
+                "ts": "1585087338.015300",
+                "author_id": "U010L2CFYUW",
+                "author_subname": "Bereket Abraham",
+                "channel_id": "C010LURPHJB",
+                "channel_name": "proj-emergency-site",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "<!here>: demo url <https://sleepy-chandrasekhar-5ec29d.netlify.com/>",
+                "author_name": "Bereket Abraham",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010L2CFYUW",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-22/1019664117607_deef81f3b5bfa6d2f961_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C010LURPHJB/p1585087338015300",
+                "footer": "Thread in #proj-emergency-site"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4cpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I created this site: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C010LURPHJB/p1585087338015300"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ef45606-9de9-448b-9e30-01775c9eea0a",
+        "type": "message",
+        "text": "Now I need relevant content",
+        "user": "U010L2CFYUW",
+        "ts": "1585110987.001500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l1P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now I need relevant content"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "749c69b7-14f1-4d48-8118-ca806b1d043a",
+        "type": "message",
+        "text": "<https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age|https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age>",
+        "user": "UV81AMFSP",
+        "ts": "1585133762.002600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "The Covid-19 risks for different age groups, explained",
+                "title_link": "https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age",
+                "fallback": "The Covid-19 risks for different age groups, explained",
+                "image_url": "https://cdn.vox-cdn.com/thumbor/D6bZCXkbXADXM2kdEyGSY5dCnrM=/0x0:4527x3018/1400x1050/filters:focal(1902x1147:2626x1871):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66540345/GettyImages_1213377890.0.jpg",
+                "from_url": "https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 203867,
+                "service_icon": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png",
+                "service_name": "vox.com",
+                "id": 1,
+                "original_url": "https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PO+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age",
+                                "text": "https://www.vox.com/platform/amp/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U0108FP629H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C29AABFA-DDBE-433E-87C1-1D8078A694BB",
+        "type": "message",
+        "text": "<https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585142842014600|https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585142842014600>",
+        "user": "UVAL943JP",
+        "ts": "1585145919.003500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585142842014600",
+                "fallback": "[March 25th, 2020 6:27 AM] yosef.semegn: Covid-19 related free icons from fontawesome\n\n\n<https://fontawesome.com/icons?d=gallery&amp;q=covid-19&amp;m=free>",
+                "ts": "1585142842.014600",
+                "author_id": "U01085512G5",
+                "author_subname": "yosef",
+                "channel_id": "C0104D5J3T2",
+                "channel_name": "all-general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Covid-19 related free icons from fontawesome\n\n\n<https://fontawesome.com/icons?d=gallery&amp;q=covid-19&amp;m=free>",
+                "author_name": "yosef",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U01085512G5",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-18/996048830738_01da2253de81472e3141_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585142842014600",
+                "footer": "Thread in #all-general"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2CBpJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585142842014600",
+                                "text": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585142842014600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "If this happens tomorrow, would it be a good idea to have content around this?",
+        "user": "U0106M26108",
+        "ts": "1585173229.003700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 25th, 2020 12:53 PM] hohete: Tigray officially to declare State of Emergency to control #CoronaVirus.\nDr. Debretsion will be giving a press release about this tomorrow.",
+                "ts": "1585166030.041300",
+                "author_id": "U010787AZ2T",
+                "author_subname": "Hohete Arefeaine",
+                "channel_id": "C0104D5J3T2",
+                "channel_name": "all-general",
+                "is_msg_unfurl": true,
+                "text": "Tigray officially to declare State of Emergency to control #CoronaVirus.\nDr. Debretsion will be giving a press release about this tomorrow.",
+                "author_name": "Hohete Arefeaine",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010787AZ2T",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-17/1007892209783_f32436e5f75fe09065f3_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585166030041300",
+                "is_share": true,
+                "footer": "Posted in #all-general"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+LHFu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If this happens tomorrow, would it be a good idea to have content around this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

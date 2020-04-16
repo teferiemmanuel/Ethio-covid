@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "43FC9F37-9FBE-4D72-8C1F-A024FEDF3367",
+        "type": "message",
+        "text": "We\u2019re working on it. We\u2019ll start taking overseas payments maximum in a week time.",
+        "user": "U0103PNQJ8J",
+        "ts": "1586650586.277500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S=X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We\u2019re working on it. We\u2019ll start taking overseas payments maximum in a week time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586472032.234900",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f93c95b8-bfde-4afc-82f4-09c017a71a91",
+        "type": "message",
+        "text": "<!here> It looks like most people can do 9am EST, and this allows people in Addis/Europe to join as well. Let's aim to do 9am Monday, Wednesday, Friday for our standup calls. If this is a problem for many people, let me know. Perhaps we can do Monday and Friday 9am, Wednesday 9pm. For now, I'm going to keep them all at 9am M,W,F.",
+        "user": "U010B7Q6XE0",
+        "ts": "1586719895.279600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U010B7Q6XE0",
+            "ts": "1586720037.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GNfM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It looks like most people can do 9am EST, and this allows people in Addis/Europe to join as well. Let's aim to do 9am Monday, Wednesday, Friday for our standup calls. If this is a problem for many people, let me know. Perhaps we can do Monday and Friday 9am, Wednesday 9pm. For now, I'm going to keep them all at 9am M,W,F."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0107A7161E",
+                    "U011F7L4G8L",
+                    "U010VJ6A17W"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "reminder_add",
+        "text": " set up a reminder \u201cDelivery workstream stand up is starting. Join here: https://mit.zoom.us/j/830540249\u201d in this channel at 9AM every Monday, Wednesday, and Friday, Eastern Daylight Time.",
+        "user": "U010B7Q6XE0",
+        "ts": "1586720017.279900"
+    }
+]

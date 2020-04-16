@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "ea9852a2-2bf6-42eb-8e84-41a040753844",
+        "type": "message",
+        "text": "<@UVAL943JP>, did you ever get an answer to this question? Also interested in the answer.",
+        "user": "U0105ALMEKU",
+        "ts": "1585863098.007600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0SHOl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVAL943JP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", did you ever get an answer to this question? Also interested in the answer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585154632.000800",
+        "parent_user_id": "UVAL943JP"
+    },
+    {
+        "client_msg_id": "09ab53de-ff83-4851-b5fa-e991a870cfc1",
+        "type": "message",
+        "text": "<@U0105ALMEKU> No one responded. Let me copy it on the <#C010FQ25NES|all-ask-for-help> channel.",
+        "user": "UVAL943JP",
+        "ts": "1585863873.007800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bdT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105ALMEKU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " No one responded. Let me copy it on the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010FQ25NES"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585154632.000800",
+        "parent_user_id": "UVAL943JP"
+    }
+]

@@ -1,0 +1,847 @@
+[
+    {
+        "client_msg_id": "E6EB81EB-2C9A-4305-A13D-BFBDCBDA1BD7",
+        "type": "message",
+        "text": "<@U010APHG8Q1> here I am to help ",
+        "user": "U0103EHQLEM",
+        "ts": "1585670547.123600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "beGI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here I am to help "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "reply_count": 14,
+        "reply_users_count": 3,
+        "latest_reply": "1585752748.150900",
+        "reply_users": [
+            "U010APHG8Q1",
+            "U0103EHQLEM",
+            "UV6JHDP0S"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "90eaf06f-cea8-463d-b913-6844185f95fd",
+        "type": "message",
+        "text": "<@U0103EHQLEM> Can you fork <https://github.com/Ethiopia-COVID19/CovidCallReporterApi> please\n\nI need a health endpoint. Perhaps you could check it would display more detail, such as connectivity to the DB etc",
+        "user": "U010APHG8Q1",
+        "ts": "1585670729.123700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "Ethiopia-COVID19/CovidCallReporterApi",
+                "title": "Ethiopia-COVID19/CovidCallReporterApi",
+                "footer": "<https://github.com/Ethiopia-COVID19/CovidCallReporterApi|Ethiopia-COVID19/CovidCallReporterApi>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1585098738,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "PHP",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "2 days ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/CovidCallReporterApi",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6saF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0103EHQLEM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can you fork "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/CovidCallReporterApi"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please\n\nI need a health endpoint. Perhaps you could check it would display more detail, such as connectivity to the DB etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "client_msg_id": "1fd374c4-acdc-463e-9b6a-b84745030910",
+        "type": "message",
+        "text": "This is a <https://www.medrxiv.org/content/10.1101/2020.02.10.20021725v1.full.pdf|very nice paper> (Beyond R0: the importance of contact tracing when predicting epidemics) to critically look at. On 10 Feb already, they made a prediction, based on their graph theory inspired model, that agrees well with the current <https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf|state-of-the-art  model> from Imperial College. The data required to use their model is the distribution of the secondary infection that can be obtained using contact tracing.",
+        "user": "U010L1RJMUN",
+        "ts": "1585680401.128200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XSoq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.medrxiv.org/content/10.1101/2020.02.10.20021725v1.full.pdf",
+                                "text": "very nice paper"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (Beyond R0: the importance of contact tracing when predicting epidemics) to critically look at. On 10 Feb already, they made a prediction, based on their graph theory inspired model, that agrees well with the current "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf",
+                                "text": "state-of-the-art  model"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from Imperial College. The data required to use their model is the distribution of the secondary infection that can be obtained using contact tracing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29f3d76c-514a-48a5-9b6a-6378e93b40a4",
+        "type": "message",
+        "text": "One implication of this, how are we structuring our contact tracing data? Do we have API end points to fetch it easily? <@UV8B0679P> <@U01084M48U8> <@U0107EMK8UD> <@U0100B5MHDG> <@U01022PTXA7>",
+        "user": "U010L1RJMUN",
+        "ts": "1585680561.129900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1yM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One implication of this, how are we structuring our contact tracing data? Do we have API end points to fetch it easily? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01084M48U8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107EMK8UD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01022PTXA7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "reply_count": 12,
+        "reply_users_count": 4,
+        "latest_reply": "1585696493.147300",
+        "reply_users": [
+            "U0107A7161E",
+            "UV8B0679P",
+            "U010L1RJMUN",
+            "U010T8D05UM"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3622409B-F702-417C-B558-9485894DDFC2",
+        "type": "message",
+        "text": "This is interesting. Would this still work well with delayed reporting? And even if the forms ask individuals to list down recent contacts, there\u2019s no incentive for honesty(apart from moral obligation), so building out the contact network might be a little difficult, specifically in regards to the Giant Connected Component mentioned in the paper.",
+        "user": "U0100B5MHDG",
+        "ts": "1585681763.140700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0100B5MHDG",
+            "ts": "1585681799.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+29",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is interesting. Would this still work well with delayed reporting? And even if the forms ask individuals to list down recent contacts, there\u2019s no incentive for honesty(apart from moral obligation), so building out the contact network might be a little difficult, specifically in regards to the Giant Connected Component mentioned in the paper."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a094e5a2-669f-4758-8654-ac232d669e36",
+        "type": "message",
+        "text": "I don't believe there is contact tracing capability yet. My understanding is that  developed nations did contact tracing by having people download an app that tracks their location and notifies you if someone you've been near tests positive. Is there a similar effort in Ethiopia? Is there a low-tech way to do this?... not sure if we can get access to Ethiotel tracking data or Google/Facebooks trcking data either.",
+        "user": "U0107A7161E",
+        "ts": "1585683961.140900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=2H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't believe there is contact tracing capability yet. My understanding is that  developed nations did contact tracing by having people download an app that tracks their location and notifies you if someone you've been near tests positive. Is there a similar effort in Ethiopia? Is there a low-tech way to do this?... not sure if we can get access to Ethiotel tracking data or Google/Facebooks trcking data either."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "62b52cf0-22cb-4677-9557-bd163d7d44a5",
+        "type": "message",
+        "text": "it would be nice to understand the feasibility of contact tracing in Ethiopia!",
+        "user": "U0107A7161E",
+        "ts": "1585684042.141100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "reSVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it would be nice to understand the feasibility of contact tracing in Ethiopia!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "96280E7C-3087-4FF4-ACA3-C2578039294D",
+        "type": "message",
+        "text": "<@U0107A7161E> the response platform has contact tracing - functions and will be used",
+        "user": "UV8B0679P",
+        "ts": "1585684139.142100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VZU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the response platform has contact tracing - functions and will be used"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fdf678e9-74fb-41ce-9e6b-af8f127d76cb",
+        "type": "message",
+        "text": "True, we don\u2019t have in place the system already. But as you mentioned RIDE &amp; Ethiotele could be the source - the MoH could try to get that data with some form of memorandum.",
+        "user": "U010L1RJMUN",
+        "ts": "1585684163.142500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ts69y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "True, we don\u2019t have in place the system already. But as you mentioned RIDE & Ethiotele could be the source - the MoH could try to get that data with some form of memorandum."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "0ff914c1-6666-4fee-b556-75511699074c",
+        "type": "message",
+        "text": "<@UV8B0679P> that is great news! i wasnt sure if we'd be allowed access to people's phone location data",
+        "user": "U0107A7161E",
+        "ts": "1585684210.143300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8lgkP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that is great news! i wasnt sure if we'd be allowed access to people's phone location data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "D6A65DE4-5EFF-445E-8426-191F5FC68B69",
+        "type": "message",
+        "text": "As for the API, yes, we do have a Gateway to access data. Here is the data structure: <https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure|https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure>",
+        "user": "UV8B0679P",
+        "ts": "1585684218.143700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[Ethiopia-COVID19/api-gateway] README.md",
+                "text": "```\n&lt;!--\ntitle: 'Ethiopia COVID-19 API Gateway'\ndescription: 'This API will be utilised by all applications that need to write/retrieve Ethiopia Covid19 data. E.g. covid19.et project will use it to retrieve data for dashboard and write data.'\nlayout: Doc\nframework: v1\nplatform: AWS\nlanguage: nodeJS\n--&gt;\n# API for writing/retrieving COVID-19 data\n\nThis API will be utilised by all applications that need to write/retrieve Ethiopia Covid19 data. E.g. [<http://covid19.et|covid19.et>](<https://github.com/Ethiopia-COVID19/Covid19.ET>) project will use it to retrieve data for dashboard and write data\n\n\n## Serverless REST API\n\nThis example demonstrates how to setup a [RESTful Web Services](<https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services>) allowing you to create, list, get, update and delete Community. DynamoDB is used to store the data. This is just an example and of course you could use any data storage as a backend.\n\n## [Structure](#structure)\n\nThis service has a separate directory for all the community operations. For each operation exactly one file exists e.g. `handler/delete.js`. In each of these files there is exactly one function which is directly attached to `module.exports`.\n\nThe idea behind the `communities` directory is that in case you want to create a service containing multiple resources e.g. users, notes, comments you could do so in the same service. While this is certainly possible you might consider creating a separate service for each resource. It depends on the use-case and your preference.\n\n### Use-cases\n\n- API for a Web Application\n- API for a Mobile Application\n\n### Setup\n\n```bash\nnpm install\n```\n\n### Deploy\n\nIn order to deploy the endpoint simply run\n\n```bash\nserverless deploy\n```\n\nAPI Documentation\n<https://documenter.getpostman.com/view/370266/SzYW3L6e?version=latest>\n\n\n[![Run in Postman](<https://run.pstmn.io/button.svg>)](<https://app.getpostman.com/run-collection/64e612b7b58fd9352206>)\n\n---\n## [Auth Flow](#auth-flow)\n\n```\nclient_id = {value}\nclient_secret = {value}\n```\n\nPing @Naod on Slack to get the values above\n\nGenerate base64 key by using the `client_id` and `client_secret`\n\n```\n$ echo -n 'client_id:client_secret' | openssl base64\nNode example:\nconst AUTHORIZATION_KEY = Buffer.from('process.env.CLIENT_ID:process.env.CLIENT_SECRET').toString('base64')\n```\n\nSend a request to the auth endpoint to get an access token:\n\n```\ncurl --location --request POST '<https://ethiopia-covid19.auth.us-east-2.amazoncognito.com/oauth2/token>' \\\n--header 'Authorization: Basic abc123==' \\\n--header 'Content-Type: application/x-www-form-urlencoded' \\\n--data-urlencode 'grant_type=client_credentials'\n```\n\nresponse body:\n\n```\n{\n    \"access_token\": \"long_token_value\",\n    \"expires_in\": 3600,\n    \"token_type\": \"Bearer\"\n}\n```\n\nMake a request to the API:\n\n```\ncurl --location --request GET '<https://api.ethiopia-covid19.com/gateway/communities>' \\\n--header 'Authorization: Bearer long_string' \\\n--header 'Content-Type: application/json'\n```\n\nOnce you authenticate, use the `Access Token` as a `Bearer` authorization using Postman. \n\nIn case you expect a lot of traffic fluctuation we recommend to checkout this guide on how to auto scale DynamoDB [<https://aws.amazon.com/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/>](<https://aws.amazon.com/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/>)\n\nPlease note: This API supports the following types:\n- `communities`\n- `passengers`\n- `medical-facilities`\n- `surveillance`\n- `community-report`\n- `toll-free`\n---\n\n## [Data Structure](#data-structure)\n\n### Community\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"asdfa\",\n  \"lastName\": \"asdf\",\n  \"age\": \"5\",\n  \"sex\": \"Male\",\n  \"language\": \"\",\n  \"region\": \"Addis Ababa\",\n  \"subcityOrZone\": \"\",\n  \"sefer\": \"\",\n  \"woreda\": \"\",\n  \"kebele\": \"\",\n  \"houseNo\": \"\",\n  \"phoneNo\": \"1231231\",\n  \"latitude\": 38.9071923,\n  \"longitude\": -77.0368707,\n  \"fever\": true,\n  \"cough\": true,\n  \"shortnessOfBreath\": true,\n  \"formStatus\": \"Incomplete\",\n  \"travelHx\": true,\n  \"haveSex\": true,\n  \"animalMarket\": true,\n  \"healthFacility\": false,\n  \"occupation\": \"Merchant(Animal)\",\n  \"dataSource\": \"bot\"\n}\n```\n\n### Passengers\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"asdfas\",\n  \"middleName\": \"dasdfas\",\n  \"lastName\": \"dasdfasd\",\n  \"gender\": \"Female\",\n  \"dateOfBirth\": \"0100-01-01\",\n  \"nationality\": \"\u00c5land Islands\",\n  \"passportNo\": \"asdfasdfa\",\n  \"travelFrom\": \"Algeria\",\n  \"phoneNo\": \"sdfasdfasdfasdf\",\n  \"hotelName\": \"Ghion Hotel\",\n  \"flightNumber\": \"asdfas\",\n  \"seatNumber\": \"dfasdfasdf\",\n  \"transitFrom\": \"Albania\",\n  \"fever\": true,\n  \"shortnessOfBreath\": true,\n  \"cough\": true,\n  \"dependents\": [\n    {\n      \"firstName\": \"asdfasdf\",\n      \"middleName\": \"asdfasd\",\n      \"lastName\": \"fasdfasd\",\n      \"gender\": \"Female\",\n      \"dateOfBirth\": \"\",\n      \"nationality\": \"Albania\",\n      \"passportNo\": \"asdfasdf\",\n      \"seatNumber\": \"asdfasdfasda\",\n      \"fever\": true,\n      \"shortnessOfBreath\": true,\n      \"cough\": true,\n      \"travelFrom\": \"Algeria\",\n      \"transitFrom\": \"Albania\",\n      \"phoneNo\": \"sdfasdfasdfasdf\",\n      \"flightNumber\": \"asdfas\",\n      \"selectedLanguage\": \"English\"\n    },\n    {\n      \"firstName\": \"asdfa\",\n      \"middleName\": \"sdfasdf\",\n      \"lastName\": \"asdfasdfa\",\n      \"gender\": \"Female\",\n      \"dateOfBirth\": \"3333-03-02\",\n      \"nationality\": \"\u00c5land Islands\",\n      \"passportNo\": \"asdfasdf\",\n      \"seatNumber\": \"asdfasdf\",\n      \"fever\": true,\n      \"shortnessOfBreath\": true,\n      \"cough\": true,\n      \"travelFrom\": \"Algeria\",\n      \"transitFrom\": \"Albania\",\n      \"phoneNo\": \"sdfasdfasdfasdf\",\n      \"flightNumber\": \"asdfas\",\n      \"selectedLanguage\": \"English\"\n    }\n  ],\n  \"otherHotelName\": \"\",\n  \"email\": \"<mailto:asdfasdf@asdfa.com|asdfasdf@asdfa.com>\",\n  \"language\": \"\"\n}\n```\n\n### Medical Facilities\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"string\",\n  \"middleName\": \"string\",\n  \"lastName\": \"string\",\n  \"nationality\": \"string\",\n  \"email\": \"string\",\n  \"sex\": \"string\",\n  \"age\": 0,\n  \"region\": \"string\",\n  \"subcity\": \"string\",\n  \"zone\": \"string\",\n  \"woreda\": \"string\",\n  \"kebele\": \"string\",\n  \"houseNumber\": \"string\",\n  \"phoneNumber\": \"string\",\n  \"occupation\": \"string\",\n  \"callDate\": \"2020-03-29T00:52:45.527Z\",\n  \"callerType\": \"string\",\n  \"fever\": true,\n  \"cough\": true,\n  \"headache\": true,\n  \"runnyNose\": true,\n  \"feelingUnwell\": true,\n  \"shortnessOfBreath\": true,\n  \"bodyPain\": true,\n  \"travelHx\": true,\n  \"haveSex\": true,\n  \"animalMarket\": true,\n  \"healthFacility\": true,\n  \"receiverName\": \"string\",\n  \"source\": \"string\",\n  \"formStatus\": \"string\"\n}\n```\n\n### Toll Free\n```\n{\n  \"id\": \"123e4567-e89b-12d3-a456-426655440000\",\n  \"firstName\": \"string\",\n  \"middleName\": \"string\",\n  \"lastName\": \"string\",\n  \"age\": 26,\n  \"gender\": \"Male\",\n  \"reportRegion\": {\n    \"id\": 1,\n    \"name\": \"string\"\n  },\n  \"region\": {\n    \"id\": 9,\n    \"name\": \"SNNP Regional State\",\n    \"latitude\": 9.005401,\n    \"longitude\": 38.763611,\n    \"description\": null,\n    \"createdAt\": \"2020-03-29T11:09:10+03:00\",\n    \"updatedAt\": \"2020-03-29T11:09:10+03:00\",\n    \"deletedAt\": null\n  },\n  \"zone\": {\n    \"id\": 1,\n    \"name\": \"string\"\n  },\n  \"woreda\": {\n    \"id\": 1,\n    \"name\": \"string\"\n  },\n  \"city\": {\n    \"id\": 1,\n    \"name\": \"string\"\n  },\n  \"subcity\": {\n    \"id\": 1,\n    \"name\": \"string\"\n  },\n  \"kebele\": {\n    \"id\": 1,\n    \"name\": \"string\"\n  },\n  \"createdBy\": {\n    \"id\": 1,\n    \"firstName\": \"string\",\n    \"middleName\": \"string\",\n    \"lastName\": \"string\",\n    \"email\": \"<mailto:george.beng@gmail.com|george.beng@gmail.com>\",\n    \"phoneNumber\": \"string\",\n    \"region\": {\n      \"id\": 9,\n      \"name\": \"SNNP Regional State\",\n      \"latitude\": 9.005401,\n      \"longitude\": 38.763611,\n      \"description\": null,\n      \"createdAt\": \"2020-03-29T11:09:10+03:00\",\n      \"updatedAt\": \"2020-03-29T11:09:10+03:00\",\n      \"deletedAt\": null\n    },\n    \"role\": {\n      \"id\": 1,\n      \"name\": \"string\"\n    },\n    \"callCenter\": {\n      \"id\": 1,\n      \"name\": \"s\u2026",
+                "title": "README.md",
+                "footer": "<https://github.com/Ethiopia-COVID19/api-gateway|Ethiopia-COVID19/api-gateway>",
+                "id": 1,
+                "title_link": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md",
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4fSKF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As for the API, yes, we do have a Gateway to access data. Here is the data structure: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure",
+                                "text": "https://github.com/Ethiopia-COVID19/api-gateway/blob/master/README.md#data-structure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "239a20a5-9b26-4751-9c41-94a06ca1a5c8",
+        "type": "message",
+        "text": "<@UV8B0679P> thanks. I have seen this great endpoint. I was just wondering if there could be an endpoint where one can pull the cases association. For example patient A had contacts with Persons {B, C, D, E}. After some days C &amp; D tested positive. What I am thinking is an ability to pull C &amp; D given A\u2019s database information. Is this possible?",
+        "user": "U010L1RJMUN",
+        "ts": "1585684644.144000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l6C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks. I have seen this great endpoint. I was just wondering if there could be an endpoint where one can pull the cases association. For example patient A had contacts with Persons {B, C, D, E}. After some days C & D tested positive. What I am thinking is an ability to pull C & D given A\u2019s database information. Is this possible?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "97602479-85d3-4260-819c-610b70f41cf0",
+        "type": "message",
+        "text": "<@U0100B5MHDG> the authors of that paper obtained their secondary cases distribution from SARS \u201cwe make a range of predictions for the final size of 2019-nCoV in Wuhan based on R0 estimates from early cases [18, 19] and for the underlying distribution of secondary cases by analogy with the severe acute respiratory syndrome in similar population [13]. Based on this uncertainty, we obtain a range of final outbreak size (given as a fraction of the total susceptible population) between 5% and 40%. *Critically, this large range stems from uncertainty in the heterogeneity of secondary infections*.\u201d",
+        "user": "U010L1RJMUN",
+        "ts": "1585684888.145200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hsTG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0100B5MHDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the authors of that paper obtained their secondary cases distribution from SARS \u201cwe make a range of predictions for the final size of 2019-nCoV in Wuhan based on R0 estimates from early cases [18, 19] and for the underlying distribution of secondary cases by analogy with the severe acute respiratory syndrome in similar population [13]. Based on this uncertainty, we obtain a range of final outbreak size (given as a fraction of the total susceptible population) between 5% and 40%. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Critically, this large range stems from uncertainty in the heterogeneity of secondary infections",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\u201d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DBD34218-BCFF-4EAF-B25D-1FF8CB75728A",
+        "type": "message",
+        "text": "Yes there is",
+        "user": "UV8B0679P",
+        "ts": "1585685184.145500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cDmo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes there is"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "7912C5E5-85A3-4574-A213-F47CEF324A97",
+        "type": "message",
+        "text": "Contact tracing network can be populated from the data",
+        "user": "UV8B0679P",
+        "ts": "1585685226.146300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Contact tracing network can be populated from the data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "6A756EF9-4FFB-4A65-AC50-BE4D4A51721D",
+        "type": "message",
+        "text": "Sure ",
+        "user": "U0103EHQLEM",
+        "ts": "1585686969.146600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SOk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "client_msg_id": "23668a6a-792d-4b3b-b819-70edc3bd90f5",
+        "type": "message",
+        "text": "<@UV8B0679P> Based on the fields included in the endpoint, I'm not sure how a full contact network could be generated. Cross-referencing addresses could identify household contacts and airline information travel contacts. However, any other contact history inferences would necessarily be very general (i.e. these cases may be associated because they live close to one another). If the goal is to identify the distribution of the number of secondary cases resulting from each primary case, pure geographic association wouldn't be enough. To get at the real network, the forms will need to collect more detailed information on all the individuals the presumptive case has been in close contact with over the infectious periods (&lt;14 days prior to symptom onset). For our purposes, this information would have to be detailed enough to cross-reference those individuals within the database.",
+        "user": "U010T8D05UM",
+        "ts": "1585688671.146800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "COq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Based on the fields included in the endpoint, I'm not sure how a full contact network could be generated. Cross-referencing addresses could identify household contacts and airline information travel contacts. However, any other contact history inferences would necessarily be very general (i.e. these cases may be associated because they live close to one another). If the goal is to identify the distribution of the number of secondary cases resulting from each primary case, pure geographic association wouldn't be enough. To get at the real network, the forms will need to collect more detailed information on all the individuals the presumptive case has been in close contact with over the infectious periods (<14 days prior to symptom onset). For our purposes, this information would have to be detailed enough to cross-reference those individuals within the database."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "client_msg_id": "49e6089d-ce0f-4bd0-b831-b838282abd4a",
+        "type": "message",
+        "text": "<@UV8B0679P> could we add a field in the existing forms to potentially reference an existing ids/case_numbers? I mean when a patient/suspect/etc. is registered in the database, information about contacts with previous known cases can be obtained. This way we can address what is rightly pointed by <@U010T8D05UM>",
+        "user": "U010L1RJMUN",
+        "ts": "1585693465.147000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bC9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could we add a field in the existing forms to potentially reference an existing ids/case_numbers? I mean when a patient/suspect/etc. is registered in the database, information about contacts with previous known cases can be obtained. This way we can address what is rightly pointed by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010T8D05UM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010T8D05UM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7539e9a7-8623-480b-b067-bcc939274300",
+        "type": "message",
+        "text": "<@UV8B0679P> <@UV6JHDP0S> which data are you referring to that can be used to populate contact tracing data (i.e. location history)?",
+        "user": "U0107A7161E",
+        "ts": "1585696493.147300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YYdJ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which data are you referring to that can be used to populate contact tracing data (i.e. location history)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585680561.129900",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "type": "message",
+        "text": "<@U010APHG8Q1> I I found this bug when I try to test the API using postman.  Plus can you please describe what does the health endpoint will do? Do you mean the health endpoint will return the status of the database, redis and some other system components status reports  in real time?",
+        "files": [
+            {
+                "id": "F010UEH4AE7",
+                "created": 1585698322,
+                "timestamp": 1585698322,
+                "name": "Screen Shot 2012-07-23 at 2.41.45 AM.png",
+                "title": "Screen Shot 2012-07-23 at 2.41.45 AM.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0103EHQLEM",
+                "editable": false,
+                "size": 536491,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010UEH4AE7/screen_shot_2012-07-23_at_2.41.45_am.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010UEH4AE7/download/screen_shot_2012-07-23_at_2.41.45_am.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010UEH4AE7-b2eab6e8ca/screen_shot_2012-07-23_at_2.41.45_am_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010UEH4AE7-b2eab6e8ca/screen_shot_2012-07-23_at_2.41.45_am_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010UEH4AE7-b2eab6e8ca/screen_shot_2012-07-23_at_2.41.45_am_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 241,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010UEH4AE7-b2eab6e8ca/screen_shot_2012-07-23_at_2.41.45_am_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 321,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010UEH4AE7-b2eab6e8ca/screen_shot_2012-07-23_at_2.41.45_am_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010UEH4AE7-b2eab6e8ca/screen_shot_2012-07-23_at_2.41.45_am_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 481,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010UEH4AE7-b2eab6e8ca/screen_shot_2012-07-23_at_2.41.45_am_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 535,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010UEH4AE7-b2eab6e8ca/screen_shot_2012-07-23_at_2.41.45_am_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 642,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010UEH4AE7-b2eab6e8ca/screen_shot_2012-07-23_at_2.41.45_am_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 685,
+                "image_exif_rotation": 1,
+                "original_w": 2208,
+                "original_h": 1476,
+                "thumb_tiny": "AwAgADCpupNxo3A9qTPtQAu6jdSZ9qMn0oAXJpS5PWm5NGaAEFFApaAE4opaKAEoooxQB//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0103EHQLEM/F010UEH4AE7/screen_shot_2012-07-23_at_2.41.45_am.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010UEH4AE7-66be83a1bf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hrfgL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I I found this bug when I try to test the API using postman.  Plus can you please describe what does the health endpoint will do? Do you mean the health endpoint will return the status of the database, redis and some other system components status reports  in real time?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0103EHQLEM",
+        "display_as_bot": false,
+        "ts": "1585698337.147500",
+        "client_msg_id": "5274b86b-c760-4762-8923-3a5ec15696b7",
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "E6EB81EB-2C9A-4305-A13D-BFBDCBDA1BD7",
+            "type": "message",
+            "text": "<@U010APHG8Q1> here I am to help ",
+            "user": "U0103EHQLEM",
+            "ts": "1585670547.123600",
+            "team": "TV5KELEUS",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "beGI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U010APHG8Q1"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " here I am to help "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1585670547.123600",
+            "reply_count": 14,
+            "reply_users_count": 3,
+            "latest_reply": "1585752748.150900",
+            "reply_users": [
+                "U010APHG8Q1",
+                "U0103EHQLEM",
+                "UV6JHDP0S"
+            ],
+            "subscribed": false
+        }
+    }
+]

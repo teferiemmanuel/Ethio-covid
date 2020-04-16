@@ -1,0 +1,536 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584937926.078600",
+        "user": "U0106MECUD9",
+        "text": "<@U0106MECUD9> has joined the channel"
+    },
+    {
+        "client_msg_id": "364ee1e4-2522-442f-b471-675026a30785",
+        "type": "message",
+        "text": "<@U010BSJ55MK> Can you please include us in the call later today 11 EAT with ETC ?",
+        "user": "UV6JHDP0S",
+        "ts": "1584939703.079500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "imkmf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010BSJ55MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can you please include us in the call later today 11 EAT with ETC ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "345aa10b-d120-49cd-8990-687c4123420c",
+        "type": "message",
+        "text": "Yes Exactly that is the Plan",
+        "user": "U010BSJ55MK",
+        "ts": "1584939724.079600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zRYG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes Exactly that is the Plan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584939724.079600",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1584950475.083100",
+        "reply_users": [
+            "UV6JHDP0S",
+            "U010BSJ55MK",
+            "UV7D89JGJ"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U010BSJ55MK>  how can we join? Is there a conference call link ?",
+        "user": "UV6JHDP0S",
+        "ts": "1584948699.080200",
+        "thread_ts": "1584939724.079600",
+        "root": {
+            "client_msg_id": "345aa10b-d120-49cd-8990-687c4123420c",
+            "type": "message",
+            "text": "Yes Exactly that is the Plan",
+            "user": "U010BSJ55MK",
+            "ts": "1584939724.079600",
+            "team": "TV5KELEUS",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zRYG",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Yes Exactly that is the Plan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1584939724.079600",
+            "reply_count": 6,
+            "reply_users_count": 3,
+            "latest_reply": "1584950475.083100",
+            "reply_users": [
+                "UV6JHDP0S",
+                "U010BSJ55MK",
+                "UV7D89JGJ"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4e0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010BSJ55MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  how can we join? Is there a conference call link ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3423db64-b4d3-40df-bcc8-d76be5a3c8ec"
+    },
+    {
+        "client_msg_id": "B46AC1BD-54DC-4E01-ACE6-30475A3B98A3",
+        "type": "message",
+        "text": "Heh Nati can you send me the link so that as son I am there I will use it",
+        "user": "U010BSJ55MK",
+        "ts": "1584948735.081200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sf36",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heh Nati can you send me the link so that as son I am there I will use it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584939724.079600",
+        "parent_user_id": "U010BSJ55MK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37E0DD2F-2362-4139-968F-A58DCBB95697",
+        "type": "message",
+        "text": " I am driving there now ",
+        "user": "U010BSJ55MK",
+        "ts": "1584948740.081600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " I am driving there now "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584939724.079600",
+        "parent_user_id": "U010BSJ55MK"
+    },
+    {
+        "client_msg_id": "c59f2712-3ce8-4042-a41a-ae1811e8a50b",
+        "type": "message",
+        "text": "please share the highlights of the meeting...",
+        "user": "U0101KKMPFC",
+        "ts": "1584948881.082200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UG0d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please share the highlights of the meeting..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "334e73bd-7f2c-4a20-ae02-0292ed2dcf5f",
+        "type": "message",
+        "text": "Great, will join as well.",
+        "user": "UV7D89JGJ",
+        "ts": "1584948996.082300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ldkG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great, will join as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584939724.079600",
+        "parent_user_id": "U010BSJ55MK"
+    },
+    {
+        "client_msg_id": "9e865ac8-579c-4e8a-b386-a1293eded1ab",
+        "type": "message",
+        "text": "@here Click <https://us04web.zoom.us/j/915376455|https://us04web.zoom.us/j/915376455> to start or join a scheduled Zoom meeting.",
+        "user": "UV6JHDP0S",
+        "ts": "1584949512.082700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aFBWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@here Click "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/915376455",
+                                "text": "https://us04web.zoom.us/j/915376455"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to start or join a scheduled Zoom meeting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584939724.079600",
+        "parent_user_id": "U010BSJ55MK"
+    },
+    {
+        "client_msg_id": "700afc6d-4b79-4d1a-a394-1b2c0632c4c8",
+        "type": "message",
+        "text": "@here ^^",
+        "user": "UV6JHDP0S",
+        "ts": "1584950475.083100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sKg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@here ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584939724.079600",
+        "parent_user_id": "U010BSJ55MK"
+    },
+    {
+        "client_msg_id": "2cebcf32-da50-4d77-85a4-b1db1190de23",
+        "type": "message",
+        "text": "<https://us04web.zoom.us/j/3223648329|https://us04web.zoom.us/j/3223648329> to start or join a scheduled Zoom meeting.",
+        "user": "UV6JHDP0S",
+        "ts": "1584953149.083400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/3223648329",
+                                "text": "https://us04web.zoom.us/j/3223648329"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to start or join a scheduled Zoom meeting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f266f369-87c3-4b04-95e7-0708e86585ac",
+        "type": "message",
+        "text": "<@U010BSJ55MK> have the guys joined the group - I've a few more questions for them",
+        "user": "UVB595TCJ",
+        "ts": "1584980754.083900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DlLf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010BSJ55MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have the guys joined the group - I've a few more questions for them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584980754.083900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584982855.085600",
+        "reply_users": [
+            "U010BSJ55MK"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7ad7c21b-b43a-4f8f-b05c-f54f58cb9d46",
+        "type": "message",
+        "text": "Folks at 1pm PST - call with Twilio - Let's add all the questions to the doc Nati has created so we can be organized. Conf call <https://twilio.zoom.us/j/282531390>  - <@U0107JEKN0N> <@UV6JHDP0S> <@U010BSJ55MK> and myself will suffice",
+        "user": "UVB595TCJ",
+        "ts": "1584982549.085100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fbEF6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Folks at 1pm PST - call with Twilio - Let's add all the questions to the doc Nati has created so we can be organized. Conf call "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://twilio.zoom.us/j/282531390"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  - "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010BSJ55MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and myself will suffice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C5B83546-F3D9-44FE-A630-5B7580B5B167",
+        "type": "message",
+        "text": "I think so ",
+        "user": "U010BSJ55MK",
+        "ts": "1584982855.085600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/5t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think so "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584980754.083900",
+        "parent_user_id": "UVB595TCJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584987524.086100",
+        "user": "U010KKKAAKW",
+        "text": "<@U010KKKAAKW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0101KKMPFC",
+        "ts": "1584990456.086200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 23rd, 2020 7:05 PM] sossina.tafari: Received this piece of information - if it helps.  The following toll-free services have been activated in response to COVID19 Tigray:-             6244\nOromia:-           6955\nAmhara:-           6982\nSouth N.N.P:-    6599\nDire Dawa:-        6407",
+                "ts": "1584990340.173100",
+                "author_id": "U010K2675CP",
+                "author_subname": "Sossina Tafari",
+                "channel_id": "C010695DNMV",
+                "channel_name": "all-random",
+                "is_msg_unfurl": true,
+                "text": "Received this piece of information - if it helps.  The following toll-free services have been activated in response to COVID19 Tigray:-             6244\nOromia:-           6955\nAmhara:-           6982\nSouth N.N.P:-    6599\nDire Dawa:-        6407",
+                "author_name": "Sossina Tafari",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010K2675CP",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-22/1019390229047_5b8dc32a77b03b9d7a95_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010695DNMV/p1584990340173100",
+                "is_share": true,
+                "footer": "Posted in #all-random"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "656d348a-309d-42b8-9711-0155638a50ae",
+        "type": "message",
+        "text": "have you checked with  <@U010CH2M90F>  interms of our outreach to Tele.",
+        "user": "U0101KKMPFC",
+        "ts": "1584994429.087100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iaIon",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "have you checked with  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010CH2M90F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  interms of our outreach to Tele."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

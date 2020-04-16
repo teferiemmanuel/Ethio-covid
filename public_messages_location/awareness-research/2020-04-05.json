@@ -1,0 +1,178 @@
+[
+    {
+        "client_msg_id": "BE57A1A9-739B-45D9-965D-04B2E14C2C4D",
+        "type": "message",
+        "text": "<@U0107AYF16H> <@U010CLFURT8> <@UVALWD1MG> \nWe can use YouTube videos in this post?",
+        "user": "UVB9ZSPCH",
+        "ts": "1586048028.043400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uwifE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010CLFURT8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVALWD1MG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nWe can use YouTube videos in this post?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584762132.112500",
+        "parent_user_id": "UVB9ZSPCH"
+    },
+    {
+        "client_msg_id": "3e6e7014-7362-4ca3-b712-6c9275036af3",
+        "type": "message",
+        "text": "Hey <@UVB9ZSPCH>\nMany new videos have been out lately.\n\u2022 If the video is to encourage the public to make their own mask, this one is easy to follow  and the latest for any cloth mask. \n<https://www.youtube.com/watch?v=1r2C1zGUHbU>",
+        "user": "U0107JERE9L",
+        "ts": "1586052776.043600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "DIY No Sew Face Mask Easy and Quick for Anyone",
+                "title_link": "https://www.youtube.com/watch?v=1r2C1zGUHbU",
+                "author_name": "Kristin Omdahl",
+                "author_link": "https://www.youtube.com/user/KristinOmdahl",
+                "thumb_url": "https://i.ytimg.com/vi/1r2C1zGUHbU/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: DIY No Sew Face Mask Easy and Quick for Anyone",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/1r2C1zGUHbU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=1r2C1zGUHbU",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=1r2C1zGUHbU"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Gu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMany new videos have been out lately.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If the video is to encourage the public to make their own mask, this one is easy to follow  and the latest for any cloth mask. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=1r2C1zGUHbU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584762132.112500",
+        "parent_user_id": "UVB9ZSPCH",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21EC9BEF-5694-4121-B88B-71BCE87E7E3F",
+        "type": "message",
+        "text": "<@U0107JERE9L> awesome! <@UVALWD1MG> &amp; I just picked two videos less than 7min. We will be working on translate those into Amharic and other languages. ",
+        "user": "UVB9ZSPCH",
+        "ts": "1586053058.045900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pBpwB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " awesome! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVALWD1MG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & I just picked two videos less than 7min. We will be working on translate those into Amharic and other languages. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584762132.112500",
+        "parent_user_id": "UVB9ZSPCH"
+    }
+]

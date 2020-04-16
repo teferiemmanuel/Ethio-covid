@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586344184.017400",
+        "user": "U011BRW40NB",
+        "text": "<@U011BRW40NB> has joined the channel",
+        "inviter": "U010SKPP7CJ"
+    },
+    {
+        "client_msg_id": "7110bdcd-47cc-4397-8055-71ea5fd67e0e",
+        "type": "message",
+        "text": "<@U011BRW40NB>  :point_up:",
+        "user": "U010SKPP7CJ",
+        "ts": "1586344201.017600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O6OgX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011BRW40NB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585539289.001500",
+        "parent_user_id": "U010H9HHT4M"
+    },
+    {
+        "client_msg_id": "1e3cf482-f4ea-4f5d-9bea-0ea44189a51a",
+        "type": "message",
+        "text": "<@U010H9HHT4M>  please let us know the status and will be looking in to this training and also material used \nHere <@U011BRW40NB>  will support",
+        "user": "U010SKPP7CJ",
+        "ts": "1586344285.017800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VfQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010H9HHT4M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  please let us know the status and will be looking in to this training and also material used \nHere "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011BRW40NB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  will support"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585539289.001500",
+        "parent_user_id": "U010H9HHT4M"
+    }
+]

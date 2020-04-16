@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584618369.000200",
+        "user": "U0108RB6UU8",
+        "text": "<@U0108RB6UU8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584641068.000200",
+        "user": "U010BQSN3EK",
+        "text": "<@U010BQSN3EK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584650314.000400",
+        "user": "U0106QW5KUL",
+        "text": "<@U0106QW5KUL> has joined the channel"
+    },
+    {
+        "client_msg_id": "87462449-57ff-41a6-9f71-c3b09e3a6d31",
+        "type": "message",
+        "text": "Hi all! This is hirut. I attended the zoom meeting on Tuesday.\nI was talking to my friend who is a Physician at Tikur Anbesa and she told me that she can get in touch with folks at MoH if there is some data/info we need for this.\u00a0Let me know if there is anything we can help as it relates to communication and getting in touch with people. Thanks",
+        "user": "U0106QW5KUL",
+        "ts": "1584650404.000700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AHFO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! This is hirut. I attended the zoom meeting on Tuesday.\nI was talking to my friend who is a Physician at Tikur Anbesa and she told me that she can get in touch with folks at MoH if there is some data/info we need for this.\u00a0Let me know if there is anything we can help as it relates to communication and getting in touch with people. Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

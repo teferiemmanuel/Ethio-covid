@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "e0428361-a4dc-4477-8d87-cd6bf3cfbdc7",
+        "type": "message",
+        "text": "Hey Kal. So we are basically catering to the gap between health professionals and health care seekers. Most of our followers right now(60%) have a relation to the health industry. But most of our content is gauged to related to anyone who is involved in the process of health and <http://wellness.be|wellness.> Thank you for your interest. Let me know if you have any more questions.",
+        "user": "U010H9HHT4M",
+        "ts": "1586077338.073200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Puur Spa \u2014 Private spa in Brugge met sauna, hamam, zwembad en tuin",
+                "title_link": "http://wellness.be/",
+                "text": "Puur Spa is een private spa in Brugge met sauna, hamam, binnenzwembad, tuin, ... alle ingredi\u00ebnten voor een heerlijke wellness beleving.",
+                "fallback": "Puur Spa \u2014 Private spa in Brugge met sauna, hamam, zwembad en tuin",
+                "from_url": "http://wellness.be/",
+                "service_name": "puur-spa.be",
+                "id": 1,
+                "original_url": "http://wellness.be"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Nv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Kal. So we are basically catering to the gap between health professionals and health care seekers. Most of our followers right now(60%) have a relation to the health industry. But most of our content is gauged to related to anyone who is involved in the process of health and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://wellness.be",
+                                "text": "wellness."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you for your interest. Let me know if you have any more questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585549153.054900",
+        "parent_user_id": "U010H9HHT4M"
+    }
+]

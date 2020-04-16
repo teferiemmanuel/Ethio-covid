@@ -1,0 +1,630 @@
+[
+    {
+        "client_msg_id": "76e91b8f-9d85-425c-9b53-70c95b5ad60a",
+        "type": "message",
+        "text": "Hey <@UV8B0679P>, quick q re stats API: I was going to either mock it or proxy it to the PMO api for now. What do you think? If not, do we want to aggregate the data from all the channels and expose them via this endpoint?\ncc. <@U0107JEKN0N>",
+        "user": "U010N3BFN4F",
+        "ts": "1585844236.136700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYtr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", quick q re stats API: I was going to either mock it or proxy it to the PMO api for now. What do you think? If not, do we want to aggregate the data from all the channels and expose them via this endpoint?\ncc. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "8b5051d4-3376-463c-8a56-d05c3e94aadf",
+        "type": "message",
+        "text": "Talking about from api gateway perspective btw",
+        "user": "U010N3BFN4F",
+        "ts": "1585844415.136900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nWo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Talking about from api gateway perspective btw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "44a10944-ea66-4566-a1a4-691e63ceff77",
+        "type": "message",
+        "text": "In my opinion, let\u2019s just focus on our data set as there could be data points added both to the PMO database and ours.",
+        "user": "U0107JEKN0N",
+        "ts": "1585844562.137100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TlBmf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In my opinion, let\u2019s just focus on our data set as there could be data points added both to the PMO database and ours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "91fe4ec9-6798-4a58-bceb-050eb50797c2",
+        "type": "message",
+        "text": "So the dashboard doesn\u2019t show that data?",
+        "user": "U010N3BFN4F",
+        "ts": "1585844643.137300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FXFkj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So the dashboard doesn\u2019t show that data?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "f37ce99c-56a7-4e80-8e23-fde4375b4ab5",
+        "type": "message",
+        "text": "Hey guys - does it make sense to do a quick call about it",
+        "user": "UV8B0679P",
+        "ts": "1585845932.137500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PPYE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys - does it make sense to do a quick call about it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "86dd0b55-66a0-4bde-a5dd-31a1aa7b06d5",
+        "type": "message",
+        "text": "?",
+        "user": "UV8B0679P",
+        "ts": "1585845933.137700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ovu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "af1fb746-9212-4ebf-8abb-54511e017f10",
+        "type": "message",
+        "text": "Yes let\u2019s do it",
+        "user": "U0107JEKN0N",
+        "ts": "1585846021.137900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eLRr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes let\u2019s do it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "826c9842-7e09-40c7-9dcd-8a81a2686eaa",
+        "type": "message",
+        "text": "Any other takers?",
+        "user": "UV8B0679P",
+        "ts": "1585846083.138100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7=Syc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any other takers?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "7c5e047a-6b45-4166-90c7-c4bf85fa9310",
+        "type": "message",
+        "text": "I can do it",
+        "user": "U010N3BFN4F",
+        "ts": "1585846357.138300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SYNS8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can do it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "5f9aef67-2c2f-491d-ac26-f904484835ef",
+        "type": "message",
+        "text": "<@U010N3BFN4F>, btw I\u2019m loving the local dev option you gave us. It made my life much easier.",
+        "user": "U0107JEKN0N",
+        "ts": "1585846440.138500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Twu3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010N3BFN4F"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", btw I\u2019m loving the local dev option you gave us. It made my life much easier."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "cca26410-5705-4afc-b858-c0fc6489dfb5",
+        "type": "message",
+        "text": "Glad to hear it <@U0107JEKN0N>!",
+        "user": "U010N3BFN4F",
+        "ts": "1585846532.138700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aSasa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Glad to hear it "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "3b000530-2679-4a81-bbb3-d0e5ee5bbd77",
+        "type": "message",
+        "text": "Hop on: <https://us04web.zoom.us/j/162032784?pwd=WGc5ekFxdndhWklBWHFXYUlsR1oxQT09>",
+        "user": "UV8B0679P",
+        "ts": "1585846555.138900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YDlh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hop on: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/162032784?pwd=WGc5ekFxdndhWklBWHFXYUlsR1oxQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "38f018e8-f5ff-48b7-a0de-2c9693d1deb4",
+        "type": "message",
+        "text": "<@U01051X26HJ> :point_up::skin-tone-5:",
+        "user": "UV8B0679P",
+        "ts": "1585846566.139100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+1h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01051X26HJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "9f50bcc9-90cb-436f-936e-3b3d7a11c06c",
+        "type": "message",
+        "text": "<!here> can you please join the call to discuss stats api endpoint? <https://us04web.zoom.us/j/162032784?pwd=WGc5ekFxdndhWklBWHFXYUlsR1oxQT09>",
+        "user": "U010N3BFN4F",
+        "ts": "1585846820.139800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "26gM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you please join the call to discuss stats api endpoint? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://us04web.zoom.us/j/162032784?pwd=WGc5ekFxdndhWklBWHFXYUlsR1oxQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585846820.139800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585862668.143200",
+        "reply_users": [
+            "U01051X26HJ"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "71257948-B4CD-4A5E-BC93-15574A5B3308",
+        "type": "message",
+        "text": "<!channel> do we need geospatial data here? A person in Facebook\u2019s Data Science for Social Good team has offered to help with that",
+        "user": "U0107A7161E",
+        "ts": "1585858831.141800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6cOe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do we need geospatial data here? A person in Facebook\u2019s Data Science for Social Good team has offered to help with that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585858831.141800",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1585875512.143400",
+        "reply_users": [
+            "UV8B0679P",
+            "U01078QCG2C",
+            "U0107A7161E"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5D485458-9ED3-42FE-BA2C-C9C35C5F1E21",
+        "type": "message",
+        "text": "Definitely ",
+        "user": "UV8B0679P",
+        "ts": "1585858969.142100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5zcDm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definitely "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585858831.141800",
+        "parent_user_id": "U0107A7161E",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0107A7161E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74d24337-0605-443f-ac73-54ad7669effe",
+        "type": "message",
+        "text": "Yes",
+        "user": "U01078QCG2C",
+        "ts": "1585859612.142500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FPv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585858831.141800",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "c695f95c-8e8a-440a-866a-11e2e92a4b9f",
+        "type": "message",
+        "text": "what is the best way to facilitate this? is there a list of asks i can share? or should i just send your their POC?",
+        "user": "U0107A7161E",
+        "ts": "1585860551.142700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1585860559.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Uk1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what is the best way to facilitate this? is there a list of asks i can share? or should i just send your their POC?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585858831.141800",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "33210470-f76e-470d-8789-e3b96f3fbd2f",
+        "type": "message",
+        "text": "Oh <@UV8B0679P> just saw this after 4 hrs... sorry",
+        "user": "U01051X26HJ",
+        "ts": "1585861275.143000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eoj3j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just saw this after 4 hrs... sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585758924.135400",
+        "parent_user_id": "U010UJ2C1FS"
+    },
+    {
+        "client_msg_id": "67a204e1-ad36-479c-8f8c-78e4a5245f9a",
+        "type": "message",
+        "text": "<@U010N3BFN4F> any update on stats api, I just saw it.",
+        "user": "U01051X26HJ",
+        "ts": "1585862668.143200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E061",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010N3BFN4F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " any update on stats api, I just saw it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585846820.139800",
+        "parent_user_id": "U010N3BFN4F"
+    }
+]

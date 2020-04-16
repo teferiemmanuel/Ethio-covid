@@ -1,0 +1,139 @@
+[
+    {
+        "client_msg_id": "6497c4b1-e1e3-430d-b76f-cd664c49db9e",
+        "type": "message",
+        "text": "Nice. It would be nice if the measurements are in Meters :slightly_smiling_face:",
+        "user": "U010A8YEUP9",
+        "ts": "1586332596.304600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0eJ8u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice. It would be nice if the measurements are in Meters "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586292862.303600",
+        "parent_user_id": "U010Z23J5CL"
+    },
+    {
+        "client_msg_id": "29c1454f-0c16-4535-9d78-313fa25499ff",
+        "type": "message",
+        "text": "<#CVBQ5H16D|awareness-content> ...hey friends :wave::skin-tone-4: made these from emojis (my response to WHO/UN creative call) ...  feel free to share/use as fit\n<https://www.talenthouse.com/item/2290882/c54a7da4>\n<https://www.talenthouse.com/item/2290883/4cb22155>",
+        "user": "U010CQ6P9C4",
+        "ts": "1586378362.309700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Talenthouse",
+                "title": "Do Stay Home",
+                "title_link": "https://www.talenthouse.com/item/2290882/c54a7da4",
+                "text": "Using only emojis I am creating a soothing scenery and communicating the need to stay home. - Salem Berhanu, Washington, DC.",
+                "fallback": "Talenthouse: Do Stay Home",
+                "image_url": "https://talenthouse-res.cloudinary.com/image/upload/c_limit,h_1000,w_1000/v1/user-1060640/submissions/rpntt4oao24nokm42qnr.jpg",
+                "from_url": "https://www.talenthouse.com/item/2290882/c54a7da4",
+                "image_width": 188,
+                "image_height": 250,
+                "image_bytes": 567051,
+                "service_icon": "https://d1kg5xhpkii99b.cloudfront.net/images/favicon.ico",
+                "id": 1,
+                "original_url": "https://www.talenthouse.com/item/2290882/c54a7da4"
+            },
+            {
+                "service_name": "Talenthouse",
+                "title": "Cover Up",
+                "title_link": "https://www.talenthouse.com/item/2290883/4cb22155",
+                "text": "Using only emojis I am communicating the need to cover up. - Salem Berhanu, Washington, DC.",
+                "fallback": "Talenthouse: Cover Up",
+                "image_url": "https://talenthouse-res.cloudinary.com/image/upload/c_limit,h_1000,w_1000/v1/user-1060640/submissions/cvxuemdnobimv9qeyiya.jpg",
+                "from_url": "https://www.talenthouse.com/item/2290883/4cb22155",
+                "image_width": 178,
+                "image_height": 250,
+                "image_bytes": 493629,
+                "service_icon": "https://d1kg5xhpkii99b.cloudfront.net/images/favicon.ico",
+                "id": 2,
+                "original_url": "https://www.talenthouse.com/item/2290883/4cb22155"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qDMo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "CVBQ5H16D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ...hey friends "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " made these from emojis (my response to WHO/UN creative call) ...  feel free to share/use as fit\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.talenthouse.com/item/2290882/c54a7da4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.talenthouse.com/item/2290883/4cb22155"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010UM8QBQA",
+                    "U011BGST4BG",
+                    "U011LUJNR32",
+                    "UVAL943JP",
+                    "UVB9ZSPCH",
+                    "UV6JJDDKL"
+                ],
+                "count": 6
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "UVALWD1MG",
+                    "UVAL943JP",
+                    "UVB9ZSPCH",
+                    "U010CLFURT8"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

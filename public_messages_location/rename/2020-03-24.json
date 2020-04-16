@@ -1,0 +1,973 @@
+[
+    {
+        "client_msg_id": "11252eac-8cc1-4fc9-abdb-17671a07c84b",
+        "type": "message",
+        "text": "I wonder if we can localize this,\n\n<https://covapp.charite.de/disclaimer?fbclid=IwAR2JgLzgQmJpsG5Y9V0dEhughJK0y9FH12Qo1cOz9Wir21eLipTz9JhG3gQ>",
+        "user": "U010APHG8Q1",
+        "ts": "1585013482.234600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "CovApp",
+                "title_link": "https://covapp.charite.de/disclaimer?fbclid=IwAR2JgLzgQmJpsG5Y9V0dEhughJK0y9FH12Qo1cOz9Wir21eLipTz9JhG3gQ",
+                "text": "Recommendations and information regarding Coronavirus",
+                "fallback": "CovApp",
+                "image_url": "https://covapp.charite.de/assets/icon/charite-preview.jpg",
+                "from_url": "https://covapp.charite.de/disclaimer?fbclid=IwAR2JgLzgQmJpsG5Y9V0dEhughJK0y9FH12Qo1cOz9Wir21eLipTz9JhG3gQ",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 65145,
+                "service_icon": "https://covapp.charite.de/assets/icon/apple-touch-icon.png",
+                "service_name": "covapp.charite.de",
+                "id": 1,
+                "original_url": "https://covapp.charite.de/disclaimer?fbclid=IwAR2JgLzgQmJpsG5Y9V0dEhughJK0y9FH12Qo1cOz9Wir21eLipTz9JhG3gQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9b+Dt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wonder if we can localize this,\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://covapp.charite.de/disclaimer?fbclid=IwAR2JgLzgQmJpsG5Y9V0dEhughJK0y9FH12Qo1cOz9Wir21eLipTz9JhG3gQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585013482.234600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1585077680.259700",
+        "reply_users": [
+            "U010KAM1U4E",
+            "U010APHG8Q1",
+            "U010NURE9T2"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1CAD8667-3D45-476E-9D6C-97E2117B4404",
+        "type": "message",
+        "text": "Hello <@U01017GFFB4>, hope you\u2019re well. I\u2019ve been searching for traces of AEA\u2019s initiative on the FB page &amp; telegram, but couldn\u2019t find any. Would you please share it? Thanks :+1::skin-tone-4:",
+        "user": "U010GM0PVTJ",
+        "ts": "1585037473.239800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01017GFFB4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", hope you\u2019re well. I\u2019ve been searching for traces of AEA\u2019s initiative on the FB page & telegram, but couldn\u2019t find any. Would you please share it? Thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584977480.195000",
+        "parent_user_id": "U01017GFFB4"
+    },
+    {
+        "client_msg_id": "45ccd3b0-13be-4758-8e2b-fd1b91600d25",
+        "type": "message",
+        "text": "Hi Mike,\nThis is Yoda, how did you find what Yafet shared with you? PMO is working with MInT and other stakeholders, one idea that poped up is a national datasource. That is why we have these two APIs",
+        "user": "U010LJ2BUCW",
+        "ts": "1585038003.240000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iT3Pa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Mike,\nThis is Yoda, how did you find what Yafet shared with you? PMO is working with MInT and other stakeholders, one idea that poped up is a national datasource. That is why we have these two APIs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584988648.213600",
+        "parent_user_id": "U0105CS9G93"
+    },
+    {
+        "client_msg_id": "337C7B08-3A20-4ED9-9B30-0DA5D40EF56F",
+        "type": "message",
+        "text": "Hey <@U010LJ2BUCW>, which APIs?",
+        "user": "UV8B0679P",
+        "ts": "1585042064.241400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gy+U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010LJ2BUCW"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", which APIs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584988648.213600",
+        "parent_user_id": "U0105CS9G93"
+    },
+    {
+        "client_msg_id": "5961960f-2f93-45f7-9f5e-7ef1c152f1dc",
+        "type": "message",
+        "text": "<@UV8B0679P> The one I mentioned to you on our call yesterday",
+        "user": "U0105CS9G93",
+        "ts": "1585048243.246400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oXbE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The one I mentioned to you on our call yesterday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584988648.213600",
+        "parent_user_id": "U0105CS9G93"
+    },
+    {
+        "client_msg_id": "0bfa3f79-ea9a-44e5-8725-d8868b02730e",
+        "type": "message",
+        "text": "(PMO)",
+        "user": "U0105CS9G93",
+        "ts": "1585048282.246600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cic",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(PMO)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584988648.213600",
+        "parent_user_id": "U0105CS9G93"
+    },
+    {
+        "client_msg_id": "16586c37-f31e-474b-8e1d-ddd7f1fbafe1",
+        "type": "message",
+        "text": "<https://api.pmo.gov.et/v1/cases/>\n<https://api.pmo.gov.et/v1/patients/>",
+        "user": "U010LJ2BUCW",
+        "ts": "1585049091.246800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yXwrl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://api.pmo.gov.et/v1/cases/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://api.pmo.gov.et/v1/patients/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584988648.213600",
+        "parent_user_id": "U0105CS9G93"
+    },
+    {
+        "client_msg_id": "02d6a059-8249-49d3-b5e6-397b5ddb60f4",
+        "type": "message",
+        "text": "And the dashboard",
+        "user": "U010LJ2BUCW",
+        "ts": "1585049102.247000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uzh0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And the dashboard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584988648.213600",
+        "parent_user_id": "U0105CS9G93"
+    },
+    {
+        "client_msg_id": "b716dcd0-45b0-4d11-99a9-8d4e648fdd7b",
+        "type": "message",
+        "text": "<http://pmo.gov|pmo.gov>.et/corona",
+        "user": "U010LJ2BUCW",
+        "ts": "1585049110.247200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pMOSJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http://pmo.gov",
+                                "text": "pmo.gov"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".et/corona"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584988648.213600",
+        "parent_user_id": "U0105CS9G93"
+    },
+    {
+        "client_msg_id": "6e24ea10-32bb-430e-bbc9-2c9ccdaf8434",
+        "type": "message",
+        "text": "Cool",
+        "user": "UV8B0679P",
+        "ts": "1585049314.247400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O/5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584988648.213600",
+        "parent_user_id": "U0105CS9G93"
+    },
+    {
+        "client_msg_id": "476032e6-fc87-4d1b-afb7-0b2f1b826b30",
+        "type": "message",
+        "text": "The data is not synced with the surveillance stack, right? It\u2019s a manual data entry right now?",
+        "user": "UV8B0679P",
+        "ts": "1585049341.247600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "UV8B0679P",
+            "ts": "1585049526.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5cn+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The data is not synced with the surveillance stack, right? It\u2019s a manual data entry right now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584988648.213600",
+        "parent_user_id": "U0105CS9G93"
+    },
+    {
+        "client_msg_id": "a792465f-b0a8-4f13-9862-a299e7b7f3aa",
+        "type": "message",
+        "text": "<@UV8B0679P> thanks! i saw that, thanks a bunch!\n<@UVB9ZSPCH> and <@U010GM0PVTJ> I will message you.",
+        "user": "U01017GFFB4",
+        "ts": "1585054589.248500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mBlP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks! i saw that, thanks a bunch!\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVB9ZSPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010GM0PVTJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I will message you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584977480.195000",
+        "parent_user_id": "U01017GFFB4"
+    },
+    {
+        "client_msg_id": "e843d092-2592-4ccb-8be9-fa73264ae859",
+        "type": "message",
+        "text": "Don\u2019t know about that",
+        "user": "U010LJ2BUCW",
+        "ts": "1585057451.248900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t+1d=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don\u2019t know about that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584988648.213600",
+        "parent_user_id": "U0105CS9G93"
+    },
+    {
+        "client_msg_id": "9269cc8a-ca68-4fae-9fc5-35f4ef8f8ff8",
+        "type": "message",
+        "text": "hello everyone",
+        "user": "U0107LPNJLU",
+        "ts": "1585057582.249500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G5yH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello everyone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5bac27e3-e38e-4b61-9a33-20f1b5662360",
+        "type": "message",
+        "text": "The most important thing is to have a unified source of data for orgs to communicate with each other",
+        "user": "U010LJ2BUCW",
+        "ts": "1585057681.249600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nxr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The most important thing is to have a unified source of data for orgs to communicate with each other"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584988648.213600",
+        "parent_user_id": "U0105CS9G93"
+    },
+    {
+        "client_msg_id": "a7b0e75b-96a2-48e8-880d-421941bed653",
+        "type": "message",
+        "text": "Would be nice, i have tried some days ago,   it\u2019s not open to public, should be owned by a German company called D4L\u2026if we could only have access to the training data\u2026",
+        "user": "U010KAM1U4E",
+        "ts": "1585061856.250900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l2sN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would be nice, i have tried some days ago,   it\u2019s not open to public, should be owned by a German company called D4L\u2026if we could only have access to the training data\u2026"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585013482.234600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "8FAA56C7-2AA4-4C51-BA4E-7B1FB1E17D30",
+        "type": "message",
+        "text": "<@U01017GFFB4> let\u2019s get it going!",
+        "user": "UVB9ZSPCH",
+        "ts": "1585063033.251800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KFPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01017GFFB4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let\u2019s get it going!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584977480.195000",
+        "parent_user_id": "U01017GFFB4"
+    },
+    {
+        "client_msg_id": "c60bd5e5-6d99-4592-b63f-5e9b517094ce",
+        "type": "message",
+        "text": "This one is official from Charite (I presume). I am thinking about how we can deliver this to a larger audience. I learned that other countries are doing the same thing",
+        "user": "U010APHG8Q1",
+        "ts": "1585071148.257000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHcLm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This one is official from Charite (I presume). I am thinking about how we can deliver this to a larger audience. I learned that other countries are doing the same thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585013482.234600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "b7e162b5-6403-4815-bd79-ce29107c142b",
+        "type": "message",
+        "text": "Hi all- wanted to ask if anyone had any info on how one could go about increasing production of test kits? I feel as though testing is the best way forward for Ethiopia given the difficulty of social distancing and the lack of economic cushions for most ppl so we can't realistically go on lockdown and expect peace. So perhaps, we can be innovative and test + isolate more? If anyone can tell me more about the test kits via DM would appreciate (clueless econ major but willing to put in the work)",
+        "user": "U0102QX78GH",
+        "ts": "1585075477.259400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vl1Wq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all- wanted to ask if anyone had any info on how one could go about increasing production of test kits? I feel as though testing is the best way forward for Ethiopia given the difficulty of social distancing and the lack of economic cushions for most ppl so we can't realistically go on lockdown and expect peace. So perhaps, we can be innovative and test + isolate more? If anyone can tell me more about the test kits via DM would appreciate (clueless econ major but willing to put in the work)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585075477.259400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585078473.264000",
+        "reply_users": [
+            "U0106M26108",
+            "U010KLXDR1B"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UVALWD1MG",
+                    "U01078QCG2C",
+                    "U010M1E09B7"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d50d4a96-79a6-4abb-a987-4fffe311986f",
+        "type": "message",
+        "text": "Nice .. seems helpful",
+        "user": "U010NURE9T2",
+        "ts": "1585077680.259700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MdV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice .. seems helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585013482.234600",
+        "parent_user_id": "U010APHG8Q1"
+    },
+    {
+        "client_msg_id": "349f4c02-d447-4cf0-8c2c-cde8d54a941b",
+        "type": "message",
+        "text": "<#C010J0503QD|proj-testing-kits>",
+        "user": "U0106M26108",
+        "ts": "1585077697.259900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V7/Gd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C010J0503QD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585075477.259400",
+        "parent_user_id": "U0102QX78GH"
+    },
+    {
+        "client_msg_id": "7da09509-ad50-44f4-8bd2-39bae76e6040",
+        "type": "message",
+        "text": "<@U0102QX78GH> Check this out ..<https://global.infervision.com/> ... It's a company that's using  AI and CT Scans to detect corona virus  much faster than with RT-PCR",
+        "user": "U010KLXDR1B",
+        "ts": "1585078473.264000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Infervision ",
+                "title_link": "https://global.infervision.com/",
+                "text": "Infervision -Beijing Infervision Technology Co., Ltd. is a world's leading high-tech enterprise in medical artificial intelligence.",
+                "fallback": "Infervision ",
+                "from_url": "https://global.infervision.com/",
+                "service_icon": "https://global.infervision.com/favicon.ico",
+                "service_name": "global.infervision.com",
+                "id": 1,
+                "original_url": "https://global.infervision.com/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pv=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0102QX78GH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Check this out .."
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://global.infervision.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ... It's a company that's using  AI and CT Scans to detect corona virus  much faster than with RT-PCR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585075477.259400",
+        "parent_user_id": "U0102QX78GH"
+    },
+    {
+        "client_msg_id": "43c761c5-696f-4a31-b6fb-f80c4ca576b5",
+        "type": "message",
+        "text": "+1 on this. Would be awesome to have a centralized onboarding document or one-pager on purpose/goals to share with external stakeholders -- is this what you're talking about <@UV8B0679P>? If not would be more than happy to put it together.",
+        "user": "U010N7HGNNR",
+        "ts": "1585080483.264700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "79m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 on this. Would be awesome to have a centralized onboarding document or one-pager on purpose/goals to share with external stakeholders -- is this what you're talking about "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? If not would be more than happy to put it together."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998577.220300",
+        "parent_user_id": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "a56ad8eb-8ae0-41e4-bb30-72b7a2fde540",
+        "type": "message",
+        "text": "Yes",
+        "user": "UV8B0679P",
+        "ts": "1585080598.264900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GYgYq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998577.220300",
+        "parent_user_id": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "52e251c2-58a1-4d7c-84ab-c84447625a58",
+        "type": "message",
+        "text": "<@U010N7HGNNR> - \u201cStart here\u2026\u201d type of thing",
+        "user": "UV8B0679P",
+        "ts": "1585080616.265100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Hr7U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010N7HGNNR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - \u201cStart here\u2026\u201d type of thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998577.220300",
+        "parent_user_id": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "ad25a2c9-a475-47ba-a210-3d05f2085474",
+        "type": "message",
+        "text": "May be a bot",
+        "user": "UV8B0679P",
+        "ts": "1585080620.265300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oLq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "May be a bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584998577.220300",
+        "parent_user_id": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "12aeb374-440e-45b8-b7b0-e3f924b3415f",
+        "type": "message",
+        "text": "Hi Guys, I am new to the group.  This tool is a great find",
+        "user": "U010PF746SY",
+        "ts": "1585089636.267100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LyP=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Guys, I am new to the group.  This tool is a great find"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584816890.060100",
+        "parent_user_id": "U010FJJH4DC"
+    },
+    {
+        "client_msg_id": "45d0dc9a-cacd-4a7c-abbc-650d1847ca36",
+        "type": "message",
+        "text": "To get the full benefit, an experienced epidemiologist needs to be giving input.\n\nAt the moment most cases are imported, and not community transmitted\n\nHowever for sure there are community transmitted cases lurking undetected\n\nThere is testing for improving medical outcomes, and there is testing for good surveillance data\n\nI will write a discussion paper about testing strategy and post here",
+        "user": "U010PF746SY",
+        "ts": "1585089903.267300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YuU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To get the full benefit, an experienced epidemiologist needs to be giving input.\n\nAt the moment most cases are imported, and not community transmitted\n\nHowever for sure there are community transmitted cases lurking undetected\n\nThere is testing for improving medical outcomes, and there is testing for good surveillance data\n\nI will write a discussion paper about testing strategy and post here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584816890.060100",
+        "parent_user_id": "U010FJJH4DC"
+    },
+    {
+        "type": "message",
+        "text": "Hope we can get a discussion group together to come up with a plan that can work in Addis",
+        "files": [
+            {
+                "id": "F010E28M4HX",
+                "created": 1585093924,
+                "timestamp": 1585093924,
+                "name": "Covid testing discussion paper.pdf",
+                "title": "Covid testing discussion paper.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010PF746SY",
+                "editable": false,
+                "size": 474098,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010E28M4HX/covid_testing_discussion_paper.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010E28M4HX/download/covid_testing_discussion_paper.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F010E28M4HX-5b43497605/covid_testing_discussion_paper_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010PF746SY/F010E28M4HX/covid_testing_discussion_paper.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010E28M4HX-a2564432ab",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zjs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hope we can get a discussion group together to come up with a plan that can work in Addis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010PF746SY",
+        "display_as_bot": false,
+        "ts": "1585093933.267500",
+        "client_msg_id": "25674513-9388-49f8-921f-cc6c7768381f",
+        "thread_ts": "1584816890.060100",
+        "parent_user_id": "U010FJJH4DC",
+        "pinned_to": [
+            "C0104D5J3T2"
+        ],
+        "pinned_info": {
+            "channel": "C0104D5J3T2",
+            "pinned_by": "U010PF746SY",
+            "pinned_ts": 1585095479
+        }
+    }
+]

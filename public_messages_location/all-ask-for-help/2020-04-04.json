@@ -1,0 +1,1422 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I was trying to acess the <http://api.pmo.gov.et/v1/patients|api.pmo.gov.et/v1/patients> api and I'm getting CORS blocked Error.  Currently, I'm bypassing it with proxy. I thought this kind of api was supposed to be fully public and has to allow all origins. Any suggestions ?",
+        "user": "U0112B1TNQ7",
+        "ts": "1585976033.145700",
+        "thread_ts": "1585567644.081300",
+        "root": {
+            "client_msg_id": "d08aaeda-7cb2-42aa-a92f-688d7427710a",
+            "type": "message",
+            "text": "I am currently working on EthCovid19Track App for Android, and anyone who is behind this Case Api Endpoints <https://api.pmo.gov.et/v1/cases/> can you guys add the following parameters also, it will be helpful. Thanks for exposing the API to public and third-party app developers.\nDays Since Start, Total Cases, Deaths, Recovered, Active Cases, Region.\n\n\u2022 Days Since Start - show the number of days between the first report of a case of coronavirus in that region and today.\n\u2022 Total Cases - show the number of confirmed cases from the first report till now at the national level\n\u2022 Deaths - show the number of deceased at the national level\n\u2022 Recovered - show the number of recoveries at the national level\n\u2022 Active Cases - show the number of cases (Total - Recovered) at the national level\n\u2022 Region - show the affected region/state so far, the number of cases at the region/state level and the location information.\n```[\n\t{\n\t\t\"start\": 1583971200,\n\t\t\"total\": 23,\n\t\t\"stable\": 18,\n\t\t\"critical\": 1,\n\t\t\"recovered\": 3,\n\t\t\"deceased\": 0,\n\t\t\"regions\": [\n\t\t\t{\n\t\t\t\t\"region\": \"Addis Ababa\",\n\t\t\t\t\"coordinates\": [9.005401, 38.763611],\n\t\t\t\t\"total\": 18\n\t\t\t},\n\t\t\t{\n\t\t\t\t\"region\": \"Oromiya\",\n\t\t\t\t\"coordinates\": [8.514477, 39.269257],\n\t\t\t\t\"total\": 5\n\t\t\t}\n\t\t]\n\t}```",
+            "user": "U010N2S4RUJ",
+            "ts": "1585567644.081300",
+            "team": "TV5KELEUS",
+            "edited": {
+                "user": "U010N2S4RUJ",
+                "ts": "1585577589.000000"
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XMku",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I am currently working on EthCovid19Track App for Android, and anyone who is behind this Case Api Endpoints "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://api.pmo.gov.et/v1/cases/"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " can you guys add the following parameters also, it will be helpful. Thanks for exposing the API to public and third-party app developers.\nDays Since Start, Total Cases, Deaths, Recovered, Active Cases, Region.\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Days Since Start - show the number of days between the first report of a case of coronavirus in that region and today."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Total Cases - show the number of confirmed cases from the first report till now at the national level"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Deaths - show the number of deceased at the national level"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Recovered - show the number of recoveries at the national level"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Active Cases - show the number of cases (Total - Recovered) at the national level"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Region - show the affected region/state so far, the number of cases at the region/state level and the location information."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "[\n\t{\n\t\t\"start\": 1583971200,\n\t\t\"total\": 23,\n\t\t\"stable\": 18,\n\t\t\"critical\": 1,\n\t\t\"recovered\": 3,\n\t\t\"deceased\": 0,\n\t\t\"regions\": [\n\t\t\t{\n\t\t\t\t\"region\": \"Addis Ababa\",\n\t\t\t\t\"coordinates\": [9.005401, 38.763611],\n\t\t\t\t\"total\": 18\n\t\t\t},\n\t\t\t{\n\t\t\t\t\"region\": \"Oromiya\",\n\t\t\t\t\"coordinates\": [8.514477, 39.269257],\n\t\t\t\t\"total\": 5\n\t\t\t}\n\t\t]\n\t}"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1585567644.081300",
+            "reply_count": 5,
+            "reply_users_count": 4,
+            "latest_reply": "1586249766.240700",
+            "reply_users": [
+                "UV81AMFSP",
+                "U010N2S4RUJ",
+                "U0112B1TNQ7",
+                "U010LJ2BUCW"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QfEL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was trying to acess the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://api.pmo.gov.et/v1/patients",
+                                "text": "api.pmo.gov.et/v1/patients"
+                            },
+                            {
+                                "type": "text",
+                                "text": " api and I'm getting CORS blocked Error.  Currently, I'm bypassing it with proxy. I thought this kind of api was supposed to be fully public and has to allow all origins. Any suggestions ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a9110487-f926-4e7d-83bb-fd4224b787c1"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Same problem I am facing here when trying to access the Case Api Endpoints this morning.\n\"This site can\u2019t be reached <http://api.pmo.gov.et|api.pmo.gov.et> took too long to respond\".\nCan someone explain the problem and how to fix it?",
+        "user": "U010N2S4RUJ",
+        "ts": "1585987004.146300",
+        "thread_ts": "1585567644.081300",
+        "root": {
+            "client_msg_id": "d08aaeda-7cb2-42aa-a92f-688d7427710a",
+            "type": "message",
+            "text": "I am currently working on EthCovid19Track App for Android, and anyone who is behind this Case Api Endpoints <https://api.pmo.gov.et/v1/cases/> can you guys add the following parameters also, it will be helpful. Thanks for exposing the API to public and third-party app developers.\nDays Since Start, Total Cases, Deaths, Recovered, Active Cases, Region.\n\n\u2022 Days Since Start - show the number of days between the first report of a case of coronavirus in that region and today.\n\u2022 Total Cases - show the number of confirmed cases from the first report till now at the national level\n\u2022 Deaths - show the number of deceased at the national level\n\u2022 Recovered - show the number of recoveries at the national level\n\u2022 Active Cases - show the number of cases (Total - Recovered) at the national level\n\u2022 Region - show the affected region/state so far, the number of cases at the region/state level and the location information.\n```[\n\t{\n\t\t\"start\": 1583971200,\n\t\t\"total\": 23,\n\t\t\"stable\": 18,\n\t\t\"critical\": 1,\n\t\t\"recovered\": 3,\n\t\t\"deceased\": 0,\n\t\t\"regions\": [\n\t\t\t{\n\t\t\t\t\"region\": \"Addis Ababa\",\n\t\t\t\t\"coordinates\": [9.005401, 38.763611],\n\t\t\t\t\"total\": 18\n\t\t\t},\n\t\t\t{\n\t\t\t\t\"region\": \"Oromiya\",\n\t\t\t\t\"coordinates\": [8.514477, 39.269257],\n\t\t\t\t\"total\": 5\n\t\t\t}\n\t\t]\n\t}```",
+            "user": "U010N2S4RUJ",
+            "ts": "1585567644.081300",
+            "team": "TV5KELEUS",
+            "edited": {
+                "user": "U010N2S4RUJ",
+                "ts": "1585577589.000000"
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XMku",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I am currently working on EthCovid19Track App for Android, and anyone who is behind this Case Api Endpoints "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://api.pmo.gov.et/v1/cases/"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " can you guys add the following parameters also, it will be helpful. Thanks for exposing the API to public and third-party app developers.\nDays Since Start, Total Cases, Deaths, Recovered, Active Cases, Region.\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Days Since Start - show the number of days between the first report of a case of coronavirus in that region and today."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Total Cases - show the number of confirmed cases from the first report till now at the national level"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Deaths - show the number of deceased at the national level"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Recovered - show the number of recoveries at the national level"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Active Cases - show the number of cases (Total - Recovered) at the national level"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Region - show the affected region/state so far, the number of cases at the region/state level and the location information."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "[\n\t{\n\t\t\"start\": 1583971200,\n\t\t\"total\": 23,\n\t\t\"stable\": 18,\n\t\t\"critical\": 1,\n\t\t\"recovered\": 3,\n\t\t\"deceased\": 0,\n\t\t\"regions\": [\n\t\t\t{\n\t\t\t\t\"region\": \"Addis Ababa\",\n\t\t\t\t\"coordinates\": [9.005401, 38.763611],\n\t\t\t\t\"total\": 18\n\t\t\t},\n\t\t\t{\n\t\t\t\t\"region\": \"Oromiya\",\n\t\t\t\t\"coordinates\": [8.514477, 39.269257],\n\t\t\t\t\"total\": 5\n\t\t\t}\n\t\t]\n\t}"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1585567644.081300",
+            "reply_count": 5,
+            "reply_users_count": 4,
+            "latest_reply": "1586249766.240700",
+            "reply_users": [
+                "UV81AMFSP",
+                "U010N2S4RUJ",
+                "U0112B1TNQ7",
+                "U010LJ2BUCW"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M8A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same problem I am facing here when trying to access the Case Api Endpoints this morning.\n\"This site can\u2019t be reached api.pmo.gov.et took too long to respond\".\nCan someone explain the problem and how to fix it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "719d79ec-15fd-43f3-9082-1b554c8e10bf"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011EKF1ECC",
+                "created": 1585987181,
+                "timestamp": 1585987181,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010N2S4RUJ",
+                "editable": false,
+                "size": 26666,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011EKF1ECC/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011EKF1ECC/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011EKF1ECC-cd39f71fcd/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011EKF1ECC-cd39f71fcd/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011EKF1ECC-cd39f71fcd/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 79,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011EKF1ECC-cd39f71fcd/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 106,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011EKF1ECC-cd39f71fcd/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011EKF1ECC-cd39f71fcd/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 159,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011EKF1ECC-cd39f71fcd/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 177,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011EKF1ECC-cd39f71fcd/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 212,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011EKF1ECC-cd39f71fcd/image_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 226,
+                "image_exif_rotation": 1,
+                "original_w": 1151,
+                "original_h": 254,
+                "thumb_tiny": "AwAKADBPtz9v5U9NQIz5gJ9MVSPSkNFwNH+0k/55v+Yo/tJP7j/mKzaKANH+0Vz9xselL/aSf883rN7UUAf/2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010N2S4RUJ/F011EKF1ECC/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011EKF1ECC-f1df24e91a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U010N2S4RUJ",
+        "display_as_bot": false,
+        "ts": "1585987187.146700",
+        "client_msg_id": "9208bd70-191b-4ecb-8117-0cd91da582a2"
+    },
+    {
+        "client_msg_id": "4a3d3b6b-aa91-4ac2-bc5a-628ee62acda9",
+        "type": "message",
+        "text": "<@UV81AMFSP> this is Senay from PMO, we have been configuring jitsi and faced an issue. black screen and no audio with more than 2 participants and when in different networks even for 2 participants",
+        "user": "U0115DWP9T9",
+        "ts": "1585987876.147300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0115DWP9T9",
+            "ts": "1585989455.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ULc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV81AMFSP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is Senay from PMO, we have been configuring jitsi and faced an issue. black screen and no audio with more than 2 participants and when in different networks even for 2 participants"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585588875.088500",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "e18c727e-26b2-48f8-ac14-6ff8f465b626",
+        "type": "message",
+        "text": "anyone familiar with this problem?",
+        "user": "U0115DWP9T9",
+        "ts": "1585987954.147500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "49Mh7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "anyone familiar with this problem?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585588875.088500",
+        "parent_user_id": "UV81AMFSP"
+    },
+    {
+        "client_msg_id": "801b8ebb-f107-4887-a8bd-46fa3a5c9181",
+        "type": "message",
+        "text": "A joint effort by Brukty of Whiz Kids Workshop and Robel Alemu is roling out a Addis wide mobilzation for the sewing of masks for the whole population of Addis",
+        "user": "U010PF746SY",
+        "ts": "1585988110.149500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7GAIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A joint effort by Brukty of Whiz Kids Workshop and Robel Alemu is roling out a Addis wide mobilzation for the sewing of masks for the whole population of Addis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585988110.149500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585996991.158800",
+        "reply_users": [
+            "U010UM8QBQA"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011EKN6G3E",
+                "created": 1585988125,
+                "timestamp": 1585988125,
+                "name": "Covid-19 DIY Masks Program.pdf",
+                "title": "Covid-19 DIY Masks Program.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010PF746SY",
+                "editable": false,
+                "size": 748344,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011EKN6G3E/covid-19_diy_masks_program.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011EKN6G3E/download/covid-19_diy_masks_program.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F011EKN6G3E-191f78303e/covid-19_diy_masks_program_thumb_pdf.png",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010PF746SY/F011EKN6G3E/covid-19_diy_masks_program.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011EKN6G3E-aa9d696c03",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U010PF746SY",
+        "display_as_bot": false,
+        "ts": "1585988136.149600",
+        "client_msg_id": "56909c48-e4bc-46b9-9339-7388358590f9"
+    },
+    {
+        "client_msg_id": "3dea8fdb-212a-4816-b4c2-746130a31962",
+        "type": "message",
+        "text": "The mobilization co-ordinator is ASTRID Emming who is online from 9am to 7pm European time",
+        "user": "U010PF746SY",
+        "ts": "1585988210.151000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DRAV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The mobilization co-ordinator is ASTRID Emming who is online from 9am to 7pm European time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4269fa46-9590-490f-be9d-5cc8e3333166",
+        "type": "message",
+        "text": "All workshops, and sewing shops through the Addis area, please register your location and capabilities with a DM message to Astrid",
+        "user": "U010PF746SY",
+        "ts": "1585988300.152500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "koDKq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All workshops, and sewing shops through the Addis area, please register your location and capabilities with a DM message to Astrid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cbee5ab5-c213-4d6d-ac2c-49a698cd1cf3",
+        "type": "message",
+        "text": "Astrid has reached out to Haniccha to be one of the lead workshops for this mobilization",
+        "user": "U010PF746SY",
+        "ts": "1585988354.153400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A87G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Astrid has reached out to Haniccha to be one of the lead workshops for this mobilization"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c578bb74-00b7-4fcb-b323-501b39d9a539",
+        "type": "message",
+        "text": "We will roll out this urban mobilization to other cities as well",
+        "user": "U010PF746SY",
+        "ts": "1585988401.154000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Vb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We will roll out this urban mobilization to other cities as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2ebdc4b3-2e08-476d-8818-f43145a462ff",
+        "type": "message",
+        "text": "Can someone give a list of clothing manufacturers in Addis as well.  We imagine them to be busy with government orders for first responders and health care workers",
+        "user": "U010PF746SY",
+        "ts": "1585988522.155400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DS9n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can someone give a list of clothing manufacturers in Addis as well.  We imagine them to be busy with government orders for first responders and health care workers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56987408-16d7-43c7-b4cc-8719646328cd",
+        "type": "message",
+        "text": "I t would be great if some one in Addis can be the Addis co-ordinator for this mobilization, some one who can check their slack account every 30 mins\n\nThis Addis Co-ordinator should have a Whats App group with all of the workshops who can particapate in this mobilization",
+        "user": "U010PF746SY",
+        "ts": "1585988700.158000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JRBGk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I t would be great if some one in Addis can be the Addis co-ordinator for this mobilization, some one who can check their slack account every 30 mins\n\nThis Addis Co-ordinator should have a Whats App group with all of the workshops who can particapate in this mobilization"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585988700.158000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586009637.159500",
+        "reply_users": [
+            "UVAL943JP"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "afe08006-2264-4377-8393-63cad3bbd089",
+        "type": "message",
+        "text": "Great stuff <@U010PF746SY> unfortunately I don\u2019t have this much time to commit, but its a great presentation-- probably also belongs in <#C010GQUEBSQ|proj-diy-gear>",
+        "user": "U010UM8QBQA",
+        "ts": "1585996991.158800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D8nWp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great stuff "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010PF746SY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " unfortunately I don\u2019t have this much time to commit, but its a great presentation-- probably also belongs in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010GQUEBSQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585988110.149500",
+        "parent_user_id": "U010PF746SY"
+    },
+    {
+        "client_msg_id": "1FFE3EB9-C7AA-4570-84FD-9F1B999A5901",
+        "type": "message",
+        "text": "<@U0107JERE9L> ",
+        "user": "UVAL943JP",
+        "ts": "1586009637.159500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dpvCG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585988700.158000",
+        "parent_user_id": "U010PF746SY"
+    },
+    {
+        "client_msg_id": "D39DB641-3185-4588-8211-F03A878C9D06",
+        "type": "message",
+        "text": "Hi folks. \n\n\nA friend shared a resource I wanted to pass along in case it\u2019s of any interest to folks. An app just launched called \"I-report Covid\", which is a self report tool for people to fill out around the world! It uses blockchain technology and will become an open database for anyone to use in real time and study this pandemic going forward. The goal is to help build an open global database to fight COVID-19! The team is beginning to translate the tool into multiple languages and Is interested in collaborating with anyone and everyone if it is of use. \n<https://ireport-covid.app/|https://ireport-covid.app/>\n#ireportcovid",
+        "user": "U0107DX4VNU",
+        "ts": "1586012368.168000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "COVID-19 Worldwide Survey - IReport-Covid App",
+                "title_link": "https://ireport-covid.app/",
+                "text": "Short anonymous survey - open to all, powered by Algorand blockchain",
+                "fallback": "COVID-19 Worldwide Survey - IReport-Covid App",
+                "image_url": "https://ireport-covid.app/og2-3840x1920.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https://ireport-covid.app/",
+                "image_bytes": 706007,
+                "service_icon": "https://ireport-covid.app/apple-touch-icon.png",
+                "service_name": "ireport-covid.app",
+                "id": 1,
+                "original_url": "https://ireport-covid.app/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lJw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi folks. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA friend shared a resource I wanted to pass along in case it\u2019s of any interest to folks. An app just launched called \"I-report Covid\", which is a self report tool for people to fill out around the world! It uses blockchain technology and will become an open database for anyone to use in real time and study this pandemic going forward. The goal is to help build an open global database to fight COVID-19! The team is beginning to translate the tool into multiple languages and Is interested in collaborating with anyone and everyone if it is of use. \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ireport-covid.app/",
+                                "text": "https://ireport-covid.app/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n#ireportcovid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01069Z58V8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0d6d169-da7a-4a00-be8d-66f48b53f28e",
+        "type": "message",
+        "text": "To organisations and individuals working at the forefront of fighting COVID19 in Ethiopia, please share with us if you have any data analysis, visualisation and modelling problems/challenges relevant to your effort. At the moment I and <@U011FFEFB2L> are working on estimating high risk groups using data from <http://www9.who.int/gho/en/|WHO>, <https://data.humdata.org/dataset|HDX>, and  <https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data|covid19 cases> data.  It would be ideal if we can focus our energy in producing results that is relevant to your decision making",
+        "user": "U010L1RJMUN",
+        "ts": "1586012427.168300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "World Health Organization",
+                "title": "Global Health Observatory (GHO) data",
+                "title_link": "http://www9.who.int/gho/en/",
+                "text": "The Global Health Observatory is WHO's gateway to health-related statistics for more than 1000 indicators for its 194 Member States. Data are organized to monitor progress towards the Sustainable Development Goals (SDGs), including health status indicators to monitor progress towards for the overall health goal, indicators to track equity in health indicators, and the indicators for the specific health and health-related targets of the SDGs.",
+                "fallback": "World Health Organization: Global Health Observatory (GHO) data",
+                "image_url": "http://www.who.int/entity/gho/homepage2/sdg-home.jpg",
+                "image_width": 477,
+                "image_height": 250,
+                "from_url": "http://www9.who.int/gho/en/",
+                "image_bytes": 274829,
+                "service_icon": "http://www9.who.int/sysmedia/media/resources/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "http://www9.who.int/gho/en/"
+            },
+            {
+                "title": "Search for a Dataset - Humanitarian Data Exchange",
+                "title_link": "https://data.humdata.org/dataset",
+                "fallback": "Search for a Dataset - Humanitarian Data Exchange",
+                "image_url": "http://data.humdata.org/images/hxl_fb-01.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https://data.humdata.org/dataset",
+                "image_bytes": 32152,
+                "service_icon": "https://data.humdata.org/images/icons/hdx.ico",
+                "service_name": "data.humdata.org",
+                "id": 2,
+                "original_url": "https://data.humdata.org/dataset"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "efc4o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To organisations and individuals working at the forefront of fighting COVID19 in Ethiopia, please share with us if you have any data analysis, visualisation and modelling problems/challenges relevant to your effort. At the moment I and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011FFEFB2L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are working on estimating high risk groups using data from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://www9.who.int/gho/en/",
+                                "text": "WHO"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://data.humdata.org/dataset",
+                                "text": "HDX"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data",
+                                "text": "covid19 cases"
+                            },
+                            {
+                                "type": "text",
+                                "text": " data.  It would be ideal if we can focus our energy in producing results that is relevant to your decision making"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586012427.168300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586067900.197600",
+        "reply_users": [
+            "U0116DL92E9"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01069Z58V8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!here> ask for help! \n\nCan we please have a doctor / epidemiologist review the content we\u2019ve put together for the <http://COVID19.et|COVID19.et> website landing page? \n\nThis is the site that our tv/radio/digital ads will direct people to. We need your review today in English before we can get it to translated to Ethiopian languages. Content: <https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg|https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg> please feel free to edit directly in the doc using \u201csuggesting\u201d mode. And comment me in with any general feedback / questions. ",
+        "files": [
+            {
+                "id": "F01180RG71V",
+                "created": 1585699490,
+                "timestamp": 1585699490,
+                "name": "covid19",
+                "title": "@Hewan2",
+                "mimetype": "application/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "GSuite Document",
+                "user": "U0107AYF16H",
+                "editable": false,
+                "size": 3,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg/edit?usp=sharing",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_360.png",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_480.png",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_720.png",
+                "thumb_720_w": 557,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_960.png",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_1024.png",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 1035,
+                "thumb_tiny": "AwAwACXSLYNGSeg/WkJOe9Lg+poAWigfWigAooooAYykt0oCtTjjPOaMccfzoATBpcN60DI7D86WgAFFFFAAelMp5pMe5oAb+VL+VOx70mKAFHSiiigD/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107AYF16H/F01180RG71V/covid19",
+                "is_starred": false,
+                "external_id": "1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg",
+                "external_url": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ob/S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ask for help! \n\nCan we please have a doctor / epidemiologist review the content we\u2019ve put together for the COVID19.et website landing page? \n\nThis is the site that our tv/radio/digital ads will direct people to. We need your review today in English before we can get it to translated to Ethiopian languages. Content: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg",
+                                "text": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please feel free to edit directly in the doc using \u201csuggesting\u201d mode. And comment me in with any general feedback / questions. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0107AYF16H",
+        "display_as_bot": false,
+        "x_files": [
+            "F01180RG71V"
+        ],
+        "ts": "1586028051.175200",
+        "client_msg_id": "BD6FFF4B-E319-4E9D-883D-2D9B125D9124",
+        "thread_ts": "1586028051.175200",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1586104139.203400",
+        "reply_users": [
+            "U0107AYF16H",
+            "U010U8HF7PY",
+            "U011J64BXCY",
+            "U011680TZL5"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "A4FA6CC1-8117-4D46-B9EC-4E5493C43C9F",
+        "type": "message",
+        "text": "FYI: Here is the current landing page design mock up -  <https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/|https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/>",
+        "user": "U0107AYF16H",
+        "ts": "1586028360.176700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Covid-Eth",
+                "title_link": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/",
+                "text": "6 Screens, Last modified on Apr 04, 2020 05:24 GMT",
+                "fallback": "Covid-Eth",
+                "thumb_url": "https://public-v2links.adobecc.com/7f29a9fe-14b8-4eff-7528-878e1ec9a9da/component?params=component_id%3Ab92895c1-1fe6-4517-ac18-631bf920ac42&params=version%3A35&token=1586114761_da39a3ee_3426c46e0122c762c8edcabb90e765edcd88fd7f&api_key=CometServer1",
+                "from_url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/",
+                "thumb_width": 960,
+                "thumb_height": 540,
+                "service_icon": "https://xd.adobe.com/static/images/xd_ios_webclip_192-b67df6d35882dc7f14c35c8a072b648cb164e4b6.png",
+                "service_name": "xd.adobe.com",
+                "id": 1,
+                "original_url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u4ZA8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI: Here is the current landing page design mock up -  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/",
+                                "text": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586028051.175200",
+        "parent_user_id": "U0107AYF16H"
+    },
+    {
+        "client_msg_id": "4269E8A8-7319-4530-9630-932A699EDE8F",
+        "type": "message",
+        "text": "<@U0107AYF16H> I made these suggestions before looking at the design mock up page. So, maybe some of the frequently asked questions I\u2019m suggesting can be integrated since the landing page design has a \u2018question-answer\u2019 format. ",
+        "user": "U010U8HF7PY",
+        "ts": "1586032153.179500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mer",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I made these suggestions before looking at the design mock up page. So, maybe some of the frequently asked questions I\u2019m suggesting can be integrated since the landing page design has a \u2018question-answer\u2019 format. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586028051.175200",
+        "parent_user_id": "U0107AYF16H"
+    },
+    {
+        "client_msg_id": "4B37F02F-9D0E-4820-BE65-CB0F88F02112",
+        "type": "message",
+        "text": "Hi, the landing page is quite well done. A few suggestions just to make sure we actually have people reading/not flipping through. \nWe should add two sections (adopted from ECDC and Canadian public health agency)\nA. Frequently asked questions \n- what is COVID-19? (A sentence is enough since it\u2019s clearly explained in the first part of the page)\n- where does COVID-19/coronaviruses come from (I have received SO many questions about this)\n- How is the COVID-19 compared to seasonal flu? \n- How severe is COVID-19 infection? \n- What is the best way of protecting myself and my family from COVID-19?\n- Are children also at risk of infection? What is their potential role in transmission? \n- What do I do if I am feeling anxious or stressed because of events related to COVID-19? \nOf course, more questions can be added. I realize some of the questions are already explained in the text, but we should provide a condensed text for these questions in this section. \n\nB. List of resources for reliable news/updates/ questions/emergency etc... I see Section 4 says resources, but I\u2019m not sure if these are included. \n",
+        "user": "U010U8HF7PY",
+        "ts": "1586032184.179800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZBc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, the landing page is quite well done. A few suggestions just to make sure we actually have people reading/not flipping through. \nWe should add two sections (adopted from ECDC and Canadian public health agency)\nA. Frequently asked questions \n- what is COVID-19? (A sentence is enough since it\u2019s clearly explained in the first part of the page)\n- where does COVID-19/coronaviruses come from (I have received SO many questions about this)\n- How is the COVID-19 compared to seasonal flu? \n- How severe is COVID-19 infection? \n- What is the best way of protecting myself and my family from COVID-19?\n- Are children also at risk of infection? What is their potential role in transmission? \n- What do I do if I am feeling anxious or stressed because of events related to COVID-19? \nOf course, more questions can be added. I realize some of the questions are already explained in the text, but we should provide a condensed text for these questions in this section. \n\nB. List of resources for reliable news/updates/ questions/emergency etc... I see Section 4 says resources, but I\u2019m not sure if these are included. \n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586028051.175200",
+        "parent_user_id": "U0107AYF16H"
+    },
+    {
+        "client_msg_id": "7B0C5EC5-50BC-4059-AFF5-5695CDB4A18D",
+        "type": "message",
+        "text": "Happy to integrate the new questions. Do you have feedback on the answers in our doc",
+        "user": "U0107AYF16H",
+        "ts": "1586032932.181000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SpO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to integrate the new questions. Do you have feedback on the answers in our doc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586028051.175200",
+        "parent_user_id": "U0107AYF16H"
+    },
+    {
+        "client_msg_id": "EF159569-D538-4E76-A98D-432772863414",
+        "type": "message",
+        "text": "Feedback on the answers you have already provided on the doc? All looks good. Or do you want me to provide answers to the new questions that I suggested? ",
+        "user": "U010U8HF7PY",
+        "ts": "1586034360.183400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sF6r0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feedback on the answers you have already provided on the doc? All looks good. Or do you want me to provide answers to the new questions that I suggested? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586028051.175200",
+        "parent_user_id": "U0107AYF16H"
+    },
+    {
+        "client_msg_id": "42944D8C-CF10-4F71-B523-8A7D4D85241A",
+        "type": "message",
+        "text": "Actually both would be great :pray::skin-tone-5:",
+        "user": "U0107AYF16H",
+        "ts": "1586034586.184000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TrI5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually both would be great "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586028051.175200",
+        "parent_user_id": "U0107AYF16H"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<http://TENA.ET|TENA.ET> \u2013 \u12e8\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1270\u1320\u1242\u12ce\u127d \u1363 \u121f\u127e\u127d \u12a5\u1293 \u12eb\u1308\u1308\u1219 \u1230\u12ce\u127d \u1218\u1228\u1303\n<https://tena.et/update|https://tena.et/update> \n\n<https://tena.et/index.php|https://tena.et/index.php>\n\nDefinetly worth looking into what this group has been doing might be worth talking to them about their experiance they also have been doing weekly radio shows answering questions live amazing group. They also have translated the page in different local languages.",
+        "user": "U011J64BXCY",
+        "ts": "1586038774.189000",
+        "thread_ts": "1586028051.175200",
+        "root": {
+            "type": "message",
+            "text": "<!here> ask for help! \n\nCan we please have a doctor / epidemiologist review the content we\u2019ve put together for the <http://COVID19.et|COVID19.et> website landing page? \n\nThis is the site that our tv/radio/digital ads will direct people to. We need your review today in English before we can get it to translated to Ethiopian languages. Content: <https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg|https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg> please feel free to edit directly in the doc using \u201csuggesting\u201d mode. And comment me in with any general feedback / questions. ",
+            "files": [
+                {
+                    "id": "F01180RG71V",
+                    "created": 1585699490,
+                    "timestamp": 1585699490,
+                    "name": "covid19",
+                    "title": "@Hewan2",
+                    "mimetype": "application/vnd.google-apps.document",
+                    "filetype": "gdoc",
+                    "pretty_type": "GSuite Document",
+                    "user": "U0107AYF16H",
+                    "editable": false,
+                    "size": 3,
+                    "mode": "external",
+                    "is_external": true,
+                    "external_type": "gdrive",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg/edit?usp=sharing",
+                    "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_64.png",
+                    "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_80.png",
+                    "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_360.png",
+                    "thumb_360_w": 278,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_480.png",
+                    "thumb_480_w": 371,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_160.png",
+                    "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_720.png",
+                    "thumb_720_w": 557,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1035,
+                    "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_960.png",
+                    "thumb_960_w": 742,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F01180RG71V-25d3c0a868/covid19_1024.png",
+                    "thumb_1024_w": 791,
+                    "thumb_1024_h": 1024,
+                    "image_exif_rotation": 1,
+                    "original_w": 800,
+                    "original_h": 1035,
+                    "thumb_tiny": "AwAwACXSLYNGSeg/WkJOe9Lg+poAWigfWigAooooAYykt0oCtTjjPOaMccfzoATBpcN60DI7D86WgAFFFFAAelMp5pMe5oAb+VL+VOx70mKAFHSiiigD/9k=",
+                    "permalink": "https://ethiopia-covid19.slack.com/files/U0107AYF16H/F01180RG71V/covid19",
+                    "is_starred": false,
+                    "external_id": "1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg",
+                    "external_url": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg/edit?usp=sharing",
+                    "has_rich_preview": true
+                }
+            ],
+            "upload": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ob/S",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ask for help! \n\nCan we please have a doctor / epidemiologist review the content we\u2019ve put together for the COVID19.et website landing page? \n\nThis is the site that our tv/radio/digital ads will direct people to. We need your review today in English before we can get it to translated to Ethiopian languages. Content: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg",
+                                    "text": "https://docs.google.com/document/d/1qLluLfCydMnTBeQ3rRbh4Xp-ne1hXJ34rChLlmolqYg"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " please feel free to edit directly in the doc using \u201csuggesting\u201d mode. And comment me in with any general feedback / questions. "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "user": "U0107AYF16H",
+            "display_as_bot": false,
+            "x_files": [
+                "F01180RG71V"
+            ],
+            "ts": "1586028051.175200",
+            "client_msg_id": "BD6FFF4B-E319-4E9D-883D-2D9B125D9124",
+            "thread_ts": "1586028051.175200",
+            "reply_count": 10,
+            "reply_users_count": 4,
+            "latest_reply": "1586104139.203400",
+            "reply_users": [
+                "U0107AYF16H",
+                "U010U8HF7PY",
+                "U011J64BXCY",
+                "U011680TZL5"
+            ],
+            "subscribed": false
+        },
+        "attachments": [
+            {
+                "title": "\u12e8\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1270\u1320\u1242\u12ce\u127d \u1363 \u121f\u127e\u127d \u12a5\u1293 \u12eb\u1308\u1308\u1219  \u1230\u12ce\u127d \u1218\u1228\u1303 \u1240\u1325\u1273 \u12ed\u1218\u1208\u12a8\u1271",
+                "title_link": "https://tena.et/update",
+                "text": "\u12e8\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1270\u1320\u1242\u12ce\u127d \u1363 \u121f\u127e\u127d \u12a5\u1293 \u12eb\u1308\u1308\u1219 \u1230\u12ce\u127d \u1218\u1228\u1303 \u1240\u1325\u1273 \u12ed\u1218\u1208\u12a8\u1271",
+                "fallback": "\u12e8\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1270\u1320\u1242\u12ce\u127d \u1363 \u121f\u127e\u127d \u12a5\u1293 \u12eb\u1308\u1308\u1219  \u1230\u12ce\u127d \u1218\u1228\u1303 \u1240\u1325\u1273 \u12ed\u1218\u1208\u12a8\u1271",
+                "image_url": "https://tena.et/asset/img/tena_update.jpg",
+                "from_url": "https://tena.et/update",
+                "image_width": 508,
+                "image_height": 250,
+                "image_bytes": 275311,
+                "service_icon": "https://tena.et/asset/img/icons/favicon.png",
+                "service_name": "tena.et",
+                "id": 1,
+                "original_url": "https://tena.et/update"
+            },
+            {
+                "title": "TENA.ET \u2013 \u12a8\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u122b\u1235\u1295 \u1218\u1218\u122d\u1218\u122a\u12eb",
+                "title_link": "https://tena.et/index.php",
+                "text": "\u1260\u1240\u120b\u1209 \u122b\u1233\u127d\u1295\u1295 \u1260\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1218\u1320\u1243\u1273\u127d\u1295\u1295 \u12a5\u1295\u1218\u122d\u121d\u122d",
+                "fallback": "TENA.ET \u2013 \u12a8\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u122b\u1235\u1295 \u1218\u1218\u122d\u1218\u122a\u12eb",
+                "image_url": "https://tena.et/asset/img/tena-et-twitter.jpg",
+                "from_url": "https://tena.et/index.php",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 705870,
+                "service_icon": "https://tena.et/asset/img/icons/favicon.png",
+                "service_name": "tena.et",
+                "id": 2,
+                "original_url": "https://tena.et/index.php"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7kUAk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TENA.ET \u2013 \u12e8\u12ae\u122e\u1293 \u126b\u12ed\u1228\u1235 \u1270\u1320\u1242\u12ce\u127d \u1363 \u121f\u127e\u127d \u12a5\u1293 \u12eb\u1308\u1308\u1219 \u1230\u12ce\u127d \u1218\u1228\u1303\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://tena.et/update",
+                                "text": "https://tena.et/update"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://tena.et/index.php",
+                                "text": "https://tena.et/index.php"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Definetly worth looking into what this group has been doing might be worth talking to them about their experiance they also have been doing weekly radio shows answering questions live amazing group. They also have translated the page in different local languages."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6F70D262-B046-48BB-8C45-5D993214256D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010N2S4RUJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f3889d93-e974-4c48-95aa-57af4b8a32f3",
+        "type": "message",
+        "text": "A family member who is a doctor did some edits on my behalf about an hour ago. Shared on Google Docs.",
+        "user": "U0113PWT8BD",
+        "ts": "1586043169.190800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "flbKY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A family member who is a doctor did some edits on my behalf about an hour ago. Shared on Google Docs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

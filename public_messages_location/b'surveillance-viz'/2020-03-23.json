@@ -1,0 +1,1347 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584938004.002500",
+        "user": "U0106MECUD9",
+        "text": "<@U0106MECUD9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Hey Everyone\n\nThe past day or so I\u2019ve been meeting with some of the CommCare & JSI teams to get an understanding of the underlying data we will have access to when making our visualizations. This is data coming from forms reported to the Ministry of Health using JSI.\n\nSpecifically we\u2019ll be able to pull data from the 4 main forms: Port of Entry, Door to Door, Public, and Medical Center Reporting. The API team is working on an API service to grab data from all of these forms (shown in the green *Surveillance* box) and provide it on one hosted endpoint through AWS Lambda where the service will aggregate and reformat the data for us to use. I\u2019ve provided a diagram below of how this API gateway will work. The API team will share the appropriate url within the next day or so but for now I\u2019ve included files below which have the models and fields/attributes of the data we will be getting from three endpoints (Port of Entry & Door to Door Reporting are combined).\u00a0\n\nWe can import this data into ready-made web-based dashboard visualization like the <http://covid.fynsystems.com/> dashboard, other custom web dashboards, or find ways of exporting it for those who don\u2019t necessarily need or want to deal with an API but would like exports of the data. From there you can use whatever visualization tool (Tableau, ArcGIS, etc.) you like with the standardized exports.",
+        "files": [
+            {
+                "id": "F01087KB7DF",
+                "created": 1584945030,
+                "timestamp": 1584945030,
+                "name": "community-inspections.js",
+                "title": "community-inspections.js",
+                "mimetype": "text/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript/JSON",
+                "user": "U01078QCG2C",
+                "editable": true,
+                "size": 5484,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F01087KB7DF/community-inspections.js",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F01087KB7DF/download/community-inspections.js",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F01087KB7DF/community-inspections.js",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F01087KB7DF-d2f25eb8bc",
+                "edit_link": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F01087KB7DF/community-inspections.js/edit",
+                "preview": "const data = [\n  {\n    fullName: 'test',\n    sex: 'string',\n    age: 0,",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">const</span> <span class=\"cm-def\">data</span> <span class=\"cm-operator\">=</span> [</pre></div>\n<div><pre>  {</pre></div>\n<div><pre>    <span class=\"cm-property\">fullName</span>: <span class=\"cm-string\">'test'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">sex</span>: <span class=\"cm-string\">'string'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">age</span>: <span class=\"cm-number\">0</span>,</pre></div>\n</div>\n</div>\n",
+                "lines": 243,
+                "lines_more": 238,
+                "preview_is_truncated": true,
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F010LFJH086",
+                "created": 1584945030,
+                "timestamp": 1584945030,
+                "name": "community.js",
+                "title": "community.js",
+                "mimetype": "text/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript/JSON",
+                "user": "U01078QCG2C",
+                "editable": true,
+                "size": 5484,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010LFJH086/community.js",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010LFJH086/download/community.js",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F010LFJH086/community.js",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010LFJH086-951320116f",
+                "edit_link": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F010LFJH086/community.js/edit",
+                "preview": "const data = [\n  {\n    fullName: 'test',\n    sex: 'string',\n    age: 0,",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">const</span> <span class=\"cm-def\">data</span> <span class=\"cm-operator\">=</span> [</pre></div>\n<div><pre>  {</pre></div>\n<div><pre>    <span class=\"cm-property\">fullName</span>: <span class=\"cm-string\">'test'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">sex</span>: <span class=\"cm-string\">'string'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">age</span>: <span class=\"cm-number\">0</span>,</pre></div>\n</div>\n</div>\n",
+                "lines": 243,
+                "lines_more": 238,
+                "preview_is_truncated": true,
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F0106QZP71R",
+                "created": 1584945030,
+                "timestamp": 1584945030,
+                "name": "travelers.js",
+                "title": "travelers.js",
+                "mimetype": "text/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript/JSON",
+                "user": "U01078QCG2C",
+                "editable": true,
+                "size": 5579,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0106QZP71R/travelers.js",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0106QZP71R/download/travelers.js",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F0106QZP71R/travelers.js",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F0106QZP71R-0b6918bff2",
+                "edit_link": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F0106QZP71R/travelers.js/edit",
+                "preview": "const data = [\n  {\n    firstName: 'string',\n    middleName: 'string',\n    lastName: 'string',",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">const</span> <span class=\"cm-def\">data</span> <span class=\"cm-operator\">=</span> [</pre></div>\n<div><pre>  {</pre></div>\n<div><pre>    <span class=\"cm-property\">firstName</span>: <span class=\"cm-string\">'string'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">middleName</span>: <span class=\"cm-string\">'string'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">lastName</span>: <span class=\"cm-string\">'string'</span>,</pre></div>\n</div>\n</div>\n",
+                "lines": 255,
+                "lines_more": 250,
+                "preview_is_truncated": true,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o9JX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone\n\nThe past day or so I\u2019ve been meeting with some of the CommCare & JSI teams to get an understanding of the underlying data we will have access to when making our visualizations. This is data coming from forms reported to the Ministry of Health using JSI.\n\nSpecifically we\u2019ll be able to pull data from the 4 main forms: Port of Entry, Door to Door, Public, and Medical Center Reporting. The API team is working on an API service to grab data from all of these forms (shown in the green "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Surveillance",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " box) and provide it on one hosted endpoint through AWS Lambda where the service will aggregate and reformat the data for us to use. I\u2019ve provided a diagram below of how this API gateway will work. The API team will share the appropriate url within the next day or so but for now I\u2019ve included files below which have the models and fields/attributes of the data we will be getting from three endpoints (Port of Entry & Door to Door Reporting are combined).\u00a0\n\nWe can import this data into ready-made web-based dashboard visualization like the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://covid.fynsystems.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dashboard, other custom web dashboards, or find ways of exporting it for those who don\u2019t necessarily need or want to deal with an API but would like exports of the data. From there you can use whatever visualization tool (Tableau, ArcGIS, etc.) you like with the standardized exports."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01078QCG2C",
+        "ts": "1584945031.002800",
+        "client_msg_id": "43c78135-850c-439c-8659-05fd4e30fac8",
+        "thread_ts": "1584945031.002800",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1584973175.008600",
+        "reply_users": [
+            "UV6JHDP0S",
+            "U01078QCG2C"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01023RPHPU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6afa4c26-108c-4c5e-a45f-145e67198279",
+        "type": "message",
+        "text": "*If wanting to query non-live data and avoiding interacting with the API,* there is also an export function i*n CommCare* that will perform a snapshot export of the data. JSI does not have a manual data export option.\n\nInstructions below on how to export data for Commcare:\nCommcare\n<https://confluence.dimagi.com/display/commcarepublic/Data+Export+Overview>\n\nFor those wanting to use other datasets in combination with the data we are collecting from the forms, I\u2019ve provided some links to some helpful datasets and also some example visualizations with relevant data below:\n\nOCHA / UN Datasets\n<https://data.humdata.org/organization/ocha-ethiopia>\n<https://data.humdata.org/search?q=ethiopia&amp;ext_search_source=main-nav&amp;sort=total_res_downloads+desc&amp;page=2>\n\nJohn Hopkins\n<https://coronavirus.jhu.edu/map.html>\n\nState of Florida\n<https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86>\n\nTableau (Author: Mahlet Konjit-Solomon)\n<https://public.tableau.com/profile/mahlet.nigatu#!/vizhome/EthiopiaCOVID-19Cases/EthiopiaCOVID-19Cases>\n\nSingapore Covid Dashboard\n<https://co.vid19.sg/dashboard>\n\nAgain, once the API endpoint is available you all will be notified so you can begin pulling real data. ETA should be within the next day or two.",
+        "user": "U01078QCG2C",
+        "ts": "1584945043.003600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1584945436.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ADQwZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If wanting to query non-live data and avoiding interacting with the API,",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " there is also an export function i"
+                            },
+                            {
+                                "type": "text",
+                                "text": "n CommCare ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "that will perform a snapshot export of the data. JSI does not have a manual data export option.\n\nInstructions below on how to export data for Commcare:\nCommcare\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://confluence.dimagi.com/display/commcarepublic/Data+Export+Overview"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFor those wanting to use other datasets in combination with the data we are collecting from the forms, I\u2019ve provided some links to some helpful datasets and also some example visualizations with relevant data below:\n\nOCHA / UN Datasets\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://data.humdata.org/organization/ocha-ethiopia"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://data.humdata.org/search?q=ethiopia&ext_search_source=main-nav&sort=total_res_downloads+desc&page=2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJohn Hopkins\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://coronavirus.jhu.edu/map.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nState of Florida\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nTableau (Author: Mahlet Konjit-Solomon)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://public.tableau.com/profile/mahlet.nigatu#!/vizhome/EthiopiaCOVID-19Cases/EthiopiaCOVID-19Cases"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSingapore Covid Dashboard\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://co.vid19.sg/dashboard"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAgain, once the API endpoint is available you all will be notified so you can begin pulling real data. ETA should be within the next day or two."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U01069Z58V8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584945137.003800",
+        "user": "U01023RPHPU",
+        "text": "<@U01023RPHPU> has joined the channel",
+        "inviter": "U01078QCG2C"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584945158.004000",
+        "user": "U0109ELFV4Y",
+        "text": "<@U0109ELFV4Y> has joined the channel",
+        "inviter": "U01078QCG2C"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584945158.004200",
+        "user": "U0106SC3L0L",
+        "text": "<@U0106SC3L0L> has joined the channel",
+        "inviter": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "4d3f84cb-77a4-4024-85c8-b64e22271c73",
+        "type": "message",
+        "text": "Let me know if any of you all have any questions in the meantime and I\u2019ll do my best to answer them",
+        "user": "U01078QCG2C",
+        "ts": "1584945480.004800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YnsiZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me know if any of you all have any questions in the meantime and I\u2019ll do my best to answer them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584945480.004800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584945528.004900",
+        "reply_users": [
+            "UV6JHDP0S"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UV6JHDP0S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6251aae1-e420-45b1-b64d-98f101eb1698",
+        "type": "message",
+        "text": "Your the MVP",
+        "user": "UV6JHDP0S",
+        "ts": "1584945528.004900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YZ4n0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your the MVP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584945480.004800",
+        "parent_user_id": "U01078QCG2C",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "diagram of the API + dashboard architecture",
+        "files": [
+            {
+                "id": "F010JA8B0MT",
+                "created": 1584945657,
+                "timestamp": 1584945657,
+                "name": "Pasted Graphic 1.tiff",
+                "title": "Pasted Graphic 1.tiff",
+                "mimetype": "image/tiff",
+                "filetype": "tiff",
+                "pretty_type": "TIFF",
+                "user": "U01078QCG2C",
+                "editable": false,
+                "size": 334418,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010JA8B0MT/pasted_graphic_1.tiff",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010JA8B0MT/download/pasted_graphic_1.tiff",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010JA8B0MT-325b1f81ac/pasted_graphic_1_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010JA8B0MT-325b1f81ac/pasted_graphic_1_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010JA8B0MT-325b1f81ac/pasted_graphic_1_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 131,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010JA8B0MT-325b1f81ac/pasted_graphic_1_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 174,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010JA8B0MT-325b1f81ac/pasted_graphic_1_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010JA8B0MT-325b1f81ac/pasted_graphic_1_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 261,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010JA8B0MT-325b1f81ac/pasted_graphic_1_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 290,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010JA8B0MT-325b1f81ac/pasted_graphic_1_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 348,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010JA8B0MT-325b1f81ac/pasted_graphic_1_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 371,
+                "image_exif_rotation": 1,
+                "original_w": 2604,
+                "original_h": 944,
+                "thumb_tiny": "AwARADDRfG05bA9aXvRleQaODQAm8MDg9DSZz/8ArpdoAwBS4HoKAG9e1AzmlGPSlAHpQAg6ml70g6ml70ALSGlpDQAlOHSm04dKQz//2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F010JA8B0MT/pasted_graphic_1.tiff",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010JA8B0MT-2e57fb56db",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6RX3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "diagram of the API + dashboard architecture"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01078QCG2C",
+        "display_as_bot": false,
+        "ts": "1584945662.005400",
+        "client_msg_id": "d8167666-524a-405e-af03-66a85e22cf0d"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "The current API Gateway is <https://k66n11hwh2.execute-api.us-east-2.amazonaws.com/prod/v1/|https://k66n11hwh2.execute-api.us-east-2.amazonaws.com/prod/v1/>",
+        "user": "UV6JHDP0S",
+        "ts": "1584947907.006000",
+        "thread_ts": "1584945031.002800",
+        "root": {
+            "type": "message",
+            "text": "Hey Everyone\n\nThe past day or so I\u2019ve been meeting with some of the CommCare & JSI teams to get an understanding of the underlying data we will have access to when making our visualizations. This is data coming from forms reported to the Ministry of Health using JSI.\n\nSpecifically we\u2019ll be able to pull data from the 4 main forms: Port of Entry, Door to Door, Public, and Medical Center Reporting. The API team is working on an API service to grab data from all of these forms (shown in the green *Surveillance* box) and provide it on one hosted endpoint through AWS Lambda where the service will aggregate and reformat the data for us to use. I\u2019ve provided a diagram below of how this API gateway will work. The API team will share the appropriate url within the next day or so but for now I\u2019ve included files below which have the models and fields/attributes of the data we will be getting from three endpoints (Port of Entry & Door to Door Reporting are combined).\u00a0\n\nWe can import this data into ready-made web-based dashboard visualization like the <http://covid.fynsystems.com/> dashboard, other custom web dashboards, or find ways of exporting it for those who don\u2019t necessarily need or want to deal with an API but would like exports of the data. From there you can use whatever visualization tool (Tableau, ArcGIS, etc.) you like with the standardized exports.",
+            "files": [
+                {
+                    "id": "F01087KB7DF",
+                    "created": 1584945030,
+                    "timestamp": 1584945030,
+                    "name": "community-inspections.js",
+                    "title": "community-inspections.js",
+                    "mimetype": "text/plain",
+                    "filetype": "javascript",
+                    "pretty_type": "JavaScript/JSON",
+                    "user": "U01078QCG2C",
+                    "editable": true,
+                    "size": 5484,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F01087KB7DF/community-inspections.js",
+                    "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F01087KB7DF/download/community-inspections.js",
+                    "permalink": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F01087KB7DF/community-inspections.js",
+                    "permalink_public": "https://slack-files.com/TV5KELEUS-F01087KB7DF-d2f25eb8bc",
+                    "edit_link": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F01087KB7DF/community-inspections.js/edit",
+                    "preview": "const data = [\n  {\n    fullName: 'test',\n    sex: 'string',\n    age: 0,",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">const</span> <span class=\"cm-def\">data</span> <span class=\"cm-operator\">=</span> [</pre></div>\n<div><pre>  {</pre></div>\n<div><pre>    <span class=\"cm-property\">fullName</span>: <span class=\"cm-string\">'test'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">sex</span>: <span class=\"cm-string\">'string'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">age</span>: <span class=\"cm-number\">0</span>,</pre></div>\n</div>\n</div>\n",
+                    "lines": 243,
+                    "lines_more": 238,
+                    "preview_is_truncated": true,
+                    "is_starred": false,
+                    "has_rich_preview": false
+                },
+                {
+                    "id": "F010LFJH086",
+                    "created": 1584945030,
+                    "timestamp": 1584945030,
+                    "name": "community.js",
+                    "title": "community.js",
+                    "mimetype": "text/plain",
+                    "filetype": "javascript",
+                    "pretty_type": "JavaScript/JSON",
+                    "user": "U01078QCG2C",
+                    "editable": true,
+                    "size": 5484,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010LFJH086/community.js",
+                    "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010LFJH086/download/community.js",
+                    "permalink": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F010LFJH086/community.js",
+                    "permalink_public": "https://slack-files.com/TV5KELEUS-F010LFJH086-951320116f",
+                    "edit_link": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F010LFJH086/community.js/edit",
+                    "preview": "const data = [\n  {\n    fullName: 'test',\n    sex: 'string',\n    age: 0,",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">const</span> <span class=\"cm-def\">data</span> <span class=\"cm-operator\">=</span> [</pre></div>\n<div><pre>  {</pre></div>\n<div><pre>    <span class=\"cm-property\">fullName</span>: <span class=\"cm-string\">'test'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">sex</span>: <span class=\"cm-string\">'string'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">age</span>: <span class=\"cm-number\">0</span>,</pre></div>\n</div>\n</div>\n",
+                    "lines": 243,
+                    "lines_more": 238,
+                    "preview_is_truncated": true,
+                    "is_starred": false,
+                    "has_rich_preview": false
+                },
+                {
+                    "id": "F0106QZP71R",
+                    "created": 1584945030,
+                    "timestamp": 1584945030,
+                    "name": "travelers.js",
+                    "title": "travelers.js",
+                    "mimetype": "text/plain",
+                    "filetype": "javascript",
+                    "pretty_type": "JavaScript/JSON",
+                    "user": "U01078QCG2C",
+                    "editable": true,
+                    "size": 5579,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0106QZP71R/travelers.js",
+                    "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0106QZP71R/download/travelers.js",
+                    "permalink": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F0106QZP71R/travelers.js",
+                    "permalink_public": "https://slack-files.com/TV5KELEUS-F0106QZP71R-0b6918bff2",
+                    "edit_link": "https://ethiopia-covid19.slack.com/files/U01078QCG2C/F0106QZP71R/travelers.js/edit",
+                    "preview": "const data = [\n  {\n    firstName: 'string',\n    middleName: 'string',\n    lastName: 'string',",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">const</span> <span class=\"cm-def\">data</span> <span class=\"cm-operator\">=</span> [</pre></div>\n<div><pre>  {</pre></div>\n<div><pre>    <span class=\"cm-property\">firstName</span>: <span class=\"cm-string\">'string'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">middleName</span>: <span class=\"cm-string\">'string'</span>,</pre></div>\n<div><pre>    <span class=\"cm-property\">lastName</span>: <span class=\"cm-string\">'string'</span>,</pre></div>\n</div>\n</div>\n",
+                    "lines": 255,
+                    "lines_more": 250,
+                    "preview_is_truncated": true,
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": true,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "o9JX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hey Everyone\n\nThe past day or so I\u2019ve been meeting with some of the CommCare & JSI teams to get an understanding of the underlying data we will have access to when making our visualizations. This is data coming from forms reported to the Ministry of Health using JSI.\n\nSpecifically we\u2019ll be able to pull data from the 4 main forms: Port of Entry, Door to Door, Public, and Medical Center Reporting. The API team is working on an API service to grab data from all of these forms (shown in the green "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Surveillance",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " box) and provide it on one hosted endpoint through AWS Lambda where the service will aggregate and reformat the data for us to use. I\u2019ve provided a diagram below of how this API gateway will work. The API team will share the appropriate url within the next day or so but for now I\u2019ve included files below which have the models and fields/attributes of the data we will be getting from three endpoints (Port of Entry & Door to Door Reporting are combined).\u00a0\n\nWe can import this data into ready-made web-based dashboard visualization like the "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "http://covid.fynsystems.com/"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " dashboard, other custom web dashboards, or find ways of exporting it for those who don\u2019t necessarily need or want to deal with an API but would like exports of the data. From there you can use whatever visualization tool (Tableau, ArcGIS, etc.) you like with the standardized exports."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "user": "U01078QCG2C",
+            "ts": "1584945031.002800",
+            "client_msg_id": "43c78135-850c-439c-8659-05fd4e30fac8",
+            "thread_ts": "1584945031.002800",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1584973175.008600",
+            "reply_users": [
+                "UV6JHDP0S",
+                "U01078QCG2C"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x3A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The current API Gateway is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://k66n11hwh2.execute-api.us-east-2.amazonaws.com/prod/v1/",
+                                "text": "https://k66n11hwh2.execute-api.us-east-2.amazonaws.com/prod/v1/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ea22e052-d27e-4d3d-b9f5-f097e6838076",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U01078QCG2C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83168f33-4208-4f73-a58e-87392afaa032",
+        "type": "message",
+        "text": "are there records for community inspections at the moment?",
+        "user": "U01078QCG2C",
+        "ts": "1584948303.007800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bt=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are there records for community inspections at the moment?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584945031.002800",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "9087689a-973a-4d73-85d7-471a16249b66",
+        "type": "message",
+        "text": "was able to pull records for the other two models",
+        "user": "U01078QCG2C",
+        "ts": "1584948328.008000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1584948348.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hiFp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "was able to pull records for the other two models"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584945031.002800",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584962648.008400",
+        "user": "UV81AMFSP",
+        "text": "<@UV81AMFSP> has joined the channel"
+    },
+    {
+        "client_msg_id": "e275b8c6-2366-4052-8c84-faf357d7062f",
+        "type": "message",
+        "text": "<@UV6JHDP0S>",
+        "user": "U01078QCG2C",
+        "ts": "1584973175.008600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A77",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584945031.002800",
+        "parent_user_id": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "b517e3ff-9dae-4947-8137-21fbbca14b89",
+        "type": "message",
+        "text": "This is a starter React/Javascript testing dashboard I\u2019ve made so far using a combination of real OCHA-pulled geographic data (from the OCHA website I listed as an example above) &amp; medical facility data and fake/sample coronavirus case data from two Google Sheets. My goal was to model confirmed cases and access to nearby medical centers while taking into consideration the medical facility\u2019s resources and capacity at the time. Hover over a region to get the case and medical facility details at a glance by choosing the \u201cFacilities\u201d tab. I think it would be great if we could fill out these data sets to have up-to-date models of all available medical centers like in this <https://docs.google.com/spreadsheets/d/1aksb1y1xF7TUd-uGyAsPVVrlnTrjLKpf/edit#gid=851629710|doc>\u2014feel free to reach out to me if you are interested helping with this. If there are reported cases in a region the overlay color changes with the volume of cases (you can feel free to edit the thresholds/colors). By hovering over a region you get a snapshot of current cases and medical facilities in that region. It\u2019s not optimized for mobile and it works best to use this on desktop only at the moment.\n\nCopies of the Google Sheets and data\u2019s columns can be found in the docs below. These docs are just copies of the live data in the dashboard, so changing them will not affect the visualization\u2014they are just for your reference to see how I manipulated the data for the Google Maps library. I used a website called Sheetsu to create a simple API from this spreadsheet in a couple minutes\u2014instructions/link below *(note, there are serious limitations on their free version so you may outdo the quota pretty quickly)*. I used a library, google-maps-react to power the map and markers/popups and react-bootstrap for some layout components.\n\nTest Dashboard\n<https://ethiopiacovidtracker-testingdashboard.com/>\n<https://github.com/helomberhane/covid-case-tracker|Test Dashboard Github>\n\n<https://docs.google.com/spreadsheets/d/1qI_Hag8ANEzVJZ1fRAVSODHkRU8KfWGBoCT3tb0Dmvw/edit?usp=sharing|Coronavirus Case Tracker>\n<https://docs.google.com/spreadsheets/d/1Baiu0pMGf00zb1GDqlu9cYjWjSxGb7Ovctii6JkwlDA/edit?usp=sharing|Medical Facilities Tracker>\n<https://sheetsu.com/|Sheetsu/Google Sheets API reference>\n\n\n<https://github.com/fullstackreact/google-maps-react|google-maps-react>\n<https://fullstackreact.github.io/google-maps-react|google-maps-react Demo Dashboard>\n\nFeel free to fork this project and/or copy the Google Sheets tables as a template for adding additional visualizations *(only after reading the disclaimer below)*.*\u00a0*\n\n*Some helpful and straightforward visualizations I can think of may include:*\nForm submissions by region and aggregate results\nHeatmaps for form results (<https://fullstackreact.github.io/heatMap|heatmap example>)\nHeatmaps for form engagement\nCases over time/by date\nGender breakdown of forms/cases\nAge breakdown of forms/cases\nTable + Stats &amp; Heatmap for in-process tests\n\nI\u2019ve left a tab called \u201cNew\u201d in the dashboard blank for people to begin adding in more tabs/visualizations to accompany the map in case you aren\u2019t very familiar with React/node but know how to work with javascript/D3.js/etc and just want to start writing something. Once forked, submit a pull request or feel free to host a new repo and deploy out your own version of the dashboard.\n\n*DO NOT DISPLAY LATITUDE/LONGITUDE COORDINATES, LOCATION PINS, PRECISE LOCATION MARKERS, OR ANY PERSONALLY IDENTIFIABLE INFORMATION FOR CORONAVIRUS CASES ANYWHERE ON THE MAP OR ENTIRE WEBSITE, REGARDLESS IF THEY CONFIRMED OR UNCONFIRMED OR SELF-REPORTED. THERE ARE REPORTS OF PEOPLE BEING ATTACKED FOR SUSPICIONS OF HAVING CORONAVIRUS AND YOU COULD POTENTIALLY ENDANGER THEIR LIVES. FOR THAT REASON I\u2019M AGGREGATING CASES BY REGION.*\n\n*Article Link:*\n<https://bit.ly/396WJXm>\n\n*AS LONG AS YOU DO NOT MISUSE THIS APPLICATION IN THIS WAY YOU ARE FREE TO USE THIS SOFTWARE.*\n\n*CURRENTLY LOCATION MARKERS ARE ONLY BEING USED TO INDICATE THE LOCATION OF HOSPITALS/MEDICAL FACILITIES.*\u00a0\n\nThere are some instructions in the Github README to get started on running/setting up the project.\n\nSorry for the essay, haha.",
+        "user": "U01078QCG2C",
+        "ts": "1584973735.009100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1584978805.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j1bqU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a starter React/Javascript testing dashboard I\u2019ve made so far using a combination of real OCHA-pulled geographic data (from the OCHA website I listed as an example above) & medical facility data and fake/sample coronavirus case data from two Google Sheets. My goal was to model confirmed cases and access to nearby medical centers while taking into consideration the medical facility\u2019s resources and capacity at the time. Hover over a region to get the case and medical facility details at a glance by choosing the \u201cFacilities\u201d tab. I think it would be great if we could fill out these data sets to have up-to-date models of all available medical centers like in this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1aksb1y1xF7TUd-uGyAsPVVrlnTrjLKpf/edit#gid=851629710",
+                                "text": "doc"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u2014feel free to reach out to me if you are interested helping with this. If there are reported cases in a region the overlay color changes with the volume of cases (you can feel free to edit the thresholds/colors). By hovering over a region you get a snapshot of current cases and medical facilities in that region. It\u2019s not optimized for mobile and it works best to use this on desktop only at the moment.\n\nCopies of the Google Sheets and data\u2019s columns can be found in the docs below. These docs are just copies of the live data in the dashboard, so changing them will not affect the visualization\u2014they are just for your reference to see how I manipulated the data for the Google Maps library. I used a website called Sheetsu to create a simple API from this spreadsheet in a couple minutes\u2014instructions/link below "
+                            },
+                            {
+                                "type": "text",
+                                "text": "(note, there are serious limitations on their free version so you may outdo the quota pretty quickly)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I used a library, google-maps-react to power the map and markers/popups and react-bootstrap for some layout components.\n\nTest Dashboard\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopiacovidtracker-testingdashboard.com/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/helomberhane/covid-case-tracker",
+                                "text": "Test Dashboard Github"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1qI_Hag8ANEzVJZ1fRAVSODHkRU8KfWGBoCT3tb0Dmvw/edit?usp=sharing",
+                                "text": "Coronavirus Case Tracker"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/spreadsheets/d/1Baiu0pMGf00zb1GDqlu9cYjWjSxGb7Ovctii6JkwlDA/edit?usp=sharing",
+                                "text": "Medical Facilities Tracker"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://sheetsu.com/",
+                                "text": "Sheetsu/Google Sheets API reference"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/fullstackreact/google-maps-react",
+                                "text": "google-maps-react"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://fullstackreact.github.io/google-maps-react",
+                                "text": "google-maps-react Demo Dashboard"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFeel free to fork this project and/or copy the Google Sheets tables as a template for adding additional visualizations "
+                            },
+                            {
+                                "type": "text",
+                                "text": "(only after reading the disclaimer below)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\u00a0",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Some helpful and straightforward visualizations I can think of may include:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nForm submissions by region and aggregate results\nHeatmaps for form results ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://fullstackreact.github.io/heatMap",
+                                "text": "heatmap example"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\nHeatmaps for form engagement\nCases over time/by date\nGender breakdown of forms/cases\nAge breakdown of forms/cases\nTable + Stats & Heatmap for in-process tests\n\nI\u2019ve left a tab called \u201cNew\u201d in the dashboard blank for people to begin adding in more tabs/visualizations to accompany the map in case you aren\u2019t very familiar with React/node but know how to work with javascript/D3.js/etc and just want to start writing something. Once forked, submit a pull request or feel free to host a new repo and deploy out your own version of the dashboard.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "DO NOT DISPLAY LATITUDE/LONGITUDE COORDINATES, LOCATION PINS, PRECISE LOCATION MARKERS, OR ANY PERSONALLY IDENTIFIABLE INFORMATION FOR CORONAVIRUS CASES ANYWHERE ON THE MAP OR ENTIRE WEBSITE, REGARDLESS IF THEY CONFIRMED OR UNCONFIRMED OR SELF-REPORTED. THERE ARE REPORTS OF PEOPLE BEING ATTACKED FOR SUSPICIONS OF HAVING CORONAVIRUS AND YOU COULD POTENTIALLY ENDANGER THEIR LIVES. FOR THAT REASON I\u2019M AGGREGATING CASES BY REGION.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Article Link:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://bit.ly/396WJXm"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "AS LONG AS YOU DO NOT MISUSE THIS APPLICATION IN THIS WAY YOU ARE FREE TO USE THIS SOFTWARE.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "CURRENTLY LOCATION MARKERS ARE ONLY BEING USED TO INDICATE THE LOCATION OF HOSPITALS/MEDICAL FACILITIES.\u00a0",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThere are some instructions in the Github README to get started on running/setting up the project.\n\nSorry for the essay, haha."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584974045.009400",
+        "user": "U0107JEJVNJ",
+        "text": "<@U0107JEJVNJ> has joined the channel",
+        "inviter": "U01078QCG2C"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584974052.009600",
+        "user": "U010059R6BT",
+        "text": "<@U010059R6BT> has joined the channel",
+        "inviter": "U01078QCG2C"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584974078.009800",
+        "user": "U01022PTXA7",
+        "text": "<@U01022PTXA7> has joined the channel",
+        "inviter": "U01078QCG2C"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584974097.010000",
+        "user": "U0104U85DJQ",
+        "text": "<@U0104U85DJQ> has joined the channel",
+        "inviter": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "f56d8465-d2ef-4d2f-b1c7-a78d80f2bfa0",
+        "type": "message",
+        "text": "Hi everybody, i am a full stack developer. How can i help?",
+        "user": "U0104U85DJQ",
+        "ts": "1584974380.011100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/Sm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everybody, i am a full stack developer. How can i help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584974380.011100",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1585090362.016400",
+        "reply_users": [
+            "U01078QCG2C",
+            "U0106MECUD9"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "db7fd704-7746-4782-b0f3-0ebe7c7d379c",
+        "type": "message",
+        "text": "Hey :wave: , at the moment we are waiting to confirm some details on the API we are pulling data from. For now you can familiarize yourself with the data models (in the first message of this channel) or the starter project I posted above.",
+        "user": "U01078QCG2C",
+        "ts": "1584974475.011200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , at the moment we are waiting to confirm some details on the API we are pulling data from. For now you can familiarize yourself with the data models (in the first message of this channel) or the starter project I posted above."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584974380.011100",
+        "parent_user_id": "U0104U85DJQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0104U85DJQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "375250a8-2f25-464c-8f0b-8f966f5382eb",
+        "type": "message",
+        "text": "Feel free to start writing any code for the starter project if you\u2019re familiar with React/JS",
+        "user": "U01078QCG2C",
+        "ts": "1584974548.011500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xDg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feel free to start writing any code for the starter project if you\u2019re familiar with React/JS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584974380.011100",
+        "parent_user_id": "U0104U85DJQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584982089.012300",
+        "user": "U01084M48U8",
+        "text": "<@U01084M48U8> has joined the channel",
+        "inviter": "U01078QCG2C"
+    },
+    {
+        "client_msg_id": "71ca1ea8-3948-4e98-b52d-590ebc473a1d",
+        "type": "message",
+        "text": "<http://covid.fynsystems.com>",
+        "user": "U01078QCG2C",
+        "ts": "1584986027.012500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "TackleCovid19",
+                "title_link": "http://covid.fynsystems.com/",
+                "text": "Tackle Covid19",
+                "fallback": "TackleCovid19",
+                "from_url": "http://covid.fynsystems.com/",
+                "service_name": "covid.fynsystems.com",
+                "id": 1,
+                "original_url": "http://covid.fynsystems.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIXX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http://covid.fynsystems.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "381cb240-176b-45bd-9cca-b7a492f2c131",
+        "type": "message",
+        "text": "Dashboard released by MoH press",
+        "user": "U01078QCG2C",
+        "ts": "1584986042.012900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ARq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dashboard released by MoH press"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5f515c2-dc24-4c03-b9f8-8c87cbbf660e",
+        "type": "message",
+        "text": "<!channel> please note this dashboard that was launched today by the MOH. Perhaps we can find a way to link to this <http://etwisdom.gov.et/covid-19>",
+        "user": "U01022PTXA7",
+        "ts": "1584986129.013900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6nlp0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please note this dashboard that was launched today by the MOH. Perhaps we can find a way to link to this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://etwisdom.gov.et/covid-19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584986129.013900",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1584986826.014600",
+        "reply_users": [
+            "U0107A7161E",
+            "U010JHVF19U",
+            "U01078QCG2C"
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584986187.014100",
+        "user": "U010JHVF19U",
+        "text": "<@U010JHVF19U> has joined the channel",
+        "inviter": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "e76fb906-0148-492c-9df7-3632ed2eb3bc",
+        "type": "message",
+        "text": "<@U010JHVF19U>",
+        "user": "U0107A7161E",
+        "ts": "1584986217.014200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R8f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010JHVF19U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584986129.013900",
+        "parent_user_id": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "e2090e8b-2087-4c14-97f3-46c9e6c0d87b",
+        "type": "message",
+        "text": "It is a good start. I was looking at it since saturday and run some testing. The data points reported are very limited. The facility breakdown has a errors. It is not interactive and the hospital breakdown shows pharmacies instead.  I will circle back ones I complete the testing. Is this what is going to be integrated?",
+        "user": "U010JHVF19U",
+        "ts": "1584986763.014400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h+o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is a good start. I was looking at it since saturday and run some testing. The data points reported are very limited. The facility breakdown has a errors. It is not interactive and the hospital breakdown shows pharmacies instead.  I will circle back ones I complete the testing. Is this what is going to be integrated?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584986129.013900",
+        "parent_user_id": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "fd96cd9d-6793-4334-8373-e2dbde64b997",
+        "type": "message",
+        "text": "I think it\u2019s a good starting point as well and can help lead on getting this set up. It might not be feature-rich at the moment but may be the quickest thing to set up immediately.",
+        "user": "U01078QCG2C",
+        "ts": "1584986826.014600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01078QCG2C",
+            "ts": "1584986839.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WxY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it\u2019s a good starting point as well and can help lead on getting this set up. It might not be feature-rich at the moment but may be the quickest thing to set up immediately."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584986129.013900",
+        "parent_user_id": "U01022PTXA7",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U01022PTXA7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40b3f6da-4645-4ff2-96dc-7874d7bc603b",
+        "type": "message",
+        "text": "<https://www.chartjs.org/>",
+        "user": "U01023RPHPU",
+        "ts": "1584987287.015700",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Chart.js | Open source HTML5 Charts for your website",
+                "title_link": "https://www.chartjs.org/",
+                "text": "Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free.",
+                "fallback": "Chart.js | Open source HTML5 Charts for your website",
+                "from_url": "https://www.chartjs.org/",
+                "service_icon": "https://www.chartjs.org/./favicon.ico",
+                "service_name": "chartjs.org",
+                "id": 1,
+                "original_url": "https://www.chartjs.org/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G27iH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.chartjs.org/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

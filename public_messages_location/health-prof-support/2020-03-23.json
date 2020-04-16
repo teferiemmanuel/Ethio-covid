@@ -1,0 +1,2493 @@
+[
+    {
+        "client_msg_id": "DFCFD30B-7DC7-40DD-B8D7-CC37CD40F5EE",
+        "type": "message",
+        "text": "<@UVALWD1MG> welcome abroad! Let\u2019s go! ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584922510.033700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N9X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVALWD1MG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " welcome abroad! Let\u2019s go! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584925992.033900",
+        "user": "U0106EDCQR1",
+        "text": "<@U0106EDCQR1> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "78bc5285-0edd-4cea-be74-58e9aa2ded18",
+        "type": "message",
+        "text": "Hi Eskedar here, I am a nursing clinical instructor and a pediatric nurse. I can provide some of the educational material that has been provided to us on how to protect ourselves.",
+        "user": "U010JUMERV5",
+        "ts": "1584932152.038000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HPSR1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Eskedar here, I am a nursing clinical instructor and a pediatric nurse. I can provide some of the educational material that has been provided to us on how to protect ourselves."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "This is the sequence of how PPE should be PUT ON and REMOVED to decrease contamination.",
+        "files": [
+            {
+                "id": "F010J44UTBP",
+                "created": 1584932557,
+                "timestamp": 1584932557,
+                "name": "PPE-Sequence_001.pdf",
+                "title": "PPE-Sequence_001.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U010JUMERV5",
+                "editable": false,
+                "size": 2993660,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010J44UTBP/ppe-sequence_001.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010J44UTBP/download/ppe-sequence_001.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F010J44UTBP-bd31dbc9d9/ppe-sequence_001_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010JUMERV5/F010J44UTBP/ppe-sequence_001.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010J44UTBP-67340790ad",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mzo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the sequence of how PPE should be PUT ON and REMOVED to decrease contamination."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010JUMERV5",
+        "display_as_bot": false,
+        "ts": "1584932561.038100",
+        "client_msg_id": "8a13fd54-0b67-4186-8d3b-86a465a8bd6d",
+        "thread_ts": "1584932561.038100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1584936108.039400",
+        "reply_users": [
+            "U0107JERE9L",
+            "U010JUMERV5"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3a8c5265-fa88-4da3-badd-26271cadca50",
+        "type": "message",
+        "text": "Hello <@U010JUMERV5> - Thank you for joining us. We have a folder in google drive where we are storing this types of information.\n\n<https://drive.google.com/drive/folders/1lVap5ylRncPf_dZA0b5qT_qZiUj0ziD7?usp=sharing>\n\nPlease review what we have and let us know if you have more information.\n\nWe also have a project to provide DIY protective gear that we are hoping to manufacture in Ethiopia. I will add you to that project if you can provide any guidance.",
+        "user": "U0107JERE9L",
+        "ts": "1584934173.038500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "clGM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JUMERV5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Thank you for joining us. We have a folder in google drive where we are storing this types of information.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1lVap5ylRncPf_dZA0b5qT_qZiUj0ziD7?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPlease review what we have and let us know if you have more information.\n\nWe also have a project to provide DIY protective gear that we are hoping to manufacture in Ethiopia. I will add you to that project if you can provide any guidance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584932561.038100",
+        "parent_user_id": "U010JUMERV5"
+    },
+    {
+        "client_msg_id": "bbf45a02-2f6e-4646-92fa-ac1cd3b84d68",
+        "type": "message",
+        "text": "Oops, sorry! Ok sounds good.",
+        "user": "U010JUMERV5",
+        "ts": "1584934344.038700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z6ai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oops, sorry! Ok sounds good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584932561.038100",
+        "parent_user_id": "U010JUMERV5"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584935360.039000",
+        "user": "U0107DX4VNU",
+        "text": "<@U0107DX4VNU> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584935360.039200",
+        "user": "U0107EMK8UD",
+        "text": "<@U0107EMK8UD> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "8b31fd46-752f-4d38-ab17-4e64ed230e87",
+        "type": "message",
+        "text": "This is a YouTube video on how to use one ventilator for multiple patients. I've put the literature under the general section but didn't now tho link this to it. <https://youtu.be/uClq978oohY>",
+        "user": "U010JUMERV5",
+        "ts": "1584936108.039400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "COVID-19 How to Use One Ventilator to Save Multiple Lives",
+                "title_link": "https://youtu.be/uClq978oohY",
+                "author_name": "Charlene Babcock",
+                "author_link": "https://www.youtube.com/channel/UCL4jOh_01-na8HO20CAU3Ng",
+                "thumb_url": "https://i.ytimg.com/vi/uClq978oohY/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: COVID-19 How to Use One Ventilator to Save Multiple Lives",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/uClq978oohY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://youtu.be/uClq978oohY",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://youtu.be/uClq978oohY"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "73bOm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a YouTube video on how to use one ventilator for multiple patients. I've put the literature under the general section but didn't now tho link this to it. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://youtu.be/uClq978oohY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584932561.038100",
+        "parent_user_id": "U010JUMERV5"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010LBUCW22",
+                "created": 1584937333,
+                "timestamp": 1584937333,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0107PQDK33",
+                "editable": false,
+                "size": 273390,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010LBUCW22/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010LBUCW22/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010LBUCW22-0017118da4/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010LBUCW22-0017118da4/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010LBUCW22-0017118da4/image_360.png",
+                "thumb_360_w": 284,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010LBUCW22-0017118da4/image_480.png",
+                "thumb_480_w": 378,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010LBUCW22-0017118da4/image_160.png",
+                "image_exif_rotation": 1,
+                "original_w": 468,
+                "original_h": 594,
+                "thumb_tiny": "AwAwACW9K7A7V28ju2DUQ3jPz5/4H/8AWp88hR12rnPfOMVH9qbKjyyd3XnpQArCUcFiOePn6/pSqZFOS2T6FuP5U27ldQhQkMRnpmo2nlA4Y/d/WgC6jFlywwfanVDbOzqxfOc96moAjkUEgkc0gRT/AAr/AN81HdByV2MV9cCopDMWG1nAHXAoAmuXMezaoP8ASojcyAZ2k+2DVmT/AFfA+bHFVc3AABYAlsnLds0AWoWZky4ANSUmQehzS0AVrsPhfLzu56dagAuQFxvB7nAq8Qcg1BL5wlOxW28dKAJGYhFzgeuahnjWZVxIAB685qW4jaRQq+uTULWrsQd6jGf4TQBYhQRxKoxj2qSmoNqKDyQMU6gD/9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0107PQDK33/F010LBUCW22/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010LBUCW22-2894e2ce27",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U0107PQDK33",
+        "display_as_bot": false,
+        "ts": "1584937335.039700",
+        "client_msg_id": "9afe86b8-51dc-4c9e-80b8-29240c61896f",
+        "pinned_to": [
+            "C010H6J6YLE"
+        ],
+        "pinned_info": {
+            "channel": "C010H6J6YLE",
+            "pinned_by": "UVB9ZSPCH",
+            "pinned_ts": 1584940253
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UVB9ZSPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5095e5ed-863d-4eb2-9695-11a191f3a8f4",
+        "type": "message",
+        "text": "These are a\u00a0few advice/measures to think about...\n\n1. The main measure to take for you and your department as this unfolds is to ISOLATE\u00a0patients with symptoms/known\u00a0contact/recent\u00a0travel\u00a0to affected areas. This should occur at triage/preop/ED as patients are coming in\u00a0BEFORE\u00a0they spread\u00a0the virus to other patients and healthcare workers.\u00a0Patient visitors should be completely banned to come into the\u00a0hospital. We have stopped all patient visitors from entering the hospital here, unless it is a patient who\u00a0is\u00a0under 18, developmentally delayed, unable to communicate with staff etc. If you need dedicated translators for patients who don't speak amharigna, you can urge the hospital to work on providing translators so you can minimize the amount of people entering in and out of the hospital.\n2. all patients who are coming into the hospital should be registered as they are coming in and out, including which department they are going to. this will help trace potential spread.\n3. Cancel all electives cases, which you have already done.\u00a0\n4. train essential staff (anesthesia, nursing, ICU, ED, ward nurses, surgeons)\u00a0on proper use of PPE, particularly when taking it OFF which is when most of the contamination happens. you should\u00a0have a dedicated trash bin where all materials contaminated with covid 19/PUI are thrown in.\u00a0If you run out of N95 masks, try to think outside of the box, possibly urging hospital and MOH to manufacture clothes masks? the CDC here is starting to insinuate any mask might be useful...when there is\u00a0nothing, anything is better.\u00a0\n5. the minimum essentials for\u00a0PPE\u00a0is\u00a0MASK (N95\u00a0\u00a0preferably), GOWN, GLOVES and EYE COVER.\u00a0OR\u00a0staff will need shoe\u00a0cover\u00a0as well.\u00a0\n6. run simulations (hands on practice) throughout the week on how to put\u00a0PPE\u00a0on and\u00a0off.\u00a0\n7. WASHING\u00a0hands of all healthcare workers before and after\u00a0caring\u00a0for ANY\u00a0patients should be\u00a0strictly enforced.\n8. All patients\u00a0coming into the hospital should first\u00a0wash their hands at the\u00a0door, regardless if\u00a0COVID or not.\n9. warn staff\u00a0NOT\u00a0to take out masks outside of hospital to give to family members. this should come from higher\u00a0up and should be strictly enforced. half of the reason why we are\u00a0lacking\u00a0masks\u00a0here is because\u00a0workers\u00a0kept on\u00a0taking them\u00a0to their\u00a0family.\n10. staff\u00a0# should be minimized.\u00a0unnecessary\u00a0staff should\u00a0GO\u00a0home. it is\u00a0better to call staff on a need basis than expose everyone to the virus and\u00a0run out of workforce. as elective\u00a0cases\u00a0get\u00a0cancelled you will have\u00a0many workers sitting around, tell\u00a0them to go home and stay home, call them\u00a0when\u00a0you need them or as\u00a0workers start getting sick, this will inevitably happen.\u00a0\n11. you should also meet\u00a0with ICU,\u00a0anesthesia and\u00a0EM\u00a0team\u00a0to\u00a0come\u00a0up with a coherent plan. if\u00a0a patient who is suspected or\u00a0affected comes in, what are the steps\u00a0to intubation and\u00a0ICU. this should be a uniform process.\u00a0\n12. when the patient comes to the OR, he/should should wear a normal\u00a0mask.\u00a0\n13. for intubation, 2\u00a0providers a recommended.\u00a0one who will intubate, the other one who can push drugs. intubation should be RSI for all patients, no LMA/masking as you are trying\u00a0to minimize aerosolization of particles.\u00a0the cuff should\u00a0be inflated\u00a0as soon as possible and connected to the\u00a0circuit. the circuit\u00a0once connected should not\u00a0be disconnected\u00a0FOR any reason, unless\u00a0something discussed extensively\u00a0with you or\u00a0other team mates. if you need to suction patient, the tip of the suction should be contained after suction. here\u00a0we have inline suction which is helpful,\u00a0it is already connected to\u00a0ETT.\u00a0\n14. both intubating providers should have full PPE.\n15. any health worker taking care of patient should have full PPE\nhope this helps.",
+        "user": "U0107PQDK33",
+        "ts": "1584937573.043000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jIL9N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These are a\u00a0few advice/measures to think about...\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The main measure to take for you and your department as this unfolds is to ISOLATE\u00a0patients with symptoms/known\u00a0contact/recent\u00a0travel\u00a0to affected areas. This should occur at triage/preop/ED as patients are coming in\u00a0BEFORE\u00a0they spread\u00a0the virus to other patients and healthcare workers.\u00a0Patient visitors should be completely banned to come into the\u00a0hospital. We have stopped all patient visitors from entering the hospital here, unless it is a patient who\u00a0is\u00a0under 18, developmentally delayed, unable to communicate with staff etc. If you need dedicated translators for patients who don't speak amharigna, you can urge the hospital to work on providing translators so you can minimize the amount of people entering in and out of the hospital."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "all patients who are coming into the hospital should be registered as they are coming in and out, including which department they are going to. this will help trace potential spread."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cancel all electives cases, which you have already done.\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "train essential staff (anesthesia, nursing, ICU, ED, ward nurses, surgeons)\u00a0on proper use of PPE, particularly when taking it OFF which is when most of the contamination happens. you should\u00a0have a dedicated trash bin where all materials contaminated with covid 19/PUI are thrown in.\u00a0If you run out of N95 masks, try to think outside of the box, possibly urging hospital and MOH to manufacture clothes masks? the CDC here is starting to insinuate any mask might be useful...when there is\u00a0nothing, anything is better.\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the minimum essentials for\u00a0PPE\u00a0is\u00a0MASK (N95\u00a0\u00a0preferably), GOWN, GLOVES and EYE COVER.\u00a0OR\u00a0staff will need shoe\u00a0cover\u00a0as well.\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "run simulations (hands on practice) throughout the week on how to put\u00a0PPE\u00a0on and\u00a0off.\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "WASHING\u00a0hands of all healthcare workers before and after\u00a0caring\u00a0for ANY\u00a0patients should be\u00a0strictly enforced."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "All patients\u00a0coming into the hospital should first\u00a0wash their hands at the\u00a0door, regardless if\u00a0COVID or not."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "warn staff\u00a0NOT\u00a0to take out masks outside of hospital to give to family members. this should come from higher\u00a0up and should be strictly enforced. half of the reason why we are\u00a0lacking\u00a0masks\u00a0here is because\u00a0workers\u00a0kept on\u00a0taking them\u00a0to their\u00a0family."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "staff\u00a0# should be minimized.\u00a0unnecessary\u00a0staff should\u00a0GO\u00a0home. it is\u00a0better to call staff on a need basis than expose everyone to the virus and\u00a0run out of workforce. as elective\u00a0cases\u00a0get\u00a0cancelled you will have\u00a0many workers sitting around, tell\u00a0them to go home and stay home, call them\u00a0when\u00a0you need them or as\u00a0workers start getting sick, this will inevitably happen.\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "you should also meet\u00a0with ICU,\u00a0anesthesia and\u00a0EM\u00a0team\u00a0to\u00a0come\u00a0up with a coherent plan. if\u00a0a patient who is suspected or\u00a0affected comes in, what are the steps\u00a0to intubation and\u00a0ICU. this should be a uniform process.\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "when the patient comes to the OR, he/should should wear a normal\u00a0mask.\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "for intubation, 2\u00a0providers a recommended.\u00a0one who will intubate, the other one who can push drugs. intubation should be RSI for all patients, no LMA/masking as you are trying\u00a0to minimize aerosolization of particles.\u00a0the cuff should\u00a0be inflated\u00a0as soon as possible and connected to the\u00a0circuit. the circuit\u00a0once connected should not\u00a0be disconnected\u00a0FOR any reason, unless\u00a0something discussed extensively\u00a0with you or\u00a0other team mates. if you need to suction patient, the tip of the suction should be contained after suction. here\u00a0we have inline suction which is helpful,\u00a0it is already connected to\u00a0ETT.\u00a0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "both intubating providers should have full PPE."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "any health worker taking care of patient should have full PPE"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hope this helps."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pinned_to": [
+            "C010H6J6YLE"
+        ],
+        "pinned_info": {
+            "channel": "C010H6J6YLE",
+            "pinned_by": "UVB9ZSPCH",
+            "pinned_ts": 1584940264
+        }
+    },
+    {
+        "client_msg_id": "8e808a77-28fb-4543-bebe-295ef3af8606",
+        "type": "message",
+        "text": "the above is an email I sent out to one of the  anesthesiologists in Addis Ababa  who reached out to me re  initial measures.  i am working on an  operating  room  protocol  for my department, i can send  that out once it's  finalized mid next  week. if  any specific anesthesiologist or  ICU doctor wants to reach out to me <mailto:asnake.betelehem@gmail.com|asnake.betelehem@gmail.com>. Please give  them my personal email, use the subject title  \"Slack Covid ET\"  thank you -",
+        "user": "U0107PQDK33",
+        "ts": "1584937761.045500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+UnKn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the above is an email I sent out to one of the  anesthesiologists in Addis Ababa  who reached out to me re  initial measures.  i am working on an  operating  room  protocol  for my department, i can send  that out once it's  finalized mid next  week. if  any specific anesthesiologist or  ICU doctor wants to reach out to me "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:asnake.betelehem@gmail.com",
+                                "text": "asnake.betelehem@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Please give  them my personal email, use the subject title  \"Slack Covid ET\"  thank you -"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "495F1926-8084-4D9C-AE2F-AB848F1FDA2F",
+        "type": "message",
+        "text": "<@U0107PQDK33> thank you ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584940312.046400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EIsL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107PQDK33"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D593162A-F1E2-4C49-8932-AB1CC5D3E6BC",
+        "type": "message",
+        "text": "<@U0100NQQ0AW> welcome ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584940910.046900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5HvcC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0100NQQ0AW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " welcome "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584940910.046900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584948914.051800",
+        "reply_users": [
+            "U0100NQQ0AW",
+            "UVB9ZSPCH"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "51bdabac-14c2-4ff2-9339-caef744cd9ff",
+        "type": "message",
+        "text": "thanks much! looking forward to catching up and being of help :grinning:",
+        "user": "U0100NQQ0AW",
+        "ts": "1584942199.047100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uRY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks much! looking forward to catching up and being of help "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584940910.046900",
+        "parent_user_id": "UVB9ZSPCH"
+    },
+    {
+        "client_msg_id": "c8dd65a5-98f5-448c-b63a-7e167957e5f5",
+        "type": "message",
+        "text": "Hi everyone, we are looking for research support as we prepare to launch a daily Health Segment on the Local News (ETV or FANA) for ~10mins. Is there anyone interested in supporting this venture as a content researcher? As you know, creating print material is crucial, but we are not addressing the masses due to literacy issues. The segment will start in Amharic, but will quickly scale up to include additional local languages on TV and Radio. If you are interested in collaboration, please let me know. Thanks!",
+        "user": "U0108RB6UU8",
+        "ts": "1584948871.050800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8o5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, we are looking for research support as we prepare to launch a daily Health Segment on the Local News (ETV or FANA) for ~10mins. Is there anyone interested in supporting this venture as a content researcher? As you know, creating print material is crucial, but we are not addressing the masses due to literacy issues. The segment will start in Amharic, but will quickly scale up to include additional local languages on TV and Radio. If you are interested in collaboration, please let me know. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584948871.050800",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1585287462.017500",
+        "reply_users": [
+            "U0107JERE9L",
+            "U0108RB6UU8",
+            "UVALWD1MG",
+            "U010JHVF19U",
+            "U010CLFURT8",
+            "UVB9ZSPCH"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U0106M26108"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C2CAE36B-1C6D-4DD8-AAC8-C5DC01619120",
+        "type": "message",
+        "text": "<@U0100NQQ0AW> please join <#C010H6J6YLE|health-prof-support> team &amp;dive in,thanks! ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584948914.051800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G2W=n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0100NQQ0AW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please join "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010H6J6YLE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " team &dive in,thanks! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584940910.046900",
+        "parent_user_id": "UVB9ZSPCH",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U0100NQQ0AW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9DE6FEFE-1591-4C56-9BED-368E6D1B85CA",
+        "type": "message",
+        "text": "<@U0108RB6UU8> welcome! ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584948967.053200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0108RB6UU8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " welcome! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584948967.053200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584949071.053800",
+        "reply_users": [
+            "U0108RB6UU8"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c030cd08-1640-447d-b1a1-8722b57e3522",
+        "type": "message",
+        "text": "<@U010B22ESES> has curated some content,, you may be able to use some of them.",
+        "user": "U0101KKMPFC",
+        "ts": "1584948977.053400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ndqf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010B22ESES"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has curated some content,, you may be able to use some of them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584948977.053400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584949246.055900",
+        "reply_users": [
+            "U0108RB6UU8"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0108RB6UU8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16fe9a7a-109e-4199-8984-5dbf0e22db49",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U0108RB6UU8",
+        "ts": "1584949071.053800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "00E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584948967.053200",
+        "parent_user_id": "UVB9ZSPCH"
+    },
+    {
+        "client_msg_id": "c492b209-8077-4839-9d4b-929d2f304397",
+        "type": "message",
+        "text": "Suggestion: You might want to shorten your symptom list to \u1275\u12a9\u1233\u1275 \u1363 \u1233\u120d:  \u1275\u1295\u134b\u123d \u121b\u1320\u122d. People have better recall to three items and the other symptoms are vague and nonspecific to COVID19",
+        "user": "U010H9HHT4M",
+        "ts": "1584949239.055500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=s+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Suggestion: You might want to shorten your symptom list to \u1275\u12a9\u1233\u1275 \u1363 \u1233\u120d:  \u1275\u1295\u134b\u123d \u121b\u1320\u122d. People have better recall to three items and the other symptoms are vague and nonspecific to COVID19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584788947.025000",
+        "parent_user_id": "UVD6SD63D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVD6SD63D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "daf4b02a-aabc-4242-b2a0-35a35e4a64c8",
+        "type": "message",
+        "text": "Thanks <@U0101KKMPFC> <@U010B22ESES> greetings! Where can I access your content? And can we discuss details on how to repurpose it for Media?",
+        "user": "U0108RB6UU8",
+        "ts": "1584949246.055900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bj7Uu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0101KKMPFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010B22ESES"
+                            },
+                            {
+                                "type": "text",
+                                "text": " greetings! Where can I access your content? And can we discuss details on how to repurpose it for Media?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584948977.053400",
+        "parent_user_id": "U0101KKMPFC"
+    },
+    {
+        "client_msg_id": "9D6479BB-35E2-4245-AF95-AF09E1B85A79",
+        "type": "message",
+        "text": "<@U0108RB6UU8> we have #awareness-content team working on generating content. I will have <@UV8B0679P> <@U0107AYF16H> <@U0107JERE9L> advice on this on collaboration. Thanks ",
+        "user": "UVB9ZSPCH",
+        "ts": "1584949308.056900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rxpa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0108RB6UU8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we have #awareness-content team working on generating content. I will have "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107AYF16H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " advice on this on collaboration. Thanks "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "UVD6SD63D",
+        "ts": "1584951889.057100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 22nd, 2020 9:18 PM] betelehem.asnake: hi everyone thank you! I quite honestly just downloaded this app  and it's taking me a bit longer to figure out. Can you send me an email at <mailto:asnake.betelehem@gmail.com|asnake.betelehem@gmail.com> with the subject title \"Slack Covid\" with contacts and specific needs, I'm easily reachable on there. Thank you!",
+                "ts": "1584937088.227100",
+                "author_id": "U0107PQDK33",
+                "author_subname": "Betelehem Asnake",
+                "channel_id": "CV6K393C2",
+                "channel_name": "all-introductions",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "hi everyone thank you! I quite honestly just downloaded this app  and it's taking me a bit longer to figure out. Can you send me an email at <mailto:asnake.betelehem@gmail.com|asnake.betelehem@gmail.com> with the subject title \"Slack Covid\" with contacts and specific needs, I'm easily reachable on there. Thank you!",
+                "author_name": "Betelehem Asnake",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0107PQDK33",
+                "author_icon": "https://secure.gravatar.com/avatar/dee724cf7a67139e203351ddaf29a7d1.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/CV6K393C2/p1584937088227100?thread_ts=1584914441199200&cid=CV6K393C2",
+                "is_share": true,
+                "footer": "From a thread in #all-introductions"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "So here is the paper on  Hydroxychloroquine and azithromycin as a treatment of COVID-19.",
+        "files": [
+            {
+                "id": "F010739RE75",
+                "created": 1584954132,
+                "timestamp": 1584954132,
+                "name": "Hydroxychloroquine_final_DOI_IJAA.pdf",
+                "title": "Hydroxychloroquine_final_DOI_IJAA.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0105ADB9PU",
+                "editable": false,
+                "size": 320391,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010739RE75/hydroxychloroquine_final_doi_ijaa.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010739RE75/download/hydroxychloroquine_final_doi_ijaa.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/TV5KELEUS-F010739RE75-5e3d40ab49/hydroxychloroquine_final_doi_ijaa_thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0105ADB9PU/F010739RE75/hydroxychloroquine_final_doi_ijaa.pdf",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010739RE75-2fd9dacd25",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q4YY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So here is the paper on  Hydroxychloroquine and azithromycin as a treatment of COVID-19."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0105ADB9PU",
+        "display_as_bot": false,
+        "ts": "1584954138.057400",
+        "client_msg_id": "e482b9bf-2488-4499-993d-68472a1e7aa0",
+        "thread_ts": "1584954138.057400",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1584993202.069600",
+        "reply_users": [
+            "U0107JERE9L",
+            "U0105ADB9PU"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a7f63dd-4319-40f4-b240-b15aac510b7e",
+        "type": "message",
+        "text": "Hi everyone, a few of us are working on analysis and forecasting for COVID-19 in Ethiopia, are there any health professionals who would be willing to jump on a call later with us? We need to make sure that we have the right guidance as we build out these tools.",
+        "user": "U0100B5MHDG",
+        "ts": "1584956387.061400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0100B5MHDG",
+            "ts": "1584972020.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gmfh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, a few of us are working on analysis and forecasting for COVID-19 in Ethiopia, are there any health professionals who would be willing to jump on a call later with us? We need to make sure that we have the right guidance as we build out these tools."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584956387.061400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584995344.074300",
+        "reply_users": [
+            "U0105ADB9PU",
+            "U0100B5MHDG"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "40c1fead-f0af-493f-bc27-ddd346dd5190",
+        "type": "message",
+        "text": "So, just got a message from Dr Tsion Frew, she has promised to send videos of some of her trainings by tomorrow",
+        "user": "U0101KKMPFC",
+        "ts": "1584973820.062600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gF4+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, just got a message from Dr Tsion Frew, she has promised to send videos of some of her trainings by tomorrow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584973820.062600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584977075.064600",
+        "reply_users": [
+            "U010B22ESES",
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b3fc10a9-767f-4882-aaa1-83f5e23d39ba",
+        "type": "message",
+        "text": "That is great news",
+        "user": "U010B22ESES",
+        "ts": "1584973843.062700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is great news"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584973820.062600",
+        "parent_user_id": "U0101KKMPFC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584974886.063700",
+        "user": "U01087PJBNG",
+        "text": "<@U01087PJBNG> has joined the channel",
+        "inviter": "U0101KKMPFC"
+    },
+    {
+        "client_msg_id": "e0944917-9ada-4e9d-9b2a-54f4ebd586d0",
+        "type": "message",
+        "text": "Hello <@U0108RB6UU8> - Thank you for joining. Yes this is a very important project and we want to help. At the moment, we have a social awareness group that is creating a lot of print material. We are also working on videos that have high impact and cultural significance so it can be shared on TV and radio.\n\nWould you like to have one of our awareness team reach out to?\nWould you like to get in contact with doctors from within Ethiopia?\nWould you like to get in contact with influencers or other people that already have content they have created?\n\nLet me know and we can get things going.\nI am one of the leads here and I am particularly interested in awareness via TV and radio.\n\nThank you",
+        "user": "U0107JERE9L",
+        "ts": "1584976834.063800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=y9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0108RB6UU8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Thank you for joining. Yes this is a very important project and we want to help. At the moment, we have a social awareness group that is creating a lot of print material. We are also working on videos that have high impact and cultural significance so it can be shared on TV and radio.\n\nWould you like to have one of our awareness team reach out to?\nWould you like to get in contact with doctors from within Ethiopia?\nWould you like to get in contact with influencers or other people that already have content they have created?\n\nLet me know and we can get things going.\nI am one of the leads here and I am particularly interested in awareness via TV and radio.\n\nThank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584948871.050800",
+        "parent_user_id": "U0108RB6UU8"
+    },
+    {
+        "client_msg_id": "56fb1dba-4d53-4174-bd49-cc74966bd726",
+        "type": "message",
+        "text": "\u201cwe need something super simple\u201d\n<https://twitter.com/USArmy/status/1241185656094801923>",
+        "user": "U01017GFFB4",
+        "ts": "1584976922.064200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "<https://twitter.com/USArmy|@USArmy>: Lt. Gen. Todd Semonite, Chief of the <https://twitter.com/USACEHQ|@USACEHQ>, provides a 'simple' solution to the complicated problem of building temporary medical facilities to assist states with responding to #COVID19. This clip is from a press conference by Army senior leader on March 20, 2020. <https://pbs.twimg.com/amplify_video_thumb/1241185183568715776/img/J9wgmPew9i8NNJD6.jpg>",
+                "ts": 1584756695,
+                "author_name": "U.S. Army",
+                "author_link": "https://twitter.com/USArmy/status/1241185656094801923",
+                "author_icon": "https://pbs.twimg.com/profile_images/684036669515759616/BF3rskvn_normal.png",
+                "author_subname": "@USArmy",
+                "text": "Lt. Gen. Todd Semonite, Chief of the <https://twitter.com/USACEHQ|@USACEHQ>, provides a 'simple' solution to the complicated problem of building temporary medical facilities to assist states with responding to #COVID19. This clip is from a press conference by Army senior leader on March 20, 2020.",
+                "service_name": "twitter",
+                "service_url": "https://twitter.com/",
+                "from_url": "https://twitter.com/USArmy/status/1241185656094801923",
+                "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/1241185183568715776/img/J9wgmPew9i8NNJD6.jpg",
+                "thumb_width": 640,
+                "thumb_height": 360,
+                "video_html_width": 640,
+                "video_html_height": 360,
+                "video_html": "<video controls poster=\"https://pbs.twimg.com/amplify_video_thumb/1241185183568715776/img/J9wgmPew9i8NNJD6.jpg\" width=\"640\" height=\"360\"><source type=\"video/mp4\" src=\"https://video.twimg.com/amplify_video/1241185183568715776/vid/640x360/1xlOO0kgdttGVBgr.mp4?tag=13\"></video>",
+                "id": 1,
+                "original_url": "https://twitter.com/USArmy/status/1241185656094801923",
+                "footer": "Twitter",
+                "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WCN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\u201cwe need something super simple\u201d\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://twitter.com/USArmy/status/1241185656094801923"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584976922.064200",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1584978038.066000",
+        "reply_users": [
+            "U010B22ESES",
+            "U0107JERE9L",
+            "U01017GFFB4"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4579c113-3f92-44d6-b83d-4bc38645525d",
+        "type": "message",
+        "text": "Hello <@U0105ADB9PU> ,\n\nThank you for this paper... Do you have the source of the paper? We are gathering information like this to share with healthcare folks.",
+        "user": "U0107JERE9L",
+        "ts": "1584977036.064400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "al8G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105ADB9PU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ,\n\nThank you for this paper... Do you have the source of the paper? We are gathering information like this to share with healthcare folks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584954138.057400",
+        "parent_user_id": "U0105ADB9PU"
+    },
+    {
+        "client_msg_id": "d8d5c3f3-a479-4c88-91d8-a9ee39890507",
+        "type": "message",
+        "text": "Excellent news!!",
+        "user": "U0107JERE9L",
+        "ts": "1584977075.064600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ic5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excellent news!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584973820.062600",
+        "parent_user_id": "U0101KKMPFC"
+    },
+    {
+        "client_msg_id": "67cb704b-620d-41ac-877b-7f4657b83b24",
+        "type": "message",
+        "text": "Someone has to decide that and we all need to follow suit",
+        "user": "U010B22ESES",
+        "ts": "1584977139.064800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4JkOi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Someone has to decide that and we all need to follow suit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584976922.064200",
+        "parent_user_id": "U01017GFFB4"
+    },
+    {
+        "client_msg_id": "7afc9f4e-468a-4453-8524-3d60a5f1d158",
+        "type": "message",
+        "text": "Hey <@U01017GFFB4> - I agree with this approach. Were you able to get any feedback about the buildings from MOH?",
+        "user": "U0107JERE9L",
+        "ts": "1584977338.065000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8pt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01017GFFB4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I agree with this approach. Were you able to get any feedback about the buildings from MOH?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584976922.064200",
+        "parent_user_id": "U01017GFFB4"
+    },
+    {
+        "client_msg_id": "ed02b5c2-e5d6-4cc7-96e0-188b0616e3cc",
+        "type": "message",
+        "text": "no I was not, I am just scribbling a note on all-general asking for other recommended connections",
+        "user": "U01017GFFB4",
+        "ts": "1584977403.065200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AfYhg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no I was not, I am just scribbling a note on all-general asking for other recommended connections"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584976922.064200",
+        "parent_user_id": "U01017GFFB4"
+    },
+    {
+        "client_msg_id": "487973d1-a940-4254-bc61-30ca970574e5",
+        "type": "message",
+        "text": "OK.. Let us do this.. Get all your recommendation in a documentation ready. We may have to jump on a call to get this approved. So send me a DM and  we can discuss how.",
+        "user": "U0107JERE9L",
+        "ts": "1584977511.065400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0KBm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK.. Let us do this.. Get all your recommendation in a documentation ready. We may have to jump on a call to get this approved. So send me a DM and  we can discuss how."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584976922.064200",
+        "parent_user_id": "U01017GFFB4"
+    },
+    {
+        "client_msg_id": "d6537e43-7415-4a17-8e6e-a6f5534db383",
+        "type": "message",
+        "text": "some ideas are popping up and we would like to quickly enter into drafting working drawings",
+        "user": "U01017GFFB4",
+        "ts": "1584977513.065600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "some ideas are popping up and we would like to quickly enter into drafting working drawings"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584976922.064200",
+        "parent_user_id": "U01017GFFB4"
+    },
+    {
+        "client_msg_id": "be979e5a-3d60-41fe-b9be-331b0a68ddd6",
+        "type": "message",
+        "text": "Agreed.",
+        "user": "U0107JERE9L",
+        "ts": "1584977540.065800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rakh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584976922.064200",
+        "parent_user_id": "U01017GFFB4"
+    },
+    {
+        "client_msg_id": "490a612f-7c2d-4d7b-8c13-aa7b05db592f",
+        "type": "message",
+        "text": "just dropped some lines, have a look",
+        "user": "U01017GFFB4",
+        "ts": "1584978038.066000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ePQE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just dropped some lines, have a look"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584976922.064200",
+        "parent_user_id": "U01017GFFB4"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584980050.066300",
+        "user": "U010L4E6BK9",
+        "text": "<@U010L4E6BK9> has joined the channel",
+        "inviter": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "d314eee5-73a7-4928-92cf-8073b0296c05",
+        "type": "message",
+        "text": "<!here> Hello everyone, I\u2019m Hana working with our marketing and media team. Are there two or three of you who have a moment to approve marketing materials we made? Ideally one from Ethiopia and one from US. Thank you!",
+        "user": "UVALWD1MG",
+        "ts": "1584991282.068000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uwq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello everyone, I\u2019m Hana working with our marketing and media team. Are there two or three of you who have a moment to approve marketing materials we made? Ideally one from Ethiopia and one from US. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36f66c8e-929b-4db8-9574-f0f78775dcce",
+        "type": "message",
+        "text": "first page of the paper <@U0107JERE9L>\n\u00a0International\u00a0Journal\u00a0of\u00a0Antimicrobial\u00a0Agents\u00a0\u2013\u00a0In\u00a0Press\u00a017\u00a0March\u00a02020",
+        "user": "U0105ADB9PU",
+        "ts": "1584991488.068100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "first page of the paper "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JERE9L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\u00a0International\u00a0Journal\u00a0of\u00a0Antimicrobial\u00a0Agents\u00a0\u2013\u00a0In\u00a0Press\u00a017\u00a0March\u00a02020"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584954138.057400",
+        "parent_user_id": "U0105ADB9PU"
+    },
+    {
+        "client_msg_id": "35a91d10-1cb3-4a68-85d6-42bf688238d9",
+        "type": "message",
+        "text": "Thanks <@U0105ADB9PU> - Was this published on their website?",
+        "user": "U0107JERE9L",
+        "ts": "1584991615.068300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f40F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105ADB9PU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Was this published on their website?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584954138.057400",
+        "parent_user_id": "U0105ADB9PU"
+    },
+    {
+        "client_msg_id": "ce5e43b4-d873-4654-9cdb-fe52dab04e53",
+        "type": "message",
+        "text": "Its a journal pre proof(peer reviewed and can be cited ) for now to be published on International\u00a0Journal\u00a0of\u00a0Antimicrobial\u00a0Agents\n<https://www.sciencedirect.com/science/article/pii/S0924857920300996>",
+        "user": "U0105ADB9PU",
+        "ts": "1584991956.068500",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial",
+                "title_link": "https://www.sciencedirect.com/science/article/pii/S0924857920300996",
+                "text": "Chloroquine and hydroxychloroquine have been found to be efficient on SARS-CoV-2, and reported to be efficient in Chinese COV-19 patients. We evaluate\u2026",
+                "fallback": "Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial",
+                "from_url": "https://www.sciencedirect.com/science/article/pii/S0924857920300996",
+                "thumb_url": "https://ars.els-cdn.com/content/image/S09248579.gif",
+                "thumb_width": 110,
+                "thumb_height": 150,
+                "service_icon": "https://www.sciencedirect.com/favicon.ico",
+                "service_name": "sciencedirect.com",
+                "id": 1,
+                "original_url": "https://www.sciencedirect.com/science/article/pii/S0924857920300996"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qwv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Its a journal pre proof(peer reviewed and can be cited ) for now to be published on International\u00a0Journal\u00a0of\u00a0Antimicrobial\u00a0Agents\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.sciencedirect.com/science/article/pii/S0924857920300996"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584954138.057400",
+        "parent_user_id": "U0105ADB9PU"
+    },
+    {
+        "client_msg_id": "53bc41d6-83f7-45cf-bf81-bdbf9d7d7d85",
+        "type": "message",
+        "text": "Ahhh - this is what I was looking for. THANK YOU <@U0105ADB9PU>",
+        "user": "U0107JERE9L",
+        "ts": "1584992061.068800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ct4/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahhh - this is what I was looking for. THANK YOU "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105ADB9PU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584954138.057400",
+        "parent_user_id": "U0105ADB9PU"
+    },
+    {
+        "type": "message",
+        "text": "<@U010787AZ2T> <@U010318AHEE> <@U01022PTXA7> <@U010JHVF19U> <@UV8F3SRGA>\n\nIs this information good to share with the healthcare folks?",
+        "user": "U0107JERE9L",
+        "ts": "1584992161.069000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107JERE9L",
+            "ts": "1584992214.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "[March 23rd, 2020 3:32 PM] okebede: Its a journal pre proof(peer reviewed and can be cited ) for now to be published on International\u00a0Journal\u00a0of\u00a0Antimicrobial\u00a0Agents\n<https://www.sciencedirect.com/science/article/pii/S0924857920300996>",
+                "ts": "1584991956.068500",
+                "author_id": "U0105ADB9PU",
+                "author_subname": "oly kebede",
+                "channel_id": "C010H6J6YLE",
+                "channel_name": "health-prof-support",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "Its a journal pre proof(peer reviewed and can be cited ) for now to be published on International\u00a0Journal\u00a0of\u00a0Antimicrobial\u00a0Agents\n<https://www.sciencedirect.com/science/article/pii/S0924857920300996>",
+                "author_name": "oly kebede",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U0105ADB9PU",
+                "author_icon": "https://secure.gravatar.com/avatar/e02b24fdfe8f398f399a440e45fa82b3.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C010H6J6YLE/p1584991956068500?thread_ts=1584954138057400&cid=C010H6J6YLE",
+                "is_share": true,
+                "footer": "From a thread in #health-prof-support"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "356Mk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010787AZ2T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010318AHEE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01022PTXA7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JHVF19U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8F3SRGA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIs this information good to share with the healthcare folks?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584992161.069000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1585008517.081700",
+        "reply_users": [
+            "U01022PTXA7",
+            "UV8F3SRGA",
+            "U0107JERE9L"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "64bbbd25-6c1c-4e50-b18e-0bc741df7f11",
+        "type": "message",
+        "text": "I dont think we should share just yet, imo. This is a preliminary result with only 20 test patients. Many people are optimistic about this combination drug working, but there has not been a rigorous testing to prove that it works in reducing viral load or decreasing the symptomatic window of time.",
+        "user": "U01022PTXA7",
+        "ts": "1584992366.069300",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01022PTXA7",
+            "ts": "1584992693.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yBy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I dont think we should share just yet, imo. This is a preliminary result with only 20 test patients. Many people are optimistic about this combination drug working, but there has not been a rigorous testing to prove that it works in reducing viral load or decreasing the symptomatic window of time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584992161.069000",
+        "parent_user_id": "U0107JERE9L"
+    },
+    {
+        "client_msg_id": "ced09e04-69c0-4f54-b53c-d25b2b3c4600",
+        "type": "message",
+        "text": "```De nada```\n",
+        "user": "U0105ADB9PU",
+        "ts": "1584993202.069600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9LvDG",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De nada"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584954138.057400",
+        "parent_user_id": "U0105ADB9PU"
+    },
+    {
+        "client_msg_id": "6e87d661-bda5-47bd-a13f-419379b8966b",
+        "type": "message",
+        "text": "<https://www.youtube.com/watch?v=Es_iY5WJdmI&amp;authuser=0>",
+        "user": "U0107EMK8UD",
+        "ts": "1584994770.069900",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https://www.youtube.com/",
+                "title": "Making Your Own Reusable Elastomeric Respirator For Use During Covid-19 Viral Pandemic N95 Shortage",
+                "title_link": "https://www.youtube.com/watch?v=Es_iY5WJdmI&amp;authuser=0",
+                "author_name": "HB Kim Surgery",
+                "author_link": "https://www.youtube.com/channel/UC9ADPZFhoFWawUpaL6YmgnQ",
+                "thumb_url": "https://i.ytimg.com/vi/Es_iY5WJdmI/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Making Your Own Reusable Elastomeric Respirator For Use During Covid-19 Viral Pandemic N95 Shortage",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/Es_iY5WJdmI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https://www.youtube.com/watch?v=Es_iY5WJdmI&amp;authuser=0",
+                "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                "id": 1,
+                "original_url": "https://www.youtube.com/watch?v=Es_iY5WJdmI&amp;authuser=0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vj3s4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.youtube.com/watch?v=Es_iY5WJdmI&authuser=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107DX4VNU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01076AUPNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "352b26fd-3d27-4920-99c9-228f67a49253",
+        "type": "message",
+        "text": "came across this in a list serve. may be useful?",
+        "user": "U0107EMK8UD",
+        "ts": "1584994803.070600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JqU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "came across this in a list serve. may be useful?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0797ac01-2864-4baa-8325-6776ee88697c",
+        "type": "message",
+        "text": "don't you guys need data scientist to work on models and stuff if you are trying to forecast the number of cases in ethio",
+        "user": "U0105ADB9PU",
+        "ts": "1584994976.070700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GD7Zl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "don't you guys need data scientist to work on models and stuff if you are trying to forecast the number of cases in ethio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584956387.061400",
+        "parent_user_id": "U0100B5MHDG"
+    },
+    {
+        "client_msg_id": "AB9B6264-78A6-4CA8-8A01-7A5A9B25C59D",
+        "type": "message",
+        "text": "<@U0105ADB9PU> There are people who can build out the tools, but what we also need are people who understand the domain we are trying to build these tools for",
+        "user": "U0100B5MHDG",
+        "ts": "1584995344.074300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFwL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105ADB9PU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " There are people who can build out the tools, but what we also need are people who understand the domain we are trying to build these tools for"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584956387.061400",
+        "parent_user_id": "U0100B5MHDG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105ADB9PU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fbadbbf9-605f-44d9-871b-bf16206af400",
+        "type": "message",
+        "text": "Adding <@U010L009FS4> to this channel as a PH expert.",
+        "user": "U01022PTXA7",
+        "ts": "1584995894.074900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s7UBM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adding "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L009FS4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to this channel as a PH expert."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U010L009FS4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584995897.075100",
+        "user": "U010L009FS4",
+        "text": "<@U010L009FS4> has joined the channel",
+        "inviter": "U01022PTXA7"
+    },
+    {
+        "client_msg_id": "F60D420C-6C3E-44F2-A8AE-9C8A506BE759",
+        "type": "message",
+        "text": "Hi Everyone, I\u2019m a leader in the marketing team and a health policy prof. I\u2019m looking to create a team of 5 health professionals I can directly message to approve our marketing materials for health content accuracy before they get published. Can anyone volunteer?",
+        "user": "UVALWD1MG",
+        "ts": "1584996141.078300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eDUW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everyone, I\u2019m a leader in the marketing team and a health policy prof. I\u2019m looking to create a team of 5 health professionals I can directly message to approve our marketing materials for health content accuracy before they get published. Can anyone volunteer?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "reply_count": 12,
+        "reply_users_count": 9,
+        "latest_reply": "1585526812.043700",
+        "reply_users": [
+            "U0107JERE9L",
+            "U01022PTXA7",
+            "U010FNN079C",
+            "U0107DX4VNU",
+            "UVALWD1MG",
+            "U010L4E6BK9",
+            "U0107EMK8UD",
+            "U010SPW4HJB",
+            "U0111CS4L14"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U0100NQQ0AW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0111CS4L14"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95cc87d7-966a-49c1-a55c-4bd5278cac79",
+        "type": "message",
+        "text": "<!channel> ^^^",
+        "user": "U0106M26108",
+        "ts": "1584996194.078900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tqf8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "UVALWD1MG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "056e6f3e-b1a0-4d4a-b2f1-c016b7c35040",
+        "type": "message",
+        "text": "<@U01022PTXA7> - Could you or someone in your team help <@UVALWD1MG> to approve some material?\n\nThank you.",
+        "user": "U0107JERE9L",
+        "ts": "1584996437.079000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=3e5G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01022PTXA7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Could you or someone in your team help "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVALWD1MG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to approve some material?\n\nThank you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "parent_user_id": "UVALWD1MG"
+    },
+    {
+        "client_msg_id": "a52e68e0-c320-43ef-b9cc-cb3dda83acf9",
+        "type": "message",
+        "text": "Sure! Is there a list of items you need reviewed?Tagging a few people that can help with this. <@U010FNN079C> <@U0107DX4VNU> <@U010DGZP3AR>",
+        "user": "U01022PTXA7",
+        "ts": "1584997229.079400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ABBH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure! Is there a list of items you need reviewed?Tagging a few people that can help with this. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010FNN079C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107DX4VNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010DGZP3AR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "parent_user_id": "UVALWD1MG"
+    },
+    {
+        "client_msg_id": "bccfff00-9a50-47d3-8807-5d5ec3609759",
+        "type": "message",
+        "text": "Am happy to help.",
+        "user": "U010FNN079C",
+        "ts": "1584997400.079700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0rCNp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Am happy to help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "parent_user_id": "UVALWD1MG",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U01022PTXA7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "378bc0c2-057a-453c-b2f7-b7f467f28738",
+        "type": "message",
+        "text": "happy to help!",
+        "user": "U0107DX4VNU",
+        "ts": "1584997429.079900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FeI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "happy to help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "parent_user_id": "UVALWD1MG",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U01022PTXA7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37fb5969-cb73-43cc-bbe1-e25ad97c1a3f",
+        "type": "message",
+        "text": "Amazing, I\u2019ll create a separate group with you all and share a link to the docs.",
+        "user": "UVALWD1MG",
+        "ts": "1584998525.080300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6gK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing, I\u2019ll create a separate group with you all and share a link to the docs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "parent_user_id": "UVALWD1MG"
+    },
+    {
+        "client_msg_id": "afc8b461-08b7-4e6c-ad38-8c329f63782d",
+        "type": "message",
+        "text": "Happy to help",
+        "user": "U010L4E6BK9",
+        "ts": "1584999030.080600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vuk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "parent_user_id": "UVALWD1MG"
+    },
+    {
+        "client_msg_id": "cf4d34d8-4688-468a-8f21-4ba6599488fd",
+        "type": "message",
+        "text": "Awesome, adding you to the group",
+        "user": "UVALWD1MG",
+        "ts": "1584999073.080800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4VM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, adding you to the group"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "parent_user_id": "UVALWD1MG"
+    },
+    {
+        "client_msg_id": "665a60b9-af43-407f-90cf-a432e66bb956",
+        "type": "message",
+        "text": "I can help as well",
+        "user": "U0107EMK8UD",
+        "ts": "1585001102.081000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can help as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "parent_user_id": "UVALWD1MG"
+    },
+    {
+        "client_msg_id": "8987b63f-6813-4832-b3f7-bc8bd20e0245",
+        "type": "message",
+        "text": "Thank you! We have a few people now, but I\u2019ll reach out soon! I\u2019ll include you for the next round",
+        "user": "UVALWD1MG",
+        "ts": "1585002560.081200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GU7mo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you! We have a few people now, but I\u2019ll reach out soon! I\u2019ll include you for the next round"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584996141.078300",
+        "parent_user_id": "UVALWD1MG"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "06e40000-88c6-4d4a-9c5d-3b72e32e750a",
+        "type": "message",
+        "text": "<@U010BLMU4AX> - This is <@U010L1RJMUN>... He has a lot of incredible research for our task of recognizing the vulnerable groups.",
+        "user": "U0107JERE9L",
+        "ts": "1586916821.242500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M/7P5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010BLMU4AX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - This is "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "... He has a lot of incredible research for our task of recognizing the vulnerable groups."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586789240.238200",
+        "parent_user_id": "U010L1RJMUN"
+    }
+]

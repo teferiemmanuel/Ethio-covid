@@ -1,0 +1,1108 @@
+[
+    {
+        "client_msg_id": "42758ed5-a91a-45f5-a7cb-4c3a459f276f",
+        "type": "message",
+        "text": "<!channel> Hi Everyone! Following our conversation last night re: pausing commcare and helping JSI. That is still the plan, we are just working out some logistical kinks first. Please stay tuned for an update and more instructions from <@U0106M27EKS> tomorrow!",
+        "user": "U0107A7161E",
+        "ts": "1585197430.048100",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0107A7161E",
+            "ts": "1585197553.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BP==n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi Everyone! Following our conversation last night re: pausing commcare and helping JSI. That is still the plan, we are just working out some logistical kinks first. Please stay tuned for an update and more instructions from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0106M27EKS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tomorrow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0105C870AC",
+                    "U010059R6BT",
+                    "U01076XHPC0",
+                    "U010A0N4N0P",
+                    "U010ETDKCA1",
+                    "U010AMAA7KR",
+                    "U01076CDQ8J",
+                    "UV6JHDP0S",
+                    "U010APHG8Q1"
+                ],
+                "count": 9
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U010KKYAGA3",
+                    "UV6JHDP0S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56be9be4-e666-43c0-af11-c7f9c8001ada",
+        "type": "message",
+        "text": "Hi all, I'm an infectious disease epidemiologist in Vancouver, BC. I have experience with TB contact tracing as well as other types of ID modeling and statistical analysis. Let me know if there's any way I can contribute!",
+        "user": "U010T8D05UM",
+        "ts": "1585206258.051300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PR+7S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, I'm an infectious disease epidemiologist in Vancouver, BC. I have experience with TB contact tracing as well as other types of ID modeling and statistical analysis. Let me know if there's any way I can contribute!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585206258.051300",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1585270246.080800",
+        "reply_users": [
+            "UV9A4J5TK",
+            "U010T8D05UM"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U0105C870AC",
+                    "U010FRS8Z1D",
+                    "U0107DX4VNU",
+                    "U0100B5MHDG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a32c9b1-38a7-49aa-8c43-ade3f443dbd0",
+        "type": "message",
+        "text": "Hello there, I am just a new comer to this slack group. How can I help the team?",
+        "user": "U01089ENZ6D",
+        "ts": "1585226895.054000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xvb2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello there, I am just a new comer to this slack group. How can I help the team?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62942c80-fa66-49d0-a9ec-043323cd1670",
+        "type": "message",
+        "text": "Hi all, specially epidemiologist and other infection disease modellers. I am working to to obtain a rough estimate on the impact of covid19 on Ethiopian population age-stratified dying probability. I obtained dying probability (DP) data for Ethiopia, Italy, Iran, S.Korea, China, etc - see my plot comparing Ethiopia with Italy. My goal is to model how covid19 changed DP in Italy and other affected countries, and propagate that to Ethiopia. I know this is quite crude, but I want to hear from experts their opinion. I am also doing a similar analysis on the impact of covid19 to the # of deaths from communicable and non-communicable disease",
+        "user": "U010L1RJMUN",
+        "ts": "1585232406.063800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y9r5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, specially epidemiologist and other infection disease modellers. I am working to to obtain a rough estimate on the impact of covid19 on Ethiopian population age-stratified dying probability. I obtained dying probability (DP) data for Ethiopia, Italy, Iran, S.Korea, China, etc - see my plot comparing Ethiopia with Italy. My goal is to model how covid19 changed DP in Italy and other affected countries, and propagate that to Ethiopia. I know this is quite crude, but I want to hear from experts their opinion. I am also doing a similar analysis on the impact of covid19 to the # of deaths from communicable and non-communicable disease"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010FPLPLAE",
+                "created": 1585232427,
+                "timestamp": 1585232427,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L1RJMUN",
+                "editable": false,
+                "size": 31733,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010FPLPLAE/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010FPLPLAE/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010FPLPLAE-6cb8b24909/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010FPLPLAE-6cb8b24909/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010FPLPLAE-6cb8b24909/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 260,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010FPLPLAE-6cb8b24909/image_160.png",
+                "image_exif_rotation": 1,
+                "original_w": 463,
+                "original_h": 335,
+                "thumb_tiny": "AwAiADDS70tNXt9adQAUUUUAHeikH3jRnngUAIBjFOpCPrTc/WgB9BOKZ+dAOO1ADgOKBkE0KSaWgAooooAaQMninDpSHqaUdKACiiigD//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L1RJMUN/F010FPLPLAE/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010FPLPLAE-e31ebaec16",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U010L1RJMUN",
+        "display_as_bot": false,
+        "ts": "1585232436.064100",
+        "client_msg_id": "cb897dec-25c5-47b8-80d7-4a4723b75d61",
+        "thread_ts": "1585232436.064100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585289193.081400",
+        "reply_users": [
+            "U010T8D05UM",
+            "U010ETDKCA1"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "99c3e661-57b6-4940-ad26-e97504f20368",
+        "type": "message",
+        "text": "Heyy guys, have u seen this? i think we can utilize this to scan and at least identify more suspects using this.\n<https://github.com/lindawangg/COVID-Net?ref=HackerTabExtension>",
+        "user": "UVBN2BD8R",
+        "ts": "1585234643.064600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "lindawangg/COVID-Net",
+                "text": "COVID-Net model for COVID-19 detection on COVIDx dataset",
+                "title": "lindawangg/COVID-Net",
+                "footer": "<https://github.com/lindawangg/COVID-Net|lindawangg/COVID-Net>",
+                "id": 1,
+                "footer_icon": "https://github.githubassets.com/favicon.ico",
+                "ts": 1584567066,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "125",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B0105CLFLTA",
+                "app_unfurl_url": "https://github.com/lindawangg/COVID-Net?ref=HackerTabExtension",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "czIbf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heyy guys, have u seen this? i think we can utilize this to scan and at least identify more suspects using this.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/lindawangg/COVID-Net?ref=HackerTabExtension"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7657894b-02d9-49ad-8de5-fb0903d7a767",
+        "type": "message",
+        "text": "I think we can do a surveillance app for the MOH if this is developed and we have a verry good model, what do you think?",
+        "user": "UVBN2BD8R",
+        "ts": "1585234705.065800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o786Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we can do a surveillance app for the MOH if this is developed and we have a verry good model, what do you think?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01076CDQ8J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc70ffff-fcad-4010-8a3a-885d93dc4e2b",
+        "type": "message",
+        "text": "<@UVBN2BD8R> this is great! We must start acquiring labelled datasets for all the Ethiopian cases, finetune model, and validate to suite our situation and encourage adaption",
+        "user": "U010L1RJMUN",
+        "ts": "1585235164.068900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fk7ZA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVBN2BD8R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is great! We must start acquiring labelled datasets for all the Ethiopian cases, finetune model, and validate to suite our situation and encourage adaption"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6029f23-60db-484f-9247-fdd10eefa1f5",
+        "type": "message",
+        "text": "Hi Gaelen,",
+        "user": "UV9A4J5TK",
+        "ts": "1585236445.069000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CLW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Gaelen,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585206258.051300",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "4d7a3c2d-8256-4f85-af50-a595a377e87b",
+        "type": "message",
+        "text": "Glad you can join our effort. There is one thing that I can use your help with. I am tasked with building the form for self reporting and this is what I have come up with from looking at different forms that other countries use and what the CDC and WHO questionnaires are. Can you take a look at it and see if there are questions that I am missing or are not necessary",
+        "user": "UV9A4J5TK",
+        "ts": "1585236568.070000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Pf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Glad you can join our effort. There is one thing that I can use your help with. I am tasked with building the form for self reporting and this is what I have come up with from looking at different forms that other countries use and what the CDC and WHO questionnaires are. Can you take a look at it and see if there are questions that I am missing or are not necessary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585206258.051300",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "4e1e7521-b491-48b3-b994-516a1e85b0a1",
+        "type": "message",
+        "text": "<@U010L1RJMUN> Yaa, <@UV8B0679P> can we get the data from MOH? we can start building on this.",
+        "user": "UVBN2BD8R",
+        "ts": "1585236577.070300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aLq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010L1RJMUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yaa, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can we get the data from MOH? we can start building on this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb51ef5d-7d94-4223-9aec-9028605795a5",
+        "type": "message",
+        "text": "<https://docs.google.com/document/d/15d1taDS2SPBaE43wUbxzvCpktmyyOi0bq0wUBjZ6Noc/edit>",
+        "user": "UV9A4J5TK",
+        "ts": "1585236577.070400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Etpz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/15d1taDS2SPBaE43wUbxzvCpktmyyOi0bq0wUBjZ6Noc/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585206258.051300",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "159befce-dc6c-4de5-a5bb-58dbe3d28a87",
+        "type": "message",
+        "text": "Thanks in advance",
+        "user": "UV9A4J5TK",
+        "ts": "1585236587.070700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yp/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks in advance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585206258.051300",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "client_msg_id": "44fde016-9f3f-46a3-8c4a-5276cabc182c",
+        "type": "message",
+        "text": "Hey Guys, so I have compiled the questions I thought were important for self reporting from a bunch of different questionnaires I found and have put it in this document\n<https://docs.google.com/document/d/15d1taDS2SPBaE43wUbxzvCpktmyyOi0bq0wUBjZ6Noc/edit>\nI have also asked an epidemiologist  <@U010T8D05UM> to take a look at it and see if its on the right track",
+        "user": "UV9A4J5TK",
+        "ts": "1585236761.071000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ctKCH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Guys, so I have compiled the questions I thought were important for self reporting from a bunch of different questionnaires I found and have put it in this document\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/15d1taDS2SPBaE43wUbxzvCpktmyyOi0bq0wUBjZ6Noc/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI have also asked an epidemiologist  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010T8D05UM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to take a look at it and see if its on the right track"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585102284.009900",
+        "parent_user_id": "U010JULMT7Z",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01085512G5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8fb7fd62-89d7-40ad-b173-c019b018cd7f",
+        "type": "message",
+        "text": "Hey Guys, so I have compiled the questions I thought were important for self reporting from a bunch of different questionnaires I found and have put it in this document\n<https://docs.google.com/document/d/15d1taDS2SPBaE43wUbxzvCpktmyyOi0bq0wUBjZ6Noc/edit>\nI have also asked an epidemiologist  <@U010T8D05UM> to take a look at it and see if its on the right track",
+        "user": "UV9A4J5TK",
+        "ts": "1585236780.071300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ILu4f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Guys, so I have compiled the questions I thought were important for self reporting from a bunch of different questionnaires I found and have put it in this document\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/15d1taDS2SPBaE43wUbxzvCpktmyyOi0bq0wUBjZ6Noc/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI have also asked an epidemiologist  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010T8D05UM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to take a look at it and see if its on the right track"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585009056.329500",
+        "parent_user_id": "U0107A7161E"
+    },
+    {
+        "client_msg_id": "4f44142b-eb93-49e5-a1d1-99c0c62b7b15",
+        "type": "message",
+        "text": "<@UV9A4J5TK> I'll take a look at this",
+        "user": "U010T8D05UM",
+        "ts": "1585237176.071700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NDPkv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9A4J5TK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'll take a look at this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585102284.009900",
+        "parent_user_id": "U010JULMT7Z"
+    },
+    {
+        "client_msg_id": "bc8d48e4-0cd0-4f57-b68f-7656d3d73107",
+        "type": "message",
+        "text": "<@U01084M48U8>, could we get GPU resources at IBM? I will start familiarising myself with the architecture and code in the meantime",
+        "user": "U010L1RJMUN",
+        "ts": "1585237848.073600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PtgDc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084M48U8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", could we get GPU resources at IBM? I will start familiarising myself with the architecture and code in the meantime"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0183844-274b-4d2f-aaff-1b72acf1f9cf",
+        "type": "message",
+        "text": "Here are some initial thoughts on the questionnaire.\n1. Symptoms need simpler descriptions (e.g. acute respiratory distress syndrome --&gt; shortness of breath/rapid breathing)\n2. Add loss of smell or taste to symptoms list. This has been identified in a large number of cases, including those otherwise asymptomatic: <https://www.entuk.org/sites/default/files/files/Loss%20of%20sense%20of%20smell%20as%20marker%20of%20COVID.pdf>\n3. Add fields for date of symptom onset and, if applicable, end of symptoms\n4. Add fields to contact tracing for contact name, contact setting, and contact date\n5. Add a question asking if they have visited a hospital, clinic, doctor's office/school/public event in the past 14 days. If so, ask them to provide details (e.g. name, address, date, brief description if space allows)",
+        "user": "U010T8D05UM",
+        "ts": "1585240042.073700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "udAp6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are some initial thoughts on the questionnaire.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Symptoms need simpler descriptions (e.g. acute respiratory distress syndrome --> shortness of breath/rapid breathing)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add loss of smell or taste to symptoms list. This has been identified in a large number of cases, including those otherwise asymptomatic: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.entuk.org/sites/default/files/files/Loss%20of%20sense%20of%20smell%20as%20marker%20of%20COVID.pdf"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add fields for date of symptom onset and, if applicable, end of symptoms"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add fields to contact tracing for contact name, contact setting, and contact date"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add a question asking if they have visited a hospital, clinic, doctor's office/school/public event in the past 14 days. If so, ask them to provide details (e.g. name, address, date, brief description if space allows)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585206258.051300",
+        "parent_user_id": "U010T8D05UM"
+    },
+    {
+        "type": "message",
+        "text": "<!here> just for the sake of future reference, here are some plots that may give context about Ethiopia\u2019s covid19 high risk group dying probability compared to Italy. The plot shows the probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease",
+        "files": [
+            {
+                "id": "F010G864AFL",
+                "created": 1585240394,
+                "timestamp": 1585240394,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L1RJMUN",
+                "editable": false,
+                "size": 12995,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010G864AFL/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010G864AFL/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010G864AFL-c753162169/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010G864AFL-c753162169/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010G864AFL-c753162169/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 241,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010G864AFL-c753162169/image_160.png",
+                "image_exif_rotation": 1,
+                "original_w": 400,
+                "original_h": 268,
+                "thumb_tiny": "AwAgADDRzxyarPcMJGQBeDjNWO1UX/4+G/3jTDqSmdx6H8KtJ8yKSOSKoNV+L/VJ9BUoHuDcDIFJ68dKjllKvtwCPeniRGyFIJouAvb86ov/AMfDf7xrQ29qiNshctlsk5qgKjVYlZktUKkg8dKd9mUjkn86c0augQ7sD2qVoD3uVAxYAscmpLb/AFh/3alFsgwATj605IFQ5BPpzRbUHrY//9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L1RJMUN/F010G864AFL/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010G864AFL-09c950a743",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5FD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just for the sake of future reference, here are some plots that may give context about Ethiopia\u2019s covid19 high risk group dying probability compared to Italy. The plot shows the probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010L1RJMUN",
+        "display_as_bot": false,
+        "ts": "1585240397.075300",
+        "client_msg_id": "4a323173-2431-41d8-ad0a-27e5afc62696"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010G8YS4V8",
+                "created": 1585240872,
+                "timestamp": 1585240872,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L1RJMUN",
+                "editable": false,
+                "size": 12888,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010G8YS4V8/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010G8YS4V8/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010G8YS4V8-c406b17241/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010G8YS4V8-c406b17241/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010G8YS4V8-c406b17241/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 263,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010G8YS4V8-c406b17241/image_160.png",
+                "image_exif_rotation": 1,
+                "original_w": 389,
+                "original_h": 284,
+                "thumb_tiny": "AwAjADDSPpmq8U4kfbyPfdU+c9u9Zyfep9A6l55EQ8ufXinhc87jVBq0F+6PpUph1sIVwM7jSD1yfxp5GRimlQB+FMAAx+fSs5PvVpH6VSW3lU5KjH1p9GHUY1aC/dH0qmYJD0X9auDIAGDUoOrFpD0NGeelB5HQ0wFooooAKQKAc0tFABRRRQB//9k=",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L1RJMUN/F010G8YS4V8/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010G8YS4V8-12ca442928",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U010L1RJMUN",
+        "display_as_bot": false,
+        "ts": "1585240874.075800",
+        "client_msg_id": "87b7885c-3007-4fc5-a5d7-6af1ecfc966b"
+    },
+    {
+        "client_msg_id": "ebb30f36-a7ce-4d12-a00a-2cf4bdc6e0f6",
+        "type": "message",
+        "text": "Thank you very much, will update it so you can review it",
+        "user": "UV9A4J5TK",
+        "ts": "1585242288.076100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NDw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you very much, will update it so you can review it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585206258.051300",
+        "parent_user_id": "U010T8D05UM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010T8D05UM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6aeb132c-788c-42f6-8290-64cbce204fbf",
+        "type": "message",
+        "text": "Are you looking to model the effect of COVID on probability of death from all-cause mortality? If I understand you correctly, I think it might be difficult to extrapolate much meaningful from that unfortunately, at the moment. Case fatality rates (CFR) differ significantly from one affected country to another for identifiable reasons (e.g. different healthcare systems, care-seeking behavior, risk factor types and distributions) and ones that are very difficult to pinpoint. COVID data from Ethiopia are scarce right now, so a representative CFR will be difficult to calculate. Another factor to consider is that the CFR will likely increase non-proportionally by age groups, especially in vulnerable health systems, as case loads increase because healthcare resources will be overtaxed. This is another modeling hurdle to overcome. If this is something you are still interested in pursuing, I'd look into competing risk analysis for modeling impact of COVID on survival probabilities and non-proportional stratified hazard analysis for relative changes in risk between age groups. Still, keep in mind that it's going to be difficult to generalize other countries' situations to Ethiopia.",
+        "user": "U010T8D05UM",
+        "ts": "1585244682.076400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fl+Aw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you looking to model the effect of COVID on probability of death from all-cause mortality? If I understand you correctly, I think it might be difficult to extrapolate much meaningful from that unfortunately, at the moment. Case fatality rates (CFR) differ significantly from one affected country to another for identifiable reasons (e.g. different healthcare systems, care-seeking behavior, risk factor types and distributions) and ones that are very difficult to pinpoint. COVID data from Ethiopia are scarce right now, so a representative CFR will be difficult to calculate. Another factor to consider is that the CFR will likely increase non-proportionally by age groups, especially in vulnerable health systems, as case loads increase because healthcare resources will be overtaxed. This is another modeling hurdle to overcome. If this is something you are still interested in pursuing, I'd look into competing risk analysis for modeling impact of COVID on survival probabilities and non-proportional stratified hazard analysis for relative changes in risk between age groups. Still, keep in mind that it's going to be difficult to generalize other countries' situations to Ethiopia."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585232436.064100",
+        "parent_user_id": "U010L1RJMUN"
+    },
+    {
+        "type": "message",
+        "text": "#Doctors",
+        "files": [
+            {
+                "id": "F010X1NG806",
+                "created": 1585247638,
+                "timestamp": 1585247638,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L1RJMUN",
+                "editable": false,
+                "size": 13795,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010X1NG806/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010X1NG806/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010X1NG806-8e2a5c7168/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010X1NG806-8e2a5c7168/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010X1NG806-8e2a5c7168/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 266,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010X1NG806-8e2a5c7168/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 355,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010X1NG806-8e2a5c7168/image_160.png",
+                "image_exif_rotation": 1,
+                "original_w": 492,
+                "original_h": 364,
+                "thumb_tiny": "AwAjADDT70EZpAc0tACbR/k1BczeQFwud3vViqeodI/qaaAZ9tP/ADzH/fRqa3ujNJtKgcZ61nVZsP8AXn/dNNoRoAYpaSk3D3/I1Ix1U9Q6R/U1b3D3/I1VvkZwmxS2M9BTW4FCrNh/rz/umovIl/55t+VWLON0mJZGAx3FUxF6iiioGFIBS0goAWiiigD/2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L1RJMUN/F010X1NG806/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010X1NG806-52ca68da7d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ojxz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#Doctors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010L1RJMUN",
+        "display_as_bot": false,
+        "ts": "1585247641.076800",
+        "client_msg_id": "d31849ee-390e-4cbd-b5f5-247758f7382a"
+    },
+    {
+        "type": "message",
+        "text": "#Nurses & Midwives",
+        "files": [
+            {
+                "id": "F010VCY9GAC",
+                "created": 1585247655,
+                "timestamp": 1585247655,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L1RJMUN",
+                "editable": false,
+                "size": 13553,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010VCY9GAC/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010VCY9GAC/download/image.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010VCY9GAC-d087016634/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010VCY9GAC-d087016634/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010VCY9GAC-d087016634/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 266,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010VCY9GAC-d087016634/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 355,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010VCY9GAC-d087016634/image_160.png",
+                "image_exif_rotation": 1,
+                "original_w": 492,
+                "original_h": 364,
+                "thumb_tiny": "AwAjADDT79aTA/yaBzS0AJtH+TUFzN5AXC5z71YqnqPSP6mmgGfbT/zzH/fRqW2uTLJs2gcZ61n1ZsP9ef8AdNNoRoAYpaaxIUkcnHAqDzZ/+ef6VIN2LNU9Q6R/U0/zZ/8Ann+lJfIzhNilsZ6Cmtwvcz6s2H+vP+6ai8iX/nm35VYs43SYlkYDHcVTAvUUUVAwpAKWkFAC0UUUAf/Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U010L1RJMUN/F010VCY9GAC/image.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010VCY9GAC-60516842a6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O+wZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#Nurses & Midwives"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010L1RJMUN",
+        "display_as_bot": false,
+        "ts": "1585247658.077100",
+        "client_msg_id": "36043ceb-341e-4d49-b612-bcecf791ee1a"
+    },
+    {
+        "client_msg_id": "ef48ae64-f949-4a9c-aaff-31cb1d7b72bd",
+        "type": "message",
+        "text": "These are data from WHO Health Observatory. Hopefully these numbers will be useful in future modelling",
+        "user": "U010L1RJMUN",
+        "ts": "1585247690.077900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JcdQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These are data from WHO Health Observatory. Hopefully these numbers will be useful in future modelling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24f5c6de-2dfa-48f1-a080-de54c701e1d4",
+        "type": "message",
+        "text": "<https://sccm.org/Blog/March-2020/United-States-Resource-Availability-for-COVID-19|this> is a useful data - would be ideal if an equivalent document can be prepared for Ethiopia.",
+        "user": "U010L1RJMUN",
+        "ts": "1585249681.079300",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "Society of Critical Care Medicine (SCCM)",
+                "title": "SCCM | United States Resource Availability for COVID-19",
+                "title_link": "https://sccm.org/Blog/March-2020/United-States-Resource-Availability-for-COVID-19",
+                "text": "With the onset of COVID-19, and the strong possibility of large percentages of the U.S. population being admitted to the hospital and intensive care unit (ICU), the Society of Critical Care Medicine (SCCM) has updated its statistics on critical care resources available in the United States.",
+                "fallback": "Society of Critical Care Medicine (SCCM): SCCM | United States Resource Availability for COVID-19",
+                "thumb_url": "https://sccm.org/sccm/media/Twitter-Cards/COVID-19-Square.jpg?ext=.jpg",
+                "from_url": "https://sccm.org/Blog/March-2020/United-States-Resource-Availability-for-COVID-19",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https://sccm.org/Blog/March-2020/United-States-Resource-Availability-for-COVID-19"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gGV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://sccm.org/Blog/March-2020/United-States-Resource-Availability-for-COVID-19",
+                                "text": "this"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a useful data - would be ideal if an equivalent document can be prepared for Ethiopia."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,662 @@
+[
+    {
+        "client_msg_id": "6e9e5803-0390-4120-94bc-eae72dc92a58",
+        "type": "message",
+        "text": "<@U0103EHQLEM> Exactly, I want to see if the instance is healthy. If not, it should be killed and another one should be started.",
+        "user": "U010APHG8Q1",
+        "ts": "1585722391.148100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+vB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0103EHQLEM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Exactly, I want to see if the instance is healthy. If not, it should be killed and another one should be started."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "client_msg_id": "0981ce17-5925-41d5-bc94-d34a76dd5f52",
+        "type": "message",
+        "text": "I am not much familiar with Laravel, but it seems like we need to generate a Key and upload it to our secret manager.\n\n<@UV6JHDP0S> We should take note of this",
+        "user": "U010APHG8Q1",
+        "ts": "1585722782.148300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "llY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am not much familiar with Laravel, but it seems like we need to generate a Key and upload it to our secret manager.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We should take note of this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "type": "message",
+        "text": "<@U010APHG8Q1> I just implemented to get the status of the redis instance and the database server. Currently we do have only this 2 main system components. If there are any left please tell me? I can add those.",
+        "files": [
+            {
+                "id": "F010UBR1RSN",
+                "created": 1585744254,
+                "timestamp": 1585744254,
+                "name": "Screen Shot 2012-07-23 at 3.20.56 PM.png",
+                "title": "Screen Shot 2012-07-23 at 3.20.56 PM.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0103EHQLEM",
+                "editable": false,
+                "size": 481196,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F010UBR1RSN/screen_shot_2012-07-23_at_3.20.56_pm.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F010UBR1RSN/download/screen_shot_2012-07-23_at_3.20.56_pm.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F010UBR1RSN-b9ddb8c585/screen_shot_2012-07-23_at_3.20.56_pm_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F010UBR1RSN-b9ddb8c585/screen_shot_2012-07-23_at_3.20.56_pm_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F010UBR1RSN-b9ddb8c585/screen_shot_2012-07-23_at_3.20.56_pm_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F010UBR1RSN-b9ddb8c585/screen_shot_2012-07-23_at_3.20.56_pm_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F010UBR1RSN-b9ddb8c585/screen_shot_2012-07-23_at_3.20.56_pm_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F010UBR1RSN-b9ddb8c585/screen_shot_2012-07-23_at_3.20.56_pm_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F010UBR1RSN-b9ddb8c585/screen_shot_2012-07-23_at_3.20.56_pm_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F010UBR1RSN-b9ddb8c585/screen_shot_2012-07-23_at_3.20.56_pm_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 600,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F010UBR1RSN-b9ddb8c585/screen_shot_2012-07-23_at_3.20.56_pm_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 640,
+                "image_exif_rotation": 1,
+                "original_w": 2880,
+                "original_h": 1800,
+                "thumb_tiny": "AwAeADCozE9STSYzRR+NAC4xSY96Tj1oyKAFAx3pce4puRQCKAFpp607FIRzQA2il20baAEpR1o2ml2mgD//2Q==",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0103EHQLEM/F010UBR1RSN/screen_shot_2012-07-23_at_3.20.56_pm.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F010UBR1RSN-c8342e7eda",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lDA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I just implemented to get the status of the redis instance and the database server. Currently we do have only this 2 main system components. If there are any left please tell me? I can add those."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0103EHQLEM",
+        "display_as_bot": false,
+        "ts": "1585744271.148800",
+        "client_msg_id": "a10c4173-3e4b-48bc-8c59-e7ffb2511af5",
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "client_msg_id": "a5f3f853-626c-4e52-ada1-973eaa7ff0fe",
+        "type": "message",
+        "text": "<@U0103EHQLEM> thank you so much. I didn't know it used redis.\n\nCan you return 50x error when the DB connection is not OK?",
+        "user": "U010APHG8Q1",
+        "ts": "1585744389.149200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m8X5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0103EHQLEM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you so much. I didn't know it used redis.\n\nCan you return 50x error when the DB connection is not OK?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "client_msg_id": "b1199e93-75c9-4640-a3a6-b6cf6880839e",
+        "type": "message",
+        "text": "sure.",
+        "user": "U0103EHQLEM",
+        "ts": "1585744494.149400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7u6/m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "client_msg_id": "ad2f5904-4418-4930-a73e-2fef0ce7bf0a",
+        "type": "message",
+        "text": "<@U010APHG8Q1> please check the API now will return 500 if the database connection is not working. I also commit the code in feature branch. You can see it here <https://github.com/dotjose/CovidCallReporterApi/tree/feature/system-health-checker-endpoint>",
+        "user": "U0103EHQLEM",
+        "ts": "1585746233.149900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nhx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please check the API now will return 500 if the database connection is not working. I also commit the code in feature branch. You can see it here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/dotjose/CovidCallReporterApi/tree/feature/system-health-checker-endpoint"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "client_msg_id": "22258e61-8d4a-4d40-be55-37d32c41a49d",
+        "type": "message",
+        "text": "<@U0103EHQLEM> Thank you so much.\n\nThe commit history seems to have been rewritten. I wasn't able to see the diff. Can you point me towards what changed?",
+        "user": "U010APHG8Q1",
+        "ts": "1585747462.150100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qaBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0103EHQLEM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you so much.\n\nThe commit history seems to have been rewritten. I wasn't able to see the diff. Can you point me towards what changed?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "client_msg_id": "f97cc972-355c-4df0-b6d7-0cec2919d2b2",
+        "type": "message",
+        "text": "The Changes are new endpoint is added on api.php and new Controller with a new name space called SystemHealth is implemented under Controllers Folder.",
+        "user": "U0103EHQLEM",
+        "ts": "1585751702.150300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9a1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Changes are new endpoint is added on api.php and new Controller with a new name space called SystemHealth is implemented under Controllers Folder."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "client_msg_id": "f2fdd8ed-7127-43f8-9eb3-8abc7fa4d684",
+        "type": "message",
+        "text": "<@U010APHG8Q1> I will get the latest code from them and populate the DB cred. I think i know how to make it work- so let's sync up. Thank you both",
+        "user": "UV6JHDP0S",
+        "ts": "1585751949.150500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "79a7I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010APHG8Q1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I will get the latest code from them and populate the DB cred. I think i know how to make it work- so let's sync up. Thank you both"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "client_msg_id": "19c411fa-4617-4fc5-949b-7a1a07af4547",
+        "type": "message",
+        "text": "<@UV6JHDP0S>  We can sync up later today.",
+        "user": "U010APHG8Q1",
+        "ts": "1585752720.150700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BSKb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  We can sync up later today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "client_msg_id": "0138b778-2a02-48fd-b069-a2e9b8ccbe0e",
+        "type": "message",
+        "text": "Sure ping me",
+        "user": "UV6JHDP0S",
+        "ts": "1585752748.150900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VHk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure ping me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585670547.123600",
+        "parent_user_id": "U0103EHQLEM"
+    },
+    {
+        "type": "message",
+        "text": "Hey <@U0107A7161E> Take a look at this ...",
+        "user": "U010JB58NSC",
+        "ts": "1585756891.151100",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "fallback": "[March 31st, 2020 1:58 PM] haileab: Nothing fancy about this it's a 24hr work, Inbox me if you need a *.HTML* version of it but you will be fine with the *.json file.* \n\nThe app will be or *must track* user's test results along with geolocation (*Heatmap*) On the other hand on *the feed* section we will be sharing *Awareness contents and all new information related to the virus.* \n\nWe will update the UiUx side by side but for now, it should be fine, as the motive ... _*\"Speed over perfection\"*_\n<@UV8B0679P> <@U01127KBRKJ>",
+                "ts": "1585688295.292900",
+                "author_id": "U010JB58NSC",
+                "author_subname": "Haileab",
+                "channel_id": "C0104D5J3T2",
+                "channel_name": "all-general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Nothing fancy about this it's a 24hr work, Inbox me if you need a *.HTML* version of it but you will be fine with the *.json file.* \n\nThe app will be or *must track* user's test results along with geolocation (*Heatmap*) On the other hand on *the feed* section we will be sharing *Awareness contents and all new information related to the virus.* \n\nWe will update the UiUx side by side but for now, it should be fine, as the motive ... _*\"Speed over perfection\"*_\n<@UV8B0679P> <@U01127KBRKJ>",
+                "author_name": "Haileab",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010JB58NSC",
+                "author_icon": "https://avatars.slack-edge.com/2020-03-28/1033417180933_8a6d798545dc6502f8c5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F0115KAU8NL",
+                        "created": 1585688163,
+                        "timestamp": 1585688163,
+                        "name": "31.3.2020-Et Covid 19 task force.json",
+                        "title": "31.3.2020-Et Covid 19 task force.json",
+                        "mimetype": "text/plain",
+                        "filetype": "javascript",
+                        "pretty_type": "JavaScript/JSON",
+                        "user": "U010JB58NSC",
+                        "editable": false,
+                        "size": 215691,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0115KAU8NL/31.3.2020-et_covid_19_task_force.json",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0115KAU8NL/download/31.3.2020-et_covid_19_task_force.json",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/U010JB58NSC/F0115KAU8NL/31.3.2020-et_covid_19_task_force.json",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F0115KAU8NL-eb55e1a3f2",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    },
+                    {
+                        "id": "F0115KAU9PS",
+                        "created": 1585688163,
+                        "timestamp": 1585688163,
+                        "name": "Et covid 19 response team.MOV",
+                        "title": "Et covid 19 response team.MOV",
+                        "mimetype": "video/quicktime",
+                        "filetype": "mov",
+                        "pretty_type": "QuickTime Movie",
+                        "user": "U010JB58NSC",
+                        "editable": false,
+                        "size": 5658703,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F0115KAU9PS/et_covid_19_response_team.mov",
+                        "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F0115KAU9PS/download/et_covid_19_response_team.mov",
+                        "thumb_video": "https://files.slack.com/files-tmb/TV5KELEUS-F0115KAU9PS-652130aedd/et_covid_19_response_team_thumb_video.jpeg",
+                        "permalink": "https://ethiopia-covid19.slack.com/files/U010JB58NSC/F0115KAU9PS/et_covid_19_response_team.mov",
+                        "permalink_public": "https://slack-files.com/TV5KELEUS-F0115KAU9PS-d171504f87",
+                        "is_starred": false,
+                        "has_rich_preview": false
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585688295292900?thread_ts=1585688295292900&cid=C0104D5J3T2",
+                "is_share": true,
+                "footer": "Thread in #all-general"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Take a look at this ..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585756891.151100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1585763397.153200",
+        "reply_users": [
+            "U0107A7161E",
+            "U010JB58NSC"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cf5861e8-b1aa-4e21-be3a-bf786fd47dcf",
+        "type": "message",
+        "text": "<@UV6JHDP0S>",
+        "user": "U0107A7161E",
+        "ts": "1585757368.151600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MUtS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585756891.151100",
+        "parent_user_id": "U010JB58NSC"
+    },
+    {
+        "client_msg_id": "23e6d7f7-5cb4-4bf4-b927-0cb1dd020b19",
+        "type": "message",
+        "text": "<!here> for the AI/ML folks! <https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585757700314100>",
+        "user": "U0107A7161E",
+        "ts": "1585758399.152000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "from_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585757700314100",
+                "fallback": "[April 1st, 2020 9:15 AM] azelalem: Not sure who might be interested but this is live now.\n<https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/livestream|https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/livestream>",
+                "ts": "1585757700.314100",
+                "author_id": "U010JMN7DNJ",
+                "author_subname": "Abinet",
+                "channel_id": "C0104D5J3T2",
+                "channel_name": "all-general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Not sure who might be interested but this is live now.\n<https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/livestream|https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/livestream>",
+                "author_name": "Abinet",
+                "author_link": "https://ethiopia-covid19.slack.com/team/U010JMN7DNJ",
+                "author_icon": "https://secure.gravatar.com/avatar/1b8d2b3f5516c1367b13325d33823c8b.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585757700314100",
+                "footer": "Thread in #all-general"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bqn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the AI/ML folks! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://ethiopia-covid19.slack.com/archives/C0104D5J3T2/p1585757700314100"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U010L1RJMUN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "308fe2a9-bad6-4d27-a5e2-374f105aa568",
+        "type": "message",
+        "text": "Hi Hailaeb! Can you make a list of asks to finish this app so that people with the right skill sets can join you?",
+        "user": "U0107A7161E",
+        "ts": "1585759662.152400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m4F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Hailaeb! Can you make a list of asks to finish this app so that people with the right skill sets can join you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585756891.151100",
+        "parent_user_id": "U010JB58NSC"
+    },
+    {
+        "client_msg_id": "41f04705-23f0-43f2-8638-a4ed0d0b1b56",
+        "type": "message",
+        "text": "<@U0107A7161E> We would be happy if people with React Native join us. I was thinking of Android studio but to implement the app for both IOS and Android devices RN is ideal.",
+        "user": "U010JB58NSC",
+        "ts": "1585763397.153200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J/pa5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107A7161E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We would be happy if people with React Native join us. I was thinking of Android studio but to implement the app for both IOS and Android devices RN is ideal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585756891.151100",
+        "parent_user_id": "U010JB58NSC"
+    }
+]

@@ -1,0 +1,4313 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586027825.000200",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1586027825.000300",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> set the channel purpose: Surveillance Forms",
+        "purpose": "Surveillance Forms"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586027830.000500",
+        "user": "U01084NU2NL",
+        "text": "<@U01084NU2NL> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "c2e60aee-47d0-4a74-8f13-9b691f165b3f",
+        "type": "message",
+        "text": "<@U01084NU2NL> - welcome",
+        "user": "UV8B0679P",
+        "ts": "1586027834.000700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X20x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - welcome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586027851.000900",
+        "user": "U0107JEKN0N",
+        "text": "<@U0107JEKN0N> has joined the channel",
+        "inviter": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "06414cb2-951e-4540-bc24-2e50b94125a8",
+        "type": "message",
+        "text": "<@U01084NU2NL>, meet <@U0107JEKN0N> who wrote the API gateway",
+        "user": "UV8B0679P",
+        "ts": "1586027878.001500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ia5e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", meet "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " who wrote the API gateway"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb9b3c78-1c6e-417f-8a7f-78fa9ef72288",
+        "type": "message",
+        "text": "He has one suggestion about the React auth",
+        "user": "UV8B0679P",
+        "ts": "1586027891.001800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vfi/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He has one suggestion about the React auth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b89f344-bf23-432a-bd1b-2d5bb8ccfe0c",
+        "type": "message",
+        "text": "He updated the the React example to use an auth flow without needing a middleware",
+        "user": "UV8B0679P",
+        "ts": "1586027964.002600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VQw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He updated the the React example to use an auth flow without needing a middleware"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "400bed90-402e-4eee-b417-1ed15de8a953",
+        "type": "message",
+        "text": "<https://github.com/Ethiopia-COVID19/api-gateway-cognito-examples/tree/master/react-cognito-auth>",
+        "user": "UV8B0679P",
+        "ts": "1586027965.002800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BJR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway-cognito-examples/tree/master/react-cognito-auth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16beca72-3923-4436-9778-a0e32b6cb65b",
+        "type": "message",
+        "text": "<@U0107JEKN0N> - meet Bef - he\u2019s leading a team to build out the forms",
+        "user": "UV8B0679P",
+        "ts": "1586027988.003300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yI=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - meet Bef - he\u2019s leading a team to build out the forms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f1d61b8-2259-4333-a560-cf44dddd97d0",
+        "type": "message",
+        "text": "I know <@U01084NU2NL> from old St. Jo days",
+        "user": "U0107JEKN0N",
+        "ts": "1586028032.003700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NqZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from old St. Jo days"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586028032.003700",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1586032174.019700",
+        "reply_users": [
+            "U01084NU2NL",
+            "U0107JEKN0N",
+            "U0109ELFV4Y",
+            "UV6JHDP0S"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "464283dd-1315-4ba9-aed8-e65d6149ac76",
+        "type": "message",
+        "text": "Hey Naod!    Good to see you!",
+        "user": "U01084NU2NL",
+        "ts": "1586028083.004300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JB+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Naod!    Good to see you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586028032.003700",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1586028101.004500",
+        "user": "UV8B0679P",
+        "text": "<@UV8B0679P> has renamed the channel from \"proj-surveillance\" to \"proj-surveillance-forms\"",
+        "old_name": "proj-surveillance",
+        "name": "proj-surveillance-forms"
+    },
+    {
+        "client_msg_id": "9ab82bbc-6d97-46b6-804e-9426abb23ae0",
+        "type": "message",
+        "text": "Good to see you man",
+        "user": "U0107JEKN0N",
+        "ts": "1586028115.004600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ORm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good to see you man"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586028032.003700",
+        "parent_user_id": "U0107JEKN0N",
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d939fc9a-8e77-48a7-bd2a-b85ea3a7de0f",
+        "type": "message",
+        "text": "Thanks Mike.",
+        "user": "U01084NU2NL",
+        "ts": "1586028153.004900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tMzlg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Mike."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586028174.005200",
+        "user": "U0109ELFV4Y",
+        "text": "<@U0109ELFV4Y> has joined the channel",
+        "inviter": "U01084NU2NL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586028178.005400",
+        "user": "U010APHG8Q1",
+        "text": "<@U010APHG8Q1> has joined the channel",
+        "inviter": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "0b7c77b8-017c-4371-beb4-cf161719400f",
+        "type": "message",
+        "text": "hey all",
+        "user": "U0109ELFV4Y",
+        "ts": "1586028288.005800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xl9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1586028294.005900",
+        "user": "U01084NU2NL",
+        "text": "<@U01084NU2NL> set the channel topic: Project Doc: <https://rb.gy/fode02>  Repo:  Trello: <https://rb.gy/xstrgo>",
+        "topic": "Project Doc: <https://rb.gy/fode02>  Repo:  Trello: <https://rb.gy/xstrgo>"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1586028485.006000",
+        "user": "U01084NU2NL",
+        "text": "<@U01084NU2NL> set the channel topic: Project Doc: <https://rb.gy/fode02>  Repo: <https://rb.gy/juqbj2>   Trello: <https://rb.gy/xstrgo>",
+        "topic": "Project Doc: <https://rb.gy/fode02>  Repo: <https://rb.gy/juqbj2>   Trello: <https://rb.gy/xstrgo>",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JEKN0N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94dab74b-70f6-415c-9e8f-142d1369fd9c",
+        "type": "message",
+        "text": "<@UV6JHDP0S> mentioned that we should try to make this match the look and feel from <https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/> .  1)  How simple is it to do that <@U0109ELFV4Y>?  I suppose we can probably just rip out the css.  2)  <@UV8B0679P> i'm assuming these two will not be used by the same folks so how badly do we need these to have the same look and feel?",
+        "user": "U01084NU2NL",
+        "ts": "1586029574.008200",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Covid-Eth",
+                "title_link": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/",
+                "text": "6 Screens, Last modified on Apr 04, 2020 05:24 GMT",
+                "fallback": "Covid-Eth",
+                "thumb_url": "https://public-v2links.adobecc.com/7f29a9fe-14b8-4eff-7528-878e1ec9a9da/component?params=component_id%3Ab92895c1-1fe6-4517-ac18-631bf920ac42&params=version%3A35&token=1586114761_da39a3ee_3426c46e0122c762c8edcabb90e765edcd88fd7f&api_key=CometServer1",
+                "from_url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/",
+                "thumb_width": 960,
+                "thumb_height": 540,
+                "service_icon": "https://xd.adobe.com/static/images/xd_ios_webclip_192-b67df6d35882dc7f14c35c8a072b648cb164e4b6.png",
+                "service_name": "xd.adobe.com",
+                "id": 1,
+                "original_url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BP1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV6JHDP0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mentioned that we should try to make this match the look and feel from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://xd.adobe.com/view/7f29a9fe-14b8-4eff-7528-878e1ec9a9da-0918/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " .  1)  How simple is it to do that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?  I suppose we can probably just rip out the css.  2)  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i'm assuming these two will not be used by the same folks so how badly do we need these to have the same look and feel?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586029574.008200",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1586030193.011600",
+        "reply_users": [
+            "U0109ELFV4Y",
+            "U01084NU2NL",
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "dc46ee72-145b-45fa-9552-2c7879ade009",
+        "type": "message",
+        "text": "I think it wont be too bad. What pieces do we want to match - colors, font, header structure?",
+        "user": "U0109ELFV4Y",
+        "ts": "1586029703.008500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kc5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it wont be too bad. What pieces do we want to match - colors, font, header structure?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586029574.008200",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "a5ba50d9-1f25-4e2d-9812-9ff806a10015",
+        "type": "message",
+        "text": "another st jo here",
+        "user": "U0109ELFV4Y",
+        "ts": "1586029776.008700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+uaH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "another st jo here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586028032.003700",
+        "parent_user_id": "U0107JEKN0N",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U0107JEKN0N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4aaabac7-232c-4907-a2a8-af754ee70570",
+        "type": "message",
+        "text": "<@U0115055LQP> Anteneh is working on the forms so we were curious if you already had any css for the landing page you are working on.",
+        "user": "U01084NU2NL",
+        "ts": "1586029951.008900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ReH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0115055LQP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Anteneh is working on the forms so we were curious if you already had any css for the landing page you are working on."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586029574.008200",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586029993.009200",
+        "user": "U0115055LQP",
+        "text": "<@U0115055LQP> has joined the channel",
+        "inviter": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "D2B37934-3951-43E2-B5F9-4435CB2ED6A7",
+        "type": "message",
+        "text": "I think it makes sense to do the same blue ribbon at the top and color palettes",
+        "user": "UV8B0679P",
+        "ts": "1586030169.010400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jEbQL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it makes sense to do the same blue ribbon at the top and color palettes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586029574.008200",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "EA65E3AE-B2CA-415A-AE09-B6EB71E5D286",
+        "type": "message",
+        "text": "You can export the css right from the XD link",
+        "user": "UV8B0679P",
+        "ts": "1586030183.011000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ui+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can export the css right from the XD link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586029574.008200",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL",
+                    "U0109ELFV4Y"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B544EF04-7C09-4CE2-B90A-F6E491A950CD",
+        "type": "message",
+        "text": "Just click the element you want and it gives you the css",
+        "user": "UV8B0679P",
+        "ts": "1586030193.011600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZdvn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just click the element you want and it gives you the css"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586029574.008200",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "7b7bccfa-d560-40d4-90f9-87c30d9d8a20",
+        "type": "message",
+        "text": "<@U0109ELFV4Y> would it work if we had people start putting together localization files for the three forms using the actual field name in the API Data Structure as the key?",
+        "user": "U01084NU2NL",
+        "ts": "1586031255.012700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QSDGL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would it work if we had people start putting together localization files for the three forms using the actual field name in the API Data Structure as the key?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "reply_count": 33,
+        "reply_users_count": 4,
+        "latest_reply": "1586042467.055400",
+        "reply_users": [
+            "U0109ELFV4Y",
+            "U01084NU2NL",
+            "U0107JEKN0N",
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ee25b64b-b0e2-4f4d-81e0-cae096964eb5",
+        "type": "message",
+        "text": "yes that works",
+        "user": "U0109ELFV4Y",
+        "ts": "1586031369.013500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tc/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes that works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "3c14da66-afc8-4003-bb4f-e103c95714bb",
+        "type": "message",
+        "text": "we can use dot notation",
+        "user": "U0109ELFV4Y",
+        "ts": "1586031378.013800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pvHhZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we can use dot notation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "97b7049a-1282-4099-aad3-de1d93186264",
+        "type": "message",
+        "text": "```firstName: \"First Name\",```",
+        "user": "U01084NU2NL",
+        "ts": "1586031433.014000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M72cJ",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "firstName: \"First Name\","
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "2b8a5050-2cd7-4f1b-a8c2-07f0ecd9a77d",
+        "type": "message",
+        "text": "e.g.  `passengers.dependents.firstName`",
+        "user": "U0109ELFV4Y",
+        "ts": "1586031441.014200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BTR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "e.g.  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "passengers.dependents.firstName",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "ed2221cc-83a0-4ca6-aae3-b71412993137",
+        "type": "message",
+        "text": "if we need to tell them apart",
+        "user": "U0109ELFV4Y",
+        "ts": "1586031499.014400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5fX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if we need to tell them apart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "132bd295-6da8-472c-b783-4822c2bbb318",
+        "type": "message",
+        "text": "Yeah, I was wondering that.  I feel like first name is first name",
+        "user": "U01084NU2NL",
+        "ts": "1586031527.014600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5csz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, I was wondering that.  I feel like first name is first name"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "eb5b7ca7-398b-4f9c-bcca-2031f69603a1",
+        "type": "message",
+        "text": "Does it really matter for the labels?",
+        "user": "U01084NU2NL",
+        "ts": "1586031534.014800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kPV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does it really matter for the labels?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "d5c71eb0-b1c2-4f16-a1b2-b474b411593f",
+        "type": "message",
+        "text": "ya first name not a good example",
+        "user": "U0109ELFV4Y",
+        "ts": "1586031538.015000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nFFn/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ya first name not a good example"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "e500fdf0-5958-416e-a686-d6d88baa65dd",
+        "type": "message",
+        "text": "That's fine....let's play it safe and keep them separate",
+        "user": "U01084NU2NL",
+        "ts": "1586031553.015200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ovJv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's fine....let's play it safe and keep them separate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "872070f4-e922-4f17-893e-9c67ffd5259f",
+        "type": "message",
+        "text": "let\u2019s start with the raw list first and can adjust as needed",
+        "user": "U0109ELFV4Y",
+        "ts": "1586031554.015400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S=Ea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let\u2019s start with the raw list first and can adjust as needed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "790ca0aa-fc25-43e9-b5df-43dda8532948",
+        "type": "message",
+        "text": "I'm ok with denormalizing a bit here.  We will use the dot notation you proposed.",
+        "user": "U01084NU2NL",
+        "ts": "1586031579.015600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ys0E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm ok with denormalizing a bit here.  We will use the dot notation you proposed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0109ELFV4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4247e23b-e026-4279-9891-e683bcdb3137",
+        "type": "message",
+        "text": "```communities.firstName:First Name\nmedicalcenters.firstName:First Name\npassengers.firstName:First Name\npassengers.dependents.firstName:First Name```",
+        "user": "U01084NU2NL",
+        "ts": "1586031643.015900",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1586031719.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g7sHL",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "communities.firstName:First Name\nmedicalcenters.firstName:First Name\npassengers.firstName:First Name\npassengers.dependents.firstName:First Name"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "dbacf2d1-8b8d-46bc-8ca8-4a1ba8b820ff",
+        "type": "message",
+        "text": "What's the file format?   Commas between lines, colons or =?",
+        "user": "U01084NU2NL",
+        "ts": "1586031757.016300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IvYz0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's the file format?   Commas between lines, colons or =?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "613a4c6c-f465-481a-be42-fbf8f663a897",
+        "type": "message",
+        "text": "If you send me a sample, it would be great.",
+        "user": "U01084NU2NL",
+        "ts": "1586031779.016500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ldv13",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you send me a sample, it would be great."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011D81JWGM",
+                "created": 1586031862,
+                "timestamp": 1586031862,
+                "name": "Can we use json?",
+                "title": "Can we use json?",
+                "mimetype": "text/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0109ELFV4Y",
+                "editable": true,
+                "size": 93,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011D81JWGM/can_we_use_json_",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011D81JWGM/download/can_we_use_json_",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0109ELFV4Y/F011D81JWGM/can_we_use_json_",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011D81JWGM-1e73c79a07",
+                "edit_link": "https://ethiopia-covid19.slack.com/files/U0109ELFV4Y/F011D81JWGM/can_we_use_json_/edit",
+                "preview": "{\n  \"firstName\": \"First Name\",\n  \"passenger: {\n    \"firstName\": \"Passenger First Name\"\n  }",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>{</pre></div>\n<div><pre>  &quot;firstName&quot;: &quot;First Name&quot;,</pre></div>\n<div><pre>  &quot;passenger: {</pre></div>\n<div><pre>    &quot;firstName&quot;: &quot;Passenger First Name&quot;</pre></div>\n<div><pre>  }</pre></div>\n</div>\n</div>\n",
+                "lines": 6,
+                "lines_more": 1,
+                "preview_is_truncated": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U0109ELFV4Y",
+        "display_as_bot": false,
+        "ts": "1586031864.016700",
+        "client_msg_id": "f100d2f1-a519-4528-9a10-f1ce695157cf",
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "e4294310-f22a-4fd5-a517-694471d831e7",
+        "type": "message",
+        "text": "Wait...so you don't want dot notation anymore?",
+        "user": "U01084NU2NL",
+        "ts": "1586031903.017200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kldPg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait...so you don't want dot notation anymore?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "e460f5cb-67d1-4a8b-84db-9412f83cabec",
+        "type": "message",
+        "text": "I don't care either way...just want to make sure I have the right requirements before I ask someone to do it.",
+        "user": "U01084NU2NL",
+        "ts": "1586031939.017400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z6s2k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't care either way...just want to make sure I have the right requirements before I ask someone to do it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "eb4ac201-b2b5-4f85-b2f8-385ec849a045",
+        "type": "message",
+        "text": "If you can do the dot notation, that looks much more straightforward",
+        "user": "U01084NU2NL",
+        "ts": "1586031972.017600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CGnoP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you can do the dot notation, that looks much more straightforward"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "fcaa9eec-789e-4e7a-aa00-d3de2af38d1c",
+        "type": "message",
+        "text": "that works",
+        "user": "U0109ELFV4Y",
+        "ts": "1586031999.017800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V+JA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "1fed0f35-6bdb-4c99-86e9-640a592dafb9",
+        "type": "message",
+        "text": "going to use <https://airbnb.io/polyglot.js/>",
+        "user": "U0109ELFV4Y",
+        "ts": "1586032007.018000",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Polyglot.js",
+                "title_link": "https://airbnb.io/polyglot.js/",
+                "text": "Give your JavaScript the ability to speak many languages.",
+                "fallback": "Polyglot.js",
+                "from_url": "https://airbnb.io/polyglot.js/",
+                "service_icon": "https://airbnb.io/favicon.ico",
+                "service_name": "airbnb.io",
+                "id": 1,
+                "original_url": "https://airbnb.io/polyglot.js/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T9X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "going to use "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://airbnb.io/polyglot.js/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "d834b025-40c3-4e38-804e-62fa053b64c4",
+        "type": "message",
+        "text": "which handles either case",
+        "user": "U0109ELFV4Y",
+        "ts": "1586032018.018300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SSC9B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "which handles either case"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "6d03b2d1-44c0-4113-9c58-c47092ccaece",
+        "type": "message",
+        "text": "do you need commas between lines and should it be : or =",
+        "user": "U01084NU2NL",
+        "ts": "1586032020.018500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MVimr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you need commas between lines and should it be : or ="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "14b1798d-fe1f-4a22-9a17-e475ddc44195",
+        "type": "message",
+        "text": "colons",
+        "user": "U0109ELFV4Y",
+        "ts": "1586032041.018700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wvbx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "colons"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "1f927178-c0ed-4c86-8bf9-7829fabff04c",
+        "type": "message",
+        "text": "Let me read this thing",
+        "user": "U01084NU2NL",
+        "ts": "1586032047.018900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qIoZ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me read this thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586032105.019400",
+        "user": "UV6JHDP0S",
+        "text": "<@UV6JHDP0S> has joined the channel"
+    },
+    {
+        "client_msg_id": "e94429d7-ef6d-4d89-bd44-adb3106987e6",
+        "type": "message",
+        "text": "we will ultimately put it in a json file per language pack",
+        "user": "U0109ELFV4Y",
+        "ts": "1586032140.019500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mEpPv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we will ultimately put it in a json file per language pack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "868860b7-7152-4dee-96f1-7ed17f28fd97",
+        "type": "message",
+        "text": "<http://St.Jo|St.Jo>?!?! Damn same here fam! This is lit",
+        "user": "UV6JHDP0S",
+        "ts": "1586032174.019700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f7U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "St.Jo?!?! Damn same here fam! This is lit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586028032.003700",
+        "parent_user_id": "U0107JEKN0N",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U0107JEKN0N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d1313c5-3a56-4da8-ba47-dabe9d0ec394",
+        "type": "message",
+        "text": "I just want to get the right format.  I'll do a simple properties file with dot notation and we will go from there",
+        "user": "U01084NU2NL",
+        "ts": "1586032191.019900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zrB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just want to get the right format.  I'll do a simple properties file with dot notation and we will go from there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0109ELFV4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "866bf714-d418-4784-9bba-a581874f475a",
+        "type": "message",
+        "text": "```neweventbtn.label = Add event\nneweventbtn.accesskey = A\nneweventbtn.tooltip = Add a new event```",
+        "user": "U01084NU2NL",
+        "ts": "1586032250.020200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jGP",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "neweventbtn.label = Add event\nneweventbtn.accesskey = A\nneweventbtn.tooltip = Add a new event"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "efdf873b-54ec-4d6b-ab0d-d98bc08b0535",
+        "type": "message",
+        "text": ":point_up::skin-tone-4:<https://developer.mozilla.org/en-US/docs/Mozilla/Localization/Localization_content_best_practices>",
+        "user": "U01084NU2NL",
+        "ts": "1586032269.020400",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "service_name": "MDN Web Docs",
+                "title": "Localization content best practices",
+                "title_link": "https://developer.mozilla.org/en-US/docs/Mozilla/Localization/Localization_content_best_practices",
+                "text": "This document provides best practices for developers to create localizable code, and describes how to avoid some localizability (l12y) common mistakes.",
+                "fallback": "MDN Web Docs: Localization content best practices",
+                "thumb_url": "https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png",
+                "from_url": "https://developer.mozilla.org/en-US/docs/Mozilla/Localization/Localization_content_best_practices",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png",
+                "id": 1,
+                "original_url": "https://developer.mozilla.org/en-US/docs/Mozilla/Localization/Localization_content_best_practices"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/+w/Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_up",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Localization/Localization_content_best_practices"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "e3157446-32ae-42fc-9c67-6f1dd2c2492d",
+        "type": "message",
+        "text": "Here\u2019s how it\u2019s modeled on the API side <https://github.com/Ethiopia-COVID19/api-gateway/tree/master/models>",
+        "user": "U0107JEKN0N",
+        "ts": "1586032283.020700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rLKBV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here\u2019s how it\u2019s modeled on the API side "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://github.com/Ethiopia-COVID19/api-gateway/tree/master/models"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "cf10b462-a848-43a4-bf12-08aaf96ce0cc",
+        "type": "message",
+        "text": "Nevermind, didn\u2019t know you guys were talking about localization.",
+        "user": "U0107JEKN0N",
+        "ts": "1586032378.020900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOR41",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nevermind, didn\u2019t know you guys were talking about localization."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59f07eb0-24dc-448e-9d2a-b5ff62729188",
+        "type": "message",
+        "text": "This may actually be helpful to <@U0109ELFV4Y> with some of the form validation work he's doing.",
+        "user": "U01084NU2NL",
+        "ts": "1586032506.021200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7LgH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This may actually be helpful to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with some of the form validation work he's doing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0109ELFV4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e98a159a-c5e5-44e5-b8f2-c8a2edd15194",
+        "type": "message",
+        "text": "<@U0107JEKN0N> How should we do error handling? Do you have the different errors you are throwing documented somewhere?",
+        "user": "U01084NU2NL",
+        "ts": "1586032574.022000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LTW+u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107JEKN0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " How should we do error handling? Do you have the different errors you are throwing documented somewhere?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47f9a1e9-a262-4489-aa27-b52ae89d08e2",
+        "type": "message",
+        "text": "I didn\u2019t get a chance to document Errors yet. Expect standard status codes and an error object `{message: 'some error message' }`",
+        "user": "U0107JEKN0N",
+        "ts": "1586032685.023400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DdMMt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I didn\u2019t get a chance to document Errors yet. Expect standard status codes and an error object "
+                            },
+                            {
+                                "type": "text",
+                                "text": "{message: 'some error message' }",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032685.023400",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1586035240.033400",
+        "reply_users": [
+            "U01084NU2NL",
+            "U0107JEKN0N",
+            "U0109ELFV4Y"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "591184ae-bf01-4414-9b14-423b97e34e96",
+        "type": "message",
+        "text": "Are you localizing the messages?",
+        "user": "U01084NU2NL",
+        "ts": "1586032761.024300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uaC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you localizing the messages?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032685.023400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "ab93afcb-2884-456c-89a1-e9d8b1d46ed2",
+        "type": "message",
+        "text": "e.g. Expired access token\n`statusCode: 401`\n```{\n    \"message\": \"The incoming token has expired\"\n}```",
+        "user": "U0107JEKN0N",
+        "ts": "1586032775.024800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "71I4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "e.g. Expired access token\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "statusCode: 401",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{\n    \"message\": \"The incoming token has expired\"\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032775.024800",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1586034220.032400",
+        "reply_users": [
+            "U01084NU2NL",
+            "U0107JEKN0N"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6004e11a-1e22-4076-86cd-362f07a7d760",
+        "type": "message",
+        "text": "Nop",
+        "user": "U0107JEKN0N",
+        "ts": "1586032787.024900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QEBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032685.023400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "a64dabfe-70b0-4169-8a84-c733bc07399b",
+        "type": "message",
+        "text": "I\u2019ll add that to my task",
+        "user": "U0107JEKN0N",
+        "ts": "1586032817.025100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I\u2019ll add that to my task"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032685.023400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "511cd7ba-18fe-4c14-a7bf-ceed18c3047d",
+        "type": "message",
+        "text": "Not a P0 but it may be worthwhile to consider returning multilocale error strings so clients can show errors in the right locale",
+        "user": "U01084NU2NL",
+        "ts": "1586032843.025300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fcbrC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not a P0 but it may be worthwhile to consider returning multilocale error strings so clients can show errors in the right locale"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032685.023400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "932b98ee-1ccc-439a-94f4-e5eaec8ecd10",
+        "type": "message",
+        "text": "It's that or the clients may need to tell you which locale they are in.   I guess you can decide what works best.",
+        "user": "U01084NU2NL",
+        "ts": "1586032936.025500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+o=Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's that or the clients may need to tell you which locale they are in.   I guess you can decide what works best."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032685.023400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "9d745533-a7b1-4149-b566-ddd18665ea1e",
+        "type": "message",
+        "text": "```{\n    \"message\": {\n         \"en\": \"The incoming token has expired\",\n         \"am\":  \"blah blah in Amharic\"\n        }\n}```",
+        "user": "U01084NU2NL",
+        "ts": "1586032988.025700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1586033134.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xv5M",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{\n    \"message\": {\n         \"en\": \"The incoming token has expired\",\n         \"am\":  \"blah blah in Amharic\"\n        }\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032775.024800",
+        "parent_user_id": "U0107JEKN0N",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0107JEKN0N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c29f143-53f1-4466-a484-44223f336f42",
+        "type": "message",
+        "text": "Something like this?\n\n\n```{ \n   \"et_amh\": { \"message\" : \"some message\"  } \n}```\n",
+        "user": "U0107JEKN0N",
+        "ts": "1586033000.025900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tm=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Something like this?\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{ \n   \"et_amh\": { \"message\" : \"some message\"  } \n}"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032685.023400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "6d162ae8-98eb-4bdd-95be-ff236f4d1291",
+        "type": "message",
+        "text": "Sounds good",
+        "user": "U0107JEKN0N",
+        "ts": "1586033023.026100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZSyJ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032775.024800",
+        "parent_user_id": "U0107JEKN0N",
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8423fbb3-2c22-4980-9b6a-82cec945771d",
+        "type": "message",
+        "text": "One slight problem I see is, for error messages coming out of the libraries. e.g we\u2019re using mongoose to define the schema. So I\u2019m not returning a custom message whenever a validation error occurs. Unless we define our own.",
+        "user": "U0107JEKN0N",
+        "ts": "1586033213.026800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mbg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One slight problem I see is, for error messages coming out of the libraries. e.g we\u2019re using mongoose to define the schema. So I\u2019m not returning a custom message whenever a validation error occurs. Unless we define our own."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032775.024800",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "e441e34f-9db3-4ac2-94cb-d4d696b219b6",
+        "type": "message",
+        "text": "What do you think?",
+        "user": "U0107JEKN0N",
+        "ts": "1586033220.027000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qa7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you think?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032775.024800",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "bb158c5d-b49f-4044-aafe-8933f1a27805",
+        "type": "message",
+        "text": "```{\n    \"message\": {\n         \"en\": \"The incoming token has expired\",\n         \"am\":  \"blah blah in Amharic\"\n        }\n}```",
+        "user": "U01084NU2NL",
+        "ts": "1586033292.027900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t9T",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{\n    \"message\": {\n         \"en\": \"The incoming token has expired\",\n         \"am\":  \"blah blah in Amharic\"\n        }\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032685.023400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "612112b7-70d3-4153-b4a6-120e265c1cb1",
+        "type": "message",
+        "text": "For single page applications (no secret)\n\n```{\n  region: \"us-east-2\",\n  userPoolId: \"us-east-2_4Sh8lFrAm\",\n  userPoolWebClientId: \"7jctcp36oj9el7ep6h5r88o9ji\",\n}```",
+        "user": "U0107JEKN0N",
+        "ts": "1586033320.028500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lnk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For single page applications (no secret)\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{\n  region: \"us-east-2\",\n  userPoolId: \"us-east-2_4Sh8lFrAm\",\n  userPoolWebClientId: \"7jctcp36oj9el7ep6h5r88o9ji\",\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586033320.028500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586034071.029600",
+        "reply_users": [
+            "U01084NU2NL"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9197cbd2-0d9e-4cf1-881c-f4f2668ea053",
+        "type": "message",
+        "text": "Login information:\n```un: testu\npw: Test@12345678```",
+        "user": "U0107JEKN0N",
+        "ts": "1586033352.029200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6dyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Login information:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un: testu\npw: Test@12345678"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F61F1C94-F7D4-4143-889E-196E5FE64073",
+        "type": "message",
+        "text": "Are these the cognito credentials?",
+        "user": "U01084NU2NL",
+        "ts": "1586034071.029600",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1586034078.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FML",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are these the cognito credentials?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586033320.028500",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "EA3351BF-AFDA-4FFE-B803-3ED1F57C0C84",
+        "type": "message",
+        "text": "I think it\u2019s a great start if we handle the errors being thrown by the code we ourselves are writing.   Framework errors are more rare and chances are the end user won\u2019t benefit much from them anyway.  More for debugging purposes.   ",
+        "user": "U01084NU2NL",
+        "ts": "1586034220.032400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rs/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it\u2019s a great start if we handle the errors being thrown by the code we ourselves are writing.   Framework errors are more rare and chances are the end user won\u2019t benefit much from them anyway.  More for debugging purposes.   "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032775.024800",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "b9750d8c-73e7-401c-9ce8-8fd970969eb5",
+        "type": "message",
+        "text": "<@U01084NU2NL> We\u2019ll need the pre-submission frontend side validation phrases translated as well in the language pack",
+        "user": "U0109ELFV4Y",
+        "ts": "1586034779.032600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B2gsx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We\u2019ll need the pre-submission frontend side validation phrases translated as well in the language pack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032685.023400",
+        "parent_user_id": "U0107JEKN0N",
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586035137.032900",
+        "user": "UV9A3J397",
+        "text": "<@UV9A3J397> has joined the channel",
+        "inviter": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "f98285c5-592d-4000-b8b0-86b164ecf6e5",
+        "type": "message",
+        "text": "<@U0109ELFV4Y> create the en file for it and we can get that translated to am.",
+        "user": "U01084NU2NL",
+        "ts": "1586035223.033200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wn+D5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " create the en file for it and we can get that translated to am."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032685.023400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "64afc3ac-7c71-4ad3-9f9d-be40b227dbf4",
+        "type": "message",
+        "text": "cool",
+        "user": "U0109ELFV4Y",
+        "ts": "1586035240.033400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sk/q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586032685.023400",
+        "parent_user_id": "U0107JEKN0N"
+    },
+    {
+        "client_msg_id": "76e8e013-a132-4b22-9431-4af41c019575",
+        "type": "message",
+        "text": "Putting the community form together",
+        "user": "U0109ELFV4Y",
+        "ts": "1586037306.033900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZzYJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Putting the community form together"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U01084NU2NL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dadec28d-e40a-4b61-b262-1a0db7420bb5",
+        "type": "message",
+        "text": "i dont see the address fields in the model on the sample here <https://community.covid19.et/>",
+        "user": "U0109ELFV4Y",
+        "ts": "1586037351.034600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n+C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i dont see the address fields in the model on the sample here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://community.covid19.et/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f82cb87a-7075-4a9d-b9f8-31ed8f5a477b",
+        "type": "message",
+        "text": "I assume we include everything on the model",
+        "user": "U0109ELFV4Y",
+        "ts": "1586037366.035100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1eS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I assume we include everything on the model"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62903245-4a37-437c-ae54-67e09ba5c3a7",
+        "type": "message",
+        "text": "Please use the model as the SoT",
+        "user": "U01084NU2NL",
+        "ts": "1586037378.035300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pgC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please use the model as the SoT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a5440a8-0b83-4aad-9eaa-2f7c37b76b7b",
+        "type": "message",
+        "text": "cool",
+        "user": "U0109ELFV4Y",
+        "ts": "1586037387.035500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NAH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586038166.035700",
+        "user": "U010S8QB138",
+        "text": "<@U010S8QB138> has joined the channel",
+        "inviter": "U01084NU2NL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586039806.036200",
+        "user": "U0104F8P8US",
+        "text": "<@U0104F8P8US> has joined the channel",
+        "inviter": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "2fec6393-64f9-4037-b6d5-6f0d4471fd52",
+        "type": "message",
+        "text": "<@U0104F8P8US> do you have time right now to start helping out?",
+        "user": "U01084NU2NL",
+        "ts": "1586039825.036600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cU/5w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0104F8P8US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you have time right now to start helping out?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef2aec3e-0778-4584-a6dd-3ee6a922a9fa",
+        "type": "message",
+        "text": "I need an hour.... after that I am free",
+        "user": "U0104F8P8US",
+        "ts": "1586039937.037100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/lvL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need an hour.... after that I am free"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c980465-ce96-4ff8-812e-a6d2f415df8e",
+        "type": "message",
+        "text": "So, what is the required task for now? Can you brief me?",
+        "user": "U0104F8P8US",
+        "ts": "1586039984.037700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gs5o2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, what is the required task for now? Can you brief me?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7657b8d-3be0-4eb7-876e-c81bc8c2e350",
+        "type": "message",
+        "text": "<@U0104F8P8US> - Just finished putting together some form render / validation utilities and putting together the first form (community) as a reference. Going to clean up validation logic add internationalization support and will push to the repo.",
+        "user": "U0109ELFV4Y",
+        "ts": "1586040256.039900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JG/v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0104F8P8US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Just finished putting together some form render / validation utilities and putting together the first form (community) as a reference. Going to clean up validation logic add internationalization support and will push to the repo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0104F8P8US"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56de586b-54da-468f-a819-19f041b9f662",
+        "type": "message",
+        "text": "Ok.... let me check the trello link and will get back to you.",
+        "user": "U0104F8P8US",
+        "ts": "1586040301.040400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7li",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok.... let me check the trello link and will get back to you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Here\u2019s what I have",
+        "files": [
+            {
+                "id": "F011B47MQ5D",
+                "created": 1586040340,
+                "timestamp": 1586040340,
+                "name": "screencapture-localhost-9001-2020-04-04-18_41_18.png",
+                "title": "screencapture-localhost-9001-2020-04-04-18_41_18.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0109ELFV4Y",
+                "editable": false,
+                "size": 311343,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011B47MQ5D/screencapture-localhost-9001-2020-04-04-18_41_18.png",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011B47MQ5D/download/screencapture-localhost-9001-2020-04-04-18_41_18.png",
+                "thumb_64": "https://files.slack.com/files-tmb/TV5KELEUS-F011B47MQ5D-ec2788cbec/screencapture-localhost-9001-2020-04-04-18_41_18_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/TV5KELEUS-F011B47MQ5D-ec2788cbec/screencapture-localhost-9001-2020-04-04-18_41_18_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/TV5KELEUS-F011B47MQ5D-ec2788cbec/screencapture-localhost-9001-2020-04-04-18_41_18_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 245,
+                "thumb_480": "https://files.slack.com/files-tmb/TV5KELEUS-F011B47MQ5D-ec2788cbec/screencapture-localhost-9001-2020-04-04-18_41_18_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 327,
+                "thumb_160": "https://files.slack.com/files-tmb/TV5KELEUS-F011B47MQ5D-ec2788cbec/screencapture-localhost-9001-2020-04-04-18_41_18_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/TV5KELEUS-F011B47MQ5D-ec2788cbec/screencapture-localhost-9001-2020-04-04-18_41_18_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 491,
+                "thumb_800": "https://files.slack.com/files-tmb/TV5KELEUS-F011B47MQ5D-ec2788cbec/screencapture-localhost-9001-2020-04-04-18_41_18_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 545,
+                "thumb_960": "https://files.slack.com/files-tmb/TV5KELEUS-F011B47MQ5D-ec2788cbec/screencapture-localhost-9001-2020-04-04-18_41_18_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 654,
+                "thumb_1024": "https://files.slack.com/files-tmb/TV5KELEUS-F011B47MQ5D-ec2788cbec/screencapture-localhost-9001-2020-04-04-18_41_18_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 698,
+                "image_exif_rotation": 1,
+                "original_w": 2880,
+                "original_h": 1962,
+                "thumb_tiny": "AwAgADDQG7PQfnURnkBIEDHB61MOtKKGIg+0Sf8APu1H2iT/AJ4NU/5YpaQWIopHdiGjKcdTUtFFMYlAoqAwSkkidh7UCLAx2o4qt5Ev/PdqXyJf+e7UguWKKiijdCS0hbjoalpjP//Z",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0109ELFV4Y/F011B47MQ5D/screencapture-localhost-9001-2020-04-04-18_41_18.png",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011B47MQ5D-5c8736c5e6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iUU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here\u2019s what I have"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U0109ELFV4Y",
+        "display_as_bot": false,
+        "ts": "1586040345.040500",
+        "client_msg_id": "ec1494b4-3145-477a-98fd-ee85a0ba571c"
+    },
+    {
+        "client_msg_id": "21d891e5-309d-4c2a-bf3b-22a4ad078790",
+        "type": "message",
+        "text": "Going to break for food, back in a bit",
+        "user": "U0109ELFV4Y",
+        "ts": "1586040377.041000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P7h0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Going to break for food, back in a bit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U01084NU2NL",
+                    "UV6JHDP0S",
+                    "UV8B0679P"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88fa41de-f03d-44c5-a5e5-e1f3bfc7ce8e",
+        "type": "message",
+        "text": "Great job <@U0109ELFV4Y>!",
+        "user": "U01084NU2NL",
+        "ts": "1586040674.041500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=KR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great job "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0109ELFV4Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57e73bd6-f22d-4e26-b184-c3266d170d24",
+        "type": "message",
+        "text": "Ok... the git repo is empty",
+        "user": "U0104F8P8US",
+        "ts": "1586040686.041800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m2v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok... the git repo is empty"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f6ed80c-c1cf-4942-9028-81f85f44c74c",
+        "type": "message",
+        "text": "The link I used is from the google docs",
+        "user": "U0104F8P8US",
+        "ts": "1586040698.042100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QOdLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The link I used is from the google docs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8f30012-14e1-4578-9d0f-b671eed9bdd7",
+        "type": "message",
+        "text": "Yes, it's empty.  <@U0109ELFV4Y> will be making the first push and then we can start doing this for the other two forms as well.",
+        "user": "U01084NU2NL",
+        "ts": "1586040736.042800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F47",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, it's empty.  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will be making the first push and then we can start doing this for the other two forms as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586040736.042800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586041301.045900",
+        "reply_users": [
+            "U01084NU2NL",
+            "U0104F8P8US"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cd92efa9-83ad-48d1-a9d0-c20814aa91de",
+        "type": "message",
+        "text": "<@U0104F8P8US>, do you have Amharic software?",
+        "user": "U01084NU2NL",
+        "ts": "1586040747.043000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1586040830.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GCZQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0104F8P8US"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", do you have Amharic software?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa267751-69b0-4179-ad3a-b5897348a239",
+        "type": "message",
+        "text": "You will notice that the way we broke it up, he was initially building the shared components (validation, styling, etc) so now we can leverage those for the other two forms too.  He's building one as an example using those components.",
+        "user": "U01084NU2NL",
+        "ts": "1586040821.043100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MTV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You will notice that the way we broke it up, he was initially building the shared components (validation, styling, etc) so now we can leverage those for the other two forms too.  He's building one as an example using those components."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586040736.042800",
+        "parent_user_id": "U01084NU2NL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0104F8P8US"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58160952-7e49-40ff-8370-0c0cd4564745",
+        "type": "message",
+        "text": "We need to localize these forms and one thing we need to do is create the localization files for Amharic.   We are using the field names from the API gateway so we can start creating the AM file if you can type in Amharic.   This is the format we need to use.    You think you can help with this?\n```communities.firstName = First Name\nmedicalcenters.firstName = First Name\npassengers.firstName = First Name\npassengers.dependents.firstName = First Name```",
+        "user": "U01084NU2NL",
+        "ts": "1586041001.044900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OIA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We need to localize these forms and one thing we need to do is create the localization files for Amharic.   We are using the field names from the API gateway so we can start creating the AM file if you can type in Amharic.   This is the format we need to use.    You think you can help with this?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "communities.firstName = First Name\nmedicalcenters.firstName = First Name\npassengers.firstName = First Name\npassengers.dependents.firstName = First Name"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a6001ad-ae16-42a6-a599-f2678e6eda8c",
+        "type": "message",
+        "text": "I don't have Amharic software. I always type Amharic (which is rare) using <https://www.lexilogos.com/keyboard/amharic.htm>",
+        "user": "U0104F8P8US",
+        "ts": "1586041260.045600",
+        "team": "TV5KELEUS",
+        "attachments": [
+            {
+                "title": "Amharic Keyboard Online \u2022 Geez Alphabet \u2022 LEXILOGOS",
+                "title_link": "https://www.lexilogos.com/keyboard/amharic.htm",
+                "text": "Online keyboard to type en Amharic text with the Geez alphabet (Ethiopian language)",
+                "fallback": "Amharic Keyboard Online \u2022 Geez Alphabet \u2022 LEXILOGOS",
+                "from_url": "https://www.lexilogos.com/keyboard/amharic.htm",
+                "service_icon": "https://www.lexilogos.com/favicon.ico",
+                "service_name": "lexilogos.com",
+                "id": 1,
+                "original_url": "https://www.lexilogos.com/keyboard/amharic.htm"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tl1Wj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't have Amharic software. I always type Amharic (which is rare) using "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.lexilogos.com/keyboard/amharic.htm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5cece30e-e4fd-4965-8145-b187d83e1a7c",
+        "type": "message",
+        "text": "Perfect!",
+        "user": "U0104F8P8US",
+        "ts": "1586041301.045900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PRq=F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586040736.042800",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "b9b98147-3229-4b40-a7b9-4836e0177096",
+        "type": "message",
+        "text": "I think you may even be able to just copy paste it fro the live forms.  I just did that for some of the fields.",
+        "user": "U01084NU2NL",
+        "ts": "1586041408.046500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmgkz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think you may even be able to just copy paste it fro the live forms.  I just did that for some of the fields."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e812b6c-255e-420f-a5a7-6f8125663e03",
+        "type": "message",
+        "text": "English\n```communities.firstName = First Name\ncommunities.lastName = Last Name\ncommunities.age = Age\ncommunities.sex\ncommunities.language\ncommunities.region\ncommunities.subcityOrZone\ncommunities.sefer\ncommunities.woreda\ncommunities.kebele\ncommunities.houseNo\ncommunities.phoneNo\ncommunities.latitude\ncommunities.longitude\ncommunities.fever\ncommunities.cough\ncommunities.shortnessOfBreath\ncommunities.formStatus\ncommunities.travelHx\ncommunities.haveSex\ncommunities.animalMarket\ncommunities.healthFacility\ncommunities.occupation\ncommunities.dataSource```",
+        "user": "U01084NU2NL",
+        "ts": "1586041416.046800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QroB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "English\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "communities.firstName = First Name\ncommunities.lastName = Last Name\ncommunities.age = Age\ncommunities.sex\ncommunities.language\ncommunities.region\ncommunities.subcityOrZone\ncommunities.sefer\ncommunities.woreda\ncommunities.kebele\ncommunities.houseNo\ncommunities.phoneNo\ncommunities.latitude\ncommunities.longitude\ncommunities.fever\ncommunities.cough\ncommunities.shortnessOfBreath\ncommunities.formStatus\ncommunities.travelHx\ncommunities.haveSex\ncommunities.animalMarket\ncommunities.healthFacility\ncommunities.occupation\ncommunities.dataSource"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f88d446-f631-446b-89d4-18f433b84eeb",
+        "type": "message",
+        "text": "Amharic\n```communities.firstName = \u1235\u121d\ncommunities.lastName = \u12e8\u12a0\u1263\u1275 \u1235\u121d\ncommunities.age = \u12a5\u12f5\u121c\ncommunities.sex\ncommunities.language\ncommunities.region\ncommunities.subcityOrZone\ncommunities.sefer\ncommunities.woreda\ncommunities.kebele\ncommunities.houseNo\ncommunities.phoneNo\ncommunities.latitude\ncommunities.longitude\ncommunities.fever\ncommunities.cough\ncommunities.shortnessOfBreath\ncommunities.formStatus\ncommunities.travelHx\ncommunities.haveSex\ncommunities.animalMarket\ncommunities.healthFacility\ncommunities.occupation\ncommunities.dataSource```",
+        "user": "U01084NU2NL",
+        "ts": "1586041430.047100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FI/a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amharic\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "communities.firstName = \u1235\u121d\ncommunities.lastName = \u12e8\u12a0\u1263\u1275 \u1235\u121d\ncommunities.age = \u12a5\u12f5\u121c\ncommunities.sex\ncommunities.language\ncommunities.region\ncommunities.subcityOrZone\ncommunities.sefer\ncommunities.woreda\ncommunities.kebele\ncommunities.houseNo\ncommunities.phoneNo\ncommunities.latitude\ncommunities.longitude\ncommunities.fever\ncommunities.cough\ncommunities.shortnessOfBreath\ncommunities.formStatus\ncommunities.travelHx\ncommunities.haveSex\ncommunities.animalMarket\ncommunities.healthFacility\ncommunities.occupation\ncommunities.dataSource"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11937ed8-4971-4c75-9e7a-26c29da21ba5",
+        "type": "message",
+        "text": "<@U0104F8P8US> do you think you can do that for the first two forms (communities &amp; passenger/port-of-entry)?",
+        "user": "U01084NU2NL",
+        "ts": "1586041473.047700",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1586041502.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9E3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0104F8P8US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you think you can do that for the first two forms (communities & passenger/port-of-entry)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2c730e9-2b03-405a-9f86-afe39dc5a7c2",
+        "type": "message",
+        "text": "Cool. So all I have to do is write the Amharic equivalent and set it... right?",
+        "user": "U0104F8P8US",
+        "ts": "1586041539.048200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S4N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool. So all I have to do is write the Amharic equivalent and set it... right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a338546e-881b-4492-af9a-72228a905b6d",
+        "type": "message",
+        "text": "Yes, just produce two files, one for English and another for Amharic.",
+        "user": "U01084NU2NL",
+        "ts": "1586041563.048700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eYR=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, just produce two files, one for English and another for Amharic."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "715557b0-2154-40e1-bf1a-16e7d38bcc28",
+        "type": "message",
+        "text": "The keys are based on the API Data Structure and you can use the live form to get the actual labels of the fields in both Amharic and English.   Make sense?",
+        "user": "U01084NU2NL",
+        "ts": "1586041602.049400",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1586042723.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D7EQj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The keys are based on the API Data Structure and you can use the live form to get the actual labels of the fields in both Amharic and English.   Make sense?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8435506-569d-4af4-a048-9dc94b991782",
+        "type": "message",
+        "text": "Yes it does.",
+        "user": "U0104F8P8US",
+        "ts": "1586041751.049600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iHB5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes it does."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6B89AE74-BBFC-4EE8-9EF3-8588BB52A614",
+        "type": "message",
+        "text": "<@U01084NU2NL>: One suggestion here; instead of binding the translation to the model name, don\u2019t you think it will be beneficial to do it only for the field name?",
+        "user": "UV8B0679P",
+        "ts": "1586041878.051300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bAYQd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01084NU2NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": One suggestion here; instead of binding the translation to the model name, don\u2019t you think it will be beneficial to do it only for the field name?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "reply_count": 11,
+        "reply_users_count": 2,
+        "latest_reply": "1586044404.060900",
+        "reply_users": [
+            "U01084NU2NL",
+            "UV8B0679P"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b24ff9b7-5adc-466d-a8e8-ec45f34972d9",
+        "type": "message",
+        "text": "We discussed it briefly in a subthread but we thought this was simpler to standardize around since the field names are essentially 100% based on the model at this point.",
+        "user": "U01084NU2NL",
+        "ts": "1586042046.051500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xg5gn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We discussed it briefly in a subthread but we thought this was simpler to standardize around since the field names are essentially 100% based on the model at this point."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "F61F5F00-EBD5-4580-B278-A5E52013730C",
+        "type": "message",
+        "text": "Cool",
+        "user": "UV8B0679P",
+        "ts": "1586042066.051800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BSII",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "62388599-7ae2-4240-af53-2c61caedebcf",
+        "type": "message",
+        "text": "<@UV8B0679P> scroll up for the discussion around a denormalized vs normalized localization file.",
+        "user": "U01084NU2NL",
+        "ts": "1586042101.052000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U01084NU2NL",
+            "ts": "1586042110.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcyS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV8B0679P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " scroll up for the discussion around a denormalized vs normalized localization file."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "813ba3fb-19b3-49ed-8f37-647f6d53d854",
+        "type": "message",
+        "text": "Also I think making localization depend entirely on the model removes the interdependency between forms both during development and post-deployment.  So two people can work on two forms not caring about each other's localization fields, purely relying on their own models.",
+        "user": "U01084NU2NL",
+        "ts": "1586042233.052300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pDqo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also I think making localization depend entirely on the model removes the interdependency between forms both during development and post-deployment.  So two people can work on two forms not caring about each other's localization fields, purely relying on their own models."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "80883054-35de-43fe-a627-36c92dd11992",
+        "type": "message",
+        "text": "BTW I'm happy to be convinced otherwise because I'm not strongly married to either approach.",
+        "user": "U01084NU2NL",
+        "ts": "1586042309.052500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HtE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BTW I'm happy to be convinced otherwise because I'm not strongly married to either approach."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "FBE182F9-218E-4960-BAAA-2BF746916888",
+        "type": "message",
+        "text": "Me too; just trying to remove dups as much as possible",
+        "user": "UV8B0679P",
+        "ts": "1586042358.053700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3duF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me too; just trying to remove dups as much as possible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "cff81f07-3935-4638-a3a5-a800a1139590",
+        "type": "message",
+        "text": "So, let me know when the push is in place. I will dive into translating in 1 hour.",
+        "user": "U0104F8P8US",
+        "ts": "1586042359.053900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gcuSt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, let me know when the push is in place. I will dive into translating in 1 hour."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B7D1A39F-D878-483C-9CDA-A0AD9CE8BD24",
+        "type": "message",
+        "text": "But the up side of the decoupled will offer better results",
+        "user": "UV8B0679P",
+        "ts": "1586042379.054500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Oi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But the up side of the decoupled will offer better results"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "12437d8e-78ad-4269-822a-c5580496d8b1",
+        "type": "message",
+        "text": "Ok I\u2019m back, cool should have something pushed in 1 hour",
+        "user": "U0109ELFV4Y",
+        "ts": "1586042404.055000",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0109ELFV4Y",
+            "ts": "1586042412.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jHZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok I\u2019m back, cool should have something pushed in 1 hour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-4",
+                "users": [
+                    "U01084NU2NL",
+                    "U0104F8P8US"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DACE5BFE-B62C-4BCF-875E-7582129D5EA4",
+        "type": "message",
+        "text": ":ok_hand::skin-tone-5: excellent!",
+        "user": "UV8B0679P",
+        "ts": "1586042467.055400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "772wL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "skin_tone": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": " excellent!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586031255.012700",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "a7e2dab7-1a76-40a7-8a07-4c6f0f5579a4",
+        "type": "message",
+        "text": "My sense was that different people may come back and update the fields on the three forms as we learn new things.  And I was trying to remove the likelihood that someone may add something to one that may unintentionally change another.",
+        "user": "U01084NU2NL",
+        "ts": "1586042478.055600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZrX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My sense was that different people may come back and update the fields on the three forms as we learn new things.  And I was trying to remove the likelihood that someone may add something to one that may unintentionally change another."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "603af468-cc21-438b-9478-151757cdccd2",
+        "type": "message",
+        "text": "<@U0109ELFV4Y> do you already have a localization file that you can share?   I want to make sure the format that <@U0104F8P8US> is working on is to your liking.  Scroll up to see.",
+        "user": "U01084NU2NL",
+        "ts": "1586042586.056400",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Ye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you already have a localization file that you can share?   I want to make sure the format that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0104F8P8US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is working on is to your liking.  Scroll up to see."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586042586.056400",
+        "reply_count": 24,
+        "reply_users_count": 3,
+        "latest_reply": "1586050720.068900",
+        "reply_users": [
+            "U0109ELFV4Y",
+            "U01084NU2NL",
+            "U0104F8P8US"
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c9c3ac1a-515a-4d83-9bf1-d0c787a07bb2",
+        "type": "message",
+        "text": "putting that together now",
+        "user": "U0109ELFV4Y",
+        "ts": "1586042610.056600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gbG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "putting that together now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "72faf6eb-aca0-451d-a654-605c4bef51e6",
+        "type": "message",
+        "text": "will share in a bit",
+        "user": "U0109ELFV4Y",
+        "ts": "1586042615.056800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xBo2A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "will share in a bit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "9E45EFA8-EBCD-42DB-8635-5B21CBDC3BC6",
+        "type": "message",
+        "text": "Makes sense!",
+        "user": "UV8B0679P",
+        "ts": "1586042647.057200",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I91cL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Makes sense!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "E5D0A3D4-B6B6-4282-BBD0-232C4E762C08",
+        "type": "message",
+        "text": "Thanks for thinking through it",
+        "user": "UV8B0679P",
+        "ts": "1586042655.057600",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Juz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for thinking through it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "2d53b445-0a47-4556-b2ec-b8d95a15a6d0",
+        "type": "message",
+        "text": "k.  So do you want me to tell Milla to stop?   Don't want him to waste time if the format up there doesn't work at all.",
+        "user": "U01084NU2NL",
+        "ts": "1586042660.057800",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7cv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "k.  So do you want me to tell Milla to stop?   Don't want him to waste time if the format up there doesn't work at all."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "47ff52fa-ba11-4fea-9fa4-fe038ad6c1f8",
+        "type": "message",
+        "text": "hmm looking across the forms i see a lot of the fields are the same so maybe we can start with a simple list and dedup when the need arises",
+        "user": "U0109ELFV4Y",
+        "ts": "1586043091.058100",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xRrv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmm looking across the forms i see a lot of the fields are the same so maybe we can start with a simple list and dedup when the need arises"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "819073cf-8682-4011-877a-23de76f9cce9",
+        "type": "message",
+        "text": "sorry to go back and forth on this",
+        "user": "U0109ELFV4Y",
+        "ts": "1586043099.058300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JPM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry to go back and forth on this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "afc866b6-9c3c-47e2-9b33-f21cf7960cd7",
+        "type": "message",
+        "text": "Let\u2019s get english and amharic version of this",
+        "user": "U0109ELFV4Y",
+        "ts": "1586043114.058500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3He",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let\u2019s get english and amharic version of this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011L0SEBL0",
+                "created": 1586043121,
+                "timestamp": 1586043121,
+                "name": "Untitled.txt",
+                "title": "Untitled",
+                "mimetype": "text/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0109ELFV4Y",
+                "editable": true,
+                "size": 441,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011L0SEBL0/Untitled.txt",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011L0SEBL0/download/Untitled.txt",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0109ELFV4Y/F011L0SEBL0/Untitled.txt",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011L0SEBL0-d0021dd705",
+                "edit_link": "https://ethiopia-covid19.slack.com/files/U0109ELFV4Y/F011L0SEBL0/Untitled.txt/edit",
+                "preview": "{\n  \"firstName\": \"First Name\",\n  \"lastName\": \"Last Name\",\n  \"age\": \"Age\",\n  \"sex\": \"\",",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>{</pre></div>\n<div><pre>  &quot;firstName&quot;: &quot;First Name&quot;,</pre></div>\n<div><pre>  &quot;lastName&quot;: &quot;Last Name&quot;,</pre></div>\n<div><pre>  &quot;age&quot;: &quot;Age&quot;,</pre></div>\n<div><pre>  &quot;sex&quot;: &quot;&quot;,</pre></div>\n</div>\n</div>\n",
+                "lines": 25,
+                "lines_more": 20,
+                "preview_is_truncated": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U0109ELFV4Y",
+        "display_as_bot": false,
+        "ts": "1586043122.058700",
+        "client_msg_id": "d939217f-b16c-40d8-aac4-5897ee52018a",
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "56499b74-3b61-47f1-8591-7d9da3a6a2b7",
+        "type": "message",
+        "text": "Sounds good.",
+        "user": "U01084NU2NL",
+        "ts": "1586043231.059300",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TAUzH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "e8ce5100-a69c-4614-a5cd-f260ebdba336",
+        "type": "message",
+        "text": "<@U0104F8P8US> can we just go with one set of instead of namespacing it by form?",
+        "user": "U01084NU2NL",
+        "ts": "1586043262.059500",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j7XAE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0104F8P8US"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can we just go with one set of instead of namespacing it by form?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "e7222a7f-95c8-48e7-aa13-fe23b3141ed2",
+        "type": "message",
+        "text": "Let's go with a more generic file like this :point_down::skin-tone-4: .\n```{\n   \"firstName\": \"First Name\",\n   \"middleName\": \"Middle Name\",\n   \"lastName\": \"Last Name\",\n   \"nationality\": \"Nationality\",\n   \"email\": \"Email\",\n   \"sex\": \"Sex\",\n   \"age\": \"Age\",\n   \"region\": \"Region\",\n   \"subcity\": \"Subcity\",\n   \"zone\": \"Zone\",\n   \"woreda\": \"Woreda\",\n   \"kebele\": \"Kebele\",\n   \"houseNumber\": \"House Number\",\n   \"phoneNumber\": \"Phone Number\",\n   \"occupation\": \"Occupation\",\n   \"callDate\": \"Call Date\",\n   \"callerType\": \"Caller Type\",\n   \"fever\": \"Fever\",\n   \"cough\": \"Cough\",\n   \"headache\": \"Headache\",\n   \"runnyNose\": \"Runny Nose\",\n   \"feelingUnwell\": \"Feeling Unwell\",\n   \"shortnessOfBreath\": \"Shortness of Breath\",\n   \"bodyPain\": \"Body Pain\",\n   \"travelHx\": \"Travel History\",\n   \"haveSex\": \"Had Sexual Relations\",\n   \"animalMarket\": \"Worked at or visited Animal Market\",\n   \"healthFacility\": \"Works at or visited Health Facility\",\n   \"receiverName\": \"Filled by\",\n   \"source\": \"\",\n   \"formStatus\": \"\"\n}```",
+        "user": "U01084NU2NL",
+        "ts": "1586043447.059700",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQ9Pp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's go with a more generic file like this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_down",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " .\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{\n   \"firstName\": \"First Name\",\n   \"middleName\": \"Middle Name\",\n   \"lastName\": \"Last Name\",\n   \"nationality\": \"Nationality\",\n   \"email\": \"Email\",\n   \"sex\": \"Sex\",\n   \"age\": \"Age\",\n   \"region\": \"Region\",\n   \"subcity\": \"Subcity\",\n   \"zone\": \"Zone\",\n   \"woreda\": \"Woreda\",\n   \"kebele\": \"Kebele\",\n   \"houseNumber\": \"House Number\",\n   \"phoneNumber\": \"Phone Number\",\n   \"occupation\": \"Occupation\",\n   \"callDate\": \"Call Date\",\n   \"callerType\": \"Caller Type\",\n   \"fever\": \"Fever\",\n   \"cough\": \"Cough\",\n   \"headache\": \"Headache\",\n   \"runnyNose\": \"Runny Nose\",\n   \"feelingUnwell\": \"Feeling Unwell\",\n   \"shortnessOfBreath\": \"Shortness of Breath\",\n   \"bodyPain\": \"Body Pain\",\n   \"travelHx\": \"Travel History\",\n   \"haveSex\": \"Had Sexual Relations\",\n   \"animalMarket\": \"Worked at or visited Animal Market\",\n   \"healthFacility\": \"Works at or visited Health Facility\",\n   \"receiverName\": \"Filled by\",\n   \"source\": \"\",\n   \"formStatus\": \"\"\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "c7b9a11d-d2f5-43bf-a5d2-7bee000696f7",
+        "type": "message",
+        "text": "Looks like we are going back to your approach after all.  Thinking through it or overthinking it maybe.   :rolling_on_the_floor_laughing:  Either way I'm going to defer to the people doing the actual work.   I'm a cheerleader!",
+        "user": "U01084NU2NL",
+        "ts": "1586044006.060000",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xo7W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like we are going back to your approach after all.  Thinking through it or overthinking it maybe.   "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Either way I'm going to defer to the people doing the actual work.   I'm a cheerleader!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "parent_user_id": "UV8B0679P"
+    },
+    {
+        "client_msg_id": "7f552e24-207f-43e0-8065-a6b00e94dca4",
+        "type": "message",
+        "text": "For dropdown fields, i.e. sex, region,  occupation, let\u2019s use this format",
+        "user": "U0109ELFV4Y",
+        "ts": "1586044244.060200",
+        "team": "TV5KELEUS",
+        "edited": {
+            "user": "U0109ELFV4Y",
+            "ts": "1586044374.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOm5b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For dropdown fields, i.e. sex, region,  occupation, let\u2019s use this format"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011B4AGNA3",
+                "created": 1586044323,
+                "timestamp": 1586044323,
+                "name": "Untitled",
+                "title": "Untitled",
+                "mimetype": "text/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0109ELFV4Y",
+                "editable": true,
+                "size": 67,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/TV5KELEUS-F011B4AGNA3/untitled",
+                "url_private_download": "https://files.slack.com/files-pri/TV5KELEUS-F011B4AGNA3/download/untitled",
+                "permalink": "https://ethiopia-covid19.slack.com/files/U0109ELFV4Y/F011B4AGNA3/untitled",
+                "permalink_public": "https://slack-files.com/TV5KELEUS-F011B4AGNA3-81949333ac",
+                "edit_link": "https://ethiopia-covid19.slack.com/files/U0109ELFV4Y/F011B4AGNA3/untitled/edit",
+                "preview": "\"sex\": {\n  \"label\": \"Sex\",\n  \"male\": \"Male\",\n  \"female\": \"Female\"\n}",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&quot;sex&quot;: {</pre></div>\n<div><pre>  &quot;label&quot;: &quot;Sex&quot;,</pre></div>\n<div><pre>  &quot;male&quot;: &quot;Male&quot;,</pre></div>\n<div><pre>  &quot;female&quot;: &quot;Female&quot;</pre></div>\n<div><pre>}</pre></div>\n</div>\n</div>\n",
+                "lines": 5,
+                "lines_more": 0,
+                "preview_is_truncated": false,
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U0109ELFV4Y",
+        "display_as_bot": false,
+        "ts": "1586044324.060400",
+        "client_msg_id": "39987a60-bc86-4f35-82a3-7a64281896ef",
+        "thread_ts": "1586042586.056400",
+        "parent_user_id": "U01084NU2NL"
+    },
+    {
+        "client_msg_id": "2f53ce37-9a6f-42ee-aa08-9d428129d875",
+        "type": "message",
+        "text": "^^ <@U0109ELFV4Y>",
+        "user": "U01084NU2NL",
+        "ts": "1586044404.060900",
+        "team": "TV5KELEUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DT2ka",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0109ELFV4Y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586041878.051300",
+        "parent_user_id": "UV8B0679P"
+    }
+]
