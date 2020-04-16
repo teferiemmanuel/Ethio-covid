@@ -21,6 +21,7 @@ import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.cluster import MiniBatchKMeans
 # import cv2 as cv
+import sys
 
 
 def find_links():
@@ -471,6 +472,8 @@ if __name__ == "__main__":
     '''
     #####Phase 3, Bag of words ML model:
     df_text = pd.read_csv("ethio_covid_text.csv") 
+    np.set_printoptions(threshold=sys.maxsize)
+
     # print(len(df_text['title']))
     centers, diction = cluster(df_text)
     # print(centers)
@@ -479,6 +482,8 @@ if __name__ == "__main__":
     centroid_descrip = []
     # print("dictionary size")
     # print(len(diction))
+    with open('scr2.txt', 'a') as f:
+        print(centers,file=f)
     for c in centers:
         descrip = []
         # print("hist")
